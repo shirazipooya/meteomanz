@@ -17,14 +17,19 @@ logging.basicConfig(
 
 
 def countdown(t=60, start_txt="Error: Connection Timed Out!", end_txt="Try again ...!"):
-    print("-" * 75)
+    print("-" * 100)
     while t >= 0:
         sys.stdout.write(f"\r{start_txt} ({t} seconds remaining ...!)")
         t -= 1
         sys.stdout.flush()
         time.sleep(1)
     sys.stdout.write(f"\r\n{end_txt}            \n")
-    print("-" * 75)
+    print("-" * 100)
+
+
+def dateRange(start_date, end_date):
+    for n in range(int((end_date - start_date).days)):
+        yield start_date + datetime.timedelta(n)
 
 
 class Meteomanz():
