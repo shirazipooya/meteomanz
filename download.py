@@ -6,7 +6,7 @@ from utils import Meteomanz, countdown, dateRange
 
 scale = "hour"
 
-start_date = date(2000, 1, 1)
+start_date = date(2000, 5, 18)
 end_date = date(2023, 12, 31)
 
 
