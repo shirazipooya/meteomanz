@@ -1,3 +1,4 @@
+import os
 import math
 import re
 import datetime
@@ -6,6 +7,15 @@ import time
 import sys
 import pandas as pd
 import requests
+from dotenv import load_dotenv
+from pushbullet import Pushbullet
+
+
+# Pushbullet
+load_dotenv()
+API_KEY = os.environ["PUSHBULLET_ACCESS_TOKEN"]
+pb = Pushbullet(API_KEY)
+# push = pb.push_note("Meteomanz", "The Meteomanz Script is Running ...!")
 
 
 logging.basicConfig(
@@ -14,6 +24,13 @@ logging.basicConfig(
     filemode='a',
     format='%(message)s'
 )
+
+
+def find_start_date(scale):
+    if scale == "hour":
+        lf = os.listdir(f"output/{scale}/")
+        date_max = max(list(filter(lambda f: f.endswith('.csv'), lf)))[:-4].split("-")
+        return datetime.date(int(date_max[0]), int(date_max[1]), int(date_max[2]))
 
 
 def countdown(

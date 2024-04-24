@@ -1,11 +1,11 @@
 from datetime import date
 import pandas as pd
-from utils import Meteomanz, countdown, date_range
+from utils import Meteomanz, countdown, date_range, find_start_date
 
 
 SCALE = "hour"
 
-start_date = date(2000, 5, 23)
+start_date = find_start_date(scale=SCALE)
 end_date = date(2023, 12, 31)
 
 
