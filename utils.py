@@ -16,10 +16,21 @@ logging.basicConfig(
 )
 
 
-def countdown(t=60, start_txt="Error: Connection Timed Out!", end_txt="Try again ...!"):
+def countdown(
+    t=60,
+    start_txt="Error: Connection Timed Out!",
+    end_txt="Try Again ...!"
+):
+    """Generate Countdown Timer
+
+    Args:
+        t (int, optional): The duration of the countdown in seconds. Defaults to 60.
+        start_txt (str, optional): The text to display at the start of the countdown. Defaults to "Error: Connection Timed Out!".
+        end_txt (str, optional): The text to display at the end of the countdown. Defaults to "Try Again ...!".
+    """
     print("-" * 100)
     while t >= 0:
-        sys.stdout.write(f"\r{start_txt} ({t} seconds remaining ...!)")
+        sys.stdout.write(f"\r{start_txt} ({t} Seconds Remaining ...!)")
         t -= 1
         sys.stdout.flush()
         time.sleep(1)
@@ -27,13 +38,55 @@ def countdown(t=60, start_txt="Error: Connection Timed Out!", end_txt="Try again
     print("-" * 100)
 
 
-def dateRange(start_date, end_date):
+def date_range(start_date, end_date):
+    """
+    Generate a range of dates between the start_date and end_date (exclusive).
+
+    Args:
+        start_date (datetime.date): The start date of the range.
+        end_date (datetime.date): The end date of the range.
+
+    Yields:
+        datetime.date: The dates in the range.
+
+    Example:
+        >>> start_date = datetime.date(2022, 1, 1)
+        >>> end_date = datetime.date(2022, 1, 5)
+        >>> for date in date_range(start_date, end_date):
+        ...     print(date)
+        ...
+        2022-01-01
+        2022-01-02
+        2022-01-03
+        2022-01-04
+    """
     for n in range(int((end_date - start_date).days)):
         yield start_date + datetime.timedelta(n)
 
 
 class Meteomanz():
-      
+    """
+    A class representing the Meteomanz weather data.
+
+    Attributes:
+        scale (str): The time scale of the weather data (e.g., "hour" or "day").
+        country_code (str): The country code for the weather data.
+        station_code (str): The station code for the weather data.
+        hour_start (str): The start hour for the weather data.
+        hour_end (str): The end hour for the weather data.
+        day_start (str): The start day for the weather data.
+        day_end (str): The end day for the weather data.
+        month (str): The month for the weather data.
+        year (str): The year for the weather data.
+        page (str): The page number for the weather data.
+        userAgent (str): The user agent for the HTTP request.
+        referer (str): The referer for the HTTP request.
+        host (str): The host for the HTTP request.
+        acceptLanguage (str): The accept language for the HTTP request.
+        connection (str): The connection type for the HTTP request.
+        accept (str): The accept type for the HTTP request.
+    """
+
     def __init__(
         self,
         scale="day",
@@ -46,13 +99,13 @@ class Meteomanz():
         month="01",
         year="2024",
         page="1",
-        userAgent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
+        user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
         referer="http://www.meteomanz.com/",
         host="www.meteomanz.com",
-        acceptLanguage="en-US,en;q=0.9",
+        accept_language="en-US,en;q=0.9",
         connection="keep-alive",
         accept="text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"
-    ):        
+    ):
         self.scale = scale
         self.country_code = country_code
         self.station_code = station_code
@@ -61,74 +114,115 @@ class Meteomanz():
         self.day_start = day_start
         self.day_end = day_end
         self.month = month
-        self.year = year 
+        self.year = year
         self.page = page
-        self.userAgent = userAgent
+        self.user_agent = user_agent
         self.referer = referer
         self.host = host
-        self.acceptLanguage = acceptLanguage
+        self.accept_language = accept_language
         self.connection = connection
         self.accept = accept
 
+    def url(self):
+        """
+        Generates the URL based on the scale and other attributes.
 
-    def url(self):        
+        Returns:
+            str: The generated URL.
+        """
         if self.scale == "hour":
-            return f"http://www.meteomanz.com/sy1?ty=hp&l=1&cou={self.country_code}&ind={self.station_code}&d1={self.day_start}&m1={self.month}&y1={self.year}&h1={self.hour_start}&d2={self.day_end}&m2={self.month}&y2={self.year}&h2={self.hour_end}&so=001&np={self.page}"        
+            return f"http://www.meteomanz.com/sy1?ty=hp&l=1&cou={self.country_code}&ind={self.station_code}&d1={self.day_start}&m1={self.month}&y1={self.year}&h1={self.hour_start}&d2={self.day_end}&m2={self.month}&y2={self.year}&h2={self.hour_end}&so=001&np={self.page}"
         elif self.scale == "day":
             return f"http://www.meteomanz.com/sy2?ty=hp&l=1&cou={self.country_code}&ind={self.station_code}&d1={self.day_start}&m1={self.month}&y1={self.year}&d2={self.day_end}&m2={self.month}&y2={self.year}&so=001&np={self.page}"
-    
-    
+
     def header(self):
+        """
+        Generates the header for the HTTP request.
+
+        Returns:
+            dict: The generated header.
+        """
         return {
-            "User-Agent": self.userAgent,
+            "User-Agent": self.user_agent,
             "Referer": self.referer,
             "Host": self.host,
-            "Accept-Language": self.acceptLanguage,
+            "Accept-Language": self.accept_language,
             "Connection": self.connection,
             "Accept": self.accept
         }
-    
-    
+
     def pages(self):
+        """
+        Retrieves the number of pages for the weather data.
+
+        Returns:
+            int: The number of pages.
+        """
         while True:
-            r = requests.get(url = self.url(), headers = self.header())
+            r = requests.get(
+                url=self.url(),
+                headers=self.header(),
+                timeout=20
+            )
             if r.status_code == 200:
                 try:
-                    html_content = requests.get(self.url(), headers=self.header()).content
-                    txt = [value for value in html_content.split(b"\n") if (value.lower().__contains__(b'showing') and value.lower().__contains__(b'results'))][0].decode('utf-8')
-                    num = [int(num) for num in re.findall(r'\d+(?:\.\d+)?', txt)]
+                    html_content = requests.get(
+                        self.url(),
+                        headers=self.header(),
+                        timeout=20
+                    ).content
+                    txt = [value for value in html_content.split(b"\n") if (value.lower().__contains__(
+                        b'showing') and value.lower().__contains__(b'results'))][0].decode('utf-8')
+                    num = [int(num)
+                           for num in re.findall(r'\d+(?:\.\d+)?', txt)]
                     return math.ceil(num[-1] / num[-2])
                 except:
                     return 1
             else:
                 countdown(t=60)
                 if self.scale == "hour":
-                     logging.error(f"Error Pages: {self.year}-{self.month}-{self.day_start}, Page {self.page}")
+                    logging.error(f"Error Pages: {
+                                  self.year}-{self.month}-{self.day_start}, Page {self.page}")
                 elif self.scale == "day":
-                     logging.error(f"Error Pages: {self.year}-{self.month}, Page {self.page}")
-        
+                    logging.error(f"Error Pages: {
+                                  self.year}-{self.month}, Page {self.page}")
 
     def download(self):
+        """
+        Downloads the weather data.
+
+        Returns:
+            pandas.DataFrame: The downloaded weather data.
+        """
         while True:
-            r = requests.get(url = self.url(), headers = self.header())
+            r = requests.get(
+                url=self.url(),
+                headers=self.header(),
+                timeout=20
+            )
             if r.status_code == 200:
                 while True:
                     try:
-                        df = pd.read_html(self.url(), storage_options=self.header())[0]
+                        df = pd.read_html(
+                            self.url(), storage_options=self.header())[0]
                         break
                     except:
                         countdown(t=60)
                 if self.scale == "hour":
-                    print(f"Downloaded {self.year}-{self.month}-{self.day_start}, Page {self.page}")
+                    print(f"Downloaded {
+                          self.year}-{self.month}-{self.day_start}, Page {self.page}")
                 elif self.scale == "day":
-                    print(f"Downloaded {self.year}-{self.month}, Page {self.page}")
+                    print(f"Downloaded {
+                          self.year}-{self.month}, Page {self.page}")
                 return df
             else:
                 countdown(t=60)
                 if self.scale == "hour":
-                     logging.error(f"Error Download: {self.year}-{self.month}-{self.day_start}, Page {self.page}")
+                    logging.error(f"Error Download: {
+                                  self.year}-{self.month}-{self.day_start}, Page {self.page}")
                 elif self.scale == "day":
-                     logging.error(f"Error Download: {self.year}-{self.month}, Page {self.page}")
+                    logging.error(f"Error Download: {
+                                  self.year}-{self.month}, Page {self.page}")
 
 
 class Gregorian:
@@ -139,7 +233,8 @@ class Gregorian:
             if type(date) is str:
                 m = re.match(r'^(\d{4})\D(\d{1,2})\D(\d{1,2})$', date)
                 if m:
-                    [year, month, day] = [int(m.group(1)), int(m.group(2)), int(m.group(3))]
+                    [year, month, day] = [int(m.group(1)), int(
+                        m.group(2)), int(m.group(3))]
                 else:
                     raise Exception("Invalid Input String")
             elif type(date) is datetime.date:
@@ -214,7 +309,8 @@ class Persian:
             if type(date) is str:
                 m = re.match(r'^(\d{4})\D(\d{1,2})\D(\d{1,2})$', date)
                 if m:
-                    [year, month, day] = [int(m.group(1)), int(m.group(2)), int(m.group(3))]
+                    [year, month, day] = [int(m.group(1)), int(
+                        m.group(2)), int(m.group(3))]
                 else:
                     raise Exception("Invalid Input String")
             elif type(date) is tuple:
