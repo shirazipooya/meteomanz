@@ -1,4 +1,5 @@
 requests==2.31.0
+requests[socks]
 pandas==2.2.1
 openpyxl==3.1.2
 lxml==5.2.0

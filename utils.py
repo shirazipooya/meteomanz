@@ -11,11 +11,20 @@ from dotenv import load_dotenv
 from pushbullet import Pushbullet
 
 
-# Pushbullet
-load_dotenv()
-API_KEY = os.environ["PUSHBULLET_ACCESS_TOKEN"]
-pb = Pushbullet(API_KEY)
+# # Pushbullet
+# load_dotenv()
+# API_KEY = os.environ["PUSHBULLET_ACCESS_TOKEN"]
+# pb = Pushbullet(API_KEY)
 # push = pb.push_note("Meteomanz", "The Meteomanz Script is Running ...!")
+
+
+# Proxies
+SET_PROXY = False
+
+proxies = {
+    'http': 'socks5://98.181.137.80:4145',
+    'https': 'socks5://98.181.137.80:4145'
+}
 
 
 logging.basicConfig(
@@ -176,18 +185,34 @@ class Meteomanz():
             int: The number of pages.
         """
         while True:
-            r = requests.get(
-                url=self.url(),
-                headers=self.header(),
-                timeout=20
-            )
+            if SET_PROXY:
+                r = requests.get(
+                    url=self.url(),
+                    headers=self.header(),
+                    timeout=20,
+                    proxies=proxies
+                )
+            else:
+                r = requests.get(
+                    url=self.url(),
+                    headers=self.header(),
+                    timeout=20
+                )
             if r.status_code == 200:
                 try:
-                    html_content = requests.get(
-                        self.url(),
-                        headers=self.header(),
-                        timeout=20
-                    ).content
+                    if SET_PROXY:
+                        html_content = requests.get(
+                            self.url(),
+                            headers=self.header(),
+                            timeout=20,
+                            proxies=proxies
+                        ).content
+                    else:
+                        html_content = requests.get(
+                            self.url(),
+                            headers=self.header(),
+                            timeout=20,
+                        ).content
                     txt = [value for value in html_content.split(b"\n") if (value.lower().__contains__(
                         b'showing') and value.lower().__contains__(b'results'))][0].decode('utf-8')
                     num = [int(num)
@@ -212,16 +237,38 @@ class Meteomanz():
             pandas.DataFrame: The downloaded weather data.
         """
         while True:
-            r = requests.get(
-                url=self.url(),
-                headers=self.header(),
-                timeout=20
-            )
+            if SET_PROXY:
+                r = requests.get(
+                    url=self.url(),
+                    headers=self.header(),
+                    timeout=20,
+                    proxies=proxies
+                )
+            else:
+                r = requests.get(
+                    url=self.url(),
+                    headers=self.header(),
+                    timeout=20
+                )
             if r.status_code == 200:
                 while True:
                     try:
-                        df = pd.read_html(
-                            self.url(), storage_options=self.header())[0]
+                        if SET_PROXY:
+                            session = requests.Session()
+                            session.proxies = proxies
+                            resp = session.get(
+                                self.url(),
+                                headers=self.header(),
+                                verify=False
+                            )
+                            df = pd.read_html(
+                                resp.text
+                            )
+                        else:
+                            df = pd.read_html(
+                                self.url(),
+                                storage_options=self.header()
+                            )[0]
                         break
                     except:
                         countdown(t=60)
