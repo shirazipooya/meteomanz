@@ -1,0 +1,607 @@
+Station ∆,Date,UTC time,Temp. (ºC),Rel. Hum. (%),Pressure/ Geopot.,Wind dir,Wins speed (Km/h),Clouds,Low clouds,Medium clouds,High clouds,Prec. (mm),Max temp. (ºC),Min temp. (ºC),Conditions
+ABADAN,28/03/2020,21Z,20.8,77%,1005.2 Hpa,180º (S ),21.6,0/8,-,-,-,-,-,-,Clear
+ABADAN,28/03/2020,18Z,21.0,71%,1004.2 Hpa,150º (SE),25.2,0/8,-,-,-,-,-,-,Clear
+ABADAN,28/03/2020,15Z,22.8,62%,1003.0 Hpa,120º (SE),43.2,3/8,3/8 CB,-,-,-,26.3,-,Scattered clouds
+ABADAN,28/03/2020,12Z,21.5,73%,1004.7 Hpa,110º (E ),43.2,7/8,5/8 CB,AC,-,5.0(6h),-,-,"Cloudy, thunderstorms"
+ABADAN,28/03/2020,09Z,25.1,55%,1007.7 Hpa,140º (SE),36.0,7/8,5/8 CB,AC,-,-,-,-,Cloudy
+ABADAN,28/03/2020,06Z,25.3,45%,1008.4 Hpa,140º (SE),28.8,7/8,5/8 CB,AC,-,0.2(6h),-,-,Cloudy
+ABADAN,28/03/2020,03Z,20.9,68%,1008.7 Hpa,090º (E ),21.6,6/8,6/8 CB,-,-,-,-,20.5,Cloudy
+ABADAN,28/03/2020,00Z,21.4,68%,1008.1 Hpa,110º (E ),21.6,4/8,4/8 CB,-,-,-,-,-,Scattered clouds
+ABADEH,28/03/2020,21Z,6.5,94%,1008.7 Hpa,100º (E ),7.2,7/8,4/8 CB,AC,-,-,-,-,Cloudy
+ABADEH,28/03/2020,18Z,7.3,95%,1010.9 Hpa,270º (W ),10.8,8/8,5/8 CB,AC,,4.0(6h),-,-,"Overcast, rain"
+ABADEH,28/03/2020,15Z,10.3,65%,1009.6 Hpa,200º (S ),10.8,8/8,5/8 CB,AC,,-,14.6,-,"Overcast, rain showers"
+ABADEH,28/03/2020,12Z,12.9,46%,1008.8 Hpa,160º (S ),14.4,8/8,5/8 CB,AC,,0.5(6h),-,-,Overcast
+ABADEH,28/03/2020,09Z,11.8,55%,1012.5 Hpa,130º (SE),14.4,7/8,4/8 CB,AC,-,-,-,-,Cloudy
+ABADEH,28/03/2020,06Z,10.1,57%,1014.3 Hpa,130º (SE),7.2,8/8,5/8 CB,AC,,0.1(6h),-,-,Overcast
+ABADEH,28/03/2020,03Z,7.3,75%,1014.9 Hpa,350º (N ),3.6,8/8,4/8 CB,AC,,-,-,7.1,Overcast
+ABADEH,28/03/2020,00Z,7.1,68%,1013.4 Hpa,330º (NW),3.6,3/8,-,-,CI,-,-,-,Scattered clouds
+ABU MUSA,28/03/2020,15Z,25.0,63%,1011.0 Hpa,050º (NE),21.6,8/8,2/8 SC,AC,,-,28.2,-,"Overcast, haze"
+ABU MUSA,28/03/2020,12Z,25.4,132%,1010.8 Hpa,040º (NE),25.2,8/8,2/8 SC,AC,,-,-,-,"Overcast, haze"
+ABU MUSA,28/03/2020,09Z,26.4,67%,1013.3 Hpa,030º (NE),18.0,3/8,-,1/8 AC,CI,-,-,-,"Scattered clouds, haze"
+ABU MUSA,28/03/2020,06Z,27.2,118%,1014.0 Hpa,110º (E ),25.2,1/8,-,-,CI,-,-,-,"Few clouds, haze"
+ABU MUSA,28/03/2020,03Z,24.0,69%,1012.7 Hpa,080º (E ),18.0,4/8,2/8 SC,AC,-,-,-,23.4,"Scattered clouds, haze"
+AHAR,28/03/2020,21Z,6.8,92%,1009.4 Hpa,090º (E ),7.2,8/8,3/8 ST,AC,,-,-,-,"Overcast, rain"
+AHAR,28/03/2020,18Z,7.8,87%,1011.6 Hpa,100º (E ),10.8,8/8,4/8 CB,AC,,2.0(6h),-,-,"Overcast, mist"
+AHAR,28/03/2020,15Z,8.8,82%,1013.1 Hpa,080º (E ),14.4,8/8,5/8 ST,AC,,-,14.7,-,"Overcast, rain"
+AHAR,28/03/2020,12Z,14.2,48%,1010.8 Hpa,110º (E ),18.0,6/8,4/8 CB,AC,CI,-,-,-,Cloudy
+AHAR,28/03/2020,09Z,13.6,49%,1012.6 Hpa,080º (E ),7.2,5/8,2/8 CU,AC,CI,-,-,-,Cloudy
+AHAR,28/03/2020,06Z,9.2,68%,1016.1 Hpa,calm.,,4/8,1/8 SC,AC,CI,-,-,-,Scattered clouds
+AHAR,28/03/2020,03Z,3.0,87%,1017.6 Hpa,calm.,,5/8,1/8 SC,AC,CI,-,-,2.9,Cloudy
+AHAR,28/03/2020,00Z,4.0,81%,1017.6 Hpa,calm.,,4/8,2/8 SC,-,CI,-,-,-,Scattered clouds
+AHWAZ,28/03/2020,21Z,19.8,67%,1005.2 Hpa,280º (W ),7.2,4/8,4/8 CB,-,-,-,-,-,"Scattered clouds, thunderstorms"
+AHWAZ,28/03/2020,18Z,19.3,71%,1004.3 Hpa,120º (SE),7.2,1/8,1/8 SC,-,-,0.1(6h),-,-,Few clouds
+AHWAZ,28/03/2020,15Z,19.4,77%,1005.8 Hpa,080º (E ),21.6,4/8,4/8 CB,-,-,-,27.4,-,"Scattered clouds, haze"
+AHWAZ,28/03/2020,12Z,19.9,77%,1006.4 Hpa,120º (SE),21.6,7/8,6/8 CB,AC,-,5.0(6h),-,-,"Cloudy, haze"
+AHWAZ,28/03/2020,09Z,26.0,40%,1007.3 Hpa,110º (E ),18.0,8/8,6/8 CB,AC,,-,-,-,"Overcast, rain showers"
+AHWAZ,28/03/2020,06Z,22.0,52%,1010.4 Hpa,080º (E ),7.2,8/8,6/8 CB,AC,,Tr(6h),-,-,Overcast
+AHWAZ,28/03/2020,03Z,19.4,57%,1009.7 Hpa,080º (E ),7.2,7/8,4/8 CB,AC,-,-,-,19.4,Cloudy
+AHWAZ,28/03/2020,00Z,19.4,59%,1009.9 Hpa,080º (E ),7.2,6/8,1/8 SC,AC,-,-,-,-,Cloudy
+ALI-GOODARZ,28/03/2020,21Z,4.8,91%,1008.2 Hpa,140º (SE),18.0,8/8,8/8 CB,AC,,-,-,-,"Overcast, rain"
+ALI-GOODARZ,28/03/2020,18Z,6.0,87%,1009.7 Hpa,120º (SE),21.6,8/8,7/8 CB,AC,,1.0(6h),-,-,"Overcast, rain showers"
+ALI-GOODARZ,28/03/2020,15Z,6.8,87%,1010.3 Hpa,110º (E ),14.4,7/8,5/8 CB,AC,-,-,9.5,-,"Cloudy, mist"
+ALI-GOODARZ,28/03/2020,12Z,7.4,82%,1011.0 Hpa,110º (E ),25.2,8/8,4/8 CB,AC,,1.0(6h),-,-,"Overcast, rain"
+ALI-GOODARZ,28/03/2020,09Z,9.3,62%,1012.0 Hpa,120º (SE),25.2,8/8,4/8 CB,AC,,-,-,-,Overcast
+ALI-GOODARZ,28/03/2020,06Z,7.2,68%,1014.1 Hpa,110º (E ),25.2,8/8,4/8 CB,AC,,-,-,-,Overcast
+ALI-GOODARZ,28/03/2020,03Z,5.1,76%,1014.4 Hpa,150º (SE),14.4,7/8,3/8 SC,AC,-,-,-,4.3,Cloudy
+ALI-GOODARZ,28/03/2020,00Z,4.4,82%,1014.4 Hpa,120º (SE),25.2,4/8,2/8 SC,-,CI,-,-,-,Scattered clouds
+ANZALI,28/03/2020,21Z,12.3,87%,1014.3 Hpa,100º (E ),3.6,8/8,5/8 SC,AC,,-,-,-,Overcast
+ANZALI,28/03/2020,18Z,12.4,89%,1015.6 Hpa,050º (NE),7.2,8/8,5/8 SC,AC,,-,-,-,Overcast
+ANZALI,28/03/2020,15Z,12.6,89%,1016.1 Hpa,050º (NE),7.2,8/8,6/8 CB,AC,,-,15.3,-,Overcast
+ANZALI,28/03/2020,12Z,13.6,272%,1016.3 Hpa,060º (NE),14.4,8/8,5/8 CB,AC,,-,-,-,Overcast
+ANZALI,28/03/2020,09Z,15.1,81%,1018.3 Hpa,050º (NE),10.8,8/8,5/8 SC,AC,,-,-,-,Overcast
+ANZALI,28/03/2020,06Z,13.4,275%,1020.0 Hpa,050º (NE),10.8,8/8,6/8 CB,AC,,-,-,-,"Overcast, mist"
+ANZALI,28/03/2020,03Z,11.7,93%,1019.9 Hpa,110º (E ),3.6,8/8,6/8 CB,AC,,-,-,11.2,Overcast
+ANZALI,28/03/2020,00Z,11.7,93%,1019.9 Hpa,100º (E ),7.2,6/8,6/8 SC,-,-,-,-,-,Cloudy
+ARAK,28/03/2020,21Z,8.0,84%,1008.3 Hpa,310º (NW),7.2,6/8,3/8 SC,AC,-,-,-,-,"Cloudy, mist"
+ARAK,28/03/2020,18Z,8.4,82%,1010.2 Hpa,150º (SE),10.8,8/8,4/8 SC,AC,,1.0(6h),-,-,"Overcast, mist"
+ARAK,28/03/2020,15Z,8.8,84%,1011.6 Hpa,180º (S ),7.2,8/8,5/8 CB,AC,,-,11.4,-,"Overcast, rain"
+ARAK,28/03/2020,12Z,10.4,76%,1011.7 Hpa,calm.,,8/8,5/8 CB,AC,,-,-,-,"Overcast, haze"
+ARAK,28/03/2020,09Z,8.0,84%,1015.5 Hpa,calm.,,8/8,5/8 CB,AC,,-,-,-,"Overcast, mist"
+ARAK,28/03/2020,06Z,6.6,94%,1016.1 Hpa,calm.,,8/8,3/8 SC,AC,CS,Tr(6h),-,-,"Overcast, mist"
+ARAK,28/03/2020,03Z,4.0,93%,1015.2 Hpa,calm.,,7/8,-,2/8 AC,CI,-,-,3.4,"Cloudy, mist"
+ARAK,28/03/2020,00Z,4.6,82%,1014.8 Hpa,calm.,,3/8,-,-,CI,-,-,-,"Scattered clouds, mist"
+ARDEBIL,28/03/2020,21Z,3.8,97%,1009.0 Hpa,calm.,,8/8,8/8 CB,,,-,-,-,"Overcast, fog"
+ARDEBIL,28/03/2020,18Z,4.8,97%,1012.2 Hpa,calm.,,8/8,8/8 CB,,,0.2(6h),-,-,"Overcast, rain showers"
+ARDEBIL,28/03/2020,15Z,5.2,91%,1013.5 Hpa,calm.,,7/8,6/8 CB,AC,-,-,14.2,-,"Cloudy, fog"
+ARDEBIL,28/03/2020,12Z,9.0,75%,1011.6 Hpa,060º (NE),28.8,6/8,4/8 CB,AC,-,-,-,-,Cloudy
+ARDEBIL,28/03/2020,09Z,14.0,59%,1011.6 Hpa,040º (NE),18.0,3/8,3/8 CB,-,-,-,-,-,Scattered clouds
+ARDEBIL,28/03/2020,06Z,7.8,76%,1016.0 Hpa,calm.,,5/8,1/8 CB,-,CI,-,-,-,Cloudy
+ARDEBIL,28/03/2020,03Z,1.0,96%,1018.4 Hpa,calm.,,8/8,1/8 SC,AC,CS,-,-,-0.6,"Overcast, fog"
+ARDEBIL,28/03/2020,00Z,1.0,93%,1017.5 Hpa,calm.,,6/8,4/8 CB,AC,CI,-,-,-,"Cloudy, fog"
+BABULSAR,28/03/2020,21Z,13.2,85%,1014.9 Hpa,240º (SW),7.2,7/8,7/8 SC,-,-,-,-,-,Cloudy
+BABULSAR,28/03/2020,18Z,13.4,85%,1015.8 Hpa,250º (W ),7.2,7/8,7/8 SC,-,-,-,-,-,Cloudy
+BABULSAR,28/03/2020,15Z,14.0,79%,1015.8 Hpa,270º (W ),10.8,2/8,-,1/8 AC,CI,-,17.2,-,Few clouds
+BABULSAR,28/03/2020,12Z,15.4,70%,1017.7 Hpa,300º (NW),14.4,0/8,-,-,-,-,-,-,Clear
+BABULSAR,28/03/2020,09Z,15.0,73%,1016.3 Hpa,280º (W ),10.8,1/8,1/8 ST,-,-,-,-,-,Few clouds
+BABULSAR,28/03/2020,06Z,14.0,75%,1017.3 Hpa,300º (NW),10.8,1/8,1/8 ST,-,-,-,-,-,Few clouds
+BABULSAR,28/03/2020,03Z,10.8,94%,1020.8 Hpa,calm.,,2/8,-,-,CI,-,-,10.8,Few clouds
+BABULSAR,28/03/2020,00Z,12.2,89%,1020.8 Hpa,calm.,,7/8,7/8 ST,-,-,-,-,-,Cloudy
+BAFT,28/03/2020,21Z,6.0,94%,1012.2 Hpa,060º (NE),10.8,8/8,3/8 CB,AC,,-,-,-,"Overcast, rain"
+BAFT,28/03/2020,18Z,6.0,86%,1014.1 Hpa,120º (SE),10.8,8/8,3/8 CB,AC,,5.0(6h),-,-,"Overcast, rain"
+BAFT,28/03/2020,15Z,7.4,75%,1015.7 Hpa,240º (SW),10.8,8/8,3/8 CB,AC,-,-,11.6,-,"Overcast, rain showers"
+BAFT,28/03/2020,12Z,7.6,80%,1015.6 Hpa,300º (NW),10.8,8/8,3/8 CB,AC,-,2.0(6h),-,-,"Overcast, rain"
+BAFT,28/03/2020,09Z,10.0,60%,1016.2 Hpa,210º (SW),10.8,8/8,4/8 CB,AC,-,-,-,-,"Overcast, rain"
+BAFT,28/03/2020,06Z,10.6,46%,1017.0 Hpa,240º (SW),18.0,6/8,2/8 CU,AC,-,-,-,-,Cloudy
+BAFT,28/03/2020,03Z,6.6,59%,1016.1 Hpa,calm.,,1/8,-,1/8 AC,-,-,-,5.0,Few clouds
+BAFT,28/03/2020,00Z,6.0,66%,1014.5 Hpa,330º (NW),7.2,4/8,2/8 SC,AC,-,-,-,-,Scattered clouds
+BAM,28/03/2020,21Z,19.3,43%,1007.2 Hpa,,,4/8,4/8 CB,-,-,-,-,-,Scattered clouds
+BAM,28/03/2020,18Z,19.5,47%,1011.0 Hpa,160º (S ),7.2,5/8,5/8 CB,-,-,-,-,-,Cloudy
+BAM,28/03/2020,15Z,20.0,42%,1012.3 Hpa,150º (SE),7.2,7/8,3/8 CB,AC,-,-,24.6,-,Cloudy
+BAM,28/03/2020,12Z,23.2,29%,1011.6 Hpa,340º (N ),7.2,7/8,7/8 CB,-,-,-,-,-,Cloudy
+BAM,28/03/2020,09Z,23.2,26%,1013.3 Hpa,050º (NE),7.2,7/8,5/8 CB,-,CI,-,-,-,Cloudy
+BAM,28/03/2020,06Z,19.8,33%,1016.3 Hpa,070º (E ),7.2,6/8,2/8 SC,-,CI,0.2(24h),-,-,Cloudy
+BAM,28/03/2020,03Z,13.4,62%,1016.7 Hpa,280º (W ),10.8,1/8,1/8 SC,-,-,-,-,13.2,Few clouds
+BAM,28/03/2020,00Z,13.5,64%,1014.8 Hpa,280º (W ),14.4,0/8,-,-,-,-,-,-,Clear
+BANDAR LENGEH,28/03/2020,21Z,24.2,63%,1008.4 Hpa,120º (SE),21.6,8/8,6/8 CB,AC,,-,-,-,"Overcast, haze"
+BANDAR LENGEH,28/03/2020,18Z,24.0,46%,1011.1 Hpa,090º (E ),18.0,8/8,6/8 CB,AC,,-,-,-,"Overcast, haze"
+BANDAR LENGEH,28/03/2020,15Z,26.4,40%,1011.8 Hpa,060º (NE),14.4,8/8,6/8 CB,AC,,-,28.6,-,"Overcast, haze"
+BANDAR LENGEH,28/03/2020,12Z,27.5,45%,1012.2 Hpa,090º (E ),25.2,8/8,6/8 CB,AC,,-,-,-,"Overcast, haze"
+BANDAR LENGEH,28/03/2020,09Z,27.5,54%,1014.4 Hpa,090º (E ),28.8,6/8,5/8 CB,AC,-,-,-,-,"Cloudy, haze"
+BANDAR LENGEH,28/03/2020,06Z,24.4,74%,1014.8 Hpa,090º (E ),21.6,7/8,6/8 CB,AC,-,Tr(6h),-,-,"Cloudy, haze"
+BANDAR LENGEH,28/03/2020,03Z,22.8,76%,1014.2 Hpa,090º (E ),25.2,7/8,4/8 SC,AC,-,-,-,20.3,"Cloudy, drizzle"
+BANDAR LENGEH,28/03/2020,00Z,23.0,71%,1014.4 Hpa,090º (E ),18.0,3/8,1/8 SC,-,CI,-,-,-,Scattered clouds
+BANDAR-E-DAYYER,28/03/2020,21Z,24.1,69%,1010.4 Hpa,180º (S ),7.2,7/8,4/8 CB,AC,-,-,-,-,Cloudy
+BANDAR-E-DAYYER,28/03/2020,18Z,24.5,54%,1009.1 Hpa,070º (E ),10.8,5/8,3/8 CB,AC,-,0.1(6h),-,-,Cloudy
+BANDAR-E-DAYYER,28/03/2020,15Z,24.7,68%,1008.5 Hpa,110º (E ),18.0,8/8,4/8 CB,AC,,-,27.9,-,Overcast
+BANDAR-E-DAYYER,28/03/2020,12Z,25.3,385%,1011.5 Hpa,130º (SE),28.8,8/8,5/8 CB,AC,,-,-,-,Overcast
+BANDAR-E-DAYYER,28/03/2020,09Z,25.7,60%,1012.5 Hpa,130º (SE),21.6,8/8,4/8 CB,AC,,-,-,-,Overcast
+BANDAR-E-DAYYER,28/03/2020,06Z,26.3,125%,1012.1 Hpa,140º (SE),36.0,8/8,4/8 CB,AC,,-,-,-,Overcast
+BANDAR-E-DAYYER,28/03/2020,03Z,24.7,48%,1010.9 Hpa,060º (NE),7.2,8/8,4/8 CB,AC,,-,-,22.0,Overcast
+BANDAR-E-DAYYER,28/03/2020,00Z,23.4,57%,1011.0 Hpa,060º (NE),7.2,6/8,2/8 SC,AC,-,-,-,-,Cloudy
+BANDARABBASS,28/03/2020,21Z,22.8,63%,1011.2 Hpa,120º (SE),7.2,6/8,4/8 SC,AC,-,-,-,-,"Cloudy, haze"
+BANDARABBASS,28/03/2020,18Z,23.4,62%,1013.2 Hpa,Vble.,,8/8,4/8 SC,AC,,Tr(6h),-,-,"Overcast, rain"
+BANDARABBASS,28/03/2020,15Z,25.2,43%,1013.0 Hpa,calm.,,6/8,4/8 SC,AC,CI,-,28.8,-,Cloudy
+BANDARABBASS,28/03/2020,12Z,28.8,19%,1012.8 Hpa,110º (E ),7.2,7/8,7/8 SC,-,-,-,-,-,Cloudy
+BANDARABBASS,28/03/2020,09Z,27.0,44%,1014.8 Hpa,130º (SE),14.4,3/8,3/8 SC,-,-,-,-,-,"Scattered clouds, haze"
+BANDARABBASS,28/03/2020,06Z,25.4,60%,1016.6 Hpa,090º (E ),10.8,5/8,5/8 SC,-,-,Tr(6h),-,-,"Cloudy, haze"
+BANDARABBASS,28/03/2020,03Z,19.2,83%,1015.0 Hpa,360º (N ),7.2,3/8,3/8 SC,-,-,-,-,18.8,"Scattered clouds, mist"
+BIRJAND,28/03/2020,21Z,10.7,51%,1010.2 Hpa,090º (E ),21.6,5/8,1/8 SC,AC,CI,-,-,-,Cloudy
+BIRJAND,28/03/2020,18Z,10.6,50%,1013.4 Hpa,070º (E ),7.2,2/8,-,-,CI,-,-,-,Few clouds
+BIRJAND,28/03/2020,15Z,14.3,31%,1014.6 Hpa,300º (NW),14.4,5/8,1/8 SC,-,CI,-,18.0,-,Cloudy
+BIRJAND,28/03/2020,12Z,17.1,24%,1013.7 Hpa,250º (W ),18.0,3/8,3/8 CU,-,CI,-,-,-,Scattered clouds
+BIRJAND,28/03/2020,09Z,16.1,30%,1015.5 Hpa,270º (W ),18.0,3/8,1/8 CU,-,CI,-,-,-,Scattered clouds
+BIRJAND,28/03/2020,06Z,12.3,42%,1017.1 Hpa,270º (W ),10.8,2/8,-,-,CI,-,-,-,Few clouds
+BIRJAND,28/03/2020,03Z,4.8,79%,1018.2 Hpa,100º (E ),7.2,0/8,-,-,-,-,-,3.3,Clear
+BIRJAND,28/03/2020,00Z,4.2,83%,1016.5 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BOJNOURD,28/03/2020,21Z,10.8,48%,1012.0 Hpa,110º (E ),14.4,4/8,1/8 SC,AC,-,-,-,-,Scattered clouds
+BOJNOURD,28/03/2020,18Z,10.1,65%,1014.1 Hpa,030º (NE),7.2,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+BOJNOURD,28/03/2020,15Z,13.4,45%,1015.2 Hpa,230º (SW),14.4,2/8,2/8 SC,-,-,-,18.8,-,Few clouds
+BOJNOURD,28/03/2020,12Z,18.2,22%,1015.1 Hpa,240º (SW),10.8,3/8,3/8 CU,-,-,-,-,-,Scattered clouds
+BOJNOURD,28/03/2020,09Z,16.3,35%,1016.4 Hpa,060º (NE),10.8,3/8,2/8 CU,-,-,-,-,-,Scattered clouds
+BOJNOURD,28/03/2020,06Z,10.4,53%,1020.2 Hpa,calm.,,1/8,1/8 CU,-,-,-,-,-,Few clouds
+BOJNOURD,28/03/2020,03Z,3.3,85%,1021.3 Hpa,Vble.,,1/8,1/8 CU,AC,-,-,-,2.0,"Few clouds, mist"
+BOJNOURD,28/03/2020,00Z,2.1,91%,1020.8 Hpa,Vble.,,3/8,-,3/8 AC,-,-,-,-,Scattered clouds
+BUSHEHR (AIRPORT),28/03/2020,21Z,20.6,63%,1006.9 Hpa,120º (SE),36.0,4/8,1/8 SC,AC,-,-,-,-,"Scattered clouds, rain"
+BUSHEHR (AIRPORT),28/03/2020,18Z,23.4,49%,1006.4 Hpa,120º (SE),28.8,7/8,4/8 CB,AC,-,0.2(6h),-,-,Cloudy
+BUSHEHR (AIRPORT),28/03/2020,15Z,24.4,50%,1006.8 Hpa,120º (SE),21.6,8/8,4/8 CB,AC,,-,30.6,-,Overcast
+BUSHEHR (AIRPORT),28/03/2020,12Z,27.9,31%,1007.6 Hpa,170º (S ),39.6,8/8,3/8 SC,AC,,-,-,-,Overcast
+BUSHEHR (AIRPORT),28/03/2020,09Z,26.7,33%,1009.9 Hpa,130º (SE),21.6,8/8,4/8 CB,AC,,-,-,-,"Overcast, dust"
+BUSHEHR (AIRPORT),28/03/2020,06Z,26.4,28%,1009.3 Hpa,130º (SE),28.8,8/8,4/8 SC,AC,,-,-,-,Overcast
+BUSHEHR (AIRPORT),28/03/2020,03Z,22.3,48%,1009.1 Hpa,090º (E ),18.0,8/8,4/8 SC,AC,,-,-,21.6,Overcast
+BUSHEHR (AIRPORT),28/03/2020,00Z,21.9,54%,1009.6 Hpa,060º (NE),7.2,7/8,4/8 SC,AC,-,-,-,-,Cloudy
+CHAHBAHAR,28/03/2020,21Z,22.6,85%,1013.1 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+CHAHBAHAR,28/03/2020,18Z,23.3,79%,1014.3 Hpa,270º (W ),7.2,0/8,-,-,-,-,-,-,Clear
+CHAHBAHAR,28/03/2020,15Z,40.1,,1013.1 Hpa,220º (SW),14.4,0/8,-,-,-,-,26.2,-,Clear
+CHAHBAHAR,28/03/2020,12Z,25.6,69%,1013.3 Hpa,220º (SW),10.8,0/8,-,-,-,-,-,-,Clear
+CHAHBAHAR,28/03/2020,09Z,70.1,,1016.0 Hpa,220º (SW),14.4,1/8,1/8 CU,-,-,-,-,-,Few clouds
+CHAHBAHAR,28/03/2020,06Z,25.0,75%,1017.7 Hpa,240º (SW),7.2,2/8,2/8 CU,-,-,-,-,-,Few clouds
+CHAHBAHAR,28/03/2020,03Z,50.1,,1016.5 Hpa,calm.,,2/8,2/8 ST,-,-,-,-,21.5,"Few clouds, mist"
+CHAHBAHAR,28/03/2020,00Z,22.6,81%,1015.2 Hpa,300º (NW),7.2,0/8,-,-,-,-,-,-,"Clear, mist"
+ESFAHAN,28/03/2020,21Z,8.8,89%,1009.7 Hpa,calm.,,8/8,4/8 CB,AC,,-,-,-,"Overcast, rain"
+ESFAHAN,28/03/2020,18Z,10.2,83%,1010.1 Hpa,calm.,,7/8,3/8 SC,AC,-,0.6(6h),-,-,"Cloudy, rain"
+ESFAHAN,28/03/2020,15Z,11.0,77%,1010.3 Hpa,calm.,,8/8,4/8 ST,AC,,-,13.6,-,Overcast
+ESFAHAN,28/03/2020,12Z,13.0,54%,1011.0 Hpa,calm.,,8/8,3/8 SC,AC,,0.2(6h),-,-,Overcast
+ESFAHAN,28/03/2020,09Z,11.6,63%,1014.1 Hpa,calm.,,8/8,4/8 CB,AC,,-,-,-,"Overcast, haze"
+ESFAHAN,28/03/2020,06Z,9.8,67%,1015.8 Hpa,calm.,,8/8,4/8 CB,AC,,0.1(6h),-,-,"Overcast, rain"
+ESFAHAN,28/03/2020,03Z,7.4,79%,1015.8 Hpa,calm.,,6/8,1/8 SC,AC,-,-,-,6.0,Cloudy
+ESFAHAN,28/03/2020,00Z,6.6,83%,1014.9 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+FASA,28/03/2020,21Z,10.8,100%,1010.6 Hpa,calm.,,8/8,7/8 CB,AC,,-,-,-,"Overcast, rain"
+FASA,28/03/2020,18Z,11.0,100%,1011.4 Hpa,300º (NW),10.8,8/8,7/8 CB,AC,,4.0(6h),-,-,"Overcast, rain"
+FASA,28/03/2020,15Z,11.4,98%,1013.1 Hpa,calm.,,8/8,7/8 CB,AC,,-,15.2,-,"Overcast, mist"
+FASA,28/03/2020,12Z,12.6,91%,1013.3 Hpa,calm.,,8/8,5/8 CB,AC,,1.0(6h),-,-,"Overcast, rain"
+FASA,28/03/2020,09Z,14.8,70%,1014.3 Hpa,calm.,,7/8,5/8 CB,AC,-,-,-,-,"Cloudy, haze"
+FASA,28/03/2020,06Z,13.8,78%,1014.4 Hpa,calm.,,7/8,5/8 CB,AC,-,Tr(6h),-,-,"Cloudy, haze"
+FASA,28/03/2020,03Z,10.6,85%,1013.6 Hpa,040º (NE),14.4,8/8,5/8 CB,AC,,-,-,8.8,"Overcast, rain showers"
+FASA,28/03/2020,00Z,9.8,87%,1012.6 Hpa,060º (NE),10.8,7/8,2/8 SC,AC,CI,-,-,-,"Cloudy, mist"
+FERDOUS,28/03/2020,21Z,13.2,44%,1009.3 Hpa,130º (SE),7.2,7/8,4/8 SC,AC,-,-,-,-,Cloudy
+FERDOUS,28/03/2020,18Z,12.5,54%,1011.7 Hpa,070º (E ),10.8,1/8,-,-,CI,-,-,-,Few clouds
+FERDOUS,28/03/2020,15Z,15.4,35%,1013.5 Hpa,340º (N ),3.6,1/8,-,-,CI,-,18.4,-,Few clouds
+FERDOUS,28/03/2020,12Z,17.8,30%,1013.5 Hpa,270º (W ),10.8,2/8,1/8 SC,-,CI,-,-,-,Few clouds
+FERDOUS,28/03/2020,09Z,16.2,34%,1015.3 Hpa,150º (SE),7.2,5/8,1/8 SC,-,CI,-,-,-,Cloudy
+FERDOUS,28/03/2020,06Z,13.8,43%,1017.7 Hpa,250º (W ),3.6,1/8,1/8 SC,-,-,-,-,-,Few clouds
+FERDOUS,28/03/2020,03Z,7.6,69%,1018.1 Hpa,040º (NE),7.2,0/8,-,-,-,-,-,5.4,Clear
+FERDOUS,28/03/2020,00Z,5.8,80%,1016.4 Hpa,080º (E ),7.2,0/8,-,-,-,-,-,-,Clear
+GACH SARAN DU GUNBADAN,28/03/2020,21Z,14.4,82%,1006.2 Hpa,110º (E ),7.2,8/8,4/8 CB,AC,,-,-,-,Overcast
+GACH SARAN DU GUNBADAN,28/03/2020,18Z,15.3,82%,1007.2 Hpa,110º (E ),21.6,8/8,4/8 CB,AC,,14.0(6h),-,-,"Overcast, thunderstorm"
+GACH SARAN DU GUNBADAN,28/03/2020,15Z,14.0,94%,1010.0 Hpa,calm.,,8/8,4/8 CB,AC,,-,21.0,-,"Overcast, rain"
+GACH SARAN DU GUNBADAN,28/03/2020,12Z,15.8,78%,1009.7 Hpa,110º (E ),18.0,8/8,4/8 CB,AC,,3.0(6h),-,-,"Overcast, rain"
+GACH SARAN DU GUNBADAN,28/03/2020,09Z,19.4,57%,1009.4 Hpa,110º (E ),28.8,7/8,4/8 CB,AC,-,-,-,-,Cloudy
+GACH SARAN DU GUNBADAN,28/03/2020,06Z,18.4,55%,1011.8 Hpa,calm.,,8/8,4/8 CB,AC,,0.1(6h),-,-,Overcast
+GACH SARAN DU GUNBADAN,28/03/2020,03Z,18.3,42%,1011.9 Hpa,140º (SE),10.8,8/8,2/8 SC,AC,,-,-,16.4,Overcast
+GACH SARAN DU GUNBADAN,28/03/2020,00Z,16.7,42%,1011.9 Hpa,230º (SW),3.6,5/8,2/8 SC,AC,-,-,-,-,Cloudy
+GHARAKHIL,28/03/2020,21Z,12.8,90%,1014.1 Hpa,calm.,,7/8,3/8 SC,AC,-,-,-,-,Cloudy
+GHARAKHIL,28/03/2020,18Z,13.4,88%,1015.1 Hpa,300º (NW),7.2,7/8,3/8 SC,AC,-,-,-,-,Cloudy
+GHARAKHIL,28/03/2020,15Z,14.8,86%,1015.1 Hpa,310º (NW),10.8,6/8,3/8 SC,AC,-,-,17.0,-,Cloudy
+GHARAKHIL,28/03/2020,12Z,17.0,66%,1016.0 Hpa,030º (NE),14.4,3/8,1/8 CU,AC,-,-,-,-,Scattered clouds
+GHARAKHIL,28/03/2020,09Z,16.2,69%,1017.4 Hpa,330º (NW),10.8,5/8,2/8 SC,AC,-,-,-,-,Cloudy
+GHARAKHIL,28/03/2020,06Z,15.2,76%,1020.1 Hpa,calm.,,2/8,-,2/8 AC,-,-,-,-,Few clouds
+GHARAKHIL,28/03/2020,03Z,8.6,97%,1019.3 Hpa,calm.,,5/8,2/8 SC,AC,-,-,-,8.0,Cloudy
+GHARAKHIL,28/03/2020,00Z,10.0,94%,1019.6 Hpa,calm.,,2/8,2/8 SC,-,-,-,-,-,Few clouds
+GHAZVIN,28/03/2020,21Z,11.0,66%,1006.6 Hpa,070º (E ),3.6,8/8,3/8 SC,AC,,-,-,-,Overcast
+GHAZVIN,28/03/2020,18Z,11.5,62%,1008.4 Hpa,060º (NE),3.6,8/8,3/8 SC,AC,,-,-,-,Overcast
+GHAZVIN,28/03/2020,15Z,13.1,56%,1009.8 Hpa,170º (S ),10.8,8/8,3/8 SC,AC,,-,17.9,-,Overcast
+GHAZVIN,28/03/2020,12Z,16.8,44%,1009.6 Hpa,160º (S ),21.6,5/8,5/8 CB,-,-,-,-,-,Cloudy
+GHAZVIN,28/03/2020,09Z,16.8,47%,1011.5 Hpa,150º (SE),18.0,3/8,3/8 CU,-,-,-,-,-,"Scattered clouds, haze"
+GHAZVIN,28/03/2020,06Z,13.8,59%,1014.5 Hpa,150º (SE),14.4,1/8,1/8 CU,-,-,-,-,-,"Few clouds, haze"
+GHAZVIN,28/03/2020,03Z,7.7,76%,1016.0 Hpa,070º (E ),3.6,5/8,5/8 SC,-,-,-,-,5.5,Cloudy
+GHAZVIN,28/03/2020,00Z,5.9,82%,1015.4 Hpa,calm.,,1/8,-,-,CI,-,-,-,Few clouds
+GHUCHAN,28/03/2020,21Z,6.6,74%,1013.8 Hpa,120º (SE),21.6,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+GHUCHAN,28/03/2020,18Z,9.1,58%,1015.1 Hpa,130º (SE),25.2,4/8,4/8 SC,-,-,-,-,-,Scattered clouds
+GHUCHAN,28/03/2020,15Z,10.8,56%,1015.5 Hpa,140º (SE),21.6,4/8,4/8 SC,-,-,-,15.7,-,Scattered clouds
+GHUCHAN,28/03/2020,12Z,15.5,45%,1013.9 Hpa,110º (E ),18.0,6/8,6/8 SC,-,-,-,-,-,Cloudy
+GHUCHAN,28/03/2020,09Z,13.0,52%,1016.1 Hpa,120º (SE),28.8,5/8,5/8 SC,-,-,-,-,-,Cloudy
+GHUCHAN,28/03/2020,06Z,9.1,59%,1018.3 Hpa,090º (E ),25.2,0/8,-,-,-,-,-,-,Clear
+GHUCHAN,28/03/2020,03Z,2.2,81%,1020.5 Hpa,070º (E ),10.8,0/8,-,-,-,-,-,1.5,Clear
+GHUCHAN,28/03/2020,00Z,3.8,72%,1019.3 Hpa,090º (E ),18.0,2/8,2/8 SC,-,-,-,-,-,Few clouds
+GORGAN,28/03/2020,21Z,10.6,82%,1014.3 Hpa,210º (SW),10.8,2/8,2/8 SC,-,-,-,-,-,Few clouds
+GORGAN,28/03/2020,18Z,12.3,80%,1015.6 Hpa,240º (SW),10.8,2/8,2/8 SC,-,-,Tr(6h),-,-,Few clouds
+GORGAN,28/03/2020,15Z,16.2,73%,1015.6 Hpa,240º (SW),28.8,4/8,4/8 SC,-,-,-,20.9,-,Scattered clouds
+GORGAN,28/03/2020,12Z,20.3,54%,1016.5 Hpa,060º (NE),10.8,2/8,1/8 CU,-,CI,-,-,-,Few clouds
+GORGAN,28/03/2020,09Z,19.6,56%,1019.1 Hpa,070º (E ),10.8,2/8,1/8 CU,-,CI,-,-,-,Few clouds
+GORGAN,28/03/2020,06Z,17.3,66%,1021.2 Hpa,calm.,,1/8,-,-,CI,-,-,-,Few clouds
+GORGAN,28/03/2020,03Z,5.0,96%,1021.6 Hpa,calm.,,0/8,-,-,-,-,-,4.8,Clear
+GORGAN,28/03/2020,00Z,5.3,96%,1021.0 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+HAMEDAN,28/03/2020,21Z,5.8,97%,1008.0 Hpa,040º (NE),7.2,8/8,5/8 CB,AC,,-,-,-,"Overcast, rain"
+HAMEDAN,28/03/2020,18Z,5.9,93%,1010.4 Hpa,130º (SE),10.8,8/8,5/8 CB,AC,,0.3(6h),-,-,Overcast
+HAMEDAN,28/03/2020,15Z,7.3,84%,1010.7 Hpa,160º (S ),18.0,8/8,5/8 CB,AC,,-,9.4,-,"Overcast, rain"
+HAMEDAN,28/03/2020,12Z,9.2,74%,1011.0 Hpa,140º (SE),21.6,8/8,5/8 CB,AC,,-,-,-,Overcast
+HAMEDAN,28/03/2020,09Z,9.1,73%,1013.3 Hpa,130º (SE),21.6,8/8,5/8 CB,AC,,-,-,-,Overcast
+HAMEDAN,28/03/2020,06Z,4.7,97%,1016.2 Hpa,290º (W ),7.2,8/8,4/8 SC,AC,,0.6(24h),-,-,"Overcast, mist"
+HAMEDAN,28/03/2020,03Z,3.1,100%,1015.4 Hpa,050º (NE),3.6,5/8,2/8 SC,AC,-,-,-,0.7,"Cloudy, mist"
+HAMEDAN,28/03/2020,00Z,2.2,98%,1014.7 Hpa,120º (SE),3.6,5/8,2/8 SC,AC,-,-,-,-,Cloudy
+ILAM,28/03/2020,21Z,9.1,96%,1009.6 Hpa,320º (NW),3.6,8/8,6/8 CB,AC,,-,-,-,"Overcast, rain"
+ILAM,28/03/2020,18Z,9.8,89%,1009.5 Hpa,060º (NE),3.6,8/8,6/8 CB,AC,,-,-,-,"Overcast, mist"
+ILAM,28/03/2020,15Z,11.9,73%,1008.5 Hpa,120º (SE),10.8,8/8,6/8 CB,AC,,-,15.5,-,Overcast
+ILAM,28/03/2020,12Z,14.7,62%,1007.6 Hpa,140º (SE),10.8,8/8,4/8 CB,AC,,-,-,-,"Overcast, haze"
+ILAM,28/03/2020,09Z,14.8,57%,1009.8 Hpa,110º (E ),18.0,8/8,4/8 CB,AC,,-,-,-,"Overcast, haze"
+ILAM,28/03/2020,06Z,14.2,59%,1011.2 Hpa,120º (SE),18.0,6/8,2/8 SC,AC,-,-,-,-,"Cloudy, haze"
+ILAM,28/03/2020,03Z,12.0,63%,1011.0 Hpa,130º (SE),10.8,8/8,5/8 CB,AC,,-,-,10.7,"Overcast, haze"
+ILAM,28/03/2020,00Z,11.5,62%,1011.5 Hpa,120º (SE),14.4,8/8,5/8 CB,AC,,-,-,-,Overcast
+IRANSHAHR,28/03/2020,21Z,22.0,41%,1011.2 Hpa,calm.,,5/8,-,5/8 AC,-,-,-,-,Cloudy
+IRANSHAHR,28/03/2020,18Z,24.5,30%,1012.5 Hpa,calm.,,4/8,-,4/8 AC,-,-,-,-,Scattered clouds
+IRANSHAHR,28/03/2020,15Z,26.5,26%,1012.4 Hpa,250º (W ),18.0,6/8,2/8 CU,AC,-,-,29.1,-,Cloudy
+IRANSHAHR,28/03/2020,12Z,29.1,22%,1011.5 Hpa,260º (W ),18.0,4/8,1/8 CU,-,CS,-,-,-,Scattered clouds
+IRANSHAHR,28/03/2020,09Z,26.8,30%,1014.2 Hpa,240º (SW),18.0,1/8,1/8 CU,-,-,-,-,-,Few clouds
+IRANSHAHR,28/03/2020,06Z,23.9,36%,1016.8 Hpa,240º (SW),7.2,1/8,1/8 CU,-,-,-,-,-,Few clouds
+IRANSHAHR,28/03/2020,03Z,17.2,59%,1015.9 Hpa,040º (NE),7.2,1/8,-,1/8 AC,-,-,-,15.7,Few clouds
+IRANSHAHR,28/03/2020,00Z,16.6,55%,1014.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+JASK,28/03/2020,21Z,23.8,81%,1012.1 Hpa,130º (SE),10.8,6/8,1/8 SC,AC,-,-,-,-,"Cloudy, mist"
+JASK,28/03/2020,18Z,24.1,77%,1013.0 Hpa,140º (SE),7.2,6/8,1/8 SC,AC,-,-,-,-,"Cloudy, haze"
+JASK,28/03/2020,15Z,24.4,76%,1012.5 Hpa,160º (S ),10.8,6/8,1/8 SC,AC,-,-,26.2,-,"Cloudy, haze"
+JASK,28/03/2020,12Z,25.8,222%,1012.4 Hpa,150º (SE),10.8,3/8,3/8 SC,-,-,-,-,-,"Scattered clouds, haze"
+JASK,28/03/2020,09Z,25.2,78%,1014.5 Hpa,120º (SE),14.4,0/8,-,-,-,-,-,-,"Clear, haze"
+JASK,28/03/2020,06Z,24.2,245%,1017.3 Hpa,100º (E ),10.8,3/8,3/8 ST,-,-,-,-,-,"Scattered clouds, mist"
+JASK,28/03/2020,03Z,22.0,80%,1015.0 Hpa,100º (E ),14.4,0/8,-,-,-,-,-,21.5,"Clear, haze"
+JASK,28/03/2020,00Z,21.8,78%,1014.2 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, haze"
+KAHNUJ,28/03/2020,21Z,20.7,56%,1007.4 Hpa,290º (W ),10.8,7/8,2/8 SC,AC,-,-,-,-,Cloudy
+KAHNUJ,28/03/2020,18Z,21.7,55%,1009.5 Hpa,280º (W ),7.2,7/8,1/8 SC,AC,-,-,-,-,Cloudy
+KAHNUJ,28/03/2020,15Z,23.9,44%,1009.2 Hpa,calm.,,7/8,1/8 SC,AC,-,-,27.6,-,Cloudy
+KAHNUJ,28/03/2020,12Z,27.0,35%,1008.7 Hpa,calm.,,7/8,2/8 SC,AC,-,-,-,-,Cloudy
+KAHNUJ,28/03/2020,09Z,26.7,39%,1010.8 Hpa,calm.,,7/8,2/8 SC,AC,-,-,-,-,Cloudy
+KAHNUJ,28/03/2020,06Z,23.5,51%,1013.0 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KAHNUJ,28/03/2020,03Z,14.9,82%,1011.8 Hpa,calm.,,3/8,-,-,CI,-,-,14.5,Scattered clouds
+KAHNUJ,28/03/2020,00Z,16.5,70%,1010.6 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KASHAN,28/03/2020,21Z,13.3,90%,1006.9 Hpa,130º (SE),10.8,7/8,3/8 SC,AC,-,-,-,-,Cloudy
+KASHAN,28/03/2020,18Z,13.8,90%,1008.8 Hpa,calm.,,7/8,3/8 SC,AC,-,0.4(6h),-,-,Cloudy
+KASHAN,28/03/2020,15Z,16.6,48%,1009.4 Hpa,170º (S ),14.4,8/8,4/8 CB,AC,,-,19.7,-,Overcast
+KASHAN,28/03/2020,12Z,19.2,35%,1009.6 Hpa,250º (W ),7.2,8/8,3/8 SC,AC,,-,-,-,Overcast
+KASHAN,28/03/2020,09Z,19.2,37%,1011.9 Hpa,020º (N),3.6,7/8,3/8 SC,AC,-,-,-,-,Cloudy
+KASHAN,28/03/2020,06Z,15.6,55%,1014.4 Hpa,010º (N),7.2,7/8,3/8 SC,AC,-,-,-,-,Cloudy
+KASHAN,28/03/2020,03Z,9.7,77%,1015.5 Hpa,220º (SW),3.6,3/8,-,3/8 AC,-,-,-,9.4,Scattered clouds
+KASHAN,28/03/2020,00Z,10.4,77%,1014.6 Hpa,230º (SW),3.6,3/8,-,3/8 AC,-,-,-,-,Scattered clouds
+KASHMAR,28/03/2020,21Z,11.9,54%,1012.9 Hpa,030º (NE),14.4,1/8,-,-,CI,-,-,-,Few clouds
+KASHMAR,28/03/2020,18Z,12.3,54%,1015.4 Hpa,calm.,,1/8,-,-,CI,-,-,-,Few clouds
+KASHMAR,28/03/2020,15Z,14.5,46%,1016.2 Hpa,130º (SE),7.2,1/8,-,-,CI,-,17.5,-,Few clouds
+KASHMAR,28/03/2020,12Z,17.0,40%,1015.6 Hpa,150º (SE),10.8,1/8,1/8 SC,-,CI,-,-,-,Few clouds
+KASHMAR,28/03/2020,09Z,14.9,46%,1018.0 Hpa,160º (S ),7.2,1/8,1/8 CU,-,-,-,-,-,Few clouds
+KASHMAR,28/03/2020,06Z,12.1,54%,1020.2 Hpa,130º (SE),10.8,1/8,1/8 CU,-,-,-,-,-,Few clouds
+KASHMAR,28/03/2020,03Z,6.2,90%,1020.5 Hpa,calm.,,3/8,1/8 SC,-,CI,-,-,5.5,Scattered clouds
+KASHMAR,28/03/2020,00Z,7.4,75%,1018.4 Hpa,calm.,,1/8,1/8 SC,-,-,-,-,-,Few clouds
+KERMAN,28/03/2020,21Z,10.0,75%,1010.3 Hpa,290º (W ),7.2,5/8,-,5/8 AC,-,-,-,-,Cloudy
+KERMAN,28/03/2020,18Z,10.0,79%,1013.6 Hpa,180º (S ),7.2,6/8,3/8 SC,AC,-,2.0(6h),-,-,Cloudy
+KERMAN,28/03/2020,15Z,10.6,76%,1015.4 Hpa,120º (SE),7.2,7/8,4/8 CB,AC,-,-,14.2,-,Cloudy
+KERMAN,28/03/2020,12Z,12.4,67%,1015.5 Hpa,180º (S ),14.4,7/8,4/8 CB,AC,-,0.2(6h),-,-,"Cloudy, rain"
+KERMAN,28/03/2020,09Z,11.8,52%,1018.3 Hpa,070º (E ),7.2,7/8,3/8 CB,AC,-,-,-,-,Cloudy
+KERMAN,28/03/2020,06Z,9.4,68%,1020.0 Hpa,110º (E ),7.2,7/8,3/8 SC,AC,-,0.5(24h),-,-,Cloudy
+KERMAN,28/03/2020,03Z,4.9,85%,1019.5 Hpa,130º (SE),7.2,7/8,3/8 SC,AC,-,-,-,4.3,Cloudy
+KERMAN,28/03/2020,00Z,4.3,86%,1018.6 Hpa,120º (SE),7.2,4/8,-,-,CI,-,-,-,Scattered clouds
+KERMANSHAH,28/03/2020,21Z,8.5,88%,1009.0 Hpa,110º (E ),7.2,6/8,2/8 SC,AC,-,-,-,-,Cloudy
+KERMANSHAH,28/03/2020,18Z,9.8,83%,1009.4 Hpa,calm.,,8/8,3/8 SC,AC,,-,-,-,Overcast
+KERMANSHAH,28/03/2020,15Z,10.5,75%,1009.4 Hpa,110º (E ),14.4,8/8,2/8 CB,AC,,-,13.0,-,"Overcast, rain"
+KERMANSHAH,28/03/2020,12Z,11.1,73%,1010.1 Hpa,110º (E ),18.0,8/8,1/8 ST,AC,,Tr(6h),-,-,Overcast
+KERMANSHAH,28/03/2020,09Z,12.3,63%,1012.1 Hpa,090º (E ),21.6,8/8,2/8 CB,AC,,-,-,-,"Overcast, rain"
+KERMANSHAH,28/03/2020,06Z,12.0,57%,1013.1 Hpa,100º (E ),21.6,8/8,1/8 CB,AC,,1.0(6h),-,-,Overcast
+KERMANSHAH,28/03/2020,03Z,10.6,69%,1012.2 Hpa,090º (E ),18.0,7/8,6/8 CB,AC,-,-,-,9.1,"Cloudy, rain"
+KERMANSHAH,28/03/2020,00Z,9.5,76%,1012.4 Hpa,200º (S ),7.2,7/8,6/8 CB,AC,-,0.1(6h),-,-,Cloudy
+KHARG,28/03/2020,15Z,24.1,64%,1006.5 Hpa,120º (SE),14.4,8/8,3/8 SC,AC,,-,27.1,-,"Overcast, rain"
+KHARG,28/03/2020,12Z,23.4,72%,1007.9 Hpa,150º (SE),21.6,8/8,3/8 SC,AC,,0.4(6h),-,-,Overcast
+KHARG,28/03/2020,09Z,25.1,59%,1009.1 Hpa,150º (SE),36.0,7/8,3/8 SC,AC,-,-,-,-,Cloudy
+KHARG,28/03/2020,06Z,23.5,64%,1011.9 Hpa,130º (SE),10.8,8/8,3/8 SC,AC,,-,-,-,Overcast
+KHARG,28/03/2020,03Z,21.8,80%,1008.3 Hpa,110º (E ),18.0,7/8,3/8 SC,AC,-,-,-,20.8,Cloudy
+KHOR,28/03/2020,21Z,18.6,47%,1006.1 Hpa,180º (S ),18.0,8/8,4/8 CB,AC,,-,-,-,Overcast
+KHOR,28/03/2020,18Z,19.8,37%,1007.5 Hpa,190º (S ),10.8,8/8,4/8 SC,AC,,-,-,-,Overcast
+KHOR,28/03/2020,15Z,21.0,31%,1009.7 Hpa,calm.,,7/8,3/8 CB,AC,CI,-,24.6,-,Cloudy
+KHOR,28/03/2020,12Z,24.2,24%,1009.9 Hpa,calm.,,5/8,1/8 CU,AC,CI,-,-,-,Cloudy
+KHOR,28/03/2020,09Z,21.4,27%,1013.4 Hpa,120º (SE),7.2,3/8,-,1/8 AC,CI,-,-,-,Scattered clouds
+KHOR,28/03/2020,06Z,19.6,33%,1016.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KHOR,28/03/2020,03Z,10.4,55%,1016.5 Hpa,calm.,,3/8,-,1/8 AC,CI,-,-,10.2,Scattered clouds
+KHOR,28/03/2020,00Z,11.2,50%,1015.8 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KHORRAM ABAD,28/03/2020,21Z,9.1,96%,1009.0 Hpa,150º (SE),10.8,8/8,6/8 CB,AC,,-,-,-,"Overcast, rain"
+KHORRAM ABAD,28/03/2020,18Z,9.9,93%,1010.0 Hpa,280º (W ),7.2,8/8,6/8 CB,AC,,3.0(6h),-,-,"Overcast, rain"
+KHORRAM ABAD,28/03/2020,15Z,10.7,89%,1010.5 Hpa,250º (W ),10.8,8/8,6/8 CB,AC,,-,15.9,-,"Overcast, rain"
+KHORRAM ABAD,28/03/2020,12Z,10.9,94%,1011.9 Hpa,270º (W ),14.4,8/8,6/8 CB,AC,,3.0(6h),-,-,"Overcast, rain"
+KHORRAM ABAD,28/03/2020,09Z,14.6,61%,1012.4 Hpa,090º (E ),10.8,8/8,6/8 CB,AC,,-,-,-,Overcast
+KHORRAM ABAD,28/03/2020,06Z,12.5,72%,1013.7 Hpa,130º (SE),7.2,8/8,6/8 CB,AC,,0.4(6h),-,-,Overcast
+KHORRAM ABAD,28/03/2020,03Z,9.9,91%,1014.1 Hpa,310º (NW),7.2,8/8,4/8 CB,AC,,-,-,9.9,"Overcast, rain"
+KHORRAM ABAD,28/03/2020,00Z,10.7,77%,1013.6 Hpa,calm.,,4/8,-,4/8 AC,-,-,-,-,Scattered clouds
+KHOY,28/03/2020,21Z,8.3,84%,1007.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KHOY,28/03/2020,18Z,10.6,72%,1008.3 Hpa,180º (S ),14.4,1/8,1/8 SC,-,-,-,-,-,Few clouds
+KHOY,28/03/2020,15Z,13.3,62%,1008.4 Hpa,180º (S ),18.0,4/8,4/8 CB,-,-,-,14.0,-,Scattered clouds
+KHOY,28/03/2020,12Z,13.5,62%,1009.4 Hpa,190º (S ),32.4,7/8,4/8 SC,AC,-,-,-,-,Cloudy
+KHOY,28/03/2020,09Z,13.4,63%,1011.1 Hpa,140º (SE),7.2,7/8,5/8 CB,AC,-,-,-,-,Cloudy
+KHOY,28/03/2020,06Z,10.8,73%,1012.7 Hpa,calm.,,7/8,5/8 CB,AC,-,-,-,-,Cloudy
+KHOY,28/03/2020,03Z,8.3,84%,1013.6 Hpa,120º (SE),14.4,6/8,4/8 SC,AC,-,-,-,8.2,Cloudy
+KHOY,28/03/2020,00Z,10.1,73%,1013.3 Hpa,270º (W ),18.0,7/8,4/8 SC,AC,-,-,-,-,Cloudy
+KISH ISLAND,28/03/2020,21Z,23.4,67%,1009.0 Hpa,080º (E ),25.2,7/8,3/8 CB,AC,-,-,-,-,"Cloudy, haze"
+KISH ISLAND,28/03/2020,18Z,25.0,52%,1009.4 Hpa,090º (E ),32.4,5/8,-,5/8 AC,-,-,-,-,"Cloudy, haze"
+KISH ISLAND,28/03/2020,15Z,25.8,50%,1010.3 Hpa,060º (NE),21.6,8/8,5/8 CB,AC,-,-,28.0,-,"Overcast, haze"
+KISH ISLAND,28/03/2020,12Z,25.6,59%,1012.0 Hpa,070º (E ),10.8,8/8,4/8 CB,AC,,-,-,-,"Overcast, haze"
+KISH ISLAND,28/03/2020,09Z,26.8,48%,1013.8 Hpa,110º (E ),36.0,8/8,8/8 CB,,,-,-,-,"Overcast, haze"
+KISH ISLAND,28/03/2020,06Z,25.8,61%,1014.2 Hpa,110º (E ),36.0,7/8,6/8 SC,-,CI,-,-,-,"Cloudy, haze"
+KISH ISLAND,28/03/2020,03Z,23.0,66%,1012.4 Hpa,110º (E ),25.2,7/8,6/8 SC,-,CI,-,-,22.6,"Cloudy, haze"
+KISH ISLAND,28/03/2020,00Z,23.8,60%,1011.6 Hpa,080º (E ),18.0,2/8,2/8 CU,-,-,-,-,-,"Few clouds, haze"
+MAKKO,28/03/2020,21Z,7.3,84%,1008.2 Hpa,calm.,,4/8,4/8 SC,-,-,-,-,-,Scattered clouds
+MAKKO,28/03/2020,18Z,9.6,76%,1008.0 Hpa,calm.,,8/8,6/8 CB,AC,,-,-,-,Overcast
+MAKKO,28/03/2020,15Z,9.3,83%,1008.6 Hpa,calm.,,7/8,7/8 CB,-,-,-,14.2,-,"Cloudy, rain"
+MAKKO,28/03/2020,12Z,13.0,53%,1008.3 Hpa,120º (SE),21.6,8/8,6/8 SC,AC,,-,-,-,Overcast
+MAKKO,28/03/2020,09Z,10.6,60%,-,110º (E ),14.4,8/8,3/8 SC,AC,,-,-,-,Overcast
+MAKKO,28/03/2020,06Z,8.7,66%,1013.1 Hpa,calm.,,4/8,4/8 SC,-,-,-,-,-,Scattered clouds
+MAKKO,28/03/2020,03Z,6.6,70%,1012.4 Hpa,calm.,,2/8,2/8 SC,-,-,-,-,6.4,Few clouds
+MAKKO,28/03/2020,00Z,7.4,73%,1013.2 Hpa,calm.,,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+MARAGHEH,28/03/2020,21Z,9.5,84%,1006.3 Hpa,080º (E ),14.4,7/8,3/8 SC,AC,-,-,-,-,"Cloudy, rain"
+MARAGHEH,28/03/2020,18Z,8.6,83%,1007.9 Hpa,080º (E ),14.4,4/8,1/8 SC,AC,-,-,-,-,Scattered clouds
+MARAGHEH,28/03/2020,15Z,10.6,80%,1008.9 Hpa,100º (E ),10.8,6/8,6/8 CB,-,-,-,14.3,-,Cloudy
+MARAGHEH,28/03/2020,12Z,12.0,70%,1009.7 Hpa,230º (SW),7.2,8/8,7/8 CB,AC,,Tr(6h),-,-,"Overcast, rain showers"
+MARAGHEH,28/03/2020,09Z,12.8,62%,1010.9 Hpa,120º (SE),18.0,8/8,8/8 CB,AC,,-,-,-,"Overcast, rain showers"
+MARAGHEH,28/03/2020,06Z,10.9,72%,1013.2 Hpa,110º (E ),18.0,8/8,5/8 ST,AC,,1.7(24h),-,-,Overcast
+MARAGHEH,28/03/2020,03Z,7.3,81%,1014.4 Hpa,100º (E ),14.4,7/8,4/8 ST,-,CI,-,-,6.7,Cloudy
+MARAGHEH,28/03/2020,00Z,7.9,76%,1013.4 Hpa,090º (E ),14.4,6/8,2/8 SC,-,CI,-,-,-,Cloudy
+MARAVEH-TAPPEH,28/03/2020,21Z,12.0,78%,1012.8 Hpa,180º (S ),7.2,3/8,-,3/8 AC,-,-,-,-,"Scattered clouds, rain showers"
+MARAVEH-TAPPEH,28/03/2020,18Z,13.5,66%,1014.7 Hpa,150º (SE),10.8,2/8,-,-,CI,-,-,-,Few clouds
+MARAVEH-TAPPEH,28/03/2020,15Z,15.4,58%,1015.3 Hpa,calm.,,2/8,-,-,CI,-,18.9,-,Few clouds
+MARAVEH-TAPPEH,28/03/2020,12Z,18.2,49%,1016.0 Hpa,290º (W ),7.2,0/8,-,-,-,-,-,-,Clear
+MARAVEH-TAPPEH,28/03/2020,09Z,17.2,52%,1018.1 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+MARAVEH-TAPPEH,28/03/2020,06Z,14.7,54%,1020.4 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+MARAVEH-TAPPEH,28/03/2020,03Z,8.9,69%,1021.5 Hpa,150º (SE),10.8,1/8,-,1/8 AC,-,-,-,7.7,Few clouds
+MARAVEH-TAPPEH,28/03/2020,00Z,8.1,73%,1021.3 Hpa,150º (SE),10.8,0/8,-,-,-,-,-,-,Clear
+MASHHAD,28/03/2020,21Z,9.3,67%,1014.8 Hpa,calm.,,3/8,-,-,CI,-,-,-,Scattered clouds
+MASHHAD,28/03/2020,18Z,10.6,58%,1016.9 Hpa,180º (S ),10.8,0/8,-,-,-,-,-,-,Clear
+MASHHAD,28/03/2020,15Z,13.4,44%,1017.0 Hpa,120º (SE),18.0,6/8,1/8 CU,-,CI,-,17.1,-,Cloudy
+MASHHAD,28/03/2020,12Z,16.3,31%,1016.9 Hpa,120º (SE),18.0,2/8,1/8 CU,-,CI,-,-,-,Few clouds
+MASHHAD,28/03/2020,09Z,15.4,42%,1018.1 Hpa,090º (E ),10.8,2/8,1/8 CU,-,CI,-,-,-,Few clouds
+MASHHAD,28/03/2020,06Z,11.2,50%,1021.2 Hpa,110º (E ),7.2,0/8,-,-,-,-,-,-,Clear
+MASHHAD,28/03/2020,03Z,6.2,65%,1021.3 Hpa,180º (S ),7.2,0/8,-,-,-,-,-,3.8,Clear
+MASHHAD,28/03/2020,00Z,4.4,77%,1020.9 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+MASJED-SOLEYMAN,28/03/2020,21Z,16.4,83%,1004.3 Hpa,340º (N ),10.8,6/8,6/8 CB,-,-,-,-,-,"Cloudy, thunderstorm"
+MASJED-SOLEYMAN,28/03/2020,18Z,18.8,56%,1004.1 Hpa,200º (S ),3.6,2/8,2/8 SC,-,-,0.5(6h),-,-,Few clouds
+MASJED-SOLEYMAN,28/03/2020,15Z,18.6,63%,1006.7 Hpa,100º (E ),10.8,5/8,5/8 SC,-,-,-,22.2,-,Cloudy
+MASJED-SOLEYMAN,28/03/2020,12Z,19.8,64%,1007.8 Hpa,100º (E ),14.4,6/8,3/8 SC,AC,-,2.0(6h),-,-,Cloudy
+MASJED-SOLEYMAN,28/03/2020,09Z,20.6,47%,1008.6 Hpa,090º (E ),18.0,8/8,4/8 CB,AC,,-,-,-,Overcast
+MASJED-SOLEYMAN,28/03/2020,06Z,20.4,46%,1011.8 Hpa,150º (SE),7.2,8/8,3/8 SC,AC,,0.1(6h),-,-,"Overcast, rain"
+MASJED-SOLEYMAN,28/03/2020,03Z,20.2,42%,1010.1 Hpa,310º (NW),7.2,8/8,4/8 SC,AC,,-,-,18.0,Overcast
+MASJED-SOLEYMAN,28/03/2020,00Z,19.7,45%,1009.8 Hpa,030º (NE),10.8,4/8,4/8 SC,-,-,-,-,-,Scattered clouds
+MEYANEH,28/03/2020,21Z,10.0,82%,1008.2 Hpa,calm.,,6/8,2/8 SC,AC,-,-,-,-,Cloudy
+MEYANEH,28/03/2020,18Z,10.2,78%,1010.2 Hpa,090º (E ),7.2,5/8,2/8 SC,AC,-,3.0(6h),-,-,Cloudy
+MEYANEH,28/03/2020,15Z,10.8,90%,1011.4 Hpa,calm.,,7/8,5/8 CB,AC,-,-,18.6,-,"Cloudy, rain showers"
+MEYANEH,28/03/2020,12Z,16.2,51%,1009.3 Hpa,180º (S ),18.0,6/8,5/8 CB,AC,-,-,-,-,Cloudy
+MEYANEH,28/03/2020,09Z,18.0,47%,1011.5 Hpa,calm.,,4/8,3/8 CU,-,CI,-,-,-,Scattered clouds
+MEYANEH,28/03/2020,06Z,12.2,69%,1015.1 Hpa,calm.,,3/8,1/8 CU,-,CI,Tr(24h),-,-,Scattered clouds
+MEYANEH,28/03/2020,03Z,6.0,91%,1016.2 Hpa,calm.,,4/8,2/8 CU,-,CI,-,-,5.0,Scattered clouds
+MEYANEH,28/03/2020,00Z,7.2,83%,1015.8 Hpa,calm.,,5/8,3/8 CU,-,CI,-,-,-,Cloudy
+MOHABAD,28/03/2020,21Z,9.3,87%,1007.7 Hpa,calm.,,8/8,5/8 CB,AC,,-,-,-,"Overcast, rain"
+MOHABAD,28/03/2020,18Z,8.5,87%,1009.3 Hpa,calm.,,7/8,4/8 SC,AC,-,Tr(6h),-,-,Cloudy
+MOHABAD,28/03/2020,15Z,10.3,78%,1009.5 Hpa,calm.,,6/8,3/8 SC,-,CI,-,11.6,-,Cloudy
+MOHABAD,28/03/2020,12Z,9.3,80%,1011.0 Hpa,290º (W ),7.2,8/8,5/8 CB,AC,,0.8(6h),-,-,"Overcast, rain showers"
+MOHABAD,28/03/2020,09Z,11.4,66%,1011.7 Hpa,240º (SW),10.8,8/8,5/8 CB,AC,,-,-,-,Overcast
+MOHABAD,28/03/2020,06Z,10.8,70%,1013.5 Hpa,calm.,,8/8,4/8 SC,AC,,1.0(6h),-,-,Overcast
+MOHABAD,28/03/2020,03Z,8.0,89%,1013.9 Hpa,calm.,,8/8,5/8 CB,AC,,-,-,8.0,Overcast
+MOHABAD,28/03/2020,00Z,8.7,79%,1013.4 Hpa,calm.,,3/8,3/8 CB,-,-,-,-,-,Scattered clouds
+NEHBANDAN,28/03/2020,21Z,15.2,31%,1010.4 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+NEHBANDAN,28/03/2020,18Z,16.3,28%,1012.2 Hpa,calm.,,3/8,-,-,CI,-,-,-,Scattered clouds
+NEHBANDAN,28/03/2020,15Z,19.0,20%,1012.9 Hpa,calm.,,7/8,1/8 CU,AC,-,-,22.5,-,Cloudy
+NEHBANDAN,28/03/2020,12Z,21.9,16%,1012.2 Hpa,240º (SW),10.8,4/8,2/8 CU,-,-,-,-,-,Scattered clouds
+NEHBANDAN,28/03/2020,09Z,20.5,19%,1013.9 Hpa,240º (SW),21.6,2/8,2/8 CU,-,-,-,-,-,Few clouds
+NEHBANDAN,28/03/2020,06Z,17.5,28%,1016.1 Hpa,calm.,,0/8,-,-,-,0.1(24h),-,-,Clear
+NEHBANDAN,28/03/2020,03Z,8.8,50%,1016.6 Hpa,calm.,,0/8,-,-,-,-,-,7.0,Clear
+NEHBANDAN,28/03/2020,00Z,8.9,49%,1014.6 Hpa,calm.,,1/8,-,1/8 AC,-,-,-,-,Few clouds
+NOSHAHR,28/03/2020,21Z,12.0,92%,1014.2 Hpa,calm.,,8/8,8/8 ST,,,-,-,-,"Overcast, mist"
+NOSHAHR,28/03/2020,18Z,12.0,89%,1015.6 Hpa,calm.,,6/8,6/8 SC,-,-,-,-,-,"Cloudy, mist"
+NOSHAHR,28/03/2020,15Z,12.4,88%,1015.8 Hpa,170º (S ),3.6,8/8,8/8 ST,,,-,15.0,-,"Overcast, mist"
+NOSHAHR,28/03/2020,12Z,13.0,83%,1016.6 Hpa,060º (NE),7.2,8/8,8/8 ST,,,-,-,-,Overcast
+NOSHAHR,28/03/2020,09Z,13.6,81%,1018.3 Hpa,030º (NE),10.8,7/8,7/8 ST,-,-,-,-,-,Cloudy
+NOSHAHR,28/03/2020,06Z,13.6,79%,1019.6 Hpa,360º (N ),7.2,2/8,2/8 ST,-,-,-,-,-,Few clouds
+NOSHAHR,28/03/2020,03Z,11.2,89%,1019.8 Hpa,calm.,,7/8,5/8 SC,AC,-,-,-,11.0,Cloudy
+NOSHAHR,28/03/2020,00Z,11.6,89%,1019.8 Hpa,calm.,,7/8,7/8 ST,-,-,-,-,-,Cloudy
+OMIDYEH-AGHAJARI,28/03/2020,21Z,23.9,47%,1004.9 Hpa,120º (SE),36.0,5/8,5/8 SC,-,-,-,-,-,Cloudy
+OMIDYEH-AGHAJARI,28/03/2020,18Z,22.6,54%,1004.9 Hpa,120º (SE),54.0,6/8,6/8 CB,-,-,6.0(6h),-,-,Cloudy
+OMIDYEH-AGHAJARI,28/03/2020,15Z,20.9,64%,1005.8 Hpa,120º (SE),43.2,6/8,6/8 CB,-,-,-,29.4,-,Cloudy
+OMIDYEH-AGHAJARI,28/03/2020,12Z,25.0,44%,1007.9 Hpa,140º (SE),50.4,8/8,6/8 CB,AC,,0.1(6h),-,-,Overcast
+OMIDYEH-AGHAJARI,28/03/2020,09Z,27.5,31%,1009.1 Hpa,130º (SE),39.6,7/8,2/8 CB,AC,-,-,-,-,Cloudy
+OMIDYEH-AGHAJARI,28/03/2020,06Z,27.5,27%,1009.6 Hpa,120º (SE),46.8,7/8,5/8 CB,AC,-,-,-,-,"Cloudy, dust"
+OMIDYEH-AGHAJARI,28/03/2020,03Z,22.0,45%,1010.6 Hpa,330º (NW),7.2,8/8,6/8 CB,AC,,-,-,15.8,Overcast
+OMIDYEH-AGHAJARI,28/03/2020,00Z,20.2,62%,1010.3 Hpa,350º (N ),3.6,8/8,4/8 SC,AC,,-,-,-,Overcast
+ORUMIEH,28/03/2020,21Z,6.8,95%,1007.9 Hpa,300º (NW),7.2,4/8,4/8 CB,-,-,-,-,-,Scattered clouds
+ORUMIEH,28/03/2020,18Z,6.4,97%,1009.7 Hpa,350º (N ),7.2,3/8,3/8 CB,-,-,-,-,-,Scattered clouds
+ORUMIEH,28/03/2020,15Z,11.0,72%,1008.7 Hpa,160º (S ),10.8,5/8,4/8 CB,AC,-,-,13.6,-,Cloudy
+ORUMIEH,28/03/2020,12Z,11.2,79%,1009.9 Hpa,110º (E ),7.2,6/8,5/8 CB,AC,-,1.0(6h),-,-,Cloudy
+ORUMIEH,28/03/2020,09Z,9.8,80%,1011.9 Hpa,170º (S ),14.4,8/8,6/8 CB,AC,,-,-,-,Overcast
+ORUMIEH,28/03/2020,06Z,7.4,98%,1014.2 Hpa,360º (N ),7.2,8/8,6/8 CB,AC,,0.6(6h),-,-,"Overcast, rain"
+ORUMIEH,28/03/2020,03Z,5.6,100%,1013.9 Hpa,calm.,,7/8,4/8 CB,AC,-,-,-,4.8,"Cloudy, mist"
+ORUMIEH,28/03/2020,00Z,6.4,94%,1014.2 Hpa,270º (W ),7.2,8/8,4/8 CB,AC,,-,-,-,"Overcast, mist"
+PARS ABAD MOGHAN,28/03/2020,21Z,9.5,94%,1014.1 Hpa,100º (E ),10.8,8/8,5/8 CB,AC,,-,-,-,Overcast
+PARS ABAD MOGHAN,28/03/2020,18Z,10.7,88%,1015.5 Hpa,130º (SE),14.4,7/8,5/8 CB,AC,-,-,-,-,Cloudy
+PARS ABAD MOGHAN,28/03/2020,15Z,13.0,77%,1014.9 Hpa,150º (SE),18.0,7/8,5/8 CB,AC,-,-,14.9,-,Cloudy
+PARS ABAD MOGHAN,28/03/2020,12Z,14.4,67%,1015.6 Hpa,120º (SE),10.8,7/8,6/8 CB,AC,-,-,-,-,Cloudy
+PARS ABAD MOGHAN,28/03/2020,09Z,12.2,88%,1018.5 Hpa,230º (SW),7.2,7/8,6/8 ST,AC,-,-,-,-,"Cloudy, drizzle"
+PARS ABAD MOGHAN,28/03/2020,06Z,9.6,94%,1020.1 Hpa,250º (W ),10.8,8/8,6/8 ST,AC,,Tr(6h),-,-,"Overcast, drizzle"
+PARS ABAD MOGHAN,28/03/2020,03Z,9.4,96%,1019.9 Hpa,calm.,,8/8,8/8 ST,,,-,-,8.1,"Overcast, mist"
+PARS ABAD MOGHAN,28/03/2020,00Z,9.4,96%,1021.1 Hpa,calm.,,8/8,8/8 ST,,,-,-,-,Overcast
+RAMSAR,28/03/2020,21Z,12.2,88%,1013.4 Hpa,240º (SW),3.6,6/8,6/8 CB,AC,-,-,-,-,Cloudy
+RAMSAR,28/03/2020,18Z,12.4,90%,1014.8 Hpa,220º (SW),3.6,7/8,6/8 CB,AC,-,-,-,-,"Cloudy, mist"
+RAMSAR,28/03/2020,15Z,12.6,90%,1015.1 Hpa,100º (E ),3.6,7/8,7/8 CB,AC,-,-,14.8,-,"Cloudy, mist"
+RAMSAR,28/03/2020,12Z,13.2,85%,1015.6 Hpa,110º (E ),3.6,6/8,6/8 CB,-,-,-,-,-,Cloudy
+RAMSAR,28/03/2020,09Z,14.2,80%,1017.5 Hpa,050º (NE),10.8,2/8,2/8 CU,-,-,-,-,-,Few clouds
+RAMSAR,28/03/2020,06Z,12.2,90%,1019.2 Hpa,090º (E ),3.6,6/8,6/8 CB,-,-,-,-,-,Cloudy
+RAMSAR,28/03/2020,03Z,8.8,97%,1019.0 Hpa,calm.,,5/8,4/8 SC,-,CI,-,-,8.0,Cloudy
+RAMSAR,28/03/2020,00Z,8.2,97%,1018.9 Hpa,calm.,,1/8,1/8 SC,-,-,-,-,-,Few clouds
+RASHT,28/03/2020,21Z,11.0,89%,1014.2 Hpa,calm.,,8/8,5/8 SC,AC,,-,-,-,"Overcast, mist"
+RASHT,28/03/2020,18Z,11.8,87%,1015.7 Hpa,calm.,,8/8,6/8 CB,AC,,0.4(6h),-,-,"Overcast, mist"
+RASHT,28/03/2020,15Z,12.4,80%,1015.7 Hpa,350º (N ),7.2,8/8,6/8 CB,AC,,-,15.0,-,"Overcast, mist"
+RASHT,28/03/2020,12Z,13.2,83%,1015.9 Hpa,340º (N ),14.4,8/8,6/8 CB,AC,,-,-,-,"Overcast, mist"
+RASHT,28/03/2020,09Z,14.4,75%,1018.0 Hpa,220º (SW),7.2,8/8,5/8 CB,AC,,-,-,-,"Overcast, haze"
+RASHT,28/03/2020,06Z,11.8,92%,1019.8 Hpa,020º (N),7.2,8/8,5/8 CB,AC,,-,-,-,"Overcast, mist"
+RASHT,28/03/2020,03Z,9.8,97%,1019.9 Hpa,calm.,,8/8,8/8 ST,,,-,-,8.4,"Overcast, mist"
+RASHT,28/03/2020,00Z,9.8,97%,1019.8 Hpa,calm.,,6/8,6/8 SC,-,-,-,-,-,"Cloudy, mist"
+SABZEVAR,28/03/2020,21Z,12.6,49%,1010.6 Hpa,070º (E ),21.6,0/8,-,-,-,-,-,-,Clear
+SABZEVAR,28/03/2020,18Z,14.1,44%,1012.6 Hpa,060º (NE),10.8,2/8,1/8 SC,-,CI,-,-,-,Few clouds
+SABZEVAR,28/03/2020,15Z,17.0,32%,1013.1 Hpa,calm.,,1/8,1/8 SC,-,CI,-,19.7,-,Few clouds
+SABZEVAR,28/03/2020,12Z,19.3,27%,1013.2 Hpa,260º (W ),7.2,5/8,1/8 SC,-,CI,-,-,-,Cloudy
+SABZEVAR,28/03/2020,09Z,17.8,33%,1015.3 Hpa,240º (SW),10.8,4/8,1/8 CU,-,CI,-,-,-,Scattered clouds
+SABZEVAR,28/03/2020,06Z,13.9,47%,1018.0 Hpa,080º (E ),14.4,0/8,-,-,-,-,-,-,Clear
+SABZEVAR,28/03/2020,03Z,7.6,59%,1018.2 Hpa,080º (E ),25.2,0/8,-,-,-,-,-,7.0,Clear
+SABZEVAR,28/03/2020,00Z,8.1,61%,1017.3 Hpa,080º (E ),7.2,3/8,-,-,CI,-,-,-,Scattered clouds
+SAFI-ABAD DEZFUL,28/03/2020,21Z,16.0,84%,1007.6 Hpa,240º (SW),18.0,7/8,5/8 CB,AC,-,-,-,-,"Cloudy, thunderstorm"
+SAFI-ABAD DEZFUL,28/03/2020,18Z,16.9,84%,1006.9 Hpa,020º (N),18.0,7/8,5/8 CB,AC,-,2.0(6h),-,-,"Cloudy, thunderstorm no precipitation"
+SAFI-ABAD DEZFUL,28/03/2020,15Z,16.2,95%,1007.6 Hpa,050º (NE),18.0,7/8,5/8 CB,AC,-,-,21.1,-,Cloudy
+SAFI-ABAD DEZFUL,28/03/2020,12Z,17.0,92%,1010.1 Hpa,030º (NE),18.0,8/8,4/8 CB,AC,,5.0(6h),-,-,"Overcast, rain"
+SAFI-ABAD DEZFUL,28/03/2020,09Z,18.6,80%,1011.6 Hpa,330º (NW),10.8,8/8,4/8 CB,AC,,-,-,-,"Overcast, rain"
+SAFI-ABAD DEZFUL,28/03/2020,06Z,17.8,88%,1013.0 Hpa,250º (W ),3.6,8/8,3/8 CB,AC,,Tr(6h),-,-,"Overcast, rain showers"
+SAFI-ABAD DEZFUL,28/03/2020,03Z,15.9,86%,1011.0 Hpa,050º (NE),10.8,8/8,4/8 SC,AC,,-,-,15.6,Overcast
+SAFI-ABAD DEZFUL,28/03/2020,00Z,17.8,71%,1011.0 Hpa,050º (NE),18.0,8/8,3/8 SC,AC,,-,-,-,Overcast
+SAGHEZ,28/03/2020,21Z,8.5,87%,1007.4 Hpa,200º (S ),7.2,7/8,3/8 SC,AC,-,-,-,-,Cloudy
+SAGHEZ,28/03/2020,18Z,9.8,79%,1008.9 Hpa,calm.,,6/8,4/8 SC,AC,-,-,-,-,Cloudy
+SAGHEZ,28/03/2020,15Z,11.8,70%,1008.7 Hpa,170º (S ),10.8,6/8,4/8 CB,AC,-,-,12.9,-,Cloudy
+SAGHEZ,28/03/2020,12Z,12.6,66%,1009.3 Hpa,200º (S ),14.4,7/8,6/8 CB,AC,-,0.3(6h),-,-,Cloudy
+SAGHEZ,28/03/2020,09Z,11.3,72%,1011.7 Hpa,170º (S ),18.0,6/8,5/8 CB,AC,-,-,-,-,Cloudy
+SAGHEZ,28/03/2020,06Z,8.0,85%,1014.8 Hpa,160º (S ),7.2,8/8,7/8 CB,AC,,1.0(6h),-,-,"Overcast, rain showers"
+SAGHEZ,28/03/2020,03Z,6.7,92%,1014.7 Hpa,200º (S ),7.2,8/8,3/8 CB,AC,,-,-,6.4,Overcast
+SAGHEZ,28/03/2020,00Z,7.0,88%,1015.4 Hpa,180º (S ),7.2,6/8,3/8 CB,-,CI,0.2(6h),-,-,"Cloudy, rain showers"
+SANANDAJ,28/03/2020,21Z,9.0,87%,1008.7 Hpa,calm.,,8/8,6/8 ST,AC,,-,-,-,"Overcast, mist"
+SANANDAJ,28/03/2020,18Z,9.6,86%,1010.1 Hpa,calm.,,8/8,6/8 ST,AC,,0.2(6h),-,-,"Overcast, rain"
+SANANDAJ,28/03/2020,15Z,11.0,72%,1009.2 Hpa,calm.,,8/8,6/8 ST,AC,,-,11.4,-,Overcast
+SANANDAJ,28/03/2020,12Z,11.0,69%,1010.2 Hpa,200º (S ),7.2,8/8,6/8 CB,AC,,1.0(6h),-,-,Overcast
+SANANDAJ,28/03/2020,09Z,11.0,74%,1012.4 Hpa,270º (W ),7.2,8/8,7/8 CB,AC,,-,-,-,"Overcast, rain"
+SANANDAJ,28/03/2020,06Z,8.4,87%,1014.2 Hpa,calm.,,8/8,6/8 ST,AC,,3.0(6h),-,-,"Overcast, rain"
+SANANDAJ,28/03/2020,03Z,8.7,78%,1013.2 Hpa,Vble.,,8/8,4/8 SC,AC,,-,-,8.7,"Overcast, rain"
+SANANDAJ,28/03/2020,00Z,9.6,69%,1013.1 Hpa,050º (NE),7.2,8/8,2/8 SC,AC,,Tr(6h),-,-,Overcast
+SARAB,28/03/2020,21Z,7.8,74%,1006.4 Hpa,150º (SE),7.2,7/8,3/8 CB,AC,-,-,-,-,Cloudy
+SARAB,28/03/2020,18Z,7.4,71%,1009.5 Hpa,080º (E ),14.4,4/8,2/8 CB,AC,-,Tr(6h),-,-,Scattered clouds
+SARAB,28/03/2020,15Z,10.0,65%,1011.7 Hpa,120º (SE),7.2,7/8,6/8 CB,AC,-,-,15.8,-,Cloudy
+SARAB,28/03/2020,12Z,13.8,41%,1009.4 Hpa,240º (SW),7.2,7/8,6/8 CB,AC,-,-,-,-,Cloudy
+SARAB,28/03/2020,09Z,14.2,39%,1011.1 Hpa,calm.,,5/8,4/8 CU,-,CI,-,-,-,Cloudy
+SARAB,28/03/2020,06Z,10.0,58%,1013.7 Hpa,240º (SW),10.8,3/8,1/8 SC,-,CI,Tr(24h),-,-,Scattered clouds
+SARAB,28/03/2020,03Z,0.2,89%,1016.9 Hpa,calm.,,5/8,2/8 SC,AC,CI,-,-,-0.2,Cloudy
+SARAB,28/03/2020,00Z,2.2,84%,1016.3 Hpa,calm.,,3/8,2/8 CB,AC,-,-,-,-,Scattered clouds
+SARAKHS,28/03/2020,21Z,11.8,66%,1017.1 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SARAKHS,28/03/2020,18Z,15.2,51%,1017.6 Hpa,calm.,,2/8,-,-,CI,-,-,-,Few clouds
+SARAKHS,28/03/2020,15Z,18.0,40%,1017.8 Hpa,calm.,,2/8,-,-,CI,-,20.6,-,Few clouds
+SARAKHS,28/03/2020,12Z,20.4,33%,1018.1 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SARAKHS,28/03/2020,09Z,18.7,33%,1019.9 Hpa,110º (E ),21.6,0/8,-,-,-,-,-,-,Clear
+SARAKHS,28/03/2020,06Z,15.8,43%,1022.5 Hpa,170º (S ),7.2,0/8,-,-,-,-,-,-,Clear
+SARAKHS,28/03/2020,03Z,5.7,83%,1022.9 Hpa,190º (S ),7.2,0/8,-,-,-,-,-,4.6,Clear
+SARAKHS,28/03/2020,00Z,5.5,82%,1021.6 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SARAVAN,28/03/2020,21Z,15.0,62%,1013.7 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SARAVAN,28/03/2020,18Z,20.2,32%,1014.6 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SARAVAN,28/03/2020,15Z,21.2,33%,1014.7 Hpa,310º (NW),7.2,2/8,2/8 SC,-,-,-,24.9,-,Few clouds
+SARAVAN,28/03/2020,12Z,24.2,25%,1013.8 Hpa,340º (N ),7.2,3/8,3/8 CU,-,-,-,-,-,Scattered clouds
+SARAVAN,28/03/2020,09Z,23.1,28%,1015.7 Hpa,310º (NW),14.4,3/8,3/8 CU,-,-,-,-,-,Scattered clouds
+SARAVAN,28/03/2020,06Z,19.7,40%,1018.5 Hpa,290º (W ),7.2,1/8,1/8 CU,-,-,2.5(24h),-,-,Few clouds
+SARAVAN,28/03/2020,03Z,12.3,80%,1018.9 Hpa,calm.,,0/8,-,-,-,-,-,10.3,Clear
+SARAVAN,28/03/2020,00Z,11.8,78%,1016.8 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SEMNAN,28/03/2020,21Z,15.6,38%,1008.7 Hpa,calm.,,7/8,2/8 SC,-,CI,-,-,-,Cloudy
+SEMNAN,28/03/2020,18Z,16.0,42%,1010.0 Hpa,060º (NE),3.6,6/8,2/8 SC,-,CI,-,-,-,Cloudy
+SEMNAN,28/03/2020,15Z,17.8,30%,1011.2 Hpa,180º (S ),3.6,6/8,3/8 SC,-,CI,-,18.8,-,Cloudy
+SEMNAN,28/03/2020,12Z,18.4,31%,1012.0 Hpa,180º (S ),7.2,6/8,3/8 SC,AC,-,-,-,-,Cloudy
+SEMNAN,28/03/2020,09Z,18.0,34%,1014.1 Hpa,240º (SW),3.6,5/8,3/8 SC,AC,-,-,-,-,Cloudy
+SEMNAN,28/03/2020,06Z,15.2,42%,1016.1 Hpa,180º (S ),3.6,2/8,1/8 SC,-,CI,-,-,-,Few clouds
+SEMNAN,28/03/2020,03Z,9.5,69%,1016.8 Hpa,030º (NE),3.6,1/8,1/8 SC,-,-,-,-,7.5,Few clouds
+SEMNAN,28/03/2020,00Z,9.0,72%,1016.4 Hpa,calm.,,3/8,-,3/8 AC,-,-,-,-,Scattered clouds
+SHAHRE-KORD,28/03/2020,21Z,4.6,95%,1008.8 Hpa,320º (NW),10.8,7/8,5/8 CB,AC,-,-,-,-,"Cloudy, rain showers"
+SHAHRE-KORD,28/03/2020,18Z,5.4,93%,1010.0 Hpa,340º (N ),7.2,7/8,5/8 CB,AC,-,2.0(6h),-,-,"Cloudy, rain showers"
+SHAHRE-KORD,28/03/2020,15Z,6.2,85%,1012.0 Hpa,070º (E ),7.2,7/8,5/8 CB,AC,-,-,9.1,-,"Cloudy, rain showers"
+SHAHRE-KORD,28/03/2020,12Z,8.2,83%,1011.4 Hpa,320º (NW),10.8,7/8,5/8 CB,AC,-,0.6(6h),-,-,"Cloudy, rain showers"
+SHAHRE-KORD,28/03/2020,09Z,7.8,76%,1014.2 Hpa,070º (E ),7.2,7/8,4/8 CB,AC,-,-,-,-,"Cloudy, rain showers"
+SHAHRE-KORD,28/03/2020,06Z,7.0,77%,1015.7 Hpa,310º (NW),3.6,7/8,4/8 CB,AC,-,Tr(6h),-,-,Cloudy
+SHAHRE-KORD,28/03/2020,03Z,3.0,91%,1015.8 Hpa,020º (N),3.6,8/8,5/8 CB,AC,,-,-,1.7,"Overcast, rain showers"
+SHAHRE-KORD,28/03/2020,00Z,2.4,91%,1014.5 Hpa,010º (N),3.6,5/8,3/8 SC,AC,-,-,-,-,Cloudy
+SHAHRUD,28/03/2020,21Z,11.4,66%,1009.2 Hpa,calm.,,5/8,5/8 SC,-,-,-,-,-,Cloudy
+SHAHRUD,28/03/2020,18Z,13.2,50%,1010.9 Hpa,270º (W ),7.2,5/8,5/8 CB,-,-,-,-,-,Cloudy
+SHAHRUD,28/03/2020,15Z,14.6,38%,1012.9 Hpa,250º (W ),7.2,7/8,7/8 CB,-,-,-,16.6,-,Cloudy
+SHAHRUD,28/03/2020,12Z,16.2,33%,1012.5 Hpa,210º (SW),18.0,3/8,3/8 CB,-,-,-,-,-,Scattered clouds
+SHAHRUD,28/03/2020,09Z,14.6,40%,1014.8 Hpa,200º (S ),25.2,2/8,2/8 CU,-,-,-,-,-,Few clouds
+SHAHRUD,28/03/2020,06Z,11.2,53%,1017.2 Hpa,220º (SW),7.2,5/8,1/8 SC,-,CI,-,-,-,Cloudy
+SHAHRUD,28/03/2020,03Z,4.8,85%,1017.8 Hpa,calm.,,2/8,2/8 SC,-,-,-,-,4.2,Few clouds
+SHAHRUD,28/03/2020,00Z,6.0,74%,1016.5 Hpa,340º (N ),7.2,1/8,-,-,CI,-,-,-,Few clouds
+SHIRAZ,28/03/2020,21Z,10.4,97%,1012.5 Hpa,240º (SW),14.4,8/8,6/8 CB,AC,,-,-,-,"Overcast, rain"
+SHIRAZ,28/03/2020,18Z,11.0,97%,1011.4 Hpa,calm.,,8/8,6/8 CB,AC,,5.0(6h),-,-,"Overcast, rain"
+SHIRAZ,28/03/2020,15Z,11.2,86%,1012.0 Hpa,calm.,,8/8,6/8 CB,AC,,-,16.0,-,"Overcast, rain"
+SHIRAZ,28/03/2020,12Z,13.4,72%,1011.9 Hpa,100º (E ),14.4,8/8,6/8 CB,AC,,1.0(6h),-,-,"Overcast, haze"
+SHIRAZ,28/03/2020,09Z,12.4,88%,1016.0 Hpa,260º (W ),10.8,8/8,6/8 CB,AC,,-,-,-,"Overcast, rain"
+SHIRAZ,28/03/2020,06Z,13.8,71%,1014.1 Hpa,360º (N ),7.2,8/8,5/8 CB,AC,,0.1(6h),-,-,"Overcast, haze"
+SHIRAZ,28/03/2020,03Z,11.4,81%,1014.5 Hpa,calm.,,7/8,5/8 CB,AC,CI,-,-,9.4,"Cloudy, mist"
+SHIRAZ,28/03/2020,00Z,12.2,63%,1013.1 Hpa,calm.,,7/8,2/8 SC,AC,CI,-,-,-,"Cloudy, haze"
+SIRI ISLAND,28/03/2020,15Z,23.6,83%,1012.6 Hpa,040º (NE),25.2,8/8,2/8 ST,AC,,-,26.4,-,"Overcast, mist"
+SIRI ISLAND,28/03/2020,12Z,24.6,138%,1011.6 Hpa,060º (NE),25.2,8/8,-,8/8 AC,,-,-,-,"Overcast, mist"
+SIRI ISLAND,28/03/2020,09Z,25.6,77%,1014.0 Hpa,060º (NE),21.6,4/8,-,4/8 AC,-,-,-,-,"Scattered clouds, haze"
+SIRI ISLAND,28/03/2020,06Z,24.8,137%,1014.5 Hpa,100º (E ),28.8,0/8,-,-,-,-,-,-,"Clear, haze"
+SIRI ISLAND,28/03/2020,03Z,23.8,81%,1013.2 Hpa,070º (E ),39.6,5/8,-,5/8 AC,-,-,-,22.0,"Cloudy, mist"
+SIRJAN,28/03/2020,21Z,9.0,97%,1010.7 Hpa,120º (SE),18.0,8/8,6/8 CB,AC,,-,-,-,"Overcast, rain"
+SIRJAN,28/03/2020,18Z,9.0,89%,1013.2 Hpa,120º (SE),18.0,8/8,5/8 CB,AC,,1.0(6h),-,-,"Overcast, rain"
+SIRJAN,28/03/2020,15Z,11.8,67%,1014.4 Hpa,190º (S ),18.0,8/8,5/8 CB,AC,,-,16.3,-,"Overcast, rain"
+SIRJAN,28/03/2020,12Z,13.9,53%,1013.7 Hpa,210º (SW),14.4,8/8,5/8 CB,AC,,0.1(6h),-,-,Overcast
+SIRJAN,28/03/2020,09Z,15.3,46%,1014.4 Hpa,210º (SW),32.4,8/8,5/8 CB,AC,,-,-,-,"Overcast, rain"
+SIRJAN,28/03/2020,06Z,12.6,52%,1016.3 Hpa,120º (SE),10.8,8/8,3/8 SC,AC,,-,-,-,Overcast
+SIRJAN,28/03/2020,03Z,8.0,74%,1015.9 Hpa,calm.,,6/8,3/8 SC,AC,-,-,-,7.1,Cloudy
+SIRJAN,28/03/2020,00Z,7.9,75%,1014.8 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+TABAS,28/03/2020,21Z,20.2,29%,1007.7 Hpa,120º (SE),10.8,6/8,4/8 SC,AC,-,-,-,-,Cloudy
+TABAS,28/03/2020,18Z,21.0,32%,1009.6 Hpa,calm.,,6/8,3/8 SC,AC,-,-,-,-,Cloudy
+TABAS,28/03/2020,15Z,22.0,23%,1011.5 Hpa,calm.,,4/8,4/8 SC,-,-,-,25.0,-,Scattered clouds
+TABAS,28/03/2020,12Z,24.6,20%,1012.1 Hpa,calm.,,3/8,-,-,CI,-,-,-,Scattered clouds
+TABAS,28/03/2020,09Z,21.3,25%,1015.2 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+TABAS,28/03/2020,06Z,17.4,40%,1018.0 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+TABAS,28/03/2020,03Z,11.6,60%,1017.8 Hpa,130º (SE),7.2,0/8,-,-,-,-,-,10.2,Clear
+TABAS,28/03/2020,00Z,11.9,61%,1016.0 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+TABRIZ,28/03/2020,21Z,9.8,71%,1007.7 Hpa,010º (N),7.2,7/8,3/8 SC,AC,-,-,-,-,Cloudy
+TABRIZ,28/03/2020,18Z,10.0,74%,1009.8 Hpa,050º (NE),10.8,7/8,5/8 CB,AC,-,Tr(6h),-,-,Cloudy
+TABRIZ,28/03/2020,15Z,10.4,72%,1012.1 Hpa,350º (N ),10.8,6/8,5/8 CB,AC,-,-,16.2,-,Cloudy
+TABRIZ,28/03/2020,12Z,14.8,49%,1009.0 Hpa,240º (SW),21.6,7/8,6/8 CB,AC,-,-,-,-,Cloudy
+TABRIZ,28/03/2020,09Z,15.3,43%,1011.1 Hpa,160º (S ),14.4,6/8,4/8 CB,AC,-,-,-,-,Cloudy
+TABRIZ,28/03/2020,06Z,11.7,56%,1014.9 Hpa,110º (E ),10.8,6/8,3/8 CB,AC,CI,-,-,-,Cloudy
+TABRIZ,28/03/2020,03Z,3.4,84%,1017.1 Hpa,calm.,,3/8,1/8 SC,AC,CI,-,-,3.2,Scattered clouds
+TABRIZ,28/03/2020,00Z,8.6,67%,1015.1 Hpa,080º (E ),7.2,2/8,-,1/8 AC,CI,-,-,-,Few clouds
+TEHRAN-MEHRABAD,28/03/2020,21Z,15.4,33%,1006.6 Hpa,080º (E ),18.0,7/8,1/8 SC,AC,CI,-,-,-,Cloudy
+TEHRAN-MEHRABAD,28/03/2020,18Z,15.8,37%,1008.2 Hpa,070º (E ),14.4,7/8,3/8 CB,AC,CI,-,-,-,Cloudy
+TEHRAN-MEHRABAD,28/03/2020,15Z,16.2,34%,1010.0 Hpa,130º (SE),14.4,7/8,3/8 CB,AC,CI,-,18.0,-,Cloudy
+TEHRAN-MEHRABAD,28/03/2020,12Z,17.2,34%,1014.0 Hpa,170º (S ),18.0,6/8,3/8 CB,AC,CI,-,-,-,Cloudy
+TEHRAN-MEHRABAD,28/03/2020,09Z,17.4,32%,1012.6 Hpa,120º (SE),14.4,4/8,2/8 CU,AC,CI,-,-,-,Scattered clouds
+TEHRAN-MEHRABAD,28/03/2020,06Z,15.4,37%,1015.3 Hpa,120º (SE),10.8,5/8,2/8 CU,AC,-,Tr(24h),-,-,Cloudy
+TEHRAN-MEHRABAD,28/03/2020,03Z,10.5,61%,1015.5 Hpa,calm.,,6/8,2/8 SC,AC,-,-,-,9.6,Cloudy
+TEHRAN-MEHRABAD,28/03/2020,00Z,12.1,52%,1015.9 Hpa,calm.,,7/8,2/8 CB,AC,-,-,-,-,Cloudy
+TORBAT-HEYDARIEH,28/03/2020,21Z,7.1,68%,1013.7 Hpa,070º (E ),7.2,7/8,-,-,CI,-,-,-,Cloudy
+TORBAT-HEYDARIEH,28/03/2020,18Z,7.5,77%,1015.3 Hpa,calm.,,3/8,-,-,CI,-,-,-,Scattered clouds
+TORBAT-HEYDARIEH,28/03/2020,15Z,10.4,57%,1016.5 Hpa,calm.,,3/8,1/8 SC,-,CI,-,14.4,-,Scattered clouds
+TORBAT-HEYDARIEH,28/03/2020,12Z,13.1,48%,1015.3 Hpa,calm.,,6/8,3/8 SC,-,CI,-,-,-,Cloudy
+TORBAT-HEYDARIEH,28/03/2020,09Z,12.9,50%,1016.9 Hpa,210º (SW),14.4,5/8,5/8 SC,-,-,-,-,-,Cloudy
+TORBAT-HEYDARIEH,28/03/2020,06Z,9.9,54%,1019.0 Hpa,calm.,,2/8,1/8 CU,-,CI,-,-,-,Few clouds
+TORBAT-HEYDARIEH,28/03/2020,03Z,2.7,85%,1019.6 Hpa,calm.,,1/8,-,-,CI,-,-,1.5,Few clouds
+TORBAT-HEYDARIEH,28/03/2020,00Z,3.9,71%,1017.4 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+YASOGE,28/03/2020,21Z,7.2,100%,1011.9 Hpa,130º (SE),10.8,8/8,6/8 CB,AC,,-,-,-,"Overcast, rain"
+YASOGE,28/03/2020,18Z,6.2,100%,1013.4 Hpa,190º (S ),10.8,8/8,6/8 CB,AC,,22.0(6h),-,-,"Overcast, thunderstorm"
+YASOGE,28/03/2020,15Z,6.6,100%,1013.9 Hpa,110º (E ),10.8,8/8,6/8 CB,AC,,-,11.2,-,"Overcast, rain"
+YASOGE,28/03/2020,12Z,8.6,87%,1014.7 Hpa,calm.,,8/8,6/8 CB,AC,,5.0(6h),-,-,"Overcast, rain"
+YASOGE,28/03/2020,09Z,9.0,73%,1016.7 Hpa,110º (E ),10.8,8/8,5/8 CB,AC,,-,-,-,"Overcast, haze"
+YASOGE,28/03/2020,06Z,8.6,80%,1016.7 Hpa,280º (W ),10.8,8/8,5/8 CB,AC,,0.9(6h),-,-,"Overcast, rain"
+YASOGE,28/03/2020,03Z,7.8,79%,1016.4 Hpa,070º (E ),10.8,8/8,1/8 CB,AC,,-,-,7.6,Overcast
+YASOGE,28/03/2020,00Z,7.8,74%,1016.2 Hpa,040º (NE),7.2,7/8,1/8 CB,AC,-,-,-,-,Cloudy
+YAZD,28/03/2020,21Z,12.2,88%,1009.3 Hpa,050º (NE),7.2,8/8,4/8 ST,AC,,-,-,-,"Overcast, rain"
+YAZD,28/03/2020,18Z,15.5,55%,1008.6 Hpa,110º (E ),18.0,7/8,4/8 CB,AC,CI,-,-,-,Cloudy
+YAZD,28/03/2020,15Z,16.6,52%,1010.0 Hpa,120º (SE),25.2,5/8,3/8 CB,AC,CI,-,20.2,-,Cloudy
+YAZD,28/03/2020,12Z,19.0,38%,1010.5 Hpa,110º (E ),14.4,8/8,3/8 SC,AC,,-,-,-,Overcast
+YAZD,28/03/2020,09Z,19.8,31%,1013.1 Hpa,100º (E ),10.8,8/8,-,3/8 AC,CS,-,-,-,Overcast
+YAZD,28/03/2020,06Z,16.5,36%,1016.4 Hpa,130º (SE),10.8,8/8,2/8 SC,AC,CS,-,-,-,Overcast
+YAZD,28/03/2020,03Z,11.7,48%,1016.4 Hpa,110º (E ),3.6,6/8,2/8 SC,AC,CC,-,-,10.8,Cloudy
+YAZD,28/03/2020,00Z,12.8,44%,1015.3 Hpa,110º (E ),10.8,0/8,-,-,-,-,-,-,Clear
+ZABOL,28/03/2020,21Z,16.2,47%,1013.4 Hpa,050º (NE),10.8,5/8,-,3/8 AC,CI,-,-,-,Cloudy
+ZABOL,28/03/2020,18Z,17.2,42%,1014.8 Hpa,100º (E ),10.8,2/8,-,-,CI,-,-,-,Few clouds
+ZABOL,28/03/2020,15Z,21.0,34%,1014.5 Hpa,100º (E ),10.8,4/8,-,2/8 AC,CI,-,26.5,-,Scattered clouds
+ZABOL,28/03/2020,12Z,26.2,22%,1013.3 Hpa,060º (NE),7.2,1/8,1/8 SC,-,-,-,-,-,Few clouds
+ZABOL,28/03/2020,09Z,23.9,27%,1016.3 Hpa,260º (W ),10.8,1/8,1/8 CU,-,-,-,-,-,Few clouds
+ZABOL,28/03/2020,06Z,19.2,34%,1019.8 Hpa,350º (N ),21.6,0/8,-,-,-,-,-,-,Clear
+ZABOL,28/03/2020,03Z,12.5,50%,1019.6 Hpa,350º (N ),25.2,0/8,-,-,-,-,-,11.6,Clear
+ZABOL,28/03/2020,00Z,12.8,51%,1017.4 Hpa,340º (N ),32.4,0/8,-,-,-,-,-,-,Clear
+ZAHEDAN,28/03/2020,21Z,15.5,54%,1009.8 Hpa,180º (S ),18.0,3/8,-,3/8 AC,-,-,-,-,Scattered clouds
+ZAHEDAN,28/03/2020,18Z,16.4,45%,1012.5 Hpa,050º (NE),7.2,4/8,2/8 CB,AC,-,-,-,-,Scattered clouds
+ZAHEDAN,28/03/2020,15Z,17.5,36%,1014.4 Hpa,020º (N),7.2,4/8,4/8 CB,-,-,-,23.1,-,Scattered clouds
+ZAHEDAN,28/03/2020,12Z,21.5,24%,1012.4 Hpa,040º (NE),7.2,5/8,5/8 CB,-,-,-,-,-,Cloudy
+ZAHEDAN,28/03/2020,09Z,21.9,24%,1013.7 Hpa,060º (NE),10.8,3/8,3/8 CU,-,-,-,-,-,Scattered clouds
+ZAHEDAN,28/03/2020,06Z,17.5,40%,1017.3 Hpa,030º (NE),7.2,1/8,1/8 CU,-,-,0.5(24h),-,-,Few clouds
+ZAHEDAN,28/03/2020,03Z,8.7,82%,1017.6 Hpa,calm.,,1/8,-,-,CI,-,-,5.9,Few clouds
+ZAHEDAN,28/03/2020,00Z,7.4,87%,1016.3 Hpa,calm.,,2/8,-,-,CI,-,-,-,Few clouds
+ZANJAN,28/03/2020,21Z,6.3,100%,1008.1 Hpa,090º (E ),3.6,8/8,5/8 CB,AC,,-,-,-,Overcast
+ZANJAN,28/03/2020,18Z,7.4,90%,1010.3 Hpa,120º (SE),3.6,8/8,5/8 CB,AC,,2.0(6h),-,-,Overcast
+ZANJAN,28/03/2020,15Z,7.2,92%,1013.3 Hpa,120º (SE),3.6,8/8,6/8 CB,AC,,-,14.3,-,"Overcast, rain showers"
+ZANJAN,28/03/2020,12Z,9.1,83%,1012.7 Hpa,150º (SE),7.2,7/8,6/8 CB,AC,-,2.0(6h),-,-,"Cloudy, rain showers"
+ZANJAN,28/03/2020,09Z,12.5,61%,1012.4 Hpa,120º (SE),3.6,7/8,5/8 CB,AC,-,-,-,-,"Cloudy, rain showers"
+ZANJAN,28/03/2020,06Z,9.5,74%,1015.1 Hpa,110º (E ),7.2,4/8,1/8 CU,AC,CI,3.7(24h),-,-,"Scattered clouds, haze"
+ZANJAN,28/03/2020,03Z,1.7,100%,1018.4 Hpa,090º (E ),7.2,2/8,2/8 SC,-,CI,-,-,1.7,Few clouds
+ZANJAN,28/03/2020,00Z,2.9,100%,1016.1 Hpa,100º (E ),3.6,0/8,-,-,-,0.7(6h),-,-,Clear

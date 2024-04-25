@@ -1,0 +1,579 @@
+Station ∆,Date,UTC time,Temp. (ºC),Rel. Hum. (%),Pressure/ Geopot.,Wind dir,Wins speed (Km/h),Clouds,Low clouds,Medium clouds,High clouds,Prec. (mm),Max temp. (ºC),Min temp. (ºC),Conditions
+ABADAN,17/11/2013,21Z,20.0,58%,1015.8 Hpa,150º (SE),14.4,7/8,5/8 CB,AC,-,-,-,-,Cloudy
+ABADAN,17/11/2013,18Z,20.0,58%,1016.5 Hpa,calm.,,6/8,2/8 SC,AC,-,-,-,-,Cloudy
+ABADAN,17/11/2013,15Z,22.2,52%,1015.6 Hpa,calm.,,6/8,4/8 CB,AC,-,-,26.0,-,Cloudy
+ABADAN,17/11/2013,12Z,25.0,43%,1015.6 Hpa,120º (SE),7.2,3/8,3/8 CU,-,-,-,-,-,Scattered clouds
+ABADAN,17/11/2013,09Z,23.8,42%,1016.8 Hpa,090º (E ),10.8,2/8,-,-,CI,-,-,-,Few clouds
+ABADAN,17/11/2013,06Z,19.4,70%,1018.1 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, haze"
+ABADAN,17/11/2013,03Z,13.2,90%,1016.7 Hpa,calm.,,0/8,-,-,-,-,-,12.8,"Clear, mist"
+ABADAN,17/11/2013,00Z,13.6,88%,1016.2 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, mist"
+ABADEH,17/11/2013,21Z,7.0,47%,1013.9 Hpa,300º (NW),7.2,4/8,-,2/8 AC,CI,-,-,-,Scattered clouds
+ABADEH,17/11/2013,18Z,6.0,43%,1016.8 Hpa,calm.,,2/8,2/8 SC,-,-,-,-,-,Few clouds
+ABADEH,17/11/2013,15Z,11.0,33%,1015.4 Hpa,210º (SW),10.8,2/8,2/8 SC,-,-,-,15.0,-,Few clouds
+ABADEH,17/11/2013,12Z,14.0,26%,1013.4 Hpa,230º (SW),21.6,2/8,2/8 CU,-,-,-,-,-,Few clouds
+ABADEH,17/11/2013,09Z,13.8,31%,1014.5 Hpa,250º (W ),10.8,5/8,2/8 CU,-,CI,-,-,-,Cloudy
+ABADEH,17/11/2013,06Z,9.4,46%,1015.4 Hpa,110º (E ),7.2,3/8,1/8 CU,-,CI,-,-,-,Scattered clouds
+ABADEH,17/11/2013,03Z,2.6,75%,1016.8 Hpa,330º (NW),7.2,2/8,-,-,CI,-,-,1.8,Few clouds
+ABADEH,17/11/2013,00Z,3.6,70%,1013.5 Hpa,360º (N ),7.2,2/8,-,2/8 AC,-,-,-,-,Few clouds
+ABU MUSA,17/11/2013,15Z,22.8,71%,1014.1 Hpa,330º (NW),28.8,8/8,2/8 CB,AC,,-,26.4,-,"Overcast, haze"
+ABU MUSA,17/11/2013,12Z,23.0,152%,1014.1 Hpa,270º (W ),36.0,8/8,2/8 CB,AC,,2.0(6h),-,-,"Overcast, rain"
+ABU MUSA,17/11/2013,09Z,26.2,58%,1015.5 Hpa,210º (SW),10.8,8/8,2/8 CB,AC,,-,-,-,"Overcast, haze"
+ABU MUSA,17/11/2013,06Z,26.2,126%,1016.0 Hpa,150º (SE),32.4,8/8,2/8 CB,AC,,23.0(24h),-,-,"Overcast, haze"
+ABU MUSA,17/11/2013,03Z,22.4,77%,1014.5 Hpa,090º (E ),10.8,6/8,2/8 CB,AC,CI,-,-,22.4,"Cloudy, haze"
+AHAR,17/11/2013,21Z,2.0,96%,1021.0 Hpa,270º (W ),7.2,6/8,5/8 ST,-,CI,-,-,-,"Cloudy, mist"
+AHAR,17/11/2013,18Z,3.0,74%,1020.2 Hpa,290º (W ),7.2,0/8,-,-,-,-,-,-,Clear
+AHAR,17/11/2013,15Z,7.6,58%,1019.5 Hpa,220º (SW),7.2,1/8,-,-,CI,-,11.8,-,Few clouds
+AHAR,17/11/2013,12Z,11.0,44%,1017.8 Hpa,190º (S ),18.0,4/8,2/8 CU,-,CI,-,-,-,Scattered clouds
+AHAR,17/11/2013,09Z,10.4,48%,1017.8 Hpa,190º (S ),21.6,2/8,2/8 CU,-,CI,-,-,-,Few clouds
+AHAR,17/11/2013,06Z,5.8,72%,1020.2 Hpa,270º (W ),18.0,1/8,1/8 CU,-,CI,0.2(24h),-,-,Few clouds
+AHAR,17/11/2013,03Z,1.4,82%,1021.4 Hpa,090º (E ),7.2,1/8,1/8 SC,-,-,-,-,0.2,Few clouds
+AHAR,17/11/2013,00Z,0.8,93%,1021.7 Hpa,calm.,,5/8,5/8 ST,-,-,-,-,-,Cloudy
+AHWAZ,17/11/2013,21Z,15.2,74%,1016.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+AHWAZ,17/11/2013,18Z,16.4,73%,1016.2 Hpa,calm.,,4/8,1/8 SC,AC,-,-,-,-,"Scattered clouds, haze"
+AHWAZ,17/11/2013,15Z,18.8,64%,1015.0 Hpa,calm.,,1/8,-,-,CI,-,25.4,-,Few clouds
+AHWAZ,17/11/2013,12Z,24.8,36%,1014.9 Hpa,270º (W ),3.6,0/8,-,-,-,-,-,-,Clear
+AHWAZ,17/11/2013,09Z,23.4,43%,1016.4 Hpa,040º (NE),3.6,0/8,-,-,-,-,-,-,"Clear, haze"
+AHWAZ,17/11/2013,06Z,17.4,68%,1018.1 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, haze"
+AHWAZ,17/11/2013,03Z,12.4,85%,1016.4 Hpa,calm.,,1/8,-,-,CI,-,-,12.2,"Few clouds, mist"
+AHWAZ,17/11/2013,00Z,12.4,93%,1015.8 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, mist"
+ALI-GOODARZ,17/11/2013,21Z,2.6,75%,1017.8 Hpa,130º (SE),10.8,0/8,-,-,-,-,-,-,Clear
+ALI-GOODARZ,17/11/2013,18Z,6.2,63%,1018.2 Hpa,calm.,,3/8,-,-,CI,-,-,-,Scattered clouds
+ALI-GOODARZ,17/11/2013,15Z,7.8,56%,1017.8 Hpa,220º (SW),10.8,3/8,1/8 SC,AC,-,-,11.6,-,Scattered clouds
+ALI-GOODARZ,17/11/2013,12Z,11.0,46%,1015.4 Hpa,220º (SW),10.8,4/8,4/8 CU,-,-,-,-,-,Scattered clouds
+ALI-GOODARZ,17/11/2013,09Z,10.4,49%,1016.2 Hpa,170º (S ),18.0,2/8,2/8 SC,-,-,-,-,-,Few clouds
+ALI-GOODARZ,17/11/2013,06Z,5.8,67%,1017.8 Hpa,130º (SE),18.0,2/8,-,2/8 AC,-,Tr(24h),-,-,Few clouds
+ALI-GOODARZ,17/11/2013,03Z,1.2,81%,1017.8 Hpa,120º (SE),14.4,2/8,-,2/8 AC,-,-,-,0.8,Few clouds
+ALI-GOODARZ,17/11/2013,00Z,1.8,80%,1016.1 Hpa,130º (SE),10.8,0/8,-,-,-,-,-,-,Clear
+ANZALI,17/11/2013,21Z,14.6,88%,1022.3 Hpa,320º (NW),25.2,8/8,6/8 CB,AC,,-,-,-,"Overcast, rain"
+ANZALI,17/11/2013,18Z,13.4,93%,1021.9 Hpa,250º (W ),14.4,8/8,6/8 CB,AC,,Tr(6h),-,-,"Overcast, rain showers"
+ANZALI,17/11/2013,15Z,14.2,88%,1020.7 Hpa,220º (SW),7.2,6/8,4/8 SC,AC,-,-,15.4,-,Cloudy
+ANZALI,17/11/2013,12Z,14.6,141%,1020.3 Hpa,calm.,,7/8,5/8 CB,AC,-,-,-,-,Cloudy
+ANZALI,17/11/2013,09Z,14.6,80%,1020.6 Hpa,360º (N ),7.2,2/8,2/8 CU,-,-,-,-,-,Few clouds
+ANZALI,17/11/2013,06Z,13.0,83%,1021.4 Hpa,220º (SW),7.2,1/8,0/8 CU,AC,-,60.8(24h),-,20.2,Few clouds
+ANZALI,17/11/2013,03Z,10.0,97%,1020.6 Hpa,200º (S ),10.8,2/8,2/8 SC,AC,-,-,-,10.0,Few clouds
+ANZALI,17/11/2013,00Z,11.6,92%,1021.2 Hpa,240º (SW),10.8,7/8,4/8 SC,AC,-,1.0(6h),-,-,"Cloudy, mist"
+ARAK,17/11/2013,21Z,4.2,84%,1018.9 Hpa,calm.,,1/8,1/8 SC,-,-,-,-,-,"Few clouds, mist"
+ARAK,17/11/2013,18Z,5.2,77%,1019.8 Hpa,calm.,,1/8,1/8 SC,-,CI,-,-,-,Few clouds
+ARAK,17/11/2013,15Z,8.2,60%,1018.6 Hpa,190º (S ),7.2,1/8,1/8 SC,-,-,-,12.6,-,Few clouds
+ARAK,17/11/2013,12Z,11.6,47%,1016.7 Hpa,calm.,,6/8,5/8 CB,AC,-,-,-,-,"Cloudy, haze"
+ARAK,17/11/2013,09Z,10.2,59%,1017.0 Hpa,calm.,,5/8,5/8 CU,AC,-,-,-,-,"Cloudy, haze"
+ARAK,17/11/2013,06Z,5.4,80%,1020.6 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, mist"
+ARAK,17/11/2013,03Z,1.8,89%,1018.8 Hpa,calm.,,0/8,-,-,-,-,-,1.4,"Clear, mist"
+ARAK,17/11/2013,00Z,1.8,86%,1018.2 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, mist"
+ARDEBIL,17/11/2013,21Z,1.4,100%,1021.3 Hpa,calm.,,8/8,8/8 ST,,,-,-,-,"Overcast, fog"
+ARDEBIL,17/11/2013,18Z,0.4,100%,1023.6 Hpa,calm.,,8/8,8/8 ST,,,-,-,-,"Overcast, fog"
+ARDEBIL,17/11/2013,15Z,3.0,93%,1021.3 Hpa,calm.,,4/8,4/8 ST,-,-,-,12.0,-,"Scattered clouds, mist"
+ARDEBIL,17/11/2013,12Z,11.0,61%,1017.5 Hpa,calm.,,4/8,4/8 SC,-,-,-,-,-,Scattered clouds
+ARDEBIL,17/11/2013,09Z,9.8,57%,1018.5 Hpa,180º (S ),21.6,2/8,2/8 SC,-,-,-,-,-,Few clouds
+ARDEBIL,17/11/2013,06Z,-1.6,98%,1023.7 Hpa,calm.,,8/8,8/8 ST,,,6.1(24h),-,-,"Overcast, fog"
+ARDEBIL,17/11/2013,03Z,-2.4,97%,1023.8 Hpa,calm.,,8/8,8/8 ST,,,-,-,-2.6,"Overcast, fog"
+ARDEBIL,17/11/2013,00Z,-0.2,100%,1023.8 Hpa,calm.,,8/8,8/8 ST,,,-,-,-,"Overcast, mist"
+BABULSAR,17/11/2013,21Z,12.4,92%,1020.8 Hpa,calm.,,1/8,1/8 SC,-,-,-,-,-,Few clouds
+BABULSAR,17/11/2013,18Z,13.6,83%,1020.6 Hpa,calm.,,5/8,2/8 SC,AC,-,-,-,-,Cloudy
+BABULSAR,17/11/2013,15Z,14.8,80%,1020.1 Hpa,calm.,,4/8,2/8 SC,AC,-,-,17.6,-,Scattered clouds
+BABULSAR,17/11/2013,12Z,16.6,69%,1019.6 Hpa,360º (N ),18.0,2/8,2/8 SC,-,-,-,-,-,Few clouds
+BABULSAR,17/11/2013,09Z,17.0,70%,1019.4 Hpa,360º (N ),10.8,2/8,2/8 CU,-,-,-,-,-,Few clouds
+BABULSAR,17/11/2013,06Z,14.8,84%,1020.7 Hpa,110º (E ),14.4,3/8,3/8 SC,-,-,7.4(24h),-,-,Scattered clouds
+BABULSAR,17/11/2013,03Z,12.2,97%,1020.2 Hpa,calm.,,6/8,-,6/8 AC,-,-,-,12.2,Cloudy
+BABULSAR,17/11/2013,00Z,13.0,94%,1020.8 Hpa,Vble.,,7/8,6/8 CB,AC,-,0.1(6h),-,-,Cloudy
+BAFT,17/11/2013,21Z,7.6,84%,1015.5 Hpa,110º (E ),18.0,6/8,5/8 CB,-,CC,-,-,-,Cloudy
+BAFT,17/11/2013,18Z,8.0,80%,1017.1 Hpa,120º (SE),18.0,6/8,4/8 CB,-,CC,-,-,-,Cloudy
+BAFT,17/11/2013,15Z,8.2,62%,1018.3 Hpa,calm.,,6/8,5/8 CB,-,CC,-,12.4,-,Cloudy
+BAFT,17/11/2013,12Z,12.2,44%,1015.6 Hpa,240º (SW),14.4,5/8,4/8 CB,-,CC,-,-,-,Cloudy
+BAFT,17/11/2013,09Z,10.8,51%,1015.9 Hpa,160º (S ),18.0,6/8,1/8 CU,-,CC,-,-,-,Cloudy
+BAFT,17/11/2013,06Z,9.0,67%,1018.3 Hpa,120º (SE),18.0,5/8,4/8 CU,-,CC,-,-,-,Cloudy
+BAFT,17/11/2013,03Z,4.0,74%,1018.6 Hpa,calm.,,3/8,1/8 CU,-,CC,-,-,3.6,Scattered clouds
+BAFT,17/11/2013,00Z,4.0,74%,1016.6 Hpa,calm.,,4/8,4/8 SC,-,-,-,-,-,Scattered clouds
+BAM,17/11/2013,21Z,17.6,46%,1011.3 Hpa,300º (NW),7.2,8/8,2/8 SC,AC,,-,-,-,Overcast
+BAM,17/11/2013,18Z,18.8,31%,1011.9 Hpa,calm.,,8/8,2/8 SC,AC,,-,-,-,Overcast
+BAM,17/11/2013,15Z,20.2,30%,1012.7 Hpa,270º (W ),7.2,8/8,2/8 SC,AC,CS,-,25.6,-,Overcast
+BAM,17/11/2013,12Z,23.8,21%,1010.5 Hpa,250º (W ),10.8,7/8,3/8 CB,-,CI,-,-,-,Cloudy
+BAM,17/11/2013,09Z,24.8,25%,1010.5 Hpa,340º (N ),7.2,5/8,4/8 SC,-,CI,-,-,-,Cloudy
+BAM,17/11/2013,06Z,21.6,32%,1014.0 Hpa,calm.,,6/8,1/8 CU,-,CI,-,-,-,Cloudy
+BAM,17/11/2013,03Z,13.4,62%,1014.3 Hpa,280º (W ),7.2,2/8,1/8 SC,-,CI,-,-,13.4,Few clouds
+BAM,17/11/2013,00Z,14.8,56%,1012.0 Hpa,290º (W ),7.2,0/8,-,-,-,-,-,-,Clear
+BANDAR LENGEH,17/11/2013,21Z,20.4,71%,1016.1 Hpa,360º (N ),10.8,8/8,4/8 CB,AC,,-,-,-,"Overcast, haze"
+BANDAR LENGEH,17/11/2013,18Z,19.6,88%,1017.3 Hpa,350º (N ),14.4,8/8,4/8 CB,AC,,0.4(6h),-,-,"Overcast, mist"
+BANDAR LENGEH,17/11/2013,15Z,19.8,88%,1015.9 Hpa,330º (NW),18.0,8/8,3/8 CB,AC,,-,26.0,-,"Overcast, mist"
+BANDAR LENGEH,17/11/2013,12Z,19.8,,1015.7 Hpa,340º (N ),21.6,8/8,3/8 CB,AC,,22.0(6h),-,-,"Overcast, mist"
+BANDAR LENGEH,17/11/2013,09Z,18.2,96%,1018.1 Hpa,300º (NW),10.8,8/8,4/8 CB,AC,,-,-,-,"Overcast, rain"
+BANDAR LENGEH,17/11/2013,06Z,23.6,,1016.4 Hpa,060º (NE),14.4,7/8,4/8 CB,AC,-,0.3(6h),-,-,"Cloudy, haze"
+BANDAR LENGEH,17/11/2013,03Z,22.2,82%,1015.6 Hpa,040º (NE),7.2,6/8,4/8 CB,AC,-,-,-,20.0,"Cloudy, mist"
+BANDAR LENGEH,17/11/2013,00Z,20.8,78%,1014.7 Hpa,030º (NE),7.2,2/8,-,2/8 AC,-,-,-,-,"Few clouds, haze"
+BANDARABBASS,17/11/2013,21Z,20.6,81%,1016.8 Hpa,320º (NW),7.2,8/8,3/8 CB,AC,,-,-,-,"Overcast, rain"
+BANDARABBASS,17/11/2013,18Z,21.1,79%,1017.4 Hpa,calm.,,6/8,3/8 CB,AC,-,0.2(6h),-,-,"Cloudy, haze"
+BANDARABBASS,17/11/2013,15Z,20.7,84%,1016.6 Hpa,320º (NW),10.8,8/8,6/8 CB,AC,,-,27.3,-,"Overcast, mist"
+BANDARABBASS,17/11/2013,12Z,21.8,67%,1015.9 Hpa,340º (N ),14.4,8/8,5/8 CB,AC,,1.0(6h),-,-,"Overcast, haze"
+BANDARABBASS,17/11/2013,09Z,26.5,59%,1016.1 Hpa,160º (S ),43.2,8/8,6/8 CB,AC,,-,-,-,"Overcast, thunderstorm no precipitation"
+BANDARABBASS,17/11/2013,06Z,25.7,69%,1017.6 Hpa,070º (E ),18.0,6/8,5/8 CB,AC,CI,-,-,-,"Cloudy, haze"
+BANDARABBASS,17/11/2013,03Z,19.1,70%,1016.1 Hpa,350º (N ),10.8,4/8,4/8 CB,-,-,-,-,18.9,"Scattered clouds, haze"
+BANDARABBASS,17/11/2013,00Z,19.7,67%,1015.6 Hpa,360º (N ),10.8,3/8,3/8 CB,-,-,-,-,-,"Scattered clouds, haze"
+BIRJAND,17/11/2013,21Z,9.9,76%,1016.1 Hpa,060º (NE),21.6,5/8,1/8 CU,AC,-,-,-,-,Cloudy
+BIRJAND,17/11/2013,18Z,10.0,85%,1017.9 Hpa,090º (E ),7.2,5/8,2/8 SC,AC,-,7.0(6h),-,-,Cloudy
+BIRJAND,17/11/2013,15Z,10.0,86%,1018.9 Hpa,300º (NW),7.2,8/8,4/8 CB,AC,,-,19.1,-,"Overcast, rain"
+BIRJAND,17/11/2013,12Z,14.6,55%,1015.5 Hpa,360º (N ),14.4,6/8,4/8 SC,-,CI,-,-,-,Cloudy
+BIRJAND,17/11/2013,09Z,19.0,26%,1014.7 Hpa,180º (S ),18.0,6/8,5/8 CU,AC,-,-,-,-,Cloudy
+BIRJAND,17/11/2013,06Z,13.5,63%,1018.5 Hpa,090º (E ),28.8,3/8,2/8 SC,AC,-,-,-,-,Scattered clouds
+BIRJAND,17/11/2013,03Z,9.0,77%,1018.2 Hpa,060º (NE),25.2,5/8,2/8 SC,AC,CI,-,-,7.8,Cloudy
+BIRJAND,17/11/2013,00Z,9.1,79%,1016.6 Hpa,070º (E ),25.2,6/8,-,6/8 AC,-,-,-,-,Cloudy
+BOJNOURD,17/11/2013,21Z,3.4,90%,1022.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BOJNOURD,17/11/2013,18Z,6.4,88%,1021.1 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BOJNOURD,17/11/2013,15Z,10.8,78%,1019.4 Hpa,calm.,,3/8,3/8 SC,-,-,-,14.4,-,Scattered clouds
+BOJNOURD,17/11/2013,12Z,13.2,63%,1018.1 Hpa,calm.,,6/8,4/8 SC,-,CI,-,-,-,Cloudy
+BOJNOURD,17/11/2013,09Z,13.4,63%,1018.6 Hpa,calm.,,5/8,2/8 SC,AC,-,-,-,-,Cloudy
+BOJNOURD,17/11/2013,06Z,11.0,79%,1020.7 Hpa,090º (E ),10.8,3/8,2/8 ST,AC,-,2.6(24h),-,-,Scattered clouds
+BOJNOURD,17/11/2013,03Z,8.2,94%,1020.8 Hpa,calm.,,8/8,3/8 ST,AC,,-,-,8.2,"Overcast, mist"
+BOJNOURD,17/11/2013,00Z,8.2,89%,1019.7 Hpa,calm.,,8/8,4/8 ST,AC,,1.0(6h),-,-,Overcast
+BUSHEHR,17/11/2013,21Z,20.2,64%,1016.0 Hpa,020º (N),7.2,7/8,6/8 CB,AC,-,-,-,-,"Cloudy, thunderstorm no precipitation"
+BUSHEHR,17/11/2013,18Z,21.6,62%,1016.4 Hpa,060º (NE),14.4,8/8,3/8 SC,AC,,Tr(6h),-,-,Overcast
+BUSHEHR,17/11/2013,15Z,21.6,68%,1015.7 Hpa,calm.,,8/8,3/8 SC,AC,,-,24.2,-,"Overcast, rain"
+BUSHEHR,17/11/2013,12Z,23.0,21%,1015.2 Hpa,calm.,,7/8,2/8 SC,AC,-,-,-,-,Cloudy
+BUSHEHR,17/11/2013,09Z,23.4,55%,1016.3 Hpa,290º (W ),7.2,7/8,-,3/8 AC,CI,-,-,-,Cloudy
+BUSHEHR,17/11/2013,06Z,22.0,23%,1017.8 Hpa,030º (NE),7.2,7/8,-,5/8 AC,CS,-,-,-,Cloudy
+BUSHEHR,17/11/2013,03Z,18.2,60%,1016.3 Hpa,030º (NE),7.2,6/8,-,1/8 AC,CI,-,-,17.6,Cloudy
+BUSHEHR,17/11/2013,00Z,18.2,56%,1015.2 Hpa,030º (NE),7.2,1/8,-,-,CI,-,-,-,Few clouds
+CHAHBAHAR,17/11/2013,21Z,60.0,,1016.4 Hpa,050º (NE),10.8,0/8,-,-,-,-,-,-,Clear
+CHAHBAHAR,17/11/2013,18Z,60.0,,1017.3 Hpa,050º (NE),14.4,0/8,-,-,-,-,-,-,Clear
+CHAHBAHAR,17/11/2013,15Z,60.0,,1016.2 Hpa,130º (SE),14.4,0/8,-,-,-,-,28.1,-,Clear
+CHAHBAHAR,17/11/2013,12Z,70.0,,1015.4 Hpa,140º (SE),14.4,0/8,-,-,-,-,-,-,Clear
+CHAHBAHAR,17/11/2013,09Z,90.0,,1015.7 Hpa,130º (SE),21.6,0/8,-,-,-,-,-,-,Clear
+CHAHBAHAR,17/11/2013,06Z,90.0,,1018.3 Hpa,070º (E ),14.4,0/8,-,-,-,-,-,-,Clear
+CHAHBAHAR,17/11/2013,03Z,21.2,82%,-,030º (NE),10.8,0/8,-,-,-,-,-,-,Clear
+CHAHBAHAR,17/11/2013,00Z,90.0,2%,1016.1 Hpa,040º (NE),7.2,0/8,-,-,-,-,-,-,Clear
+ESFAHAN,17/11/2013,21Z,6.0,64%,1016.1 Hpa,230º (SW),7.2,0/8,-,-,-,-,-,-,Clear
+ESFAHAN,17/11/2013,18Z,9.0,52%,1016.1 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+ESFAHAN,17/11/2013,15Z,12.6,46%,1016.1 Hpa,calm.,,4/8,1/8 SC,AC,-,-,16.2,-,Scattered clouds
+ESFAHAN,17/11/2013,12Z,16.0,34%,1014.0 Hpa,040º (NE),7.2,1/8,1/8 CU,-,-,-,-,-,Few clouds
+ESFAHAN,17/11/2013,09Z,15.0,38%,1014.8 Hpa,050º (NE),7.2,1/8,1/8 CU,-,-,-,-,-,Few clouds
+ESFAHAN,17/11/2013,06Z,10.4,54%,1017.7 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, haze"
+ESFAHAN,17/11/2013,03Z,3.0,77%,1018.4 Hpa,calm.,,0/8,-,-,-,-,-,2.2,"Clear, haze"
+ESFAHAN,17/11/2013,00Z,4.4,67%,1015.9 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+FASA,17/11/2013,21Z,12.2,84%,1015.5 Hpa,calm.,,8/8,4/8 CB,AC,,-,-,-,"Overcast, rain"
+FASA,17/11/2013,18Z,12.2,77%,1015.6 Hpa,calm.,,7/8,3/8 CB,-,CI,-,-,-,"Cloudy, haze"
+FASA,17/11/2013,12Z,16.0,48%,1014.1 Hpa,calm.,,6/8,3/8 CB,AC,-,-,-,-,"Cloudy, haze"
+FASA,17/11/2013,09Z,15.0,55%,1014.9 Hpa,190º (S ),10.8,7/8,4/8 CB,AC,CI,-,-,-,"Cloudy, haze"
+FASA,17/11/2013,06Z,13.0,67%,1016.1 Hpa,calm.,,7/8,3/8 CB,AC,CI,-,-,-,"Cloudy, haze"
+FASA,17/11/2013,03Z,7.8,89%,1015.1 Hpa,calm.,,6/8,5/8 CB,AC,-,-,-,6.8,"Cloudy, mist"
+FASA,17/11/2013,00Z,7.0,88%,1013.5 Hpa,calm.,,3/8,3/8 SC,-,CI,-,-,-,Scattered clouds
+FERDOUS,17/11/2013,21Z,9.0,79%,1016.3 Hpa,060º (NE),7.2,2/8,1/8 SC,AC,-,-,-,-,Few clouds
+FERDOUS,17/11/2013,18Z,10.0,80%,1016.5 Hpa,060º (NE),7.2,4/8,1/8 SC,AC,CI,-,-,-,Scattered clouds
+FERDOUS,17/11/2013,15Z,12.8,69%,1016.6 Hpa,calm.,,3/8,2/8 SC,AC,-,-,19.0,-,Scattered clouds
+FERDOUS,17/11/2013,12Z,16.8,49%,1014.6 Hpa,300º (NW),7.2,4/8,3/8 CB,AC,-,0.8(6h),-,-,"Scattered clouds, rain showers"
+FERDOUS,17/11/2013,09Z,18.6,41%,1014.6 Hpa,180º (S ),21.6,6/8,5/8 CB,AC,-,-,-,-,Cloudy
+FERDOUS,17/11/2013,06Z,16.6,42%,1016.9 Hpa,160º (S ),7.2,4/8,2/8 SC,AC,-,-,-,-,Scattered clouds
+FERDOUS,17/11/2013,03Z,7.6,73%,1017.8 Hpa,calm.,,4/8,2/8 SC,AC,-,-,-,7.6,Scattered clouds
+FERDOUS,17/11/2013,00Z,8.6,55%,1015.5 Hpa,150º (SE),7.2,2/8,2/8 SC,-,-,-,-,-,Few clouds
+GACH SARAN DU GUNBADAN,17/11/2013,21Z,14.8,67%,1016.8 Hpa,calm.,,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+GACH SARAN DU GUNBADAN,17/11/2013,18Z,16.2,58%,1017.2 Hpa,calm.,,6/8,3/8 SC,AC,-,-,-,-,Cloudy
+GACH SARAN DU GUNBADAN,17/11/2013,15Z,19.0,46%,1016.7 Hpa,calm.,,6/8,3/8 SC,AC,-,-,22.4,-,Cloudy
+GACH SARAN DU GUNBADAN,17/11/2013,12Z,21.2,42%,1014.9 Hpa,200º (S ),7.2,5/8,2/8 CU,AC,-,-,-,-,Cloudy
+GACH SARAN DU GUNBADAN,17/11/2013,09Z,20.4,43%,1016.4 Hpa,120º (SE),7.2,4/8,4/8 SC,-,-,-,-,-,Scattered clouds
+GACH SARAN DU GUNBADAN,17/11/2013,06Z,18.2,56%,1018.0 Hpa,160º (S ),7.2,6/8,3/8 SC,AC,-,-,-,-,Cloudy
+GACH SARAN DU GUNBADAN,17/11/2013,03Z,12.2,80%,1017.0 Hpa,calm.,,4/8,4/8 SC,-,-,-,-,11.8,Scattered clouds
+GACH SARAN DU GUNBADAN,17/11/2013,00Z,12.6,76%,1015.9 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+GHARAKHIL,17/11/2013,21Z,9.8,92%,1021.4 Hpa,calm.,,1/8,-,1/8 AC,-,-,-,-,Few clouds
+GHARAKHIL,17/11/2013,18Z,10.2,92%,1021.1 Hpa,210º (SW),7.2,1/8,-,1/8 AC,-,-,-,-,Few clouds
+GHARAKHIL,17/11/2013,15Z,13.8,86%,1020.9 Hpa,calm.,,5/8,1/8 SC,AC,-,-,18.6,-,Cloudy
+GHARAKHIL,17/11/2013,12Z,16.2,79%,1019.7 Hpa,010º (N),7.2,7/8,4/8 CB,AC,-,-,-,-,Cloudy
+GHARAKHIL,17/11/2013,09Z,17.6,74%,1019.9 Hpa,010º (N),10.8,3/8,-,3/8 AC,-,-,-,-,Scattered clouds
+GHARAKHIL,17/11/2013,06Z,15.4,91%,1021.1 Hpa,040º (NE),7.2,3/8,-,3/8 AC,-,5.2(24h),-,-,Scattered clouds
+GHARAKHIL,17/11/2013,03Z,10.0,100%,1020.9 Hpa,240º (SW),7.2,3/8,-,3/8 AC,-,-,-,10.0,Scattered clouds
+GHARAKHIL,17/11/2013,00Z,11.8,97%,1020.9 Hpa,120º (SE),7.2,8/8,5/8 CB,AC,,-,-,-,Overcast
+GHAZVIN,17/11/2013,21Z,6.0,85%,1020.0 Hpa,calm.,,4/8,-,1/8 AC,CC,-,-,-,Scattered clouds
+GHAZVIN,17/11/2013,18Z,6.0,91%,1020.7 Hpa,080º (E ),3.6,2/8,-,2/8 AC,-,-,-,-,Few clouds
+GHAZVIN,17/11/2013,15Z,9.6,73%,1020.0 Hpa,calm.,,7/8,2/8 SC,AC,-,-,14.0,-,Cloudy
+GHAZVIN,17/11/2013,12Z,13.8,49%,1017.8 Hpa,220º (SW),3.6,3/8,1/8 CU,AC,-,-,-,-,Scattered clouds
+GHAZVIN,17/11/2013,09Z,13.2,60%,1018.4 Hpa,calm.,,5/8,1/8 CU,AC,-,-,-,-,"Cloudy, haze"
+GHAZVIN,17/11/2013,06Z,9.4,80%,1020.7 Hpa,110º (E ),3.6,5/8,-,4/8 AC,CC,Tr(24h),-,-,"Cloudy, mist"
+GHAZVIN,17/11/2013,03Z,2.4,93%,1020.5 Hpa,calm.,,7/8,2/8 SC,AC,-,-,-,2.2,"Cloudy, mist"
+GHAZVIN,17/11/2013,00Z,2.8,86%,1019.0 Hpa,240º (SW),7.2,0/8,-,-,-,-,-,-,Clear
+GHUCHAN,17/11/2013,21Z,4.0,93%,1018.5 Hpa,090º (E ),10.8,0/8,-,-,-,-,-,-,Clear
+GHUCHAN,17/11/2013,18Z,6.2,91%,1017.8 Hpa,060º (NE),18.0,0/8,-,-,-,-,-,-,Clear
+GHUCHAN,17/11/2013,15Z,7.6,86%,1020.1 Hpa,150º (SE),18.0,1/8,-,-,CI,-,13.4,-,Few clouds
+GHUCHAN,17/11/2013,12Z,11.0,70%,1017.5 Hpa,090º (E ),7.2,8/8,4/8 CB,AC,,0.6(6h),-,-,Overcast
+GHUCHAN,17/11/2013,09Z,13.2,52%,1015.2 Hpa,100º (E ),18.0,7/8,3/8 SC,-,CI,-,-,-,Cloudy
+GHUCHAN,17/11/2013,06Z,10.8,67%,1017.9 Hpa,calm.,,4/8,-,-,CI,-,-,-,Scattered clouds
+GHUCHAN,17/11/2013,03Z,0.2,88%,1019.9 Hpa,120º (SE),7.2,8/8,4/8 SC,AC,,-,-,0.2,Overcast
+GHUCHAN,17/11/2013,00Z,2.4,77%,1017.7 Hpa,130º (SE),7.2,4/8,4/8 SC,-,-,-,-,-,Scattered clouds
+GORGAN,17/11/2013,21Z,11.0,92%,1023.0 Hpa,calm.,,2/8,2/8 SC,-,-,-,-,-,Few clouds
+GORGAN,17/11/2013,18Z,14.0,87%,1023.0 Hpa,calm.,,6/8,6/8 SC,-,-,-,-,-,Cloudy
+GORGAN,17/11/2013,15Z,14.8,90%,1022.4 Hpa,calm.,,5/8,5/8 SC,-,-,-,18.2,-,Cloudy
+GORGAN,17/11/2013,12Z,17.4,66%,1021.3 Hpa,040º (NE),14.4,6/8,5/8 CU/SC,AC,CI,-,-,-,Cloudy
+GORGAN,17/11/2013,09Z,17.4,63%,1021.3 Hpa,calm.,,4/8,3/8 CU,AC,-,-,-,-,"Scattered clouds, haze"
+GORGAN,17/11/2013,06Z,14.2,88%,1023.0 Hpa,calm.,,7/8,6/8 SC,AC,-,11.0(24h),-,-,"Cloudy, mist"
+GORGAN,17/11/2013,03Z,11.8,91%,1022.3 Hpa,180º (S ),7.2,8/8,4/8 SC,AC,,-,-,10.4,"Overcast, mist"
+GORGAN,17/11/2013,00Z,11.0,89%,1023.1 Hpa,calm.,,8/8,5/8 CB,AC,,3.0(6h),-,-,Overcast
+HAMEDAN,17/11/2013,21Z,2.0,85%,1021.2 Hpa,calm.,,5/8,2/8 SC,AC,-,-,-,-,Cloudy
+HAMEDAN,17/11/2013,18Z,4.0,77%,1021.9 Hpa,090º (E ),7.2,2/8,1/8 SC,AC,-,-,-,-,Few clouds
+HAMEDAN,17/11/2013,15Z,6.7,63%,1021.2 Hpa,040º (NE),7.2,2/8,2/8 SC,-,-,-,12.0,-,Few clouds
+HAMEDAN,17/11/2013,12Z,10.8,43%,1018.2 Hpa,040º (NE),7.2,3/8,3/8 CU,-,-,-,-,-,Scattered clouds
+HAMEDAN,17/11/2013,09Z,10.4,51%,1018.4 Hpa,calm.,,4/8,3/8 SC,-,CI,-,-,-,Scattered clouds
+HAMEDAN,17/11/2013,06Z,6.0,71%,1021.0 Hpa,calm.,,2/8,-,-,CI,-,-,-,Few clouds
+HAMEDAN,17/11/2013,03Z,-0.7,96%,1022.5 Hpa,calm.,,1/8,1/8 SC,-,-,-,-,-0.9,Few clouds
+HAMEDAN,17/11/2013,00Z,1.6,87%,1019.7 Hpa,calm.,,1/8,1/8 SC,-,-,-,-,-,Few clouds
+ILAM,17/11/2013,21Z,6.4,86%,1017.4 Hpa,100º (E ),10.8,0/8,-,-,-,-,-,-,Clear
+ILAM,17/11/2013,18Z,7.8,89%,1018.1 Hpa,100º (E ),7.2,0/8,-,-,-,-,-,-,Clear
+ILAM,17/11/2013,15Z,9.6,80%,1018.8 Hpa,calm.,,6/8,2/8 SC,AC,-,-,15.2,-,Cloudy
+ILAM,17/11/2013,12Z,14.6,52%,1017.1 Hpa,300º (NW),10.8,3/8,3/8 CU,-,-,-,-,-,Scattered clouds
+ILAM,17/11/2013,09Z,14.2,48%,1018.1 Hpa,calm.,,4/8,4/8 CU,-,-,-,-,-,Scattered clouds
+ILAM,17/11/2013,06Z,10.4,72%,1019.1 Hpa,140º (SE),7.2,0/8,-,-,-,-,-,-,Clear
+ILAM,17/11/2013,03Z,4.2,93%,1018.7 Hpa,080º (E ),7.2,0/8,-,-,-,-,-,4.0,Clear
+ILAM,17/11/2013,00Z,5.0,91%,1017.6 Hpa,100º (E ),7.2,0/8,-,-,-,-,-,-,Clear
+IRANSHAHR,17/11/2013,21Z,17.7,31%,1017.4 Hpa,360º (N ),7.2,4/8,-,1/8 AC,CI,-,-,-,Scattered clouds
+IRANSHAHR,17/11/2013,18Z,20.6,27%,1017.8 Hpa,330º (NW),7.2,6/8,-,1/8 AC,CI,-,-,-,Cloudy
+IRANSHAHR,17/11/2013,15Z,23.4,22%,1016.9 Hpa,190º (S ),7.2,2/8,-,-,CI,-,28.8,-,Few clouds
+IRANSHAHR,17/11/2013,12Z,27.7,15%,1014.9 Hpa,230º (SW),18.0,3/8,-,-,CI,-,-,-,Scattered clouds
+IRANSHAHR,17/11/2013,09Z,27.8,20%,1015.5 Hpa,170º (S ),7.2,2/8,-,1/8 AC,CI,-,-,-,Few clouds
+IRANSHAHR,17/11/2013,06Z,24.1,31%,1019.0 Hpa,090º (E ),10.8,2/8,-,2/8 AC,CI,-,-,-,Few clouds
+IRANSHAHR,17/11/2013,03Z,15.3,57%,1018.8 Hpa,020º (N),10.8,1/8,-,1/8 AC,CI,-,-,15.2,Few clouds
+IRANSHAHR,17/11/2013,00Z,16.4,53%,1016.9 Hpa,030º (NE),10.8,2/8,-,1/8 AC,CI,-,-,-,Few clouds
+JASK,17/11/2013,21Z,24.0,70%,1016.2 Hpa,060º (NE),18.0,5/8,5/8 SC,-,-,-,-,-,"Cloudy, haze"
+JASK,17/11/2013,18Z,24.6,81%,1016.9 Hpa,calm.,,3/8,2/8 SC,AC,-,-,-,-,"Scattered clouds, mist"
+JASK,17/11/2013,15Z,24.8,72%,1015.6 Hpa,110º (E ),28.8,6/8,4/8 CB,AC,-,-,27.2,-,"Cloudy, dust"
+JASK,17/11/2013,12Z,25.4,228%,1015.2 Hpa,150º (SE),25.2,7/8,4/8 CB,AC,-,-,-,-,"Cloudy, dust"
+JASK,17/11/2013,09Z,26.4,60%,1015.9 Hpa,130º (SE),25.2,6/8,1/8 SC,AC,CI,-,-,-,"Cloudy, dust"
+JASK,17/11/2013,06Z,26.2,217%,1017.8 Hpa,100º (E ),25.2,6/8,1/8 CU,-,CI,-,-,-,"Cloudy, dust"
+JASK,17/11/2013,03Z,23.0,74%,1016.5 Hpa,080º (E ),18.0,1/8,1/8 CU,-,-,-,-,22.0,"Few clouds, haze"
+JASK,17/11/2013,00Z,23.0,66%,1015.8 Hpa,080º (E ),18.0,1/8,1/8 CU,-,-,-,-,-,"Few clouds, haze"
+KASHAN,17/11/2013,21Z,10.2,73%,1019.8 Hpa,calm.,,3/8,-,3/8 AC,-,-,-,-,Scattered clouds
+KASHAN,17/11/2013,18Z,12.6,65%,1019.1 Hpa,calm.,,5/8,3/8 SC,AC,-,-,-,-,Cloudy
+KASHAN,17/11/2013,15Z,14.2,55%,1019.3 Hpa,calm.,,5/8,2/8 SC,AC,-,-,18.0,-,Cloudy
+KASHAN,17/11/2013,12Z,17.2,43%,1017.9 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KASHAN,17/11/2013,09Z,16.8,45%,1018.4 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KASHAN,17/11/2013,06Z,14.0,56%,1020.7 Hpa,calm.,,1/8,1/8 SC,-,-,0.2(24h),-,-,Few clouds
+KASHAN,17/11/2013,03Z,7.8,86%,1020.4 Hpa,calm.,,6/8,6/8 SC,-,-,-,-,6.0,Cloudy
+KASHAN,17/11/2013,00Z,7.2,85%,1019.1 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KASHMAR,17/11/2013,21Z,11.0,74%,1019.1 Hpa,calm.,,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+KASHMAR,17/11/2013,18Z,10.4,76%,1018.5 Hpa,calm.,,2/8,2/8 SC,-,-,-,-,-,Few clouds
+KASHMAR,17/11/2013,15Z,13.2,63%,1017.9 Hpa,calm.,,3/8,3/8 SC,-,-,-,16.4,-,Scattered clouds
+KASHMAR,17/11/2013,12Z,14.8,65%,1016.7 Hpa,150º (SE),10.8,4/8,4/8 SC,-,-,5.0(6h),-,-,Scattered clouds
+KASHMAR,17/11/2013,09Z,11.4,83%,1019.1 Hpa,030º (NE),7.2,6/8,4/8 ST,AC,-,-,-,-,Cloudy
+KASHMAR,17/11/2013,06Z,14.0,56%,1019.7 Hpa,140º (SE),25.2,7/8,5/8 CB,AC,-,-,-,-,Cloudy
+KASHMAR,17/11/2013,03Z,11.8,62%,1018.7 Hpa,060º (NE),10.8,3/8,3/8 SC,-,-,-,-,9.4,Scattered clouds
+KASHMAR,17/11/2013,00Z,8.6,71%,1020.2 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KERMAN,17/11/2013,21Z,9.4,49%,1015.0 Hpa,010º (N),7.2,5/8,-,5/8 AC,-,-,-,-,Cloudy
+KERMAN,17/11/2013,18Z,12.0,43%,1015.6 Hpa,180º (S ),7.2,4/8,-,4/8 AC,-,-,-,-,Scattered clouds
+KERMAN,17/11/2013,15Z,14.0,33%,1017.5 Hpa,300º (NW),10.8,6/8,2/8 SC,-,CI,-,18.4,-,Cloudy
+KERMAN,17/11/2013,12Z,17.6,23%,1014.2 Hpa,290º (W ),14.4,7/8,2/8 SC,-,CI,-,-,-,Cloudy
+KERMAN,17/11/2013,09Z,17.2,26%,1013.9 Hpa,250º (W ),14.4,6/8,1/8 CU,-,CI,-,-,-,Cloudy
+KERMAN,17/11/2013,06Z,13.6,38%,1017.1 Hpa,080º (E ),10.8,2/8,1/8 CU,-,CI,-,-,-,Few clouds
+KERMAN,17/11/2013,03Z,2.0,70%,1019.3 Hpa,120º (SE),10.8,0/8,-,-,-,-,-,1.4,Clear
+KERMAN,17/11/2013,00Z,4.8,66%,1015.4 Hpa,090º (E ),7.2,0/8,-,-,-,-,-,-,Clear
+KERMANSHAH,17/11/2013,21Z,4.6,88%,1019.0 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KERMANSHAH,17/11/2013,18Z,7.6,72%,1019.6 Hpa,290º (W ),10.8,1/8,1/8 SC,-,-,-,-,-,Few clouds
+KERMANSHAH,17/11/2013,15Z,10.7,60%,1019.1 Hpa,300º (NW),10.8,5/8,4/8 CB,AC,-,-,15.6,-,Cloudy
+KERMANSHAH,17/11/2013,12Z,14.6,35%,1017.4 Hpa,220º (SW),10.8,3/8,3/8 CU,-,-,-,-,-,Scattered clouds
+KERMANSHAH,17/11/2013,09Z,14.0,39%,1019.1 Hpa,calm.,,2/8,2/8 CU,-,-,-,-,-,Few clouds
+KERMANSHAH,17/11/2013,06Z,8.2,78%,1020.5 Hpa,calm.,,3/8,1/8 CU,AC,-,0.1(24h),-,-,Scattered clouds
+KERMANSHAH,17/11/2013,03Z,3.6,91%,1019.8 Hpa,100º (E ),7.2,1/8,1/8 SC,-,-,-,-,3.1,Few clouds
+KERMANSHAH,17/11/2013,00Z,5.1,91%,1018.0 Hpa,calm.,,4/8,2/8 SC,AC,-,-,-,-,Scattered clouds
+KHARG,17/11/2013,15Z,21.4,52%,1016.1 Hpa,calm.,,5/8,-,5/8 AC,-,-,24.8,-,Cloudy
+KHARG,17/11/2013,12Z,23.8,45%,1015.5 Hpa,360º (N ),7.2,6/8,1/8 SC,AC,-,-,-,-,Cloudy
+KHARG,17/11/2013,09Z,24.2,44%,1016.8 Hpa,020º (N),7.2,6/8,-,4/8 AC,CI,-,-,-,Cloudy
+KHARG,17/11/2013,06Z,23.0,66%,1017.9 Hpa,calm.,,6/8,-,3/8 AC,CI,-,-,-,Cloudy
+KHARG,17/11/2013,03Z,18.6,77%,1016.5 Hpa,calm.,,3/8,-,-,CI,-,-,17.0,Scattered clouds
+KHOR,17/11/2013,21Z,12.2,66%,1018.0 Hpa,calm.,,2/8,2/8 SC,-,-,-,-,-,Few clouds
+KHOR,17/11/2013,18Z,13.6,60%,1017.4 Hpa,calm.,,1/8,-,1/8 AC,-,-,-,-,Few clouds
+KHOR,17/11/2013,15Z,16.2,47%,1016.8 Hpa,calm.,,1/8,-,-,CI,-,19.0,-,Few clouds
+KHOR,17/11/2013,12Z,18.6,42%,1015.2 Hpa,030º (NE),7.2,1/8,1/8 SC,-,-,-,-,-,Few clouds
+KHOR,17/11/2013,09Z,17.0,50%,1016.8 Hpa,020º (N),7.2,3/8,-,3/8 AC,-,-,-,-,Scattered clouds
+KHOR,17/11/2013,06Z,15.0,48%,1018.1 Hpa,calm.,,2/8,1/8 SC,AC,-,-,-,-,Few clouds
+KHOR,17/11/2013,03Z,12.0,59%,1015.3 Hpa,calm.,,4/8,3/8 SC,AC,-,-,-,11.4,Scattered clouds
+KHOR,17/11/2013,00Z,13.4,47%,1014.2 Hpa,290º (W ),7.2,5/8,2/8 SC,AC,-,-,-,-,Cloudy
+KHORRAM ABAD,17/11/2013,21Z,4.8,93%,1019.5 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KHORRAM ABAD,17/11/2013,18Z,7.6,81%,1020.0 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KHORRAM ABAD,17/11/2013,15Z,12.4,61%,1019.0 Hpa,240º (SW),10.8,3/8,3/8 SC,-,-,-,17.2,-,Scattered clouds
+KHORRAM ABAD,17/11/2013,12Z,16.4,36%,1017.3 Hpa,260º (W ),7.2,3/8,3/8 CU,-,-,-,-,-,Scattered clouds
+KHORRAM ABAD,17/11/2013,09Z,14.0,53%,1018.1 Hpa,240º (SW),10.8,2/8,2/8 CU,-,-,-,-,-,"Few clouds, haze"
+KHORRAM ABAD,17/11/2013,06Z,9.0,74%,1021.0 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, mist"
+KHORRAM ABAD,17/11/2013,03Z,1.4,96%,1020.8 Hpa,calm.,,1/8,1/8 SC,-,-,-,-,1.2,Few clouds
+KHORRAM ABAD,17/11/2013,00Z,2.8,93%,1018.2 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KHOY,17/11/2013,21Z,4.0,87%,1020.7 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KHOY,17/11/2013,18Z,6.0,79%,1021.0 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KHOY,17/11/2013,15Z,10.0,68%,1018.3 Hpa,calm.,,1/8,1/8 SC,-,-,-,13.8,-,Few clouds
+KHOY,17/11/2013,12Z,12.8,49%,1017.6 Hpa,070º (E ),7.2,2/8,2/8 SC,-,-,-,-,-,Few clouds
+KHOY,17/11/2013,09Z,11.4,55%,1019.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KHOY,17/11/2013,06Z,5.6,79%,1020.8 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KHOY,17/11/2013,03Z,0.6,92%,1021.0 Hpa,calm.,,0/8,-,-,-,-,-,0.2,Clear
+KHOY,17/11/2013,00Z,1.6,93%,1019.9 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, mist"
+KISH ISLAND,17/11/2013,21Z,21.0,69%,1015.1 Hpa,090º (E ),14.4,8/8,2/8 CB,AC,,-,-,-,"Overcast, haze"
+KISH ISLAND,17/11/2013,18Z,20.6,78%,1016.2 Hpa,070º (E ),21.6,8/8,2/8 CB,AC,,0.2(6h),-,-,"Overcast, haze"
+KISH ISLAND,17/11/2013,15Z,21.0,76%,1015.9 Hpa,360º (N ),7.2,8/8,2/8 CB,AC,,-,25.0,-,"Overcast, rain"
+KISH ISLAND,17/11/2013,12Z,21.4,85%,1015.2 Hpa,340º (N ),14.4,8/8,2/8 ST,AC,,3.0(6h),-,-,"Overcast, rain"
+KISH ISLAND,17/11/2013,09Z,21.4,80%,1017.2 Hpa,210º (SW),18.0,8/8,1/8 ST,AC,,-,-,-,"Overcast, rain"
+KISH ISLAND,17/11/2013,06Z,24.6,62%,1016.2 Hpa,110º (E ),7.2,7/8,2/8 ST,AC,-,-,-,-,"Cloudy, haze"
+KISH ISLAND,17/11/2013,03Z,22.6,77%,1014.6 Hpa,110º (E ),25.2,5/8,2/8 CB,AC,-,-,-,22.0,"Cloudy, thunderstorm no precipitation"
+KISH ISLAND,17/11/2013,00Z,23.6,74%,1013.9 Hpa,060º (NE),10.8,4/8,-,2/8 AC,CI,-,-,-,"Scattered clouds, haze"
+KONARAK,17/11/2013,15Z,24.2,63%,1016.5 Hpa,100º (E ),7.2,0/8,-,-,-,-,28.8,-,Clear
+KONARAK,17/11/2013,12Z,28.4,39%,1015.7 Hpa,140º (SE),21.6,0/8,-,-,-,-,-,-,Clear
+KONARAK,17/11/2013,09Z,28.0,46%,1016.2 Hpa,140º (SE),14.4,0/8,-,-,-,-,-,-,Clear
+KONARAK,17/11/2013,06Z,26.0,61%,1018.7 Hpa,050º (NE),7.2,0/8,-,-,-,-,-,-,Clear
+MAKKO,17/11/2013,21Z,1.8,76%,1020.6 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+MAKKO,17/11/2013,18Z,4.0,72%,1021.6 Hpa,calm.,,1/8,1/8 SC,-,-,-,-,-,Few clouds
+MAKKO,17/11/2013,15Z,7.2,66%,1020.2 Hpa,calm.,,4/8,4/8 SC,-,-,-,11.8,-,Scattered clouds
+MAKKO,17/11/2013,12Z,11.2,41%,1018.6 Hpa,150º (SE),7.2,3/8,3/8 CU,-,-,-,-,-,Scattered clouds
+MAKKO,17/11/2013,09Z,10.0,47%,1020.0 Hpa,calm.,,2/8,2/8 CU,-,-,-,-,-,Few clouds
+MAKKO,17/11/2013,06Z,3.4,78%,1020.9 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+MAKKO,17/11/2013,03Z,0.4,86%,1020.9 Hpa,calm.,,0/8,-,-,-,-,-,0.0,Clear
+MAKKO,17/11/2013,00Z,1.8,79%,1019.4 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+MARAGHEH,17/11/2013,21Z,5.8,66%,1019.3 Hpa,060º (NE),21.6,2/8,-,-,CI,-,-,-,Few clouds
+MARAGHEH,17/11/2013,18Z,5.2,79%,1019.7 Hpa,080º (E ),10.8,3/8,1/8 SC,AC,-,-,-,-,"Scattered clouds, mist"
+MARAGHEH,17/11/2013,15Z,7.4,76%,1018.8 Hpa,Vble.,,3/8,1/8 SC,-,CI,-,12.4,-,"Scattered clouds, haze"
+MARAGHEH,17/11/2013,12Z,11.8,54%,1017.2 Hpa,calm.,,5/8,2/8 CB,AC,CI,-,-,-,"Cloudy, haze"
+MARAGHEH,17/11/2013,09Z,9.4,68%,1018.9 Hpa,calm.,,5/8,3/8 CB,-,CC,-,-,-,"Cloudy, haze"
+MARAGHEH,17/11/2013,06Z,6.8,75%,1020.0 Hpa,070º (E ),10.8,2/8,1/8 CU,-,CI,0.6(24h),-,-,"Few clouds, haze"
+MARAGHEH,17/11/2013,03Z,3.8,75%,1019.8 Hpa,080º (E ),14.4,0/8,-,-,-,-,-,3.8,Clear
+MARAGHEH,17/11/2013,00Z,4.6,82%,1018.6 Hpa,070º (E ),18.0,0/8,-,-,-,-,-,-,Clear
+MASHHAD,17/11/2013,21Z,7.5,100%,1021.0 Hpa,310º (NW),7.2,0/8,-,-,-,-,-,-,"Clear, mist"
+MASHHAD,17/11/2013,18Z,8.1,100%,1020.9 Hpa,180º (S ),7.2,1/8,1/8 SC,-,CI,-,-,-,"Few clouds, fog"
+MASHHAD,17/11/2013,15Z,9.1,100%,1022.0 Hpa,calm.,,1/8,1/8 SC,-,-,-,15.7,-,Few clouds
+MASHHAD,17/11/2013,12Z,12.3,73%,1020.4 Hpa,110º (E ),14.4,7/8,5/8 CB,AC,CI,0.8(6h),-,-,Cloudy
+MASHHAD,17/11/2013,09Z,14.0,47%,1019.4 Hpa,120º (SE),10.8,7/8,4/8 CB,AC,-,-,-,-,"Cloudy, haze"
+MASHHAD,17/11/2013,06Z,13.0,47%,1020.5 Hpa,calm.,,1/8,1/8 CU,-,-,-,-,-,Few clouds
+MASHHAD,17/11/2013,03Z,5.2,73%,1021.7 Hpa,220º (SW),7.2,1/8,1/8 SC,AC,-,-,-,4.6,"Few clouds, haze"
+MASHHAD,17/11/2013,00Z,4.8,73%,1020.7 Hpa,340º (N ),7.2,1/8,-,1/8 AC,-,-,-,-,Few clouds
+MASJED-SOLEYMAN,17/11/2013,21Z,15.2,64%,1015.9 Hpa,160º (S ),3.6,0/8,-,-,-,-,-,-,Clear
+MASJED-SOLEYMAN,17/11/2013,18Z,16.6,60%,1016.1 Hpa,330º (NW),3.6,0/8,-,-,-,-,-,-,Clear
+MASJED-SOLEYMAN,17/11/2013,15Z,19.7,42%,1015.0 Hpa,240º (SW),3.6,0/8,-,-,-,-,23.7,-,Clear
+MASJED-SOLEYMAN,17/11/2013,12Z,23.2,39%,1014.3 Hpa,180º (S ),7.2,0/8,-,-,-,-,-,-,Clear
+MASJED-SOLEYMAN,17/11/2013,09Z,22.5,45%,1015.2 Hpa,150º (SE),3.6,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+MASJED-SOLEYMAN,17/11/2013,06Z,17.8,64%,1017.4 Hpa,140º (SE),3.6,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+MASJED-SOLEYMAN,17/11/2013,03Z,12.9,85%,1015.5 Hpa,140º (SE),7.2,0/8,-,-,-,-,-,12.9,Clear
+MASJED-SOLEYMAN,17/11/2013,00Z,13.6,83%,1014.2 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+MOHABAD,17/11/2013,21Z,5.0,88%,1018.8 Hpa,calm.,,1/8,1/8 SC,-,-,-,-,-,Few clouds
+MOHABAD,17/11/2013,18Z,8.4,74%,1018.6 Hpa,calm.,,6/8,4/8 CB,AC,-,2.0(6h),-,-,Cloudy
+MOHABAD,17/11/2013,15Z,9.0,74%,1018.4 Hpa,calm.,,8/8,6/8 CB,AC,,-,13.8,-,"Overcast, rain"
+MOHABAD,17/11/2013,12Z,10.2,62%,1018.0 Hpa,calm.,,7/8,7/8 CB,AC,-,0.6(6h),-,-,"Cloudy, rain showers"
+MOHABAD,17/11/2013,09Z,11.2,66%,1018.0 Hpa,calm.,,2/8,2/8 CU,-,-,-,-,-,Few clouds
+MOHABAD,17/11/2013,06Z,6.8,78%,1019.6 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+MOHABAD,17/11/2013,03Z,2.0,93%,1020.5 Hpa,calm.,,0/8,-,-,-,-,-,2.0,Clear
+MOHABAD,17/11/2013,00Z,3.2,93%,1019.2 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+NEHBANDAN,17/11/2013,21Z,13.1,60%,1015.5 Hpa,calm.,,6/8,3/8 SC,AC,-,-,-,-,Cloudy
+NEHBANDAN,17/11/2013,18Z,14.0,60%,1016.3 Hpa,calm.,,7/8,3/8 CB,AC,-,Tr(6h),-,-,Cloudy
+NEHBANDAN,17/11/2013,15Z,15.8,53%,1016.2 Hpa,calm.,,5/8,1/8 CB,AC,-,-,20.2,-,Cloudy
+NEHBANDAN,17/11/2013,12Z,18.3,43%,1014.4 Hpa,140º (SE),10.8,4/8,3/8 CU,AC,-,-,-,-,Scattered clouds
+NEHBANDAN,17/11/2013,09Z,19.4,44%,1014.8 Hpa,120º (SE),10.8,4/8,1/8 CB,AC,-,-,-,-,Scattered clouds
+NEHBANDAN,17/11/2013,06Z,15.2,59%,1018.4 Hpa,calm.,,5/8,2/8 CU,AC,-,-,-,-,Cloudy
+NEHBANDAN,17/11/2013,03Z,11.0,72%,1018.1 Hpa,calm.,,0/8,-,-,-,-,-,10.0,Clear
+NEHBANDAN,17/11/2013,00Z,11.3,70%,1015.6 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+NOSHAHR,17/11/2013,21Z,12.8,90%,1021.2 Hpa,calm.,,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+NOSHAHR,17/11/2013,18Z,13.6,88%,1020.8 Hpa,calm.,,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+NOSHAHR,17/11/2013,15Z,14.8,82%,1020.0 Hpa,calm.,,3/8,3/8 SC,-,-,-,17.0,-,Scattered clouds
+NOSHAHR,17/11/2013,12Z,16.4,71%,1019.6 Hpa,330º (NW),7.2,4/8,4/8 CB,-,-,-,-,-,Scattered clouds
+NOSHAHR,17/11/2013,09Z,16.0,72%,1020.0 Hpa,calm.,,2/8,2/8 SC,-,-,-,-,-,Few clouds
+NOSHAHR,17/11/2013,06Z,14.2,75%,1020.4 Hpa,270º (W ),10.8,2/8,2/8 SC,AC,-,35.4(24h),-,-,Few clouds
+NOSHAHR,17/11/2013,03Z,9.8,94%,1019.9 Hpa,Vble.,,2/8,1/8 CB,-,-,-,-,9.8,Few clouds
+NOSHAHR,17/11/2013,00Z,11.4,94%,1020.6 Hpa,calm.,,6/8,3/8 SC,AC,-,0.2(6h),-,-,Cloudy
+OMIDYEH-AGHAJARI,17/11/2013,21Z,16.9,52%,1017.1 Hpa,calm.,,6/8,6/8 SC,-,-,-,-,-,Cloudy
+OMIDYEH-AGHAJARI,17/11/2013,18Z,17.2,51%,1017.0 Hpa,calm.,,3/8,-,-,CI,-,-,-,Scattered clouds
+OMIDYEH-AGHAJARI,17/11/2013,15Z,20.6,43%,1016.3 Hpa,320º (NW),7.2,3/8,-,-,CI,-,27.6,-,Scattered clouds
+OMIDYEH-AGHAJARI,17/11/2013,12Z,26.9,24%,1016.1 Hpa,calm.,,2/8,-,-,CI,-,-,-,Few clouds
+OMIDYEH-AGHAJARI,17/11/2013,09Z,25.2,31%,1017.5 Hpa,300º (NW),7.2,3/8,1/8 SC,-,CI,-,-,-,Scattered clouds
+OMIDYEH-AGHAJARI,17/11/2013,06Z,17.4,59%,1019.0 Hpa,calm.,,4/8,2/8 SC,-,CI,-,-,-,Scattered clouds
+OMIDYEH-AGHAJARI,17/11/2013,03Z,12.3,75%,1017.4 Hpa,calm.,,4/8,1/8 SC,-,CI,-,-,12.0,Scattered clouds
+OMIDYEH-AGHAJARI,17/11/2013,00Z,13.4,70%,1016.8 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+ORUMIEH,17/11/2013,21Z,1.6,100%,1020.1 Hpa,250º (W ),10.8,3/8,1/8 ST,-,CI,-,1.6,10.0,"Scattered clouds, mist"
+ORUMIEH,17/11/2013,18Z,2.8,96%,1020.7 Hpa,260º (W ),7.2,0/8,-,-,-,-,-,-,"Clear, mist"
+ORUMIEH,17/11/2013,15Z,4.6,90%,1021.0 Hpa,calm.,,0/8,-,-,-,-,11.6,-,"Clear, mist"
+ORUMIEH,17/11/2013,12Z,11.0,66%,1018.5 Hpa,100º (E ),7.2,2/8,2/8 CU,-,-,-,-,-,"Few clouds, haze"
+ORUMIEH,17/11/2013,09Z,11.2,63%,1019.1 Hpa,100º (E ),14.4,3/8,3/8 CU/SC,-,-,-,-,-,"Scattered clouds, haze"
+ORUMIEH,17/11/2013,06Z,6.2,83%,1021.1 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, mist"
+ORUMIEH,17/11/2013,03Z,0.2,96%,1021.6 Hpa,250º (W ),7.2,1/8,-,1/8 AC,-,-,-,-0.2,"Few clouds, mist"
+ORUMIEH,17/11/2013,00Z,0.8,96%,1020.0 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, mist"
+PARS ABAD MOGHAN,17/11/2013,21Z,2.6,96%,1023.9 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, mist"
+PARS ABAD MOGHAN,17/11/2013,18Z,4.2,93%,1023.7 Hpa,260º (W ),7.2,0/8,-,-,-,-,-,-,Clear
+PARS ABAD MOGHAN,17/11/2013,15Z,6.8,93%,1022.1 Hpa,calm.,,0/8,-,-,-,-,12.4,-,Clear
+PARS ABAD MOGHAN,17/11/2013,12Z,12.0,75%,1021.1 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+PARS ABAD MOGHAN,17/11/2013,09Z,7.8,91%,1022.8 Hpa,360º (N ),10.8,8/8,8/8 ST,,,-,-,-,"Overcast, mist"
+PARS ABAD MOGHAN,17/11/2013,06Z,5.2,96%,1023.4 Hpa,240º (SW),7.2,6/8,5/8 SC,AC,-,-,-,-,"Cloudy, fog"
+PARS ABAD MOGHAN,17/11/2013,03Z,2.4,92%,1021.9 Hpa,240º (SW),10.8,0/8,-,-,-,-,-,2.0,"Clear, mist"
+PARS ABAD MOGHAN,17/11/2013,00Z,3.0,96%,1022.6 Hpa,240º (SW),7.2,0/8,-,-,-,-,-,-,"Clear, fog"
+RAMSAR,17/11/2013,21Z,13.6,85%,1021.1 Hpa,calm.,,8/8,8/8 SC,,,-,-,-,Overcast
+RAMSAR,17/11/2013,18Z,12.8,90%,1020.5 Hpa,250º (W ),7.2,6/8,6/8 SC,-,-,-,-,-,Cloudy
+RAMSAR,17/11/2013,15Z,12.9,89%,1020.0 Hpa,calm.,,3/8,3/8 CB,AC,-,-,16.4,-,Scattered clouds
+RAMSAR,17/11/2013,12Z,15.0,82%,1019.1 Hpa,calm.,,4/8,4/8 CB,-,-,-,-,-,Scattered clouds
+RAMSAR,17/11/2013,09Z,16.4,77%,1019.2 Hpa,010º (N),10.8,3/8,3/8 CB,-,-,-,-,-,Scattered clouds
+RAMSAR,17/11/2013,06Z,14.6,76%,1020.4 Hpa,calm.,,2/8,2/8 CB,-,-,3.0(24h),-,-,Few clouds
+RAMSAR,17/11/2013,03Z,9.8,92%,1019.7 Hpa,calm.,,3/8,3/8 CB,-,-,-,-,9.8,Scattered clouds
+RAMSAR,17/11/2013,00Z,10.8,92%,1020.1 Hpa,calm.,,4/8,3/8 CB,AC,-,-,-,-,Scattered clouds
+RASHT,17/11/2013,21Z,12.4,94%,1022.4 Hpa,270º (W ),7.2,8/8,6/8 CB,AC,,-,-,-,"Overcast, rain"
+RASHT,17/11/2013,18Z,11.8,97%,1022.3 Hpa,Vble.,,4/8,-,4/8 AC,-,-,-,-,Scattered clouds
+RASHT,17/11/2013,15Z,13.0,90%,1021.0 Hpa,Vble.,,3/8,2/8 SC,AC,-,-,16.5,-,Scattered clouds
+RASHT,17/11/2013,12Z,15.2,76%,1020.2 Hpa,Vble.,,5/8,3/8 CU/SC,AC,-,-,-,-,Cloudy
+RASHT,17/11/2013,09Z,14.2,77%,1020.4 Hpa,calm.,,4/8,4/8 CU,-,-,-,-,-,Scattered clouds
+RASHT,17/11/2013,06Z,12.2,89%,1021.5 Hpa,Vble.,,0/8,-,-,-,13.3(24h),-,-,Clear
+RASHT,17/11/2013,03Z,8.0,100%,1021.1 Hpa,calm.,,2/8,2/8 SC,-,-,-,-,8.0,Few clouds
+RASHT,17/11/2013,00Z,9.2,100%,1021.4 Hpa,calm.,,4/8,1/8 SC,AC,CC,-,-,-,Scattered clouds
+SABZEVAR,17/11/2013,21Z,7.0,85%,1021.1 Hpa,020º (N),7.2,0/8,-,-,-,-,-,-,Clear
+SABZEVAR,17/11/2013,18Z,7.4,84%,1020.6 Hpa,010º (N),7.2,0/8,-,-,-,-,-,-,Clear
+SABZEVAR,17/11/2013,15Z,10.5,85%,1020.4 Hpa,080º (E ),18.0,2/8,2/8 SC,-,-,-,14.6,-,Few clouds
+SABZEVAR,17/11/2013,12Z,12.5,76%,1019.0 Hpa,090º (E ),18.0,3/8,1/8 SC,AC,-,0.8(6h),-,-,Scattered clouds
+SABZEVAR,17/11/2013,09Z,10.7,91%,1020.5 Hpa,270º (W ),7.2,8/8,5/8 CB,AC,,-,-,-,"Overcast, rain showers"
+SABZEVAR,17/11/2013,06Z,13.3,52%,1019.4 Hpa,090º (E ),7.2,4/8,-,-,CI,-,-,-,Scattered clouds
+SABZEVAR,17/11/2013,03Z,9.0,66%,1018.8 Hpa,070º (E ),14.4,1/8,-,-,CI,-,-,8.2,Few clouds
+SABZEVAR,17/11/2013,00Z,9.8,66%,1017.6 Hpa,080º (E ),18.0,0/8,-,-,-,-,-,-,Clear
+SAFI-ABAD DEZFUL,17/11/2013,21Z,13.4,85%,1017.3 Hpa,calm.,,3/8,-,-,CI,-,-,-,Scattered clouds
+SAFI-ABAD DEZFUL,17/11/2013,18Z,15.0,80%,1017.4 Hpa,calm.,,2/8,-,-,CI,-,-,-,Few clouds
+SAFI-ABAD DEZFUL,17/11/2013,15Z,18.8,64%,1016.3 Hpa,calm.,,1/8,1/8 CU,-,-,-,23.6,-,Few clouds
+SAFI-ABAD DEZFUL,17/11/2013,12Z,23.4,38%,1016.1 Hpa,calm.,,1/8,1/8 CU,-,-,-,-,-,Few clouds
+SAFI-ABAD DEZFUL,17/11/2013,09Z,22.0,46%,1017.2 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SAFI-ABAD DEZFUL,17/11/2013,06Z,15.8,80%,1018.6 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, mist"
+SAFI-ABAD DEZFUL,17/11/2013,03Z,11.4,89%,1017.2 Hpa,calm.,,0/8,-,-,-,-,-,11.2,Clear
+SAFI-ABAD DEZFUL,17/11/2013,00Z,12.2,88%,1016.2 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SAGHEZ,17/11/2013,21Z,0.3,90%,1021.3 Hpa,130º (SE),3.6,0/8,-,-,-,-,-,-,Clear
+SAGHEZ,17/11/2013,18Z,2.5,84%,1021.4 Hpa,140º (SE),7.2,1/8,1/8 SC,-,-,-,-,-,Few clouds
+SAGHEZ,17/11/2013,15Z,9.3,59%,1019.6 Hpa,350º (N ),3.6,6/8,2/8 SC,-,CI,-,12.4,-,Cloudy
+SAGHEZ,17/11/2013,12Z,11.7,52%,1017.7 Hpa,130º (SE),7.2,5/8,4/8 CB,-,-,-,-,-,Cloudy
+SAGHEZ,17/11/2013,09Z,8.9,77%,1019.0 Hpa,310º (NW),3.6,5/8,1/8 CU,AC,-,-,-,-,Cloudy
+SAGHEZ,17/11/2013,06Z,5.2,92%,1020.7 Hpa,calm.,,1/8,1/8 SC,-,-,0.8(24h),-,-,Few clouds
+SAGHEZ,17/11/2013,03Z,-0.5,97%,1021.5 Hpa,140º (SE),3.6,0/8,-,-,-,-,-,-0.7,Clear
+SAGHEZ,17/11/2013,00Z,0.6,95%,1019.9 Hpa,150º (SE),3.6,0/8,-,-,-,-,-,-,Clear
+SANANDAJ,17/11/2013,21Z,2.7,91%,1020.4 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SANANDAJ,17/11/2013,18Z,5.3,82%,1020.6 Hpa,calm.,,2/8,2/8 SC,-,-,-,-,-,Few clouds
+SANANDAJ,17/11/2013,15Z,9.2,62%,1019.2 Hpa,360º (N ),3.6,4/8,4/8 SC,-,CI,-,14.4,-,Scattered clouds
+SANANDAJ,17/11/2013,12Z,14.1,34%,1016.7 Hpa,170º (S ),7.2,4/8,4/8 CB,-,-,-,-,-,Scattered clouds
+SANANDAJ,17/11/2013,09Z,11.4,55%,1018.3 Hpa,180º (S ),7.2,4/8,3/8 CU/SC,-,CI,-,-,-,Scattered clouds
+SANANDAJ,17/11/2013,06Z,5.2,85%,1021.4 Hpa,calm.,,4/8,3/8 SC,AC,-,-,-,-,"Scattered clouds, mist"
+SANANDAJ,17/11/2013,03Z,1.0,95%,1019.4 Hpa,calm.,,3/8,1/8 SC,AC,-,-,-,0.6,Scattered clouds
+SANANDAJ,17/11/2013,00Z,2.0,93%,1017.8 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SARAB,17/11/2013,21Z,0.0,85%,1022.2 Hpa,250º (W ),7.2,4/8,-,2/8 AC,CI,-,-,-,Scattered clouds
+SARAB,17/11/2013,18Z,0.6,86%,1024.0 Hpa,calm.,,3/8,1/8 SC,-,CI,-,-,-,Scattered clouds
+SARAB,17/11/2013,15Z,4.2,73%,1022.6 Hpa,calm.,,4/8,1/8 SC,-,CI,-,9.4,-,Scattered clouds
+SARAB,17/11/2013,12Z,8.4,47%,1019.6 Hpa,290º (W ),10.8,5/8,3/8 CB,AC,-,-,-,-,Cloudy
+SARAB,17/11/2013,09Z,7.2,66%,1020.0 Hpa,280º (W ),7.2,3/8,2/8 CU,-,CI,-,-,-,"Scattered clouds, haze"
+SARAB,17/11/2013,06Z,-0.6,95%,1024.0 Hpa,170º (S ),7.2,8/8,1/8 SC,AC,,4.2(24h),-,-,"Overcast, fog"
+SARAB,17/11/2013,03Z,-2.0,94%,1023.0 Hpa,calm.,,1/8,1/8 SC,-,-,-,-,-2.2,"Few clouds, mist"
+SARAB,17/11/2013,00Z,0.0,96%,1022.5 Hpa,calm.,,4/8,1/8 SC,AC,-,-,-,-,Scattered clouds
+SARAKHS,17/11/2013,21Z,9.3,72%,1022.7 Hpa,270º (W ),7.2,4/8,2/8 SC,-,CI,-,-,-,Scattered clouds
+SARAKHS,17/11/2013,18Z,11.6,67%,1023.3 Hpa,calm.,,4/8,1/8 SC,AC,-,-,-,-,Scattered clouds
+SARAKHS,17/11/2013,15Z,13.1,66%,1022.3 Hpa,calm.,,8/8,5/8 CB,-,CS,-,18.4,-,Overcast
+SARAKHS,17/11/2013,12Z,16.1,46%,1021.0 Hpa,290º (W ),14.4,7/8,3/8 SC,-,CI,-,-,-,Cloudy
+SARAKHS,17/11/2013,09Z,17.7,41%,1020.9 Hpa,calm.,,3/8,-,-,CI,-,-,-,Scattered clouds
+SARAKHS,17/11/2013,06Z,12.1,54%,1023.2 Hpa,310º (NW),21.6,0/8,-,-,-,-,-,-,Clear
+SARAKHS,17/11/2013,03Z,6.4,68%,1022.0 Hpa,310º (NW),14.4,0/8,-,-,-,-,-,4.8,Clear
+SARAKHS,17/11/2013,00Z,6.1,70%,1021.4 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SARAVAN,17/11/2013,21Z,10.9,47%,1020.1 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SARAVAN,17/11/2013,18Z,16.7,29%,1019.7 Hpa,calm.,,3/8,-,-,CI,-,-,-,Scattered clouds
+SARAVAN,17/11/2013,15Z,18.7,26%,1020.4 Hpa,calm.,,0/8,-,-,-,-,23.4,-,Clear
+SARAVAN,17/11/2013,12Z,23.0,17%,1018.0 Hpa,220º (SW),7.2,0/8,-,-,-,-,-,-,Clear
+SARAVAN,17/11/2013,09Z,22.5,24%,1018.7 Hpa,190º (S ),7.2,3/8,-,-,CI,-,-,-,Scattered clouds
+SARAVAN,17/11/2013,06Z,19.8,33%,1021.1 Hpa,calm.,,1/8,-,-,CI,-,-,-,Few clouds
+SARAVAN,17/11/2013,03Z,9.0,67%,1022.1 Hpa,calm.,,0/8,-,-,-,-,-,7.1,Clear
+SARAVAN,17/11/2013,00Z,9.2,62%,1019.9 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SEMNAN,17/11/2013,21Z,8.8,72%,1018.9 Hpa,330º (NW),3.6,0/8,-,-,-,-,-,-,Clear
+SEMNAN,17/11/2013,18Z,9.8,68%,1018.6 Hpa,350º (N ),3.6,1/8,-,1/8 AC,-,-,-,-,Few clouds
+SEMNAN,17/11/2013,15Z,13.6,49%,1018.0 Hpa,270º (W ),3.6,2/8,1/8 SC,AC,-,-,18.6,-,Few clouds
+SEMNAN,17/11/2013,12Z,16.6,41%,1016.2 Hpa,220º (SW),3.6,2/8,2/8 SC,-,-,-,-,-,Few clouds
+SEMNAN,17/11/2013,09Z,15.6,44%,1017.1 Hpa,250º (W ),7.2,2/8,2/8 SC,-,-,-,-,-,Few clouds
+SEMNAN,17/11/2013,06Z,14.2,49%,1017.7 Hpa,110º (E ),7.2,2/8,2/8 CU,-,-,0.1(24h),-,-,Few clouds
+SEMNAN,17/11/2013,03Z,8.4,69%,1017.9 Hpa,330º (NW),3.6,3/8,1/8 SC,-,CI,-,-,7.4,Scattered clouds
+SEMNAN,17/11/2013,00Z,8.2,64%,1016.7 Hpa,360º (N ),3.6,4/8,1/8 SC,-,CI,0.1(6h),-,-,Scattered clouds
+SHAHRE-KORD,17/11/2013,21Z,-0.6,77%,1019.4 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SHAHRE-KORD,17/11/2013,18Z,2.6,66%,1020.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SHAHRE-KORD,17/11/2013,15Z,6.6,51%,1020.9 Hpa,220º (SW),14.4,1/8,1/8 SC,-,-,-,13.0,-,Few clouds
+SHAHRE-KORD,17/11/2013,12Z,12.2,32%,1016.6 Hpa,200º (S ),18.0,2/8,2/8 SC,-,-,-,-,-,Few clouds
+SHAHRE-KORD,17/11/2013,09Z,10.6,40%,1017.5 Hpa,calm.,,4/8,4/8 CB,-,-,-,-,-,Scattered clouds
+SHAHRE-KORD,17/11/2013,06Z,5.6,65%,1019.3 Hpa,calm.,,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+SHAHRE-KORD,17/11/2013,03Z,-2.4,90%,1020.7 Hpa,calm.,,3/8,3/8 SC,-,-,-,-,-2.6,Scattered clouds
+SHAHRE-KORD,17/11/2013,00Z,0.4,82%,1017.2 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SHAHRUD,17/11/2013,21Z,7.2,86%,1019.3 Hpa,090º (E ),7.2,2/8,2/8 SC,-,-,-,-,-,Few clouds
+SHAHRUD,17/11/2013,18Z,9.2,67%,1019.4 Hpa,110º (E ),14.4,6/8,6/8 CB,-,-,-,-,-,"Cloudy, thunderstorm no precipitation"
+SHAHRUD,17/11/2013,15Z,11.8,56%,1018.2 Hpa,030º (NE),10.8,5/8,5/8 CB,-,-,-,15.4,-,Cloudy
+SHAHRUD,17/11/2013,12Z,14.2,41%,1016.1 Hpa,360º (N ),7.2,2/8,2/8 CB,-,-,-,-,-,Few clouds
+SHAHRUD,17/11/2013,09Z,14.0,46%,1016.6 Hpa,060º (NE),7.2,2/8,1/8 CB,-,CI,-,-,-,Few clouds
+SHAHRUD,17/11/2013,06Z,11.2,59%,1018.9 Hpa,100º (E ),7.2,4/8,4/8 SC,-,-,Tr(24h),-,-,Scattered clouds
+SHAHRUD,17/11/2013,03Z,7.4,73%,1018.4 Hpa,020º (N),10.8,7/8,7/8 SC,-,-,-,-,7.4,Cloudy
+SHAHRUD,17/11/2013,00Z,8.6,69%,1017.2 Hpa,030º (NE),7.2,7/8,7/8 SC,-,-,Tr(6h),-,-,Cloudy
+SHIRAZ,17/11/2013,21Z,10.2,74%,1015.8 Hpa,calm.,,7/8,3/8 CB,AC,CI,-,-,-,Cloudy
+SHIRAZ,17/11/2013,18Z,11.4,68%,1017.0 Hpa,160º (S ),7.2,7/8,3/8 SC,-,CI,-,-,-,Cloudy
+SHIRAZ,17/11/2013,15Z,12.2,63%,1017.0 Hpa,calm.,,6/8,3/8 SC,-,CI,-,16.4,-,"Cloudy, haze"
+SHIRAZ,17/11/2013,12Z,16.0,46%,1014.5 Hpa,090º (E ),7.2,7/8,5/8 CB,-,CI,-,-,-,"Cloudy, haze"
+SHIRAZ,17/11/2013,09Z,15.2,55%,1015.3 Hpa,calm.,,7/8,6/8 CB,-,CI,-,-,-,"Cloudy, haze"
+SHIRAZ,17/11/2013,06Z,11.2,77%,1018.3 Hpa,calm.,,6/8,5/8 CU/SC,-,CI,-,-,-,"Cloudy, haze"
+SHIRAZ,17/11/2013,03Z,6.0,94%,1017.0 Hpa,calm.,,7/8,2/8 SC,-,CI,-,-,5.8,"Cloudy, mist"
+SHIRAZ,17/11/2013,00Z,7.6,87%,1014.6 Hpa,calm.,,2/8,2/8 CU,-,-,-,-,-,Few clouds
+SIRI ISLAND,17/11/2013,15Z,23.2,68%,1016.1 Hpa,350º (N ),21.6,8/8,2/8 SC,-,CS,-,27.0,-,Overcast
+SIRI ISLAND,17/11/2013,12Z,23.0,444%,1015.1 Hpa,360º (N ),25.2,8/8,2/8 ST,AC,,10.0(6h),-,-,"Overcast, dust"
+SIRI ISLAND,17/11/2013,09Z,24.8,77%,1016.1 Hpa,320º (NW),18.0,8/8,3/8 CB,AC,,-,-,-,"Overcast, thunderstorm"
+SIRI ISLAND,17/11/2013,06Z,25.4,132%,1016.7 Hpa,030º (NE),28.8,8/8,2/8 ST,AC,,2.0(18h),-,-,"Overcast, thunderstorm"
+SIRI ISLAND,17/11/2013,03Z,25.4,65%,1014.7 Hpa,090º (E ),28.8,4/8,2/8 CB,AC,-,-,-,-,"Scattered clouds, dust"
+SIRJAN,17/11/2013,21Z,10.8,68%,1015.2 Hpa,150º (SE),14.4,4/8,2/8 SC,-,CI,-,-,-,Scattered clouds
+SIRJAN,17/11/2013,18Z,11.4,62%,1015.4 Hpa,120º (SE),14.4,5/8,1/8 SC,-,CI,-,-,-,Cloudy
+SIRJAN,17/11/2013,15Z,13.0,57%,1015.7 Hpa,150º (SE),18.0,7/8,3/8 SC,AC,CI,-,15.4,-,Cloudy
+SIRJAN,17/11/2013,12Z,15.0,40%,1013.9 Hpa,150º (SE),25.2,6/8,3/8 SC,AC,CI,-,-,-,Cloudy
+SIRJAN,17/11/2013,09Z,13.4,57%,1015.2 Hpa,150º (SE),18.0,8/8,4/8 CB,AC,,-,-,-,Overcast
+SIRJAN,17/11/2013,06Z,12.4,68%,1017.0 Hpa,120º (SE),14.4,4/8,3/8 CU,-,CI,-,-,-,Scattered clouds
+SIRJAN,17/11/2013,03Z,8.2,79%,1015.6 Hpa,110º (E ),7.2,4/8,2/8 SC,-,CI,-,-,8.0,Scattered clouds
+SIRJAN,17/11/2013,00Z,9.0,70%,1014.4 Hpa,100º (E ),18.0,0/8,-,-,-,-,-,-,Clear
+TABAS,17/11/2013,21Z,14.2,59%,1016.5 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+TABAS,17/11/2013,18Z,16.7,50%,1015.8 Hpa,090º (E ),7.2,4/8,-,4/8 AC,-,-,-,-,Scattered clouds
+TABAS,17/11/2013,15Z,18.8,42%,1015.5 Hpa,360º (N ),7.2,1/8,-,1/8 AC,-,-,24.4,-,Few clouds
+TABAS,17/11/2013,12Z,23.6,27%,1014.4 Hpa,calm.,,2/8,2/8 CU,-,-,-,-,-,Few clouds
+TABAS,17/11/2013,09Z,22.4,35%,1015.5 Hpa,180º (S ),7.2,2/8,-,2/8 AC,-,-,-,-,Few clouds
+TABAS,17/11/2013,06Z,18.6,40%,1017.9 Hpa,calm.,,4/8,2/8 CU,AC,-,0.2(6h),-,-,Scattered clouds
+TABAS,17/11/2013,03Z,12.6,66%,1016.3 Hpa,calm.,,4/8,3/8 CB,AC,-,-,-,11.4,"Scattered clouds, rain"
+TABAS,17/11/2013,00Z,13.7,51%,1014.3 Hpa,calm.,,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+TABRIZ,17/11/2013,21Z,3.4,84%,1021.2 Hpa,070º (E ),10.8,2/8,1/8 SC,-,CI,-,-,-,"Few clouds, mist"
+TABRIZ,17/11/2013,18Z,4.4,84%,1021.5 Hpa,070º (E ),10.8,0/8,-,-,-,-,-,-,"Clear, mist"
+TABRIZ,17/11/2013,15Z,6.4,77%,1020.8 Hpa,020º (N),7.2,0/8,-,-,-,-,11.6,-,"Clear, haze"
+TABRIZ,17/11/2013,12Z,11.6,56%,1019.0 Hpa,260º (W ),10.8,2/8,2/8 CU,-,-,-,-,-,"Few clouds, haze"
+TABRIZ,17/11/2013,09Z,9.6,66%,1020.9 Hpa,240º (SW),7.2,3/8,1/8 CU,AC,CI,-,-,-,"Scattered clouds, haze"
+TABRIZ,17/11/2013,06Z,5.4,79%,1022.5 Hpa,060º (NE),7.2,5/8,2/8 SC,AC,-,0.2(24h),-,-,"Cloudy, mist"
+TABRIZ,17/11/2013,03Z,1.6,93%,1021.4 Hpa,050º (NE),10.8,3/8,1/8 SC,-,CI,-,-,1.0,"Scattered clouds, mist"
+TABRIZ,17/11/2013,00Z,2.4,89%,1020.5 Hpa,070º (E ),7.2,2/8,1/8 SC,-,CI,-,-,-,"Few clouds, mist"
+TEHRAN-MEHRABAD,17/11/2013,21Z,11.6,49%,1017.8 Hpa,340º (N ),7.2,5/8,3/8 CB,AC,-,-,-,-,Cloudy
+TEHRAN-MEHRABAD,17/11/2013,18Z,11.6,49%,1018.1 Hpa,350º (N ),14.4,6/8,3/8 CB,AC,-,Tr(6h),-,-,Cloudy
+TEHRAN-MEHRABAD,17/11/2013,15Z,13.4,40%,1016.9 Hpa,140º (SE),10.8,5/8,3/8 CB,AC,-,-,16.2,-,Cloudy
+TEHRAN-MEHRABAD,17/11/2013,12Z,15.4,35%,1015.3 Hpa,210º (SW),10.8,3/8,2/8 CU,AC,-,-,-,-,Scattered clouds
+TEHRAN-MEHRABAD,17/11/2013,09Z,15.0,40%,1016.5 Hpa,210º (SW),10.8,4/8,2/8 CU,AC,-,-,-,-,Scattered clouds
+TEHRAN-MEHRABAD,17/11/2013,06Z,13.2,44%,1017.9 Hpa,210º (SW),7.2,5/8,2/8 CU,AC,-,Tr(24h),-,-,Cloudy
+TEHRAN-MEHRABAD,17/11/2013,03Z,10.6,54%,1017.1 Hpa,060º (NE),10.8,5/8,2/8 SC,AC,-,-,-,9.0,Cloudy
+TEHRAN-MEHRABAD,17/11/2013,00Z,10.3,64%,1016.2 Hpa,060º (NE),10.8,8/8,2/8 SC,AC,,Tr(6h),-,-,"Overcast, rain"
+TORBAT-HEYDARIEH,17/11/2013,21Z,6.5,95%,1015.3 Hpa,calm.,,5/8,-,5/8 AC,-,-,-,-,Cloudy
+TORBAT-HEYDARIEH,17/11/2013,18Z,8.8,83%,1018.5 Hpa,calm.,,3/8,3/8 SC,-,-,0.1(6h),-,-,Scattered clouds
+TORBAT-HEYDARIEH,17/11/2013,15Z,8.7,83%,1020.0 Hpa,030º (NE),7.2,2/8,2/8 SC,-,-,-,12.6,-,Few clouds
+TORBAT-HEYDARIEH,17/11/2013,12Z,10.4,81%,1018.8 Hpa,calm.,,6/8,6/8 CB,-,-,10.0(6h),-,-,Cloudy
+TORBAT-HEYDARIEH,17/11/2013,09Z,7.7,92%,1020.8 Hpa,280º (W ),14.4,8/8,8/8 CB,-,-,-,-,-,"Overcast, rain showers"
+TORBAT-HEYDARIEH,17/11/2013,06Z,11.8,65%,1019.5 Hpa,100º (E ),14.4,3/8,3/8 CB,-,-,-,-,-,Scattered clouds
+TORBAT-HEYDARIEH,17/11/2013,03Z,4.6,91%,1020.0 Hpa,calm.,,2/8,2/8 SC,-,-,-,-,3.2,Few clouds
+TORBAT-HEYDARIEH,17/11/2013,00Z,3.9,95%,1019.2 Hpa,030º (NE),7.2,6/8,6/8 SC,-,-,-,-,-,Cloudy
+YASOGE,17/11/2013,21Z,8.0,72%,1015.3 Hpa,calm.,,4/8,2/8 SC,AC,-,-,-,-,Scattered clouds
+YASOGE,17/11/2013,18Z,9.4,67%,1017.0 Hpa,calm.,,6/8,2/8 SC,AC,-,-,-,-,Cloudy
+YASOGE,17/11/2013,15Z,10.4,61%,1017.4 Hpa,110º (E ),7.2,7/8,2/8 SC,AC,-,-,15.0,-,Cloudy
+YASOGE,17/11/2013,12Z,13.8,42%,1015.9 Hpa,190º (S ),7.2,1/8,1/8 SC,-,-,-,-,-,Few clouds
+YASOGE,17/11/2013,09Z,13.2,51%,1015.8 Hpa,calm.,,4/8,4/8 SC,-,CI,-,-,-,Scattered clouds
+YASOGE,17/11/2013,06Z,8.8,78%,1018.2 Hpa,090º (E ),7.2,7/8,5/8 SC,AC,CI,0.5(6h),-,-,"Cloudy, haze"
+YASOGE,17/11/2013,03Z,5.6,88%,1017.4 Hpa,080º (E ),14.4,5/8,3/8 SC,AC,-,-,-,4.8,Cloudy
+YASOGE,17/11/2013,00Z,5.4,83%,1016.3 Hpa,calm.,,4/8,4/8 CU,-,-,-,-,-,Scattered clouds
+YAZD,17/11/2013,21Z,11.5,51%,1017.2 Hpa,230º (SW),7.2,4/8,-,1/8 AC,CI,-,-,-,Scattered clouds
+YAZD,17/11/2013,18Z,12.2,48%,1017.7 Hpa,220º (SW),3.6,2/8,-,1/8 AC,CS,-,-,-,Few clouds
+YAZD,17/11/2013,15Z,14.4,42%,1017.6 Hpa,calm.,,4/8,-,1/8 AC,CI,-,19.0,-,Scattered clouds
+YAZD,17/11/2013,12Z,18.0,32%,1015.2 Hpa,300º (NW),7.2,5/8,1/8 CU,AC,CS,-,-,-,Cloudy
+YAZD,17/11/2013,09Z,17.6,34%,1015.9 Hpa,calm.,,4/8,1/8 CU,-,CI,-,-,-,Scattered clouds
+YAZD,17/11/2013,06Z,13.0,46%,1019.5 Hpa,320º (NW),10.8,3/8,1/8 CU,-,CI,-,-,-,Scattered clouds
+YAZD,17/11/2013,03Z,7.2,64%,1018.6 Hpa,calm.,,3/8,-,-,CI,-,-,6.8,Scattered clouds
+YAZD,17/11/2013,00Z,10.1,52%,1015.0 Hpa,230º (SW),7.2,1/8,-,1/8 AC,-,-,-,-,Few clouds
+ZABOL,17/11/2013,21Z,16.1,54%,1016.7 Hpa,060º (NE),10.8,5/8,4/8 SC,AC,-,-,-,-,Cloudy
+ZABOL,17/11/2013,18Z,19.1,48%,1016.8 Hpa,070º (E ),18.0,4/8,4/8 SC,-,-,-,-,-,Scattered clouds
+ZABOL,17/11/2013,15Z,19.5,46%,1017.0 Hpa,Vble.,,4/8,2/8 SC,-,CI,-,25.5,-,Scattered clouds
+ZABOL,17/11/2013,12Z,25.0,35%,1014.8 Hpa,110º (E ),14.4,4/8,1/8 CU,-,CI,-,-,-,Scattered clouds
+ZABOL,17/11/2013,09Z,24.1,39%,1016.7 Hpa,360º (N ),7.2,0/8,-,-,-,-,-,-,Clear
+ZABOL,17/11/2013,06Z,19.2,50%,1020.0 Hpa,070º (E ),14.4,1/8,1/8 SC,-,-,-,-,-,Few clouds
+ZABOL,17/11/2013,03Z,11.6,76%,1019.8 Hpa,360º (N ),10.8,3/8,1/8 SC,AC,-,-,-,11.6,Scattered clouds
+ZABOL,17/11/2013,00Z,15.1,68%,1017.9 Hpa,010º (N),7.2,7/8,3/8 SC,AC,-,-,-,-,Cloudy
+ZAHEDAN,17/11/2013,21Z,10.5,59%,1016.1 Hpa,230º (SW),7.2,3/8,-,-,CI,-,-,-,Scattered clouds
+ZAHEDAN,17/11/2013,18Z,12.3,69%,1016.6 Hpa,calm.,,4/8,-,-,CS,-,-,-,Scattered clouds
+ZAHEDAN,17/11/2013,15Z,15.9,57%,1018.1 Hpa,010º (N),7.2,5/8,2/8 SC,AC,-,-,21.3,-,Cloudy
+ZAHEDAN,17/11/2013,12Z,20.3,35%,1015.0 Hpa,130º (SE),21.6,5/8,5/8 CB,-,-,-,-,-,Cloudy
+ZAHEDAN,17/11/2013,09Z,19.6,39%,1014.8 Hpa,120º (SE),21.6,4/8,4/8 CU,-,-,-,-,-,Scattered clouds
+ZAHEDAN,17/11/2013,06Z,16.3,55%,1018.2 Hpa,100º (E ),10.8,2/8,2/8 CU,-,-,-,-,-,Few clouds
+ZAHEDAN,17/11/2013,03Z,5.2,95%,1019.4 Hpa,140º (SE),7.2,1/8,1/8 SC,-,-,-,-,4.6,Few clouds
+ZAHEDAN,17/11/2013,00Z,6.2,93%,1017.6 Hpa,calm.,,3/8,2/8 SC,AC,-,-,-,-,"Scattered clouds, mist"
+ZANJAN,17/11/2013,21Z,4.2,84%,1020.2 Hpa,060º (NE),7.2,5/8,3/8 SC,AC,-,-,-,-,Cloudy
+ZANJAN,17/11/2013,18Z,4.6,85%,1021.7 Hpa,090º (E ),7.2,5/8,2/8 SC,AC,-,-,-,-,Cloudy
+ZANJAN,17/11/2013,15Z,7.4,76%,1020.1 Hpa,calm.,,4/8,4/8 SC,-,-,-,11.6,-,Scattered clouds
+ZANJAN,17/11/2013,12Z,11.0,56%,1017.5 Hpa,260º (W ),7.2,5/8,4/8 CB,AC,-,-,-,-,Cloudy
+ZANJAN,17/11/2013,09Z,7.4,71%,1019.6 Hpa,calm.,,5/8,3/8 CB,AC,CI,-,-,-,Cloudy
+ZANJAN,17/11/2013,06Z,1.4,96%,1022.8 Hpa,calm.,,2/8,2/8 SC,-,-,2.5(24h),-,-,"Few clouds, fog"
+ZANJAN,17/11/2013,03Z,-0.2,96%,1021.3 Hpa,calm.,,1/8,1/8 SC,-,-,-,-,-1.0,Few clouds
+ZANJAN,17/11/2013,00Z,1.4,96%,1019.5 Hpa,calm.,,4/8,2/8 SC,AC,-,-,-,-,Scattered clouds

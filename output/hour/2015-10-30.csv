@@ -1,0 +1,606 @@
+Station ∆,Date,UTC time,Temp. (ºC),Rel. Hum. (%),Pressure/ Geopot.,Wind dir,Wins speed (Km/h),Clouds,Low clouds,Medium clouds,High clouds,Prec. (mm),Max temp. (ºC),Min temp. (ºC),Conditions
+ABADAN,30/10/2015,21Z,26.6,88%,1012.8 Hpa,calm.,,6/8,3/8 SC,AC,-,-,-,-,"Cloudy, mist"
+ABADAN,30/10/2015,18Z,27.2,82%,1012.8 Hpa,calm.,,7/8,2/8 SC,AC,-,-,-,-,"Cloudy, mist"
+ABADAN,30/10/2015,15Z,27.0,70%,1013.1 Hpa,150º (SE),10.8,6/8,2/8 SC,AC,-,-,29.0,-,Cloudy
+ABADAN,30/10/2015,12Z,28.6,60%,1013.0 Hpa,120º (SE),25.2,0/8,-,-,-,-,-,-,Clear
+ABADAN,30/10/2015,09Z,26.4,69%,1014.7 Hpa,090º (E ),25.2,0/8,-,-,-,-,-,-,Clear
+ABADAN,30/10/2015,06Z,23.8,75%,1015.7 Hpa,090º (E ),25.2,2/8,-,2/8 AC,-,2.0(6h),-,-,Few clouds
+ABADAN,30/10/2015,03Z,21.2,87%,1014.1 Hpa,090º (E ),28.8,6/8,6/8 CB,-,-,-,-,20.0,Cloudy
+ABADAN,30/10/2015,00Z,21.6,84%,1014.1 Hpa,110º (E ),10.8,8/8,6/8 CB,AC,,10.0(6h),-,-,"Overcast, rain"
+ABADEH,30/10/2015,21Z,11.6,61%,1013.5 Hpa,290º (W ),7.2,5/8,3/8 SC,AC,-,-,-,-,Cloudy
+ABADEH,30/10/2015,18Z,11.2,59%,1015.6 Hpa,calm.,,5/8,3/8 CB,AC,-,-,-,-,Cloudy
+ABADEH,30/10/2015,15Z,16.4,47%,1014.6 Hpa,280º (W ),7.2,7/8,3/8 CB,AC,-,-,20.0,-,Cloudy
+ABADEH,30/10/2015,12Z,17.6,41%,1014.8 Hpa,210º (SW),14.4,5/8,4/8 CB,AC,-,-,-,-,Cloudy
+ABADEH,30/10/2015,09Z,19.0,37%,1014.7 Hpa,270º (W ),21.6,7/8,3/8 CB,AC,-,-,-,-,Cloudy
+ABADEH,30/10/2015,06Z,14.6,54%,1017.3 Hpa,260º (W ),14.4,5/8,2/8 SC,AC,-,-,-,-,Cloudy
+ABADEH,30/10/2015,03Z,11.0,62%,1016.1 Hpa,calm.,,6/8,2/8 SC,AC,-,-,-,8.0,Cloudy
+ABADEH,30/10/2015,00Z,9.6,63%,1014.3 Hpa,calm.,,2/8,2/8 SC,-,-,-,-,-,Few clouds
+ABU MUSA,30/10/2015,15Z,29.0,54%,1012.9 Hpa,330º (NW),7.2,0/8,-,-,-,-,31.4,-,Clear
+ABU MUSA,30/10/2015,12Z,30.0,100%,1013.4 Hpa,210º (SW),10.8,0/8,-,-,-,-,-,-,Clear
+ABU MUSA,30/10/2015,09Z,30.2,51%,1015.8 Hpa,180º (S ),18.0,0/8,-,-,-,-,-,-,Clear
+ABU MUSA,30/10/2015,06Z,29.2,105%,1016.4 Hpa,180º (S ),21.6,0/8,-,-,-,-,-,-,Clear
+ABU MUSA,30/10/2015,03Z,27.0,64%,1014.8 Hpa,150º (SE),14.4,0/8,-,-,-,-,-,26.0,Clear
+AHAR,30/10/2015,21Z,4.8,93%,1022.8 Hpa,calm.,,8/8,2/8 CB,AC,,-,-,-,"Overcast, mist"
+AHAR,30/10/2015,18Z,4.8,93%,1023.5 Hpa,080º (E ),10.8,8/8,3/8 CB,AC,,3.0(6h),-,-,"Overcast, rain showers"
+AHAR,30/10/2015,15Z,5.2,91%,1023.4 Hpa,120º (SE),7.2,8/8,4/8 CB,AC,,-,7.7,-,"Overcast, rain"
+AHAR,30/10/2015,12Z,6.8,86%,1022.3 Hpa,090º (E ),14.4,8/8,5/8 ST,AC,,2.0(6h),-,-,"Overcast, drizzle"
+AHAR,30/10/2015,09Z,7.4,84%,1022.9 Hpa,060º (NE),10.8,8/8,6/8 ST,AC,,-,-,-,"Overcast, rain"
+AHAR,30/10/2015,06Z,6.6,86%,1024.2 Hpa,040º (NE),21.6,8/8,7/8 ST,AC,,4.0(6h),-,-,"Overcast, rain"
+AHAR,30/10/2015,03Z,6.6,86%,1023.4 Hpa,060º (NE),14.4,8/8,5/8 ST,AC,,-,-,6.4,"Overcast, drizzle"
+AHAR,30/10/2015,00Z,6.8,86%,1022.7 Hpa,060º (NE),14.4,8/8,7/8 ST,AC,,-,-,-,"Overcast, mist"
+AHWAZ,30/10/2015,21Z,22.4,85%,1012.4 Hpa,calm.,,6/8,4/8 CB,AC,-,-,-,-,"Cloudy, thunderstorm"
+AHWAZ,30/10/2015,18Z,23.4,86%,1013.1 Hpa,calm.,,6/8,4/8 CB,AC,-,Tr(6h),-,-,"Cloudy, rain showers"
+AHWAZ,30/10/2015,15Z,24.4,81%,1012.9 Hpa,360º (N ),3.6,5/8,2/8 SC,AC,-,-,26.8,-,Cloudy
+AHWAZ,30/10/2015,12Z,26.2,66%,1013.5 Hpa,060º (NE),14.4,6/8,1/8 CB,AC,CI,3.0(6h),-,-,Cloudy
+AHWAZ,30/10/2015,09Z,23.8,71%,1015.1 Hpa,070º (E ),18.0,6/8,6/8 CB,-,-,-,-,-,Cloudy
+AHWAZ,30/10/2015,06Z,19.8,92%,1016.5 Hpa,100º (E ),14.4,8/8,6/8 CB,AC,,9.0(6h),-,-,"Overcast, rain showers"
+AHWAZ,30/10/2015,03Z,21.0,85%,1014.3 Hpa,090º (E ),7.2,8/8,6/8 CB,AC,,-,-,20.0,"Overcast, thunderstorm"
+AHWAZ,30/10/2015,00Z,20.8,90%,1014.7 Hpa,110º (E ),14.4,8/8,6/8 CB,AC,,8.0(6h),-,-,"Overcast, thunderstorm"
+ALI-GOODARZ,30/10/2015,21Z,7.0,89%,1018.7 Hpa,090º (E ),14.4,8/8,6/8 CB,AC,,-,-,-,"Overcast, heavy thunderstorm"
+ALI-GOODARZ,30/10/2015,18Z,7.8,92%,1019.1 Hpa,200º (S ),7.2,8/8,6/8 CB,AC,,14.0(6h),-,-,"Overcast, heavy thunderstorm"
+ALI-GOODARZ,30/10/2015,15Z,8.0,92%,1019.2 Hpa,140º (SE),18.0,8/8,6/8 CB,AC,,-,12.6,-,"Overcast, thunderstorm no precipitation"
+ALI-GOODARZ,30/10/2015,12Z,9.2,85%,1018.4 Hpa,150º (SE),14.4,8/8,5/8 CB,AC,,5.0(6h),-,-,"Overcast, rain"
+ALI-GOODARZ,30/10/2015,09Z,11.0,77%,1017.6 Hpa,180º (S ),14.4,8/8,5/8 CB,AC,,-,-,-,"Overcast, rain"
+ALI-GOODARZ,30/10/2015,06Z,11.8,69%,1017.8 Hpa,120º (SE),25.2,5/8,3/8 SC,AC,-,0.1(6h),-,-,Cloudy
+ALI-GOODARZ,30/10/2015,03Z,8.6,78%,1018.3 Hpa,150º (SE),25.2,7/8,5/8 CB,AC,-,-,-,7.6,Cloudy
+ALI-GOODARZ,30/10/2015,00Z,9.2,78%,1016.6 Hpa,110º (E ),14.4,8/8,5/8 CB,AC,,2.0(6h),-,-,"Overcast, rain showers"
+ANZALI,30/10/2015,21Z,15.0,91%,1022.4 Hpa,330º (NW),36.0,8/8,4/8 SC,AC,,-,-,-,"Overcast, mist"
+ANZALI,30/10/2015,18Z,14.6,90%,1023.2 Hpa,260º (W ),10.8,8/8,4/8 SC,AC,,2.0(6h),-,-,"Overcast, mist"
+ANZALI,30/10/2015,15Z,14.2,95%,1024.2 Hpa,270º (W ),10.8,8/8,5/8 CB,AC,,-,15.0,-,"Overcast, rain"
+ANZALI,30/10/2015,12Z,14.6,141%,1024.4 Hpa,260º (W ),7.2,8/8,5/8 CB,AC,,3.0(6h),-,-,"Overcast, rain"
+ANZALI,30/10/2015,09Z,14.8,91%,1026.7 Hpa,290º (W ),10.8,8/8,5/8 CB,AC,,-,-,-,"Overcast, mist"
+ANZALI,30/10/2015,06Z,13.8,79%,1027.6 Hpa,280º (W ),14.4,8/8,7/8 CB,AC,,4.0(6h),-,-,"Overcast, rain"
+ANZALI,30/10/2015,03Z,13.8,93%,1025.8 Hpa,240º (SW),7.2,8/8,5/8 SC,AC,,-,-,13.6,"Overcast, rain"
+ANZALI,30/10/2015,00Z,14.0,97%,1026.0 Hpa,calm.,,8/8,5/8 SC,AC,,12.0(6h),-,-,"Overcast, rain"
+ARAK,30/10/2015,21Z,9.2,82%,1016.6 Hpa,calm.,,8/8,5/8 CB,AC,,-,-,-,"Overcast, mist"
+ARAK,30/10/2015,18Z,9.4,92%,1018.0 Hpa,150º (SE),25.2,7/8,4/8 CB,AC,-,12.0(6h),-,-,"Cloudy, mist"
+ARAK,30/10/2015,15Z,11.0,79%,1018.5 Hpa,120º (SE),14.4,7/8,6/8 CB,AC,-,-,15.4,-,"Cloudy, rain"
+ARAK,30/10/2015,12Z,12.6,76%,1017.9 Hpa,200º (S ),10.8,8/8,6/8 SC,AC,,3.0(6h),-,-,"Overcast, rain"
+ARAK,30/10/2015,09Z,15.4,61%,1016.7 Hpa,140º (SE),10.8,8/8,5/8 SC,AC,,-,-,-,Overcast
+ARAK,30/10/2015,06Z,13.0,78%,1018.9 Hpa,calm.,,3/8,2/8 SC,-,CI,0.1(6h),-,-,"Scattered clouds, haze"
+ARAK,30/10/2015,03Z,10.4,81%,1018.6 Hpa,160º (S ),14.4,5/8,3/8 SC,-,CI,-,-,7.6,"Cloudy, mist"
+ARAK,30/10/2015,00Z,8.6,97%,1017.6 Hpa,calm.,,,-,-,-,-,-,-,fog
+ARDEBIL,30/10/2015,21Z,5.0,100%,1021.9 Hpa,050º (NE),18.0,8/8,6/8 ST,AC,,-,-,-,"Overcast, mist"
+ARDEBIL,30/10/2015,18Z,5.8,100%,1023.1 Hpa,060º (NE),14.4,8/8,6/8 ST,AC,,1.0(6h),-,-,"Overcast, rain"
+ARDEBIL,30/10/2015,15Z,5.8,100%,1023.3 Hpa,050º (NE),25.2,8/8,6/8 ST,AC,,-,7.8,-,"Overcast, mist"
+ARDEBIL,30/10/2015,12Z,6.6,91%,1022.8 Hpa,040º (NE),28.8,8/8,5/8 ST,AC,,Tr(6h),-,-,"Overcast, rain"
+ARDEBIL,30/10/2015,09Z,7.8,86%,1023.5 Hpa,040º (NE),28.8,8/8,5/8 ST,AC,,-,-,-,"Overcast, mist"
+ARDEBIL,30/10/2015,06Z,6.2,94%,1024.6 Hpa,040º (NE),18.0,8/8,5/8 ST,AC,,0.5(6h),-,-,"Overcast, mist"
+ARDEBIL,30/10/2015,03Z,5.4,93%,1024.0 Hpa,040º (NE),28.8,8/8,6/8 ST,AC,,-,-,4.6,"Overcast, rain"
+ARDEBIL,30/10/2015,00Z,5.6,100%,1023.1 Hpa,040º (NE),28.8,8/8,6/8 ST,AC,,0.1(6h),-,-,"Overcast, rain"
+BABULSAR,30/10/2015,21Z,15.6,97%,1020.5 Hpa,calm.,,8/8,8/8 ST,,,-,-,-,"Overcast, drizzle"
+BABULSAR,30/10/2015,18Z,16.0,98%,1021.9 Hpa,calm.,,8/8,6/8 ST,AC,,0.7(6h),-,-,"Overcast, drizzle"
+BABULSAR,30/10/2015,15Z,16.2,95%,1022.1 Hpa,080º (E ),7.2,8/8,7/8 CB,AC,,-,18.2,-,"Overcast, drizzle"
+BABULSAR,30/10/2015,12Z,17.8,89%,1022.2 Hpa,060º (NE),14.4,8/8,6/8 CB,AC,,-,-,-,Overcast
+BABULSAR,30/10/2015,09Z,18.0,85%,1023.3 Hpa,calm.,,8/8,4/8 ST,AC,,-,-,-,Overcast
+BABULSAR,30/10/2015,06Z,16.4,93%,1024.9 Hpa,calm.,,8/8,3/8 ST,AC,,2.0(6h),-,-,Overcast
+BABULSAR,30/10/2015,03Z,15.4,95%,1024.4 Hpa,calm.,,8/8,5/8 ST,AC,,-,-,15.4,"Overcast, drizzle"
+BABULSAR,30/10/2015,00Z,15.6,97%,1024.0 Hpa,calm.,,8/8,4/8 ST,AC,,4.0(6h),-,-,Overcast
+BAFT,30/10/2015,21Z,11.6,52%,1012.4 Hpa,030º (NE),10.8,0/8,-,-,-,-,-,-,Clear
+BAFT,30/10/2015,18Z,14.0,42%,1013.2 Hpa,calm.,,2/8,2/8 CU,-,-,-,-,-,Few clouds
+BAFT,30/10/2015,15Z,16.8,33%,1015.0 Hpa,270º (W ),10.8,2/8,2/8 CU,-,-,-,23.2,-,Few clouds
+BAFT,30/10/2015,12Z,21.4,26%,1012.2 Hpa,270º (W ),18.0,3/8,3/8 CU,-,-,-,-,-,Scattered clouds
+BAFT,30/10/2015,09Z,23.0,19%,1011.3 Hpa,calm.,,1/8,1/8 CU,-,-,-,-,-,Few clouds
+BAFT,30/10/2015,06Z,19.0,33%,1013.9 Hpa,240º (SW),18.0,0/8,-,-,-,-,-,-,Clear
+BAFT,30/10/2015,03Z,9.0,56%,1016.6 Hpa,calm.,,0/8,-,-,-,-,-,8.6,Clear
+BAFT,30/10/2015,00Z,9.6,48%,1012.9 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BAM,30/10/2015,21Z,22.2,43%,1010.3 Hpa,280º (W ),10.8,0/8,-,-,-,-,-,-,Clear
+BAM,30/10/2015,18Z,23.1,32%,1010.9 Hpa,290º (W ),7.2,0/8,-,-,-,-,-,-,Clear
+BAM,30/10/2015,15Z,26.2,23%,1011.4 Hpa,340º (N ),3.6,0/8,-,-,-,-,32.0,-,Clear
+BAM,30/10/2015,12Z,30.0,16%,1010.2 Hpa,040º (NE),10.8,0/8,-,-,-,-,-,-,Clear
+BAM,30/10/2015,09Z,31.1,16%,1010.2 Hpa,080º (E ),14.4,0/8,-,-,-,-,-,-,Clear
+BAM,30/10/2015,06Z,29.9,18%,1012.1 Hpa,340º (N ),3.6,0/8,-,-,-,-,-,-,Clear
+BAM,30/10/2015,03Z,21.6,33%,1012.1 Hpa,280º (W ),18.0,0/8,-,-,-,-,-,21.3,Clear
+BAM,30/10/2015,00Z,22.0,32%,1009.2 Hpa,280º (W ),18.0,0/8,-,-,-,-,-,-,Clear
+BANDAR LENGEH,30/10/2015,21Z,26.6,57%,1016.0 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BANDAR LENGEH,30/10/2015,18Z,27.2,59%,1015.4 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BANDAR LENGEH,30/10/2015,15Z,29.6,61%,1014.2 Hpa,calm.,,0/8,-,-,-,-,33.0,-,Clear
+BANDAR LENGEH,30/10/2015,12Z,32.8,,1014.7 Hpa,200º (S ),10.8,0/8,-,-,-,-,-,-,Clear
+BANDAR LENGEH,30/10/2015,09Z,32.4,58%,1015.7 Hpa,170º (S ),18.0,1/8,1/8 SC,-,-,-,-,-,Few clouds
+BANDAR LENGEH,30/10/2015,06Z,30.6,,1017.4 Hpa,120º (SE),14.4,0/8,-,-,-,-,-,-,Clear
+BANDAR LENGEH,30/10/2015,03Z,27.6,79%,1015.4 Hpa,calm.,,0/8,-,-,-,-,-,26.0,"Clear, haze"
+BANDAR LENGEH,30/10/2015,00Z,26.0,55%,1013.6 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BANDAR-E-DAYYER,30/10/2015,21Z,26.6,71%,1013.9 Hpa,350º (N ),7.2,0/8,-,-,-,-,-,-,Clear
+BANDAR-E-DAYYER,30/10/2015,18Z,27.8,67%,1014.4 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BANDAR-E-DAYYER,30/10/2015,12Z,31.4,92%,1013.9 Hpa,170º (S ),14.4,0/8,-,-,-,-,-,-,Clear
+BANDAR-E-DAYYER,30/10/2015,09Z,32.2,55%,1015.3 Hpa,150º (SE),21.6,0/8,-,-,-,-,-,-,Clear
+BANDAR-E-DAYYER,30/10/2015,06Z,30.8,96%,1016.0 Hpa,180º (S ),7.2,0/8,-,-,-,1.6(24h),-,-,Clear
+BANDAR-E-DAYYER,30/10/2015,03Z,23.7,69%,1014.3 Hpa,320º (NW),7.2,0/8,-,-,-,-,-,22.7,Clear
+BANDAR-E-DAYYER,30/10/2015,00Z,24.5,78%,1013.3 Hpa,340º (N ),7.2,2/8,-,2/8 AC,-,-,-,-,Few clouds
+BANDARABBASS,30/10/2015,21Z,23.7,75%,1015.2 Hpa,010º (N),10.8,0/8,-,-,-,-,-,-,Clear
+BANDARABBASS,30/10/2015,18Z,28.1,60%,1015.2 Hpa,200º (S ),7.2,0/8,-,-,-,-,-,-,Clear
+BANDARABBASS,30/10/2015,15Z,28.3,63%,1014.3 Hpa,210º (SW),7.2,0/8,-,-,-,-,31.7,-,Clear
+BANDARABBASS,30/10/2015,12Z,31.1,54%,1013.9 Hpa,180º (S ),18.0,1/8,1/8 SC,-,-,-,-,-,Few clouds
+BANDARABBASS,30/10/2015,09Z,30.4,65%,1015.0 Hpa,150º (SE),14.4,2/8,2/8 SC,-,-,-,-,-,Few clouds
+BANDARABBASS,30/10/2015,06Z,29.5,70%,1017.3 Hpa,020º (N),7.2,1/8,1/8 CU,-,-,-,-,-,Few clouds
+BANDARABBASS,30/10/2015,03Z,24.2,86%,1015.5 Hpa,010º (N),10.8,1/8,-,1/8 AC,-,-,-,24.0,"Few clouds, mist"
+BANDARABBASS,30/10/2015,00Z,24.6,86%,1014.6 Hpa,360º (N ),10.8,0/8,-,-,-,-,-,-,"Clear, mist"
+BIRJAND,30/10/2015,21Z,12.9,29%,1013.2 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BIRJAND,30/10/2015,18Z,17.1,23%,1013.6 Hpa,110º (E ),10.8,1/8,-,-,CI,-,-,-,Few clouds
+BIRJAND,30/10/2015,15Z,20.1,24%,1015.9 Hpa,290º (W ),10.8,3/8,-,-,CI,-,27.5,-,Scattered clouds
+BIRJAND,30/10/2015,12Z,26.8,15%,1012.7 Hpa,270º (W ),28.8,6/8,1/8 SC,-,CI,-,-,-,Cloudy
+BIRJAND,30/10/2015,09Z,26.7,17%,1013.7 Hpa,260º (W ),10.8,2/8,-,-,CI,-,-,-,Few clouds
+BIRJAND,30/10/2015,06Z,23.3,18%,1015.2 Hpa,110º (E ),7.2,2/8,-,-,CI,-,-,-,Few clouds
+BIRJAND,30/10/2015,03Z,10.8,27%,1017.3 Hpa,120º (SE),14.4,2/8,-,-,CI,-,-,9.0,Few clouds
+BIRJAND,30/10/2015,00Z,11.7,23%,1014.1 Hpa,100º (E ),10.8,2/8,-,1/8 AC,CI,-,-,-,Few clouds
+BOJNOURD,30/10/2015,21Z,11.4,88%,1018.9 Hpa,340º (N ),3.6,8/8,3/8 ST,AC,,-,-,-,Overcast
+BOJNOURD,30/10/2015,18Z,12.6,93%,1019.8 Hpa,calm.,,8/8,4/8 ST,AC,,0.8(6h),-,-,Overcast
+BOJNOURD,30/10/2015,15Z,12.6,93%,1020.7 Hpa,calm.,,8/8,6/8 ST,AC,,-,13.2,-,"Overcast, rain"
+BOJNOURD,30/10/2015,12Z,13.0,88%,1021.7 Hpa,calm.,,8/8,6/8 ST,AC,,5.0(6h),-,-,Overcast
+BOJNOURD,30/10/2015,09Z,13.0,91%,1021.8 Hpa,calm.,,8/8,7/8 ST,AC,,-,-,-,Overcast
+BOJNOURD,30/10/2015,06Z,13.2,80%,1023.3 Hpa,calm.,,8/8,7/8 ST,AC,,Tr(24h),-,-,"Overcast, rain"
+BOJNOURD,30/10/2015,03Z,12.2,84%,1022.0 Hpa,270º (W ),10.8,8/8,6/8 ST,AC,,-,-,11.8,Overcast
+BOJNOURD,30/10/2015,00Z,12.2,88%,1020.5 Hpa,280º (W ),14.4,8/8,6/8 ST,AC,,Tr(6h),-,-,"Overcast, mist"
+BUSHEHR,30/10/2015,21Z,26.2,73%,1013.4 Hpa,060º (NE),7.2,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+BUSHEHR,30/10/2015,18Z,28.4,80%,1014.1 Hpa,140º (SE),7.2,5/8,-,5/8 AC,-,-,-,-,Cloudy
+BUSHEHR,30/10/2015,15Z,28.9,80%,1014.2 Hpa,210º (SW),14.4,2/8,-,2/8 AC,-,-,32.7,-,Few clouds
+BUSHEHR,30/10/2015,12Z,30.6,169%,1013.2 Hpa,210º (SW),21.6,1/8,-,1/8 AC,-,-,-,-,Few clouds
+BUSHEHR,30/10/2015,09Z,31.0,44%,1014.7 Hpa,140º (SE),7.2,6/8,4/8 CB,AC,-,-,-,-,Cloudy
+BUSHEHR,30/10/2015,06Z,28.1,327%,1015.7 Hpa,040º (NE),14.4,5/8,4/8 CB,AC,-,-,-,-,Cloudy
+BUSHEHR,30/10/2015,03Z,24.2,74%,1016.4 Hpa,350º (N ),21.6,6/8,6/8 CB,-,-,-,-,24.1,"Cloudy, thunderstorm no precipitation"
+BUSHEHR,30/10/2015,00Z,26.0,67%,1013.5 Hpa,080º (E ),7.2,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+BUSHEHR (AIRPORT),30/10/2015,21Z,26.8,62%,1012.9 Hpa,130º (SE),7.2,3/8,-,3/8 AC,-,-,-,-,Scattered clouds
+BUSHEHR (AIRPORT),30/10/2015,18Z,27.4,72%,1013.8 Hpa,150º (SE),14.4,4/8,-,4/8 AC,-,-,-,-,Scattered clouds
+BUSHEHR (AIRPORT),30/10/2015,15Z,28.5,67%,1013.5 Hpa,190º (S ),10.8,1/8,-,-,CI,-,33.0,-,Few clouds
+BUSHEHR (AIRPORT),30/10/2015,12Z,31.4,51%,1013.1 Hpa,180º (S ),25.2,1/8,-,1/8 AC,-,-,-,-,Few clouds
+BUSHEHR (AIRPORT),30/10/2015,09Z,31.8,30%,1014.5 Hpa,170º (S ),18.0,6/8,2/8 SC,AC,-,-,-,-,Cloudy
+BUSHEHR (AIRPORT),30/10/2015,06Z,27.8,45%,1015.3 Hpa,060º (NE),21.6,4/8,1/8 SC,AC,-,1.2(24h),-,-,Scattered clouds
+BUSHEHR (AIRPORT),30/10/2015,03Z,24.4,65%,1015.7 Hpa,360º (N ),36.0,7/8,5/8 CB,AC,-,-,-,22.0,"Cloudy, dust"
+BUSHEHR (AIRPORT),30/10/2015,00Z,25.6,57%,1012.9 Hpa,calm.,,4/8,4/8 SC,-,-,-,-,-,"Scattered clouds, haze"
+CHAHBAHAR,30/10/2015,21Z,80.3,,1015.1 Hpa,250º (W ),7.2,2/8,2/8 ST,-,-,-,-,-,"Few clouds, haze"
+CHAHBAHAR,30/10/2015,18Z,80.3,,1015.6 Hpa,240º (SW),7.2,0/8,-,-,-,-,-,-,"Clear, haze"
+CHAHBAHAR,30/10/2015,15Z,90.3,,1014.9 Hpa,230º (SW),10.8,0/8,-,-,-,-,29.6,-,"Clear, haze"
+CHAHBAHAR,30/10/2015,12Z,90.2,,1014.0 Hpa,190º (S ),7.2,0/8,-,-,-,-,-,-,"Clear, haze"
+CHAHBAHAR,30/10/2015,09Z,90.2,,1015.3 Hpa,230º (SW),7.2,0/8,-,-,-,-,-,-,"Clear, haze"
+CHAHBAHAR,30/10/2015,06Z,90.1,,1017.0 Hpa,240º (SW),7.2,0/8,-,-,-,-,-,-,"Clear, haze"
+CHAHBAHAR,30/10/2015,03Z,80.2,,1015.8 Hpa,calm.,,0/8,-,-,-,-,-,25.3,"Clear, haze"
+CHAHBAHAR,30/10/2015,00Z,90.2,,1014.7 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, mist"
+ESFAHAN,30/10/2015,21Z,14.2,77%,1014.5 Hpa,010º (N),7.2,7/8,3/8 SC,AC,-,-,-,-,Cloudy
+ESFAHAN,30/10/2015,18Z,15.4,65%,1015.3 Hpa,060º (NE),10.8,5/8,3/8 SC,AC,-,-,-,-,Cloudy
+ESFAHAN,30/10/2015,15Z,16.6,54%,1015.8 Hpa,250º (W ),7.2,6/8,3/8 SC,AC,-,-,20.2,-,Cloudy
+ESFAHAN,30/10/2015,12Z,18.2,53%,1015.4 Hpa,260º (W ),10.8,8/8,4/8 SC,AC,,-,-,-,Overcast
+ESFAHAN,30/10/2015,09Z,18.6,49%,1015.7 Hpa,220º (SW),10.8,7/8,3/8 SC,AC,-,-,-,-,Cloudy
+ESFAHAN,30/10/2015,06Z,14.4,75%,1016.9 Hpa,100º (E ),21.6,8/8,3/8 SC,AC,,0.5(6h),-,-,Overcast
+ESFAHAN,30/10/2015,03Z,12.0,84%,1016.9 Hpa,270º (W ),10.8,8/8,2/8 ST,AC,,-,-,12.0,"Overcast, rain"
+ESFAHAN,30/10/2015,00Z,14.0,86%,1013.3 Hpa,calm.,,8/8,2/8 ST,AC,,Tr(6h),-,-,"Overcast, rain"
+FASA,30/10/2015,21Z,15.0,51%,1011.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+FASA,30/10/2015,18Z,18.6,42%,1011.6 Hpa,030º (NE),7.2,0/8,-,-,-,-,-,-,Clear
+FASA,30/10/2015,15Z,22.4,37%,1014.1 Hpa,180º (S ),7.2,0/8,-,-,-,-,27.8,-,Clear
+FASA,30/10/2015,12Z,27.0,27%,1012.5 Hpa,130º (SE),14.4,2/8,2/8 CU,-,-,-,-,-,Few clouds
+FASA,30/10/2015,09Z,26.4,28%,1013.8 Hpa,120º (SE),10.8,2/8,2/8 CU,-,-,-,-,-,Few clouds
+FASA,30/10/2015,06Z,23.4,35%,1015.1 Hpa,calm.,,2/8,-,-,CI,-,-,-,Few clouds
+FASA,30/10/2015,03Z,10.4,62%,1015.7 Hpa,calm.,,0/8,-,-,-,-,-,10.4,Clear
+FASA,30/10/2015,00Z,12.0,56%,1013.0 Hpa,020º (N),7.2,3/8,-,-,CI,-,-,-,Scattered clouds
+FERDOUS,30/10/2015,21Z,16.6,39%,1011.2 Hpa,calm.,,6/8,2/8 SC,AC,CI,-,-,-,Cloudy
+FERDOUS,30/10/2015,18Z,18.2,29%,1011.9 Hpa,calm.,,5/8,1/8 SC,AC,CI,-,-,-,Cloudy
+FERDOUS,30/10/2015,15Z,19.4,28%,1014.3 Hpa,280º (W ),10.8,3/8,1/8 SC,-,CI,-,27.4,-,Scattered clouds
+FERDOUS,30/10/2015,12Z,25.4,20%,1011.4 Hpa,290º (W ),18.0,7/8,2/8 SC,AC,CI,-,-,-,Cloudy
+FERDOUS,30/10/2015,09Z,27.0,22%,1011.6 Hpa,160º (S ),14.4,2/8,-,-,CI,-,-,-,Few clouds
+FERDOUS,30/10/2015,06Z,24.4,22%,1014.2 Hpa,150º (SE),10.8,2/8,-,-,CI,-,-,-,Few clouds
+FERDOUS,30/10/2015,03Z,15.0,34%,1014.9 Hpa,060º (NE),10.8,4/8,1/8 SC,-,CI,-,-,15.0,Scattered clouds
+FERDOUS,30/10/2015,00Z,16.4,27%,1011.6 Hpa,060º (NE),10.8,3/8,-,3/8 AC,-,-,-,-,Scattered clouds
+GACH SARAN DU GUNBADAN,30/10/2015,21Z,17.7,85%,1015.2 Hpa,calm.,,5/8,2/8 SC,AC,-,-,-,-,Cloudy
+GACH SARAN DU GUNBADAN,30/10/2015,18Z,19.1,81%,1016.6 Hpa,calm.,,5/8,3/8 SC,AC,-,-,-,-,Cloudy
+GACH SARAN DU GUNBADAN,30/10/2015,15Z,21.4,71%,1016.7 Hpa,calm.,,4/8,4/8 SC,-,-,-,25.6,-,Scattered clouds
+GACH SARAN DU GUNBADAN,30/10/2015,12Z,25.3,52%,1015.2 Hpa,120º (SE),14.4,6/8,3/8 SC,AC,-,1.0(6h),-,-,Cloudy
+GACH SARAN DU GUNBADAN,30/10/2015,09Z,24.4,51%,1017.1 Hpa,150º (SE),10.8,8/8,5/8 CB,AC,,-,-,-,Overcast
+GACH SARAN DU GUNBADAN,30/10/2015,06Z,20.4,75%,1018.0 Hpa,100º (E ),14.4,8/8,5/8 CB,AC,,11.0(6h),-,-,"Overcast, rain"
+GACH SARAN DU GUNBADAN,30/10/2015,03Z,17.4,98%,1018.4 Hpa,120º (SE),28.8,8/8,4/8 CB,AC,,-,-,17.2,"Overcast, rain"
+GACH SARAN DU GUNBADAN,30/10/2015,00Z,20.1,74%,1014.6 Hpa,120º (SE),14.4,8/8,4/8 SC,AC,,-,-,-,Overcast
+GHARAKHIL,30/10/2015,21Z,15.6,93%,1021.0 Hpa,calm.,,8/8,5/8 SC,AC,,-,-,-,"Overcast, rain"
+GHARAKHIL,30/10/2015,18Z,15.8,91%,1021.4 Hpa,calm.,,8/8,5/8 SC,AC,,5.0(6h),-,-,"Overcast, rain"
+GHARAKHIL,30/10/2015,15Z,15.8,93%,1021.9 Hpa,calm.,,8/8,3/8 SC,AC,,-,18.0,-,"Overcast, rain"
+GHARAKHIL,30/10/2015,12Z,17.6,88%,1022.1 Hpa,Vble.,,8/8,7/8 CB,AC,,-,-,-,"Overcast, mist"
+GHARAKHIL,30/10/2015,09Z,17.9,83%,1022.9 Hpa,Vble.,,7/8,6/8 CB,AC,-,-,-,-,"Cloudy, mist"
+GHARAKHIL,30/10/2015,06Z,15.8,98%,1024.6 Hpa,calm.,,8/8,6/8 ST,AC,,0.3(6h),-,-,"Overcast, mist"
+GHARAKHIL,30/10/2015,03Z,15.2,97%,1024.2 Hpa,360º (N ),7.2,8/8,5/8 ST,AC,,-,-,15.2,"Overcast, rain"
+GHARAKHIL,30/10/2015,00Z,15.8,95%,1023.2 Hpa,calm.,,8/8,5/8 CB,AC,,2.0(6h),-,-,Overcast
+GHAZVIN,30/10/2015,21Z,9.4,98%,1019.1 Hpa,260º (W ),3.6,8/8,3/8 SC,AC,,-,-,-,Overcast
+GHAZVIN,30/10/2015,18Z,9.3,98%,1020.1 Hpa,310º (NW),3.6,7/8,2/8 SC,AC,-,4.0(6h),-,-,Cloudy
+GHAZVIN,30/10/2015,15Z,9.9,96%,1020.1 Hpa,320º (NW),3.6,8/8,5/8 SC,AC,,-,13.6,-,"Overcast, rain"
+GHAZVIN,30/10/2015,12Z,12.0,92%,1019.3 Hpa,300º (NW),3.6,8/8,5/8 SC,AC,,0.6(6h),-,-,"Overcast, rain"
+GHAZVIN,30/10/2015,09Z,13.0,88%,1019.6 Hpa,240º (SW),10.8,8/8,4/8 CB,AC,,-,-,-,"Overcast, mist"
+GHAZVIN,30/10/2015,06Z,10.2,100%,1022.1 Hpa,120º (SE),7.2,8/8,3/8 CB,AC,,6.0(6h),-,-,"Overcast, rain"
+GHAZVIN,30/10/2015,03Z,10.2,100%,1020.0 Hpa,calm.,,8/8,3/8 CB,AC,,-,-,9.0,"Overcast, rain"
+GHAZVIN,30/10/2015,00Z,9.3,99%,1018.3 Hpa,calm.,,8/8,2/8 CB,AC,,-,-,-,Overcast
+GHUCHAN,30/10/2015,21Z,9.3,84%,1016.1 Hpa,100º (E ),25.2,8/8,4/8 SC,AC,,-,-,-,Overcast
+GHUCHAN,30/10/2015,18Z,10.6,78%,1017.6 Hpa,110º (E ),32.4,8/8,4/8 SC,AC,,-,-,-,Overcast
+GHUCHAN,30/10/2015,15Z,13.2,68%,1017.7 Hpa,120º (SE),25.2,4/8,4/8 SC,-,-,-,17.2,-,Scattered clouds
+GHUCHAN,30/10/2015,12Z,15.9,56%,1016.7 Hpa,130º (SE),25.2,4/8,2/8 SC,-,CI,-,-,-,Scattered clouds
+GHUCHAN,30/10/2015,09Z,14.5,61%,1018.2 Hpa,120º (SE),21.6,7/8,7/8 SC,-,-,-,-,-,Cloudy
+GHUCHAN,30/10/2015,06Z,12.0,98%,1019.4 Hpa,120º (SE),25.2,6/8,5/8 ST,AC,-,1.0(6h),-,-,"Cloudy, rain"
+GHUCHAN,30/10/2015,03Z,11.0,98%,1019.0 Hpa,290º (W ),7.2,8/8,6/8 ST,AC,,-,-,11.0,"Overcast, rain"
+GHUCHAN,30/10/2015,00Z,11.8,89%,1015.8 Hpa,270º (W ),7.2,7/8,7/8 ST,-,-,-,-,-,Cloudy
+GORGAN,30/10/2015,21Z,15.3,96%,1022.2 Hpa,calm.,,8/8,5/8 ST,AC,,-,-,-,"Overcast, drizzle"
+GORGAN,30/10/2015,18Z,15.7,96%,1023.3 Hpa,calm.,,8/8,3/8 ST,AC,,-,-,-,Overcast
+GORGAN,30/10/2015,15Z,16.0,92%,1014.1 Hpa,calm.,,8/8,3/8 SC,AC,,-,16.5,-,Overcast
+GORGAN,30/10/2015,12Z,16.2,89%,1014.3 Hpa,calm.,,8/8,5/8 CB,AC,,1.0(6h),-,-,Overcast
+GORGAN,30/10/2015,09Z,16.0,89%,1025.0 Hpa,calm.,,8/8,5/8 CB,AC,,-,-,-,"Overcast, rain"
+GORGAN,30/10/2015,06Z,16.0,89%,1027.0 Hpa,calm.,,7/8,4/8 ST,AC,-,2.0(6h),-,-,"Cloudy, mist"
+GORGAN,30/10/2015,03Z,14.3,98%,1026.6 Hpa,040º (NE),7.2,7/8,5/8 CB,AC,-,-,-,14.0,"Cloudy, mist"
+GORGAN,30/10/2015,00Z,14.3,98%,1025.8 Hpa,330º (NW),7.2,8/8,5/8 CB,AC,,6.0(6h),-,-,"Overcast, rain"
+HAMEDAN,30/10/2015,21Z,5.5,95%,1019.2 Hpa,calm.,,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+HAMEDAN,30/10/2015,18Z,6.2,93%,1019.5 Hpa,160º (S ),10.8,5/8,3/8 CB,AC,-,2.0(6h),-,-,Cloudy
+HAMEDAN,30/10/2015,15Z,7.2,94%,1019.6 Hpa,100º (E ),7.2,7/8,5/8 CB,AC,-,-,12.8,-,Cloudy
+HAMEDAN,30/10/2015,12Z,7.8,87%,1019.6 Hpa,300º (NW),43.2,8/8,6/8 CB,AC,,4.0(6h),-,-,"Overcast, rain showers"
+HAMEDAN,30/10/2015,09Z,11.5,86%,1016.4 Hpa,220º (SW),7.2,8/8,5/8 CB,AC,,-,-,-,"Overcast, rain"
+HAMEDAN,30/10/2015,06Z,10.0,82%,1018.6 Hpa,090º (E ),14.4,7/8,4/8 ST,AC,-,8.0(6h),-,-,Cloudy
+HAMEDAN,30/10/2015,03Z,8.4,96%,1019.4 Hpa,calm.,,7/8,7/8 CB,AC,-,-,-,7.0,"Cloudy, rain"
+HAMEDAN,30/10/2015,00Z,7.0,92%,1018.0 Hpa,calm.,,7/8,5/8 CB,AC,-,-,-,-,Cloudy
+ILAM,30/10/2015,21Z,11.4,95%,1015.8 Hpa,090º (E ),7.2,0/8,-,-,-,-,-,-,"Clear, mist"
+ILAM,30/10/2015,18Z,13.4,94%,1016.2 Hpa,150º (SE),7.2,3/8,3/8 SC,-,-,1.0(6h),-,-,Scattered clouds
+ILAM,30/10/2015,15Z,14.4,96%,1016.2 Hpa,100º (E ),3.6,8/8,6/8 CB,AC,,-,16.9,-,"Overcast, rain"
+ILAM,30/10/2015,12Z,15.3,98%,1014.7 Hpa,160º (S ),10.8,8/8,6/8 CB,AC,,0.6(6h),-,-,"Overcast, mist"
+ILAM,30/10/2015,09Z,16.7,83%,1014.6 Hpa,130º (SE),18.0,8/8,6/8 CB,AC,-,-,-,-,"Overcast, rain"
+ILAM,30/10/2015,06Z,14.3,96%,1014.4 Hpa,140º (SE),10.8,8/8,6/8 CB,AC,,2.0(6h),-,-,"Overcast, thunderstorm"
+ILAM,30/10/2015,03Z,12.0,100%,1015.2 Hpa,140º (SE),10.8,8/8,7/8 CB,AC,,-,-,11.6,"Overcast, rain"
+ILAM,30/10/2015,00Z,12.0,100%,1015.3 Hpa,170º (S ),7.2,8/8,7/8 CB,AC,,37.0(6h),-,-,"Overcast, thunderstorms"
+IRANSHAHR,30/10/2015,21Z,22.8,28%,1013.4 Hpa,340º (N ),7.2,0/8,-,-,-,-,-,-,Clear
+IRANSHAHR,30/10/2015,18Z,24.2,27%,1013.7 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+IRANSHAHR,30/10/2015,15Z,29.1,20%,1013.4 Hpa,calm.,,0/8,-,-,-,-,32.9,-,Clear
+IRANSHAHR,30/10/2015,12Z,32.9,17%,1012.5 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+IRANSHAHR,30/10/2015,09Z,31.2,22%,1013.5 Hpa,240º (SW),10.8,0/8,-,-,-,-,-,-,Clear
+IRANSHAHR,30/10/2015,06Z,28.7,27%,1016.9 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+IRANSHAHR,30/10/2015,03Z,20.0,42%,1016.1 Hpa,calm.,,0/8,-,-,-,-,-,19.5,Clear
+IRANSHAHR,30/10/2015,00Z,20.9,42%,1014.1 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+JASK,30/10/2015,21Z,25.9,75%,1014.5 Hpa,030º (NE),3.6,0/8,-,-,-,-,-,-,"Clear, haze"
+JASK,30/10/2015,18Z,26.8,74%,1015.1 Hpa,310º (NW),3.6,0/8,-,-,-,-,-,-,"Clear, haze"
+JASK,30/10/2015,15Z,27.9,72%,1014.5 Hpa,230º (SW),10.8,0/8,-,-,-,-,31.5,-,"Clear, haze"
+JASK,30/10/2015,12Z,29.7,295%,1013.7 Hpa,210º (SW),14.4,0/8,-,-,-,-,-,-,"Clear, haze"
+JASK,30/10/2015,09Z,30.9,66%,1014.9 Hpa,190º (S ),7.2,0/8,-,-,-,-,-,-,"Clear, haze"
+JASK,30/10/2015,06Z,29.3,302%,1017.0 Hpa,160º (S ),7.2,1/8,1/8 CU,-,-,-,-,-,"Few clouds, haze"
+JASK,30/10/2015,03Z,25.4,78%,1015.7 Hpa,040º (NE),7.2,1/8,1/8 CU,-,-,-,-,25.0,"Few clouds, haze"
+JASK,30/10/2015,00Z,25.4,77%,1014.2 Hpa,060º (NE),7.2,0/8,-,-,-,-,-,-,"Clear, haze"
+KAHNUJ,30/10/2015,21Z,23.4,57%,1010.4 Hpa,240º (SW),25.2,0/8,-,-,-,-,-,-,Clear
+KAHNUJ,30/10/2015,18Z,25.7,41%,1010.6 Hpa,230º (SW),25.2,0/8,-,-,-,-,-,-,Clear
+KAHNUJ,30/10/2015,15Z,28.5,32%,1009.5 Hpa,240º (SW),32.4,0/8,-,-,-,-,32.4,-,Clear
+KAHNUJ,30/10/2015,12Z,32.2,31%,1008.2 Hpa,230º (SW),25.2,0/8,-,-,-,-,-,-,Clear
+KAHNUJ,30/10/2015,09Z,31.2,33%,1010.2 Hpa,240º (SW),28.8,0/8,-,-,-,-,-,-,Clear
+KAHNUJ,30/10/2015,06Z,27.3,47%,1012.7 Hpa,210º (SW),32.4,0/8,-,-,-,-,-,-,Clear
+KAHNUJ,30/10/2015,03Z,22.6,69%,1011.8 Hpa,240º (SW),21.6,0/8,-,-,-,-,-,22.3,Clear
+KAHNUJ,30/10/2015,00Z,23.4,59%,1010.3 Hpa,260º (W ),14.4,0/8,-,-,-,-,-,-,Clear
+KASHAN,30/10/2015,21Z,14.8,95%,1019.3 Hpa,150º (SE),7.2,8/8,4/8 SC,AC,,-,-,-,"Overcast, rain"
+KASHAN,30/10/2015,18Z,15.4,93%,1020.2 Hpa,calm.,,8/8,4/8 SC,AC,,2.0(6h),-,-,"Overcast, rain"
+KASHAN,30/10/2015,15Z,16.8,82%,1019.2 Hpa,calm.,,8/8,3/8 SC,AC,,-,19.0,-,Overcast
+KASHAN,30/10/2015,12Z,18.2,77%,1018.4 Hpa,calm.,,8/8,3/8 SC,AC,,-,-,-,Overcast
+KASHAN,30/10/2015,09Z,18.4,77%,1019.8 Hpa,090º (E ),10.8,7/8,3/8 SC,AC,-,-,-,-,Cloudy
+KASHAN,30/10/2015,06Z,15.6,93%,1021.6 Hpa,060º (NE),14.4,6/8,3/8 SC,AC,-,3.0(6h),-,-,Cloudy
+KASHAN,30/10/2015,03Z,14.2,88%,1020.1 Hpa,120º (SE),7.2,8/8,4/8 SC,AC,,-,-,13.6,"Overcast, rain"
+KASHAN,30/10/2015,00Z,14.0,91%,1017.9 Hpa,calm.,,8/8,4/8 SC,AC,,3.0(6h),-,-,"Overcast, rain"
+KASHMAR,30/10/2015,21Z,18.0,38%,1013.6 Hpa,calm.,,4/8,1/8 SC,-,CI,-,-,-,Scattered clouds
+KASHMAR,30/10/2015,18Z,18.9,36%,1015.6 Hpa,110º (E ),14.4,4/8,1/8 SC,-,CI,-,-,-,Scattered clouds
+KASHMAR,30/10/2015,15Z,21.6,21%,1014.9 Hpa,calm.,,5/8,1/8 SC,-,CI,-,26.4,-,Cloudy
+KASHMAR,30/10/2015,12Z,26.1,13%,1012.9 Hpa,180º (S ),18.0,5/8,2/8 SC,-,CI,-,-,-,Cloudy
+KASHMAR,30/10/2015,09Z,25.7,11%,1013.5 Hpa,150º (SE),18.0,6/8,2/8 SC,AC,-,-,-,-,Cloudy
+KASHMAR,30/10/2015,06Z,24.5,9%,1015.2 Hpa,090º (E ),18.0,1/8,-,-,CI,-,-,-,Few clouds
+KASHMAR,30/10/2015,03Z,17.5,21%,1015.5 Hpa,130º (SE),3.6,7/8,3/8 ST,AC,-,-,-,17.5,Cloudy
+KASHMAR,30/10/2015,00Z,19.1,17%,1012.3 Hpa,calm.,,7/8,3/8 ST,AC,-,-,-,-,Cloudy
+KERMAN,30/10/2015,21Z,14.2,35%,1012.2 Hpa,120º (SE),10.8,0/8,-,-,-,-,-,-,Clear
+KERMAN,30/10/2015,18Z,17.0,28%,1012.4 Hpa,240º (SW),7.2,4/8,1/8 SC,AC,-,-,-,-,Scattered clouds
+KERMAN,30/10/2015,15Z,21.0,24%,1015.0 Hpa,030º (NE),10.8,1/8,1/8 SC,-,CI,-,28.2,-,Few clouds
+KERMAN,30/10/2015,12Z,28.0,16%,1010.5 Hpa,270º (W ),18.0,3/8,1/8 CU,-,CI,-,-,-,Scattered clouds
+KERMAN,30/10/2015,09Z,25.6,22%,1011.0 Hpa,060º (NE),18.0,4/8,1/8 CU,-,CI,-,-,-,Scattered clouds
+KERMAN,30/10/2015,06Z,22.8,26%,1014.1 Hpa,240º (SW),10.8,0/8,-,-,-,-,-,-,Clear
+KERMAN,30/10/2015,03Z,9.2,51%,1017.8 Hpa,130º (SE),7.2,0/8,-,-,-,-,-,8.4,Clear
+KERMAN,30/10/2015,00Z,10.8,43%,1014.3 Hpa,120º (SE),10.8,0/8,-,-,-,-,-,-,Clear
+KERMANSHAH,30/10/2015,21Z,9.9,92%,1017.3 Hpa,110º (E ),7.2,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+KERMANSHAH,30/10/2015,18Z,11.2,88%,1018.0 Hpa,090º (E ),7.2,6/8,3/8 SC,AC,-,7.0(6h),-,-,Cloudy
+KERMANSHAH,30/10/2015,15Z,11.2,91%,1018.5 Hpa,140º (SE),10.8,6/8,5/8 CB,AC,-,-,17.8,-,Cloudy
+KERMANSHAH,30/10/2015,12Z,12.3,86%,1016.3 Hpa,270º (W ),21.6,7/8,7/8 CB,AC,-,8.0(6h),-,-,"Cloudy, rain showers"
+KERMANSHAH,30/10/2015,09Z,16.8,61%,1014.1 Hpa,130º (SE),18.0,7/8,4/8 CB,AC,-,-,-,-,Cloudy
+KERMANSHAH,30/10/2015,06Z,14.0,78%,1016.1 Hpa,110º (E ),21.6,7/8,5/8 CB,AC,-,5.0(6h),-,-,Cloudy
+KERMANSHAH,30/10/2015,03Z,10.2,86%,1018.0 Hpa,130º (SE),25.2,7/8,4/8 CB,AC,-,-,-,9.8,Cloudy
+KERMANSHAH,30/10/2015,00Z,12.3,74%,1017.7 Hpa,030º (NE),14.4,8/8,6/8 CB,AC,,13.0(6h),-,-,"Overcast, rain"
+KHARG,30/10/2015,15Z,28.8,81%,1013.9 Hpa,150º (SE),10.8,2/8,-,-,CI,-,30.7,-,Few clouds
+KHARG,30/10/2015,12Z,30.6,66%,1013.5 Hpa,150º (SE),10.8,0/8,-,-,-,-,-,-,Clear
+KHARG,30/10/2015,09Z,28.1,66%,1015.1 Hpa,050º (NE),21.6,7/8,4/8 SC,AC,-,-,-,-,Cloudy
+KHARG,30/10/2015,06Z,26.6,72%,1015.7 Hpa,090º (E ),28.8,6/8,4/8 SC,AC,-,19.0(18h),-,-,Cloudy
+KHARG,30/10/2015,03Z,24.4,85%,1016.0 Hpa,020º (N),36.0,7/8,4/8 CB,AC,-,-,-,22.0,"Cloudy, lightning"
+KHOR,30/10/2015,21Z,17.6,55%,1014.8 Hpa,calm.,,2/8,1/8 SC,AC,-,-,-,-,Few clouds
+KHOR,30/10/2015,18Z,20.2,51%,1014.4 Hpa,calm.,,4/8,1/8 SC,AC,-,-,-,-,Scattered clouds
+KHOR,30/10/2015,15Z,21.4,49%,1015.3 Hpa,calm.,,7/8,1/8 SC,AC,CI,-,25.2,-,Cloudy
+KHOR,30/10/2015,12Z,23.6,41%,1014.4 Hpa,050º (NE),7.2,7/8,3/8 SC,AC,CS,-,-,-,Cloudy
+KHOR,30/10/2015,09Z,24.2,37%,1015.0 Hpa,340º (N ),7.2,7/8,-,2/8 AC,CI,-,-,-,Cloudy
+KHOR,30/10/2015,06Z,23.6,39%,1016.2 Hpa,300º (NW),7.2,5/8,-,5/8 AC,-,-,-,-,Cloudy
+KHOR,30/10/2015,03Z,20.2,45%,1014.8 Hpa,calm.,,4/8,2/8 SC,AC,CI,-,-,19.0,Scattered clouds
+KHOR,30/10/2015,00Z,20.6,47%,1013.3 Hpa,calm.,,4/8,3/8 SC,AC,-,-,-,-,Scattered clouds
+KHORRAM ABAD,30/10/2015,21Z,13.6,91%,1017.1 Hpa,calm.,,7/8,4/8 CB,AC,-,-,-,-,Cloudy
+KHORRAM ABAD,30/10/2015,18Z,13.0,93%,1017.6 Hpa,040º (NE),7.2,6/8,4/8 CB,AC,-,13.0(6h),-,-,Cloudy
+KHORRAM ABAD,30/10/2015,15Z,13.3,94%,1018.6 Hpa,110º (E ),10.8,8/8,5/8 CB,AC,-,-,17.2,-,"Overcast, thunderstorm"
+KHORRAM ABAD,30/10/2015,12Z,13.9,94%,1017.3 Hpa,110º (E ),7.2,8/8,6/8 CB,AC,-,13.0(6h),-,-,"Overcast, thunderstorm"
+KHORRAM ABAD,30/10/2015,09Z,15.4,86%,1017.0 Hpa,300º (NW),7.2,7/8,5/8 CB,AC,-,-,-,-,"Cloudy, rain showers"
+KHORRAM ABAD,30/10/2015,06Z,16.2,77%,1017.3 Hpa,110º (E ),10.8,4/8,4/8 SC,-,-,0.2(6h),-,-,Scattered clouds
+KHORRAM ABAD,30/10/2015,03Z,13.4,93%,1018.0 Hpa,280º (W ),14.4,7/8,7/8 ST,-,-,-,-,13.1,Cloudy
+KHORRAM ABAD,30/10/2015,00Z,13.2,94%,1017.5 Hpa,330º (NW),7.2,7/8,7/8 CB,AC,-,3.0(6h),-,-,"Cloudy, rain"
+KHOY,30/10/2015,21Z,7.0,91%,1020.8 Hpa,calm.,,8/8,6/8 SC,AC,,-,-,-,"Overcast, rain"
+KHOY,30/10/2015,18Z,8.0,81%,1020.8 Hpa,calm.,,8/8,6/8 SC,AC,,-,-,-,Overcast
+KHOY,30/10/2015,15Z,9.0,74%,1020.1 Hpa,calm.,,8/8,6/8 CB,AC,-,-,10.2,-,Overcast
+KHOY,30/10/2015,12Z,10.2,69%,1019.7 Hpa,320º (NW),18.0,8/8,5/8 CB,AC,,0.5(6h),-,-,Overcast
+KHOY,30/10/2015,09Z,9.8,73%,1019.7 Hpa,340º (N ),10.8,8/8,5/8 CB,AC,,-,-,-,Overcast
+KHOY,30/10/2015,06Z,8.6,94%,1019.7 Hpa,calm.,,8/8,5/8 CB,AC,,8.0(6h),-,-,"Overcast, rain"
+KHOY,30/10/2015,03Z,8.2,97%,1018.4 Hpa,calm.,,8/8,6/8 CB,AC,,-,-,8.2,"Overcast, rain"
+KHOY,30/10/2015,00Z,8.6,97%,1018.5 Hpa,calm.,,8/8,7/8 CB,AC,,3.0(6h),-,-,"Overcast, rain"
+KISH ISLAND,30/10/2015,21Z,26.8,65%,1013.7 Hpa,050º (NE),7.2,3/8,-,-,CI,-,-,-,"Scattered clouds, haze"
+KISH ISLAND,30/10/2015,18Z,27.6,59%,1014.8 Hpa,calm.,,4/8,-,2/8 AC,CI,-,-,-,Scattered clouds
+KISH ISLAND,30/10/2015,15Z,29.4,53%,1013.9 Hpa,190º (S ),10.8,1/8,-,1/8 AC,-,-,32.2,-,Few clouds
+KISH ISLAND,30/10/2015,12Z,31.2,50%,1013.4 Hpa,190º (S ),14.4,0/8,-,-,-,-,-,-,Clear
+KISH ISLAND,30/10/2015,09Z,31.6,48%,1014.7 Hpa,130º (SE),18.0,1/8,-,1/8 AC,-,-,-,-,Few clouds
+KISH ISLAND,30/10/2015,06Z,30.6,47%,1016.2 Hpa,120º (SE),18.0,0/8,-,-,-,-,-,-,Clear
+KISH ISLAND,30/10/2015,03Z,26.6,69%,1014.7 Hpa,090º (E ),10.8,0/8,-,-,-,-,-,26.0,"Clear, haze"
+KISH ISLAND,30/10/2015,00Z,26.4,79%,1012.9 Hpa,090º (E ),10.8,1/8,-,1/8 AC,-,-,-,-,"Few clouds, mist"
+MAKKO,30/10/2015,21Z,5.6,97%,1021.6 Hpa,calm.,,8/8,6/8 ST,AC,,-,-,-,"Overcast, drizzle"
+MAKKO,30/10/2015,18Z,5.6,97%,1021.5 Hpa,080º (E ),7.2,8/8,6/8 ST,AC,,0.6(6h),-,-,"Overcast, rain"
+MAKKO,30/10/2015,15Z,6.8,92%,1020.6 Hpa,100º (E ),10.8,8/8,6/8 ST,AC,,-,7.4,-,"Overcast, rain"
+MAKKO,30/10/2015,12Z,7.0,92%,1020.4 Hpa,100º (E ),14.4,8/8,6/8 ST,AC,,0.5(6h),-,-,Overcast
+MAKKO,30/10/2015,09Z,6.8,92%,1021.2 Hpa,110º (E ),10.8,8/8,6/8 ST,AC,,-,-,-,Overcast
+MAKKO,30/10/2015,06Z,6.4,97%,1021.5 Hpa,120º (SE),21.6,8/8,6/8 ST,AC,,4.0(6h),-,-,"Overcast, rain"
+MAKKO,30/10/2015,03Z,6.4,97%,1020.2 Hpa,060º (NE),10.8,8/8,4/8 SC,AC,,-,-,6.0,"Overcast, rain"
+MAKKO,30/10/2015,00Z,6.6,94%,1019.6 Hpa,calm.,,8/8,4/8 SC,AC,,2.0(6h),-,-,Overcast
+MARAGHEH,30/10/2015,21Z,8.4,92%,1018.9 Hpa,calm.,,8/8,2/8 SC,AC,,-,-,-,Overcast
+MARAGHEH,30/10/2015,18Z,7.8,92%,1018.9 Hpa,090º (E ),10.8,5/8,5/8 SC,-,-,6.0(6h),-,-,Cloudy
+MARAGHEH,30/10/2015,15Z,8.0,97%,1019.3 Hpa,090º (E ),10.8,6/8,3/8 SC,AC,-,-,11.2,-,Cloudy
+MARAGHEH,30/10/2015,12Z,8.6,100%,1018.3 Hpa,090º (E ),14.4,8/8,4/8 CB,AC,,6.0(6h),-,-,"Overcast, rain"
+MARAGHEH,30/10/2015,09Z,10.0,78%,1017.5 Hpa,090º (E ),18.0,8/8,5/8 CB,AC,,-,-,-,"Overcast, rain showers"
+MARAGHEH,30/10/2015,06Z,10.4,74%,1016.8 Hpa,090º (E ),18.0,7/8,3/8 ST,AC,CI,4.0(6h),-,-,Cloudy
+MARAGHEH,30/10/2015,03Z,8.4,94%,1016.3 Hpa,080º (E ),32.4,8/8,3/8 SC,AC,,-,-,8.4,"Overcast, rain"
+MARAGHEH,30/10/2015,00Z,10.2,81%,1014.2 Hpa,090º (E ),28.8,8/8,3/8 SC,AC,,3.0(6h),-,-,Overcast
+MARAVEH-TAPPEH,30/10/2015,15Z,13.4,98%,1022.9 Hpa,280º (W ),7.2,8/8,6/8 ST,AC,,-,14.6,-,"Overcast, drizzle"
+MARAVEH-TAPPEH,30/10/2015,12Z,14.2,96%,1023.4 Hpa,300º (NW),7.2,8/8,5/8 ST,AC,,2.0(6h),-,-,"Overcast, rain"
+MARAVEH-TAPPEH,30/10/2015,09Z,14.0,97%,1024.6 Hpa,calm.,,8/8,4/8 ST,AC,,-,-,-,"Overcast, mist"
+MARAVEH-TAPPEH,30/10/2015,03Z,13.1,99%,1024.9 Hpa,300º (NW),10.8,8/8,5/8 ST,AC,,-,-,12.4,"Overcast, rain"
+MASHHAD,30/10/2015,21Z,10.2,86%,1019.3 Hpa,080º (E ),10.8,8/8,8/8 ST,,,-,-,-,"Overcast, mist"
+MASHHAD,30/10/2015,18Z,11.2,80%,1021.9 Hpa,150º (SE),14.4,8/8,8/8 ST,,,-,-,-,"Overcast, mist"
+MASHHAD,30/10/2015,15Z,12.2,69%,1023.5 Hpa,160º (S ),7.2,7/8,7/8 SC,-,-,-,18.4,-,Cloudy
+MASHHAD,30/10/2015,12Z,15.9,53%,1021.6 Hpa,110º (E ),21.6,5/8,2/8 SC,-,CI,-,-,-,Cloudy
+MASHHAD,30/10/2015,09Z,17.7,48%,1021.6 Hpa,110º (E ),14.4,4/8,4/8 SC,AC,CI,-,-,-,Scattered clouds
+MASHHAD,30/10/2015,06Z,16.3,51%,1023.6 Hpa,130º (SE),14.4,2/8,-,1/8 AC,CI,-,-,-,Few clouds
+MASHHAD,30/10/2015,03Z,11.8,60%,1023.1 Hpa,170º (S ),7.2,6/8,1/8 SC,AC,-,-,-,11.2,Cloudy
+MASHHAD,30/10/2015,00Z,12.8,52%,1018.9 Hpa,170º (S ),10.8,6/8,-,-,CI,-,-,-,Cloudy
+MASJED-SOLEYMAN,30/10/2015,21Z,20.0,89%,1012.7 Hpa,320º (NW),3.6,8/8,7/8 CB,AC,,-,-,-,"Overcast, thunderstorm"
+MASJED-SOLEYMAN,30/10/2015,18Z,22.5,70%,1013.1 Hpa,120º (SE),7.2,7/8,4/8 CB,AC,-,-,-,-,Cloudy
+MASJED-SOLEYMAN,30/10/2015,15Z,22.4,69%,1013.3 Hpa,130º (SE),3.6,7/8,5/8 CB,AC,-,-,23.6,-,Cloudy
+MASJED-SOLEYMAN,30/10/2015,12Z,23.1,63%,1013.6 Hpa,080º (E ),7.2,7/8,3/8 SC,AC,-,2.0(6h),-,-,Cloudy
+MASJED-SOLEYMAN,30/10/2015,09Z,21.1,73%,1015.5 Hpa,070º (E ),25.2,8/8,5/8 CB,AC,,-,-,-,"Overcast, thunderstorm no precipitation"
+MASJED-SOLEYMAN,30/10/2015,06Z,20.1,76%,1015.5 Hpa,120º (SE),28.8,8/8,6/8 CB,AC,,0.5(6h),-,-,"Overcast, rain"
+MASJED-SOLEYMAN,30/10/2015,03Z,21.9,66%,1013.7 Hpa,100º (E ),14.4,8/8,6/8 CB,AC,,-,-,18.4,Overcast
+MASJED-SOLEYMAN,30/10/2015,00Z,20.2,81%,1015.6 Hpa,140º (SE),7.2,8/8,6/8 CB,AC,,8.0(6h),-,-,Overcast
+MEYANEH,30/10/2015,15Z,10.4,78%,1019.1 Hpa,calm.,,8/8,6/8 CB,AC,,-,11.2,-,Overcast
+MEYANEH,30/10/2015,12Z,10.4,83%,1018.6 Hpa,calm.,,8/8,6/8 CB,AC,,1.0(6h),-,-,"Overcast, rain"
+MEYANEH,30/10/2015,03Z,9.4,82%,1021.0 Hpa,030º (NE),10.8,8/8,1/8 ST,AC,,-,-,9.4,"Overcast, rain"
+MOHABAD,30/10/2015,21Z,6.8,94%,1019.0 Hpa,calm.,,5/8,5/8 SC,-,-,-,-,-,Cloudy
+MOHABAD,30/10/2015,18Z,8.2,89%,1018.3 Hpa,calm.,,5/8,5/8 SC,-,-,0.6(6h),-,-,Cloudy
+MOHABAD,30/10/2015,15Z,9.0,87%,1017.7 Hpa,calm.,,6/8,4/8 CB,AC,-,-,12.0,-,Cloudy
+MOHABAD,30/10/2015,12Z,9.0,89%,1017.8 Hpa,calm.,,8/8,5/8 CB,AC,,9.0(6h),-,-,"Overcast, rain"
+MOHABAD,30/10/2015,09Z,11.2,86%,1016.6 Hpa,calm.,,8/8,5/8 CB,AC,,-,-,-,"Overcast, rain"
+MOHABAD,30/10/2015,06Z,11.2,81%,1015.1 Hpa,calm.,,6/8,4/8 CB,AC,-,0.6(6h),-,-,Cloudy
+MOHABAD,30/10/2015,03Z,10.0,90%,1014.2 Hpa,calm.,,4/8,4/8 SC,-,-,-,-,10.0,Scattered clouds
+MOHABAD,30/10/2015,00Z,10.4,85%,1013.6 Hpa,calm.,,8/8,5/8 CB,AC,,3.0(6h),-,-,"Overcast, rain showers"
+NEHBANDAN,30/10/2015,21Z,13.8,19%,1013.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+NEHBANDAN,30/10/2015,18Z,19.0,12%,1014.4 Hpa,010º (N),7.2,0/8,-,-,-,-,-,-,Clear
+NEHBANDAN,30/10/2015,15Z,21.6,9%,1015.9 Hpa,calm.,,0/8,-,-,-,-,30.1,-,Clear
+NEHBANDAN,30/10/2015,12Z,28.7,10%,1013.2 Hpa,140º (SE),14.4,0/8,-,-,-,-,-,-,Clear
+NEHBANDAN,30/10/2015,09Z,29.2,14%,1013.7 Hpa,140º (SE),7.2,0/8,-,-,-,-,-,-,Clear
+NEHBANDAN,30/10/2015,06Z,23.4,16%,1016.5 Hpa,calm.,,1/8,-,1/8 AC,-,-,-,-,Few clouds
+NEHBANDAN,30/10/2015,03Z,14.1,25%,1016.7 Hpa,calm.,,1/8,-,-,CI,-,-,12.2,Few clouds
+NEHBANDAN,30/10/2015,00Z,13.6,25%,1014.0 Hpa,calm.,,4/8,-,-,CI,-,-,-,Scattered clouds
+NOSHAHR,30/10/2015,21Z,14.0,90%,1020.4 Hpa,330º (NW),7.2,6/8,5/8 CB,AC,-,-,-,-,Cloudy
+NOSHAHR,30/10/2015,18Z,14.4,95%,1021.8 Hpa,calm.,,7/8,6/8 CB,AC,-,0.4(6h),-,-,"Cloudy, mist"
+NOSHAHR,30/10/2015,15Z,15.4,98%,1022.2 Hpa,calm.,,8/8,6/8 CB,AC,,-,16.8,-,"Overcast, mist"
+NOSHAHR,30/10/2015,12Z,16.0,93%,1022.6 Hpa,360º (N ),7.2,8/8,6/8 CB,AC,,7.0(6h),-,-,"Overcast, mist"
+NOSHAHR,30/10/2015,09Z,15.6,98%,1024.0 Hpa,calm.,,8/8,7/8 CB,AC,,-,-,-,"Overcast, drizzle"
+NOSHAHR,30/10/2015,06Z,15.0,100%,1025.2 Hpa,calm.,,8/8,6/8 CB,AC,,31.0(6h),-,-,"Overcast, rain"
+NOSHAHR,30/10/2015,03Z,15.2,100%,1024.1 Hpa,calm.,,8/8,7/8 ST,AC,,-,-,14.6,"Overcast, rain"
+NOSHAHR,30/10/2015,00Z,14.8,100%,1024.1 Hpa,210º (SW),14.4,8/8,6/8 ST,AC,,3.0(6h),-,-,"Overcast, rain"
+OMIDYEH-AGHAJARI,30/10/2015,21Z,23.7,70%,1014.3 Hpa,130º (SE),18.0,7/8,7/8 CB,-,-,-,-,-,Cloudy
+OMIDYEH-AGHAJARI,30/10/2015,18Z,27.2,51%,1014.3 Hpa,110º (E ),21.6,7/8,7/8 CB,-,-,-,-,-,Cloudy
+OMIDYEH-AGHAJARI,30/10/2015,15Z,26.8,55%,1014.1 Hpa,110º (E ),10.8,7/8,7/8 CB,-,-,-,29.2,-,Cloudy
+OMIDYEH-AGHAJARI,30/10/2015,12Z,29.0,49%,1014.4 Hpa,100º (E ),18.0,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+OMIDYEH-AGHAJARI,30/10/2015,09Z,27.9,50%,1016.1 Hpa,100º (E ),28.8,6/8,6/8 CB,-,-,-,-,-,Cloudy
+OMIDYEH-AGHAJARI,30/10/2015,06Z,22.3,71%,1018.3 Hpa,060º (NE),21.6,7/8,7/8 CB,-,-,18.0(6h),-,-,"Cloudy, thunderstorms"
+OMIDYEH-AGHAJARI,30/10/2015,03Z,24.3,60%,1015.0 Hpa,110º (E ),21.6,7/8,7/8 CB,-,-,-,-,20.2,"Cloudy, thunderstorm no precipitation"
+OMIDYEH-AGHAJARI,30/10/2015,00Z,20.2,96%,1019.8 Hpa,300º (NW),18.0,8/8,8/8 CB,,,15.0(6h),-,-,"Overcast, thunderstorm"
+ORUMIEH,30/10/2015,21Z,8.0,97%,1019.0 Hpa,calm.,,8/8,5/8 CB,AC,,-,-,-,"Overcast, mist"
+ORUMIEH,30/10/2015,18Z,8.0,97%,1019.3 Hpa,calm.,,8/8,5/8 CB,AC,,-,-,-,"Overcast, mist"
+ORUMIEH,30/10/2015,15Z,8.6,94%,1018.4 Hpa,040º (NE),7.2,8/8,6/8 CB,AC,,-,9.2,-,"Overcast, mist"
+ORUMIEH,30/10/2015,12Z,9.2,87%,1017.7 Hpa,040º (NE),14.4,8/8,5/8 CB,AC,,5.0(6h),-,-,"Overcast, mist"
+ORUMIEH,30/10/2015,09Z,8.6,97%,1018.1 Hpa,calm.,,8/8,6/8 CB,AC,,-,-,-,"Overcast, drizzle"
+ORUMIEH,30/10/2015,06Z,8.6,97%,1017.3 Hpa,360º (N ),7.2,8/8,6/8 CB,AC,,12.0(6h),-,-,"Overcast, drizzle"
+ORUMIEH,30/10/2015,03Z,9.2,97%,1016.0 Hpa,010º (N),10.8,8/8,6/8 CB,AC,,-,-,9.0,"Overcast, rain"
+ORUMIEH,30/10/2015,00Z,9.4,94%,1015.0 Hpa,130º (SE),10.8,8/8,5/8 CB,AC,,8.0(6h),-,-,"Overcast, rain"
+PARS ABAD MOGHAN,30/10/2015,21Z,8.5,96%,1026.2 Hpa,140º (SE),10.8,8/8,6/8 ST,AC,,-,-,-,"Overcast, rain"
+PARS ABAD MOGHAN,30/10/2015,18Z,8.8,97%,1026.7 Hpa,calm.,,8/8,6/8 ST,AC,,5.0(6h),-,-,"Overcast, rain"
+PARS ABAD MOGHAN,30/10/2015,15Z,9.0,96%,1026.7 Hpa,calm.,,8/8,8/8 ST,,,-,10.4,-,"Overcast, drizzle"
+PARS ABAD MOGHAN,30/10/2015,12Z,9.5,96%,1026.8 Hpa,100º (E ),14.4,8/8,6/8 ST,AC,,2.0(6h),-,-,"Overcast, rain"
+PARS ABAD MOGHAN,30/10/2015,09Z,10.1,94%,1027.6 Hpa,110º (E ),10.8,8/8,5/8 SC,AC,,-,-,-,"Overcast, rain"
+PARS ABAD MOGHAN,30/10/2015,06Z,10.0,92%,1028.7 Hpa,130º (SE),14.4,8/8,5/8 SC,AC,,0.7(6h),-,-,"Overcast, rain"
+PARS ABAD MOGHAN,30/10/2015,03Z,10.0,86%,1027.6 Hpa,150º (SE),14.4,8/8,5/8 SC,AC,,-,-,10.0,Overcast
+PARS ABAD MOGHAN,30/10/2015,00Z,10.8,80%,1026.9 Hpa,140º (SE),18.0,8/8,5/8 SC,AC,,-,-,-,Overcast
+RAMSAR,30/10/2015,21Z,13.8,100%,1021.0 Hpa,300º (NW),10.8,8/8,7/8 CB,AC,,-,-,-,"Overcast, drizzle"
+RAMSAR,30/10/2015,18Z,14.8,95%,1021.0 Hpa,calm.,,8/8,5/8 CB,AC,,5.0(6h),-,-,"Overcast, rain"
+RAMSAR,30/10/2015,15Z,14.8,93%,1022.7 Hpa,330º (NW),21.6,8/8,7/8 CB,AC,,-,15.6,-,"Overcast, rain"
+RAMSAR,30/10/2015,12Z,15.6,93%,1022.7 Hpa,320º (NW),14.4,8/8,6/8 CB,AC,,6.0(6h),-,-,"Overcast, mist"
+RAMSAR,30/10/2015,09Z,14.6,100%,1023.6 Hpa,320º (NW),7.2,8/8,8/8 ST,,,-,-,-,"Overcast, drizzle"
+RAMSAR,30/10/2015,06Z,14.6,97%,1025.9 Hpa,310º (NW),14.4,8/8,7/8 CB,AC,,20.0(6h),-,-,"Overcast, rain"
+RAMSAR,30/10/2015,03Z,14.4,97%,1024.9 Hpa,calm.,,8/8,8/8 ST,,,-,-,14.4,"Overcast, drizzle"
+RAMSAR,30/10/2015,00Z,14.4,97%,1024.2 Hpa,300º (NW),7.2,8/8,6/8 CB,AC,,11.0(6h),-,-,"Overcast, rain"
+RASHT,30/10/2015,21Z,13.8,95%,1023.0 Hpa,calm.,,8/8,5/8 SC,AC,,-,-,-,"Overcast, mist"
+RASHT,30/10/2015,18Z,13.4,97%,1023.0 Hpa,Vble.,,8/8,5/8 SC,AC,,2.0(6h),-,-,"Overcast, mist"
+RASHT,30/10/2015,15Z,13.4,95%,1024.2 Hpa,Vble.,,8/8,6/8 CB,AC,,-,15.0,-,"Overcast, rain"
+RASHT,30/10/2015,12Z,14.6,88%,1024.2 Hpa,300º (NW),7.2,8/8,6/8 CB,AC,,1.0(6h),-,-,Overcast
+RASHT,30/10/2015,09Z,14.4,90%,1025.6 Hpa,280º (W ),10.8,8/8,6/8 ST,AC,,-,-,-,Overcast
+RASHT,30/10/2015,06Z,13.6,95%,1027.3 Hpa,290º (W ),10.8,8/8,6/8 CB,AC,,6.0(6h),-,-,"Overcast, rain"
+RASHT,30/10/2015,03Z,13.6,100%,1026.7 Hpa,090º (E ),10.8,8/8,6/8 ST,AC,,-,-,13.2,"Overcast, drizzle"
+RASHT,30/10/2015,00Z,13.8,100%,1025.7 Hpa,calm.,,8/8,6/8 ST,AC,,7.0(6h),-,-,"Overcast, drizzle"
+SABZEVAR,30/10/2015,21Z,15.2,54%,1014.8 Hpa,070º (E ),18.0,3/8,1/8 SC,AC,-,-,-,-,Scattered clouds
+SABZEVAR,30/10/2015,18Z,15.8,53%,1016.5 Hpa,100º (E ),25.2,7/8,2/8 SC,AC,-,-,-,-,Cloudy
+SABZEVAR,30/10/2015,15Z,20.0,40%,1016.0 Hpa,110º (E ),25.2,7/8,2/8 SC,AC,-,-,26.0,-,Cloudy
+SABZEVAR,30/10/2015,12Z,24.9,26%,1014.3 Hpa,130º (SE),10.8,7/8,3/8 CU,AC,CI,-,-,-,Cloudy
+SABZEVAR,30/10/2015,09Z,24.2,34%,1015.3 Hpa,100º (E ),10.8,6/8,1/8 SC,AC,-,-,-,-,Cloudy
+SABZEVAR,30/10/2015,06Z,19.8,39%,1017.9 Hpa,100º (E ),25.2,4/8,1/8 SC,AC,-,Tr(6h),-,-,Scattered clouds
+SABZEVAR,30/10/2015,03Z,17.2,46%,1017.2 Hpa,110º (E ),14.4,6/8,3/8 SC,AC,-,-,-,16.2,Cloudy
+SABZEVAR,30/10/2015,00Z,17.8,50%,1013.7 Hpa,calm.,,8/8,4/8 CB,AC,,Tr(6h),-,-,"Overcast, rain"
+SAFI-ABAD DEZFUL,30/10/2015,21Z,21.0,71%,1013.5 Hpa,030º (NE),21.6,6/8,4/8 CB,AC,-,-,-,-,"Cloudy, thunderstorm no precipitation"
+SAFI-ABAD DEZFUL,30/10/2015,18Z,20.6,85%,1015.1 Hpa,360º (N ),14.4,6/8,4/8 CB,AC,-,0.2(6h),-,-,Cloudy
+SAFI-ABAD DEZFUL,30/10/2015,15Z,20.8,83%,1014.7 Hpa,360º (N ),7.2,7/8,4/8 CB,AC,-,-,22.0,-,"Cloudy, rain showers"
+SAFI-ABAD DEZFUL,30/10/2015,12Z,21.6,77%,1014.7 Hpa,060º (NE),14.4,4/8,1/8 CB,AC,CI,7.0(6h),-,-,Scattered clouds
+SAFI-ABAD DEZFUL,30/10/2015,09Z,20.0,90%,1016.9 Hpa,080º (E ),14.4,8/8,5/8 CB,AC,,-,-,-,"Overcast, heavy thunderstorm"
+SAFI-ABAD DEZFUL,30/10/2015,06Z,19.8,86%,1016.4 Hpa,120º (SE),14.4,8/8,4/8 CB,AC,,2.0(6h),-,-,"Overcast, thunderstorm"
+SAFI-ABAD DEZFUL,30/10/2015,03Z,19.8,86%,1015.4 Hpa,060º (NE),10.8,5/8,5/8 CB,-,-,-,-,19.8,Cloudy
+SAFI-ABAD DEZFUL,30/10/2015,00Z,20.0,86%,1015.8 Hpa,090º (E ),18.0,8/8,6/8 CB,AC,,7.0(6h),-,-,Overcast
+SAGHEZ,30/10/2015,21Z,4.5,95%,1019.3 Hpa,calm.,,2/8,2/8 CU,-,-,-,-,-,Few clouds
+SAGHEZ,30/10/2015,18Z,6.4,430%,1018.7 Hpa,130º (SE),7.2,4/8,4/8 CU,-,-,-,-,-,Scattered clouds
+SAGHEZ,30/10/2015,15Z,9.4,88%,1017.3 Hpa,calm.,,4/8,4/8 CU,-,-,-,13.2,-,Scattered clouds
+SAGHEZ,30/10/2015,12Z,12.5,69%,1015.9 Hpa,250º (W ),10.8,5/8,5/8 CB,-,-,5.0(6h),-,-,Cloudy
+SAGHEZ,30/10/2015,09Z,11.2,84%,1017.3 Hpa,210º (SW),7.2,8/8,5/8 ST,AC,,-,-,-,"Overcast, rain"
+SAGHEZ,30/10/2015,06Z,11.6,78%,1016.4 Hpa,calm.,,8/8,5/8 ST,AC,,7.0(24h),-,-,Overcast
+SAGHEZ,30/10/2015,03Z,10.9,76%,1015.1 Hpa,100º (E ),10.8,5/8,5/8 ST,-,-,-,-,8.2,Cloudy
+SAGHEZ,30/10/2015,00Z,9.9,82%,1013.9 Hpa,080º (E ),7.2,6/8,5/8 ST,AC,-,7.0(6h),-,-,Cloudy
+SANANDAJ,30/10/2015,21Z,6.8,95%,1019.5 Hpa,calm.,,2/8,2/8 SC,-,-,-,-,-,"Few clouds, mist"
+SANANDAJ,30/10/2015,18Z,8.2,92%,1019.2 Hpa,calm.,,3/8,3/8 SC,-,-,0.3(6h),-,-,Scattered clouds
+SANANDAJ,30/10/2015,15Z,10.5,86%,1018.9 Hpa,170º (S ),7.2,6/8,4/8 ST,AC,CI,-,12.2,-,Cloudy
+SANANDAJ,30/10/2015,12Z,11.2,79%,1017.8 Hpa,010º (N),7.2,7/8,2/8 ST,AC,CI,11.0(6h),-,-,"Cloudy, haze"
+SANANDAJ,30/10/2015,09Z,10.9,89%,1018.7 Hpa,240º (SW),3.6,8/8,5/8 ST,AC,,-,-,-,"Overcast, rain"
+SANANDAJ,30/10/2015,06Z,10.9,86%,1018.5 Hpa,180º (S ),3.6,8/8,5/8 ST,AC,CI,30.6(24h),-,-,"Overcast, mist"
+SANANDAJ,30/10/2015,03Z,8.9,96%,1018.5 Hpa,calm.,,7/8,5/8 ST,AC,-,-,-,8.7,"Cloudy, mist"
+SANANDAJ,30/10/2015,00Z,9.2,96%,1017.5 Hpa,calm.,,7/8,7/8 CB,AC,-,14.0(6h),-,-,"Cloudy, rain"
+SARAB,30/10/2015,21Z,5.0,85%,1020.0 Hpa,120º (SE),10.8,8/8,7/8 CB,AC,,-,-,-,"Overcast, rain"
+SARAB,30/10/2015,18Z,6.0,92%,1019.9 Hpa,300º (NW),10.8,8/8,6/8 CB,AC,,0.3(6h),-,-,"Overcast, rain"
+SARAB,30/10/2015,15Z,6.8,78%,1020.0 Hpa,100º (E ),21.6,8/8,7/8 CB,AC,,-,9.4,-,Overcast
+SARAB,30/10/2015,12Z,8.0,74%,1019.9 Hpa,120º (SE),18.0,8/8,7/8 CB,AC,,Tr(6h),-,-,"Overcast, rain"
+SARAB,30/10/2015,09Z,9.4,67%,1019.2 Hpa,100º (E ),18.0,7/8,4/8 CB,AC,-,-,-,-,Cloudy
+SARAB,30/10/2015,06Z,7.8,64%,1020.6 Hpa,110º (E ),25.2,6/8,3/8 CB,AC,CC,0.3(6h),-,-,Cloudy
+SARAB,30/10/2015,03Z,5.4,77%,1021.0 Hpa,100º (E ),18.0,7/8,6/8 CB,AC,-,-,-,5.2,"Cloudy, rain showers"
+SARAB,30/10/2015,00Z,5.2,85%,1019.3 Hpa,110º (E ),21.6,8/8,5/8 CB,AC,,0.1(6h),-,-,"Overcast, rain showers"
+SARAKHS,30/10/2015,21Z,12.3,85%,1022.9 Hpa,calm.,,6/8,3/8 SC,-,CI,-,-,-,Cloudy
+SARAKHS,30/10/2015,18Z,13.2,80%,1024.6 Hpa,340º (N ),7.2,8/8,4/8 SC,AC,,-,-,-,Overcast
+SARAKHS,30/10/2015,15Z,14.4,72%,1026.4 Hpa,330º (NW),7.2,8/8,4/8 SC,AC,,-,19.5,-,Overcast
+SARAKHS,30/10/2015,12Z,17.8,57%,1025.7 Hpa,340º (N ),21.6,8/8,4/8 SC,AC,,-,-,-,Overcast
+SARAKHS,30/10/2015,09Z,19.5,50%,1025.7 Hpa,260º (W ),10.8,7/8,2/8 SC,-,CI,-,-,-,Cloudy
+SARAKHS,30/10/2015,06Z,17.7,59%,1026.8 Hpa,270º (W ),7.2,5/8,5/8 SC,-,-,-,-,-,Cloudy
+SARAKHS,30/10/2015,03Z,13.2,51%,1025.0 Hpa,calm.,,6/8,6/8 SC,-,-,-,-,9.9,Cloudy
+SARAKHS,30/10/2015,00Z,13.2,67%,1022.3 Hpa,calm.,,5/8,-,-,CI,-,-,-,Cloudy
+SARAVAN,30/10/2015,21Z,19.1,59%,1014.8 Hpa,090º (E ),10.8,0/8,-,-,-,-,-,-,Clear
+SARAVAN,30/10/2015,18Z,21.4,34%,1015.7 Hpa,070º (E ),7.2,0/8,-,-,-,-,-,-,Clear
+SARAVAN,30/10/2015,15Z,24.8,16%,1016.2 Hpa,060º (NE),10.8,0/8,-,-,-,-,29.6,-,Clear
+SARAVAN,30/10/2015,12Z,29.2,16%,1014.3 Hpa,150º (SE),7.2,1/8,1/8 CU,-,-,-,-,-,Few clouds
+SARAVAN,30/10/2015,09Z,28.0,19%,1015.1 Hpa,220º (SW),14.4,1/8,1/8 CU,-,-,-,-,-,Few clouds
+SARAVAN,30/10/2015,06Z,23.6,38%,1017.7 Hpa,300º (NW),7.2,0/8,-,-,-,-,-,-,Clear
+SARAVAN,30/10/2015,03Z,14.8,30%,1018.3 Hpa,310º (NW),7.2,0/8,-,-,-,-,-,13.5,Clear
+SARAVAN,30/10/2015,00Z,15.0,32%,1016.0 Hpa,300º (NW),10.8,0/8,-,-,-,-,-,-,Clear
+SEMNAN,30/10/2015,21Z,14.2,81%,1016.9 Hpa,090º (E ),3.6,8/8,2/8 ST,AC,,-,-,-,Overcast
+SEMNAN,30/10/2015,18Z,15.0,77%,1017.3 Hpa,calm.,,7/8,2/8 ST,AC,-,-,-,-,Cloudy
+SEMNAN,30/10/2015,15Z,16.4,76%,1016.6 Hpa,330º (NW),3.6,5/8,2/8 SC,-,CI,-,18.4,-,Cloudy
+SEMNAN,30/10/2015,12Z,18.2,65%,1016.1 Hpa,calm.,,7/8,3/8 SC,AC,-,2.0(6h),-,-,Cloudy
+SEMNAN,30/10/2015,09Z,16.4,74%,1016.9 Hpa,090º (E ),7.2,8/8,3/8 SC,AC,,-,-,-,"Overcast, rain"
+SEMNAN,30/10/2015,06Z,16.4,67%,1018.6 Hpa,270º (W ),7.2,8/8,3/8 SC,AC,,0.1(6h),-,-,"Overcast, rain"
+SEMNAN,30/10/2015,03Z,16.8,60%,1015.6 Hpa,330º (NW),3.6,7/8,2/8 SC,AC,-,-,-,15.6,Cloudy
+SEMNAN,30/10/2015,00Z,16.4,63%,1014.5 Hpa,calm.,,6/8,2/8 SC,AC,-,Tr(6h),-,-,"Cloudy, rain"
+SHAHRE-KORD,30/10/2015,21Z,10.7,83%,1015.5 Hpa,190º (S ),18.0,8/8,6/8 CB,AC,,-,-,-,"Overcast, rain showers"
+SHAHRE-KORD,30/10/2015,18Z,12.0,73%,1016.1 Hpa,180º (S ),10.8,7/8,4/8 CB,AC,-,3.0(6h),-,-,Cloudy
+SHAHRE-KORD,30/10/2015,15Z,9.6,93%,1018.0 Hpa,200º (S ),10.8,7/8,7/8 CB,AC,-,-,12.8,-,"Cloudy, rain showers"
+SHAHRE-KORD,30/10/2015,12Z,11.8,73%,1017.3 Hpa,210º (SW),18.0,6/8,5/8 CB,AC,-,2.0(6h),-,-,"Cloudy, rain showers"
+SHAHRE-KORD,30/10/2015,09Z,12.7,68%,1018.3 Hpa,140º (SE),7.2,8/8,8/8 CB,AC,,-,-,-,"Overcast, rain showers"
+SHAHRE-KORD,30/10/2015,06Z,10.6,83%,1018.4 Hpa,260º (W ),10.8,8/8,7/8 CB,AC,,5.0(6h),-,-,"Overcast, rain showers"
+SHAHRE-KORD,30/10/2015,03Z,8.8,84%,1017.6 Hpa,130º (SE),25.2,8/8,8/8 CB,AC,,-,-,8.4,"Overcast, rain showers"
+SHAHRE-KORD,30/10/2015,00Z,8.7,90%,1014.5 Hpa,310º (NW),10.8,8/8,5/8 CB,AC,,0.3(6h),-,-,"Overcast, rain showers"
+SHAHRUD,30/10/2015,21Z,12.0,91%,1016.6 Hpa,280º (W ),3.6,7/8,3/8 SC,AC,-,-,-,-,Cloudy
+SHAHRUD,30/10/2015,18Z,12.6,84%,1017.3 Hpa,030º (NE),7.2,7/8,3/8 SC,AC,-,-,-,-,Cloudy
+SHAHRUD,30/10/2015,15Z,13.6,76%,1018.4 Hpa,010º (N),7.2,7/8,5/8 SC,AC,-,-,15.4,-,Cloudy
+SHAHRUD,30/10/2015,12Z,13.8,78%,1018.2 Hpa,060º (NE),10.8,8/8,6/8 SC,AC,,0.1(6h),-,-,Overcast
+SHAHRUD,30/10/2015,09Z,14.2,65%,1019.3 Hpa,040º (NE),10.8,8/8,5/8 ST,AC,,-,-,-,"Overcast, rain"
+SHAHRUD,30/10/2015,06Z,15.2,62%,1019.0 Hpa,050º (NE),14.4,7/8,4/8 SC,-,CS,-,-,-,Cloudy
+SHAHRUD,30/10/2015,03Z,12.4,75%,1017.5 Hpa,030º (NE),10.8,7/8,4/8 SC,AC,-,-,-,12.4,Cloudy
+SHAHRUD,30/10/2015,00Z,12.8,72%,1015.8 Hpa,020º (N),10.8,7/8,4/8 SC,AC,-,-,-,-,Cloudy
+SHIRAZ,30/10/2015,21Z,17.4,55%,1012.6 Hpa,330º (NW),7.2,1/8,1/8 SC,-,-,-,-,-,Few clouds
+SHIRAZ,30/10/2015,18Z,19.6,45%,1013.9 Hpa,300º (NW),14.4,1/8,1/8 SC,-,-,-,-,-,Few clouds
+SHIRAZ,30/10/2015,15Z,21.8,39%,1014.9 Hpa,320º (NW),7.2,3/8,1/8 SC,AC,-,-,25.8,-,Scattered clouds
+SHIRAZ,30/10/2015,12Z,24.4,32%,1012.6 Hpa,300º (NW),7.2,6/8,6/8 CU,-,CI,-,-,-,Cloudy
+SHIRAZ,30/10/2015,09Z,24.6,31%,1014.1 Hpa,calm.,,6/8,1/8 CU,AC,CI,-,-,-,Cloudy
+SHIRAZ,30/10/2015,06Z,18.2,49%,1017.7 Hpa,calm.,,5/8,2/8 SC,AC,-,-,-,-,Cloudy
+SHIRAZ,30/10/2015,03Z,11.0,81%,1017.9 Hpa,calm.,,5/8,1/8 SC,AC,-,-,-,10.0,Cloudy
+SHIRAZ,30/10/2015,00Z,14.8,64%,1014.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SIRI ISLAND,30/10/2015,15Z,30.2,48%,1014.7 Hpa,270º (W ),10.8,0/8,-,-,-,-,32.8,-,Clear
+SIRI ISLAND,30/10/2015,12Z,32.6,151%,1014.3 Hpa,180º (S ),10.8,0/8,-,-,-,-,-,-,Clear
+SIRI ISLAND,30/10/2015,09Z,32.2,40%,1015.5 Hpa,160º (S ),25.2,0/8,-,-,-,-,-,-,Clear
+SIRI ISLAND,30/10/2015,06Z,31.4,92%,1017.2 Hpa,140º (SE),18.0,0/8,-,-,-,-,-,-,Clear
+SIRI ISLAND,30/10/2015,03Z,28.8,65%,1015.6 Hpa,130º (SE),21.6,0/8,-,-,-,-,-,27.6,Clear
+SIRJAN,30/10/2015,21Z,15.8,50%,1013.0 Hpa,090º (E ),7.2,0/8,-,-,-,-,-,-,Clear
+SIRJAN,30/10/2015,18Z,15.2,42%,1013.4 Hpa,060º (NE),10.8,0/8,-,-,-,-,-,-,Clear
+SIRJAN,30/10/2015,15Z,20.0,33%,1015.0 Hpa,180º (S ),7.2,0/8,-,-,-,-,26.1,-,Clear
+SIRJAN,30/10/2015,12Z,25.7,24%,1011.3 Hpa,300º (NW),10.8,0/8,-,-,-,-,-,-,Clear
+SIRJAN,30/10/2015,09Z,24.0,29%,1013.3 Hpa,210º (SW),10.8,0/8,-,-,-,-,-,-,Clear
+SIRJAN,30/10/2015,06Z,19.2,40%,1015.4 Hpa,200º (S ),10.8,0/8,-,-,-,-,-,-,Clear
+SIRJAN,30/10/2015,03Z,7.9,59%,1017.2 Hpa,060º (NE),7.2,0/8,-,-,-,-,-,7.9,Clear
+SIRJAN,30/10/2015,00Z,11.0,51%,1013.2 Hpa,030º (NE),7.2,0/8,-,-,-,-,-,-,Clear
+TABAS,30/10/2015,21Z,21.6,31%,1012.5 Hpa,060º (NE),7.2,3/8,1/8 CB,AC,-,-,-,-,Scattered clouds
+TABAS,30/10/2015,18Z,23.2,33%,1013.2 Hpa,calm.,,5/8,3/8 CB,AC,-,-,-,-,Cloudy
+TABAS,30/10/2015,15Z,27.0,23%,1013.5 Hpa,350º (N ),10.8,4/8,-,1/8 AC,CI,-,31.2,-,Scattered clouds
+TABAS,30/10/2015,12Z,30.0,16%,1012.4 Hpa,320º (NW),7.2,3/8,-,-,CI,-,-,-,Scattered clouds
+TABAS,30/10/2015,09Z,30.2,17%,1013.1 Hpa,100º (E ),3.6,1/8,-,-,CI,-,-,-,"Few clouds, haze"
+TABAS,30/10/2015,06Z,25.7,26%,1015.2 Hpa,180º (S ),7.2,4/8,-,-,CI,-,-,-,Scattered clouds
+TABAS,30/10/2015,03Z,18.8,44%,1015.1 Hpa,calm.,,1/8,-,-,CI,-,-,18.8,Few clouds
+TABAS,30/10/2015,00Z,20.6,34%,1012.5 Hpa,160º (S ),7.2,2/8,-,-,CI,-,-,-,Few clouds
+TABRIZ,30/10/2015,21Z,8.4,87%,1019.8 Hpa,calm.,,8/8,5/8 CB,AC,,-,-,-,Overcast
+TABRIZ,30/10/2015,18Z,9.0,77%,1020.2 Hpa,070º (E ),10.8,8/8,5/8 CB,AC,,2.0(6h),-,-,Overcast
+TABRIZ,30/10/2015,15Z,9.0,82%,1019.9 Hpa,080º (E ),14.4,8/8,4/8 CB,AC,,-,10.6,-,"Overcast, mist"
+TABRIZ,30/10/2015,12Z,9.4,80%,1019.1 Hpa,070º (E ),7.2,8/8,4/8 CB,AC,,0.5(6h),-,-,"Overcast, rain"
+TABRIZ,30/10/2015,09Z,10.4,67%,1018.8 Hpa,040º (NE),18.0,8/8,6/8 CB,AC,,-,-,-,Overcast
+TABRIZ,30/10/2015,06Z,8.8,72%,1019.6 Hpa,060º (NE),21.6,8/8,6/8 CB,AC,,1.0(6h),-,-,Overcast
+TABRIZ,30/10/2015,03Z,8.0,81%,1018.9 Hpa,060º (NE),32.4,8/8,6/8 CB,AC,,-,-,8.0,"Overcast, rain showers"
+TABRIZ,30/10/2015,00Z,10.0,69%,1017.1 Hpa,080º (E ),28.8,7/8,4/8 CB,AC,CI,-,-,-,Cloudy
+TEHRAN-MEHRABAD,30/10/2015,21Z,14.1,84%,1016.1 Hpa,080º (E ),7.2,7/8,4/8 CB,AC,-,-,-,-,"Cloudy, mist"
+TEHRAN-MEHRABAD,30/10/2015,18Z,13.6,87%,1017.8 Hpa,240º (SW),7.2,8/8,4/8 CB,AC,,3.0(6h),-,-,"Overcast, rain"
+TEHRAN-MEHRABAD,30/10/2015,15Z,14.0,91%,1017.9 Hpa,360º (N ),7.2,8/8,4/8 CB,AC,,-,18.4,-,"Overcast, rain"
+TEHRAN-MEHRABAD,30/10/2015,12Z,17.4,60%,1016.4 Hpa,210º (SW),10.8,8/8,4/8 CB,AC,,0.2(6h),-,-,"Overcast, haze"
+TEHRAN-MEHRABAD,30/10/2015,09Z,18.0,59%,1016.1 Hpa,130º (SE),10.8,6/8,3/8 SC,AC,-,-,-,-,"Cloudy, haze"
+TEHRAN-MEHRABAD,30/10/2015,06Z,14.4,83%,1019.5 Hpa,120º (SE),7.2,8/8,4/8 ST,AC,,2.0(6h),-,-,"Overcast, rain"
+TEHRAN-MEHRABAD,30/10/2015,03Z,13.8,79%,1017.9 Hpa,290º (W ),7.2,7/8,5/8 CB,AC,-,-,-,12.8,"Cloudy, mist"
+TEHRAN-MEHRABAD,30/10/2015,00Z,13.3,80%,1016.4 Hpa,260º (W ),7.2,4/8,2/8 SC,AC,-,Tr(6h),-,-,Scattered clouds
+TORBAT-HEYDARIEH,30/10/2015,21Z,10.0,72%,1014.6 Hpa,090º (E ),14.4,8/8,3/8 SC,-,CS,-,-,-,Overcast
+TORBAT-HEYDARIEH,30/10/2015,18Z,10.9,70%,1017.1 Hpa,090º (E ),18.0,7/8,-,1/8 AC,CI,-,-,-,Cloudy
+TORBAT-HEYDARIEH,30/10/2015,15Z,13.8,55%,1018.0 Hpa,090º (E ),32.4,6/8,-,-,CS,-,23.1,-,Cloudy
+TORBAT-HEYDARIEH,30/10/2015,12Z,20.4,29%,1015.6 Hpa,060º (NE),14.4,5/8,1/8 SC,-,CI,-,-,-,Cloudy
+TORBAT-HEYDARIEH,30/10/2015,09Z,22.2,20%,1015.5 Hpa,090º (E ),18.0,1/8,1/8 SC,-,-,-,-,-,Few clouds
+TORBAT-HEYDARIEH,30/10/2015,06Z,18.3,29%,1017.9 Hpa,060º (NE),14.4,1/8,-,1/8 AC,-,-,-,-,Few clouds
+TORBAT-HEYDARIEH,30/10/2015,03Z,12.8,34%,1017.3 Hpa,070º (E ),10.8,2/8,1/8 SC,AC,-,-,-,11.7,Few clouds
+TORBAT-HEYDARIEH,30/10/2015,00Z,11.7,33%,1013.9 Hpa,330º (NW),7.2,6/8,2/8 SC,AC,-,-,-,-,Cloudy
+YASOGE,30/10/2015,21Z,10.0,95%,1019.1 Hpa,calm.,,1/8,1/8 CU,-,-,-,-,-,Few clouds
+YASOGE,30/10/2015,18Z,11.2,92%,1017.8 Hpa,calm.,,2/8,2/8 SC,-,-,-,-,-,Few clouds
+YASOGE,30/10/2015,15Z,13.0,83%,1019.0 Hpa,090º (E ),7.2,1/8,1/8 SC,-,-,-,16.2,-,Few clouds
+YASOGE,30/10/2015,12Z,14.4,75%,1018.6 Hpa,calm.,,7/8,3/8 SC,AC,-,4.0(6h),-,-,Cloudy
+YASOGE,30/10/2015,09Z,11.8,95%,1021.4 Hpa,340º (N ),21.6,8/8,5/8 CB,AC,,-,-,-,"Overcast, rain"
+YASOGE,30/10/2015,06Z,14.8,81%,1019.3 Hpa,180º (S ),7.2,4/8,3/8 ST,AC,CI,7.0(6h),-,-,Scattered clouds
+YASOGE,30/10/2015,03Z,11.0,97%,1019.7 Hpa,340º (N ),10.8,8/8,5/8 CB,AC,,-,-,10.8,"Overcast, rain"
+YASOGE,30/10/2015,00Z,11.2,92%,1017.7 Hpa,360º (N ),7.2,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+YAZD,30/10/2015,21Z,17.5,48%,1014.6 Hpa,020º (N),3.6,1/8,1/8 SC,-,-,-,-,-,Few clouds
+YAZD,30/10/2015,18Z,20.4,41%,1015.8 Hpa,230º (SW),7.2,7/8,7/8 SC,-,-,-,-,-,Cloudy
+YAZD,30/10/2015,15Z,21.6,38%,1016.4 Hpa,320º (NW),7.2,4/8,1/8 SC,AC,CI,-,25.3,-,Scattered clouds
+YAZD,30/10/2015,12Z,23.6,35%,1015.2 Hpa,330º (NW),10.8,6/8,2/8 CU,AC,CI,-,-,-,Cloudy
+YAZD,30/10/2015,09Z,24.1,33%,1015.3 Hpa,340º (N ),3.6,4/8,1/8 CU,AC,CI,-,-,-,Scattered clouds
+YAZD,30/10/2015,06Z,17.5,58%,1018.9 Hpa,130º (SE),7.2,5/8,-,2/8 AC,CI,-,-,-,"Cloudy, haze"
+YAZD,30/10/2015,03Z,13.9,67%,1018.1 Hpa,calm.,,6/8,-,1/8 AC,CI,-,-,13.8,"Cloudy, haze"
+YAZD,30/10/2015,00Z,15.4,67%,1016.2 Hpa,280º (W ),7.2,0/8,-,-,-,-,-,-,"Clear, haze"
+ZABOL,30/10/2015,21Z,17.8,41%,1013.6 Hpa,340º (N ),21.6,0/8,-,-,-,-,-,-,Clear
+ZABOL,30/10/2015,18Z,19.7,24%,1014.9 Hpa,350º (N ),18.0,0/8,-,-,-,-,-,-,Clear
+ZABOL,30/10/2015,15Z,23.5,13%,1015.0 Hpa,360º (N ),10.8,0/8,-,-,-,-,32.6,-,Clear
+ZABOL,30/10/2015,12Z,31.7,8%,1013.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+ZABOL,30/10/2015,09Z,30.5,9%,1014.6 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+ZABOL,30/10/2015,06Z,23.2,13%,1017.5 Hpa,calm.,,1/8,-,1/8 AC,-,-,-,-,Few clouds
+ZABOL,30/10/2015,03Z,11.4,20%,1017.1 Hpa,030º (NE),7.2,5/8,-,1/8 AC,CC,-,-,11.4,Cloudy
+ZABOL,30/10/2015,00Z,13.9,16%,1014.6 Hpa,040º (NE),10.8,0/8,-,-,-,-,-,-,Clear
+ZAHEDAN,30/10/2015,21Z,12.4,34%,1014.0 Hpa,150º (SE),7.2,0/8,-,-,-,-,-,-,Clear
+ZAHEDAN,30/10/2015,18Z,14.6,29%,1015.0 Hpa,160º (S ),10.8,0/8,-,-,-,-,-,-,Clear
+ZAHEDAN,30/10/2015,15Z,20.7,18%,1016.4 Hpa,330º (NW),7.2,0/8,-,-,-,-,28.7,-,Clear
+ZAHEDAN,30/10/2015,12Z,26.7,16%,1013.3 Hpa,040º (NE),21.6,0/8,-,-,-,-,-,-,Clear
+ZAHEDAN,30/10/2015,09Z,27.5,18%,1013.2 Hpa,290º (W ),10.8,0/8,-,-,-,-,-,-,Clear
+ZAHEDAN,30/10/2015,06Z,23.9,27%,1015.9 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+ZAHEDAN,30/10/2015,03Z,11.7,46%,1017.3 Hpa,calm.,,1/8,1/8 SC,-,-,-,-,10.0,Few clouds
+ZAHEDAN,30/10/2015,00Z,10.7,45%,1014.5 Hpa,140º (SE),7.2,0/8,-,-,-,-,-,-,Clear
+ZANJAN,30/10/2015,21Z,7.8,85%,1017.1 Hpa,090º (E ),3.6,4/8,3/8 SC,AC,-,-,-,-,Scattered clouds
+ZANJAN,30/10/2015,18Z,7.1,88%,1018.1 Hpa,090º (E ),3.6,2/8,1/8 SC,AC,-,1.0(6h),-,-,Few clouds
+ZANJAN,30/10/2015,15Z,9.1,86%,1018.4 Hpa,080º (E ),7.2,5/8,4/8 SC,AC,CI,-,13.6,-,Cloudy
+ZANJAN,30/10/2015,12Z,10.0,87%,1018.4 Hpa,170º (S ),3.6,8/8,6/8 CB,AC,,3.0(6h),-,-,"Overcast, rain"
+ZANJAN,30/10/2015,09Z,13.5,65%,1016.2 Hpa,100º (E ),10.8,6/8,4/8 SC,AC,-,-,-,-,Cloudy
+ZANJAN,30/10/2015,06Z,10.8,71%,1018.4 Hpa,130º (SE),7.2,7/8,6/8 CB,AC,-,0.3(6h),-,-,Cloudy
+ZANJAN,30/10/2015,03Z,9.2,73%,1018.3 Hpa,110º (E ),7.2,8/8,7/8 CB,AC,,-,-,8.4,Overcast
+ZANJAN,30/10/2015,00Z,9.5,77%,1017.3 Hpa,170º (S ),3.6,8/8,5/8 CB,AC,,0.5(6h),-,-,"Overcast, rain"

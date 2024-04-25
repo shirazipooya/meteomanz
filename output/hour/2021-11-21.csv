@@ -1,0 +1,606 @@
+Station ∆,Date,UTC time,Temp. (ºC),Rel. Hum. (%),Pressure/ Geopot.,Wind dir,Wins speed (Km/h),Clouds,Low clouds,Medium clouds,High clouds,Prec. (mm),Max temp. (ºC),Min temp. (ºC),Conditions
+ABADAN,21/11/2021,21Z,21.4,64%,1015.5 Hpa,280º (W ),10.8,7/8,5/8 CB,AC,-,-,-,-,"Cloudy, haze"
+ABADAN,21/11/2021,18Z,22.2,74%,1014.3 Hpa,210º (SW),7.2,7/8,6/8 CB,AC,,-,-,-,"Cloudy, haze"
+ABADAN,21/11/2021,15Z,24.3,66%,1011.9 Hpa,150º (SE),7.2,7/8,5/8 CB,AC,-,-,26.2,-,Cloudy
+ABADAN,21/11/2021,12Z,28.1,35%,1010.3 Hpa,150º (SE),10.8,6/8,-,6/8 AC,-,-,-,-,Cloudy
+ABADAN,21/11/2021,09Z,27.8,39%,1011.1 Hpa,150º (SE),14.4,6/8,-,3/8 AC,CI,-,-,-,"Cloudy, haze"
+ABADAN,21/11/2021,06Z,25.3,71%,1011.1 Hpa,180º (S ),36.0,4/8,2/8 CB,AC,-,-,-,-,"Scattered clouds, haze"
+ABADAN,21/11/2021,03Z,23.7,85%,1009.6 Hpa,150º (SE),18.0,2/8,2/8 SC,-,-,-,-,22.6,"Few clouds, mist"
+ABADAN,21/11/2021,00Z,23.5,80%,1008.8 Hpa,120º (SE),14.4,3/8,3/8 CB,-,-,-,-,-,"Scattered clouds, mist"
+ABADEH,21/11/2021,21Z,9.5,75%,1016.7 Hpa,270º (W ),10.8,8/8,4/8 CB,AC,,-,-,-,"Overcast, rain showers"
+ABADEH,21/11/2021,18Z,10.5,58%,1017.1 Hpa,280º (W ),10.8,3/8,3/8 CU,-,-,-,-,-,Scattered clouds
+ABADEH,21/11/2021,15Z,12.2,49%,1018.6 Hpa,210º (SW),14.4,3/8,3/8 CU,-,-,-,15.6,-,Scattered clouds
+ABADEH,21/11/2021,12Z,15.0,38%,1014.5 Hpa,230º (SW),25.2,3/8,3/8 CU,-,-,-,-,-,Scattered clouds
+ABADEH,21/11/2021,09Z,15.4,40%,1013.4 Hpa,240º (SW),32.4,4/8,2/8 CU,AC,-,-,-,-,Scattered clouds
+ABADEH,21/11/2021,06Z,12.7,47%,1014.9 Hpa,100º (E ),3.6,4/8,2/8 SC,AC,-,-,-,-,Scattered clouds
+ABADEH,21/11/2021,03Z,2.6,73%,1017.5 Hpa,290º (W ),3.6,3/8,-,3/8 AC,-,-,-,2.5,Scattered clouds
+ABADEH,21/11/2021,00Z,3.6,62%,1014.0 Hpa,280º (W ),3.6,0/8,-,-,-,-,-,-,Clear
+ABU MUSA,21/11/2021,15Z,26.6,55%,1013.4 Hpa,050º (NE),10.8,0/8,-,-,-,-,30.0,-,Clear
+ABU MUSA,21/11/2021,12Z,29.0,106%,1012.4 Hpa,080º (E ),18.0,0/8,-,-,-,-,-,-,Clear
+ABU MUSA,21/11/2021,09Z,29.2,47%,1013.4 Hpa,090º (E ),18.0,0/8,-,-,-,-,-,-,"Clear, haze"
+ABU MUSA,21/11/2021,06Z,27.8,114%,1014.7 Hpa,070º (E ),18.0,0/8,-,-,-,-,-,-,"Clear, haze"
+ABU MUSA,21/11/2021,03Z,22.8,69%,1013.0 Hpa,070º (E ),7.2,0/8,-,-,-,-,-,22.6,"Clear, haze"
+AHAR,21/11/2021,21Z,3.7,62%,1020.1 Hpa,330º (NW),7.2,0/8,-,-,-,-,-,-,Clear
+AHAR,21/11/2021,18Z,8.0,51%,1018.9 Hpa,060º (NE),3.6,0/8,-,-,-,-,-,-,Clear
+AHAR,21/11/2021,15Z,9.3,47%,1017.2 Hpa,250º (W ),14.4,0/8,-,-,-,-,15.1,-,Clear
+AHAR,21/11/2021,12Z,14.5,31%,1012.9 Hpa,260º (W ),18.0,3/8,3/8 CU,-,-,-,-,-,Scattered clouds
+AHAR,21/11/2021,09Z,14.8,30%,1013.0 Hpa,280º (W ),25.2,1/8,1/8 CU,-,-,-,-,-,Few clouds
+AHAR,21/11/2021,06Z,10.2,48%,1014.2 Hpa,290º (W ),18.0,1/8,1/8 CU,-,-,-,-,-,Few clouds
+AHAR,21/11/2021,03Z,6.4,57%,1013.3 Hpa,280º (W ),7.2,4/8,-,-,CI,-,-,5.6,Scattered clouds
+AHAR,21/11/2021,00Z,8.6,49%,1010.9 Hpa,360º (N ),3.6,4/8,-,-,CI,-,-,-,Scattered clouds
+AHWAZ,21/11/2021,21Z,22.5,58%,1014.7 Hpa,130º (SE),10.8,5/8,5/8 ST,-,-,-,-,-,Cloudy
+AHWAZ,21/11/2021,18Z,22.6,62%,1014.2 Hpa,130º (SE),10.8,3/8,3/8 ST,-,-,-,-,-,Scattered clouds
+AHWAZ,21/11/2021,15Z,24.3,62%,1012.4 Hpa,140º (SE),14.4,6/8,6/8 CB,AC,-,-,29.0,-,"Cloudy, haze"
+AHWAZ,21/11/2021,12Z,27.6,49%,1010.4 Hpa,170º (S ),28.8,7/8,5/8 CB,AC,-,Tr(6h),-,-,"Cloudy, dust"
+AHWAZ,21/11/2021,09Z,28.3,56%,1010.7 Hpa,180º (S ),25.2,6/8,6/8 CB,-,-,-,-,-,"Cloudy, dust"
+AHWAZ,21/11/2021,06Z,25.1,47%,1011.5 Hpa,160º (S ),21.6,7/8,7/8 CB,-,-,Tr(6h),-,-,"Cloudy, haze"
+AHWAZ,21/11/2021,03Z,22.7,52%,1009.4 Hpa,140º (SE),18.0,5/8,4/8 CB,AC,-,-,-,18.1,"Cloudy, thunderstorms"
+AHWAZ,21/11/2021,00Z,19.3,54%,1009.4 Hpa,100º (E ),3.6,5/8,5/8 CU/SC,-,-,-,-,-,Cloudy
+ALI-GOODARZ,21/11/2021,21Z,4.4,86%,1022.5 Hpa,150º (SE),18.0,6/8,5/8 CB,AC,-,-,-,-,"Cloudy, mist"
+ALI-GOODARZ,21/11/2021,18Z,4.9,86%,1021.0 Hpa,120º (SE),14.4,8/8,7/8 CB,AC,,-,-,-,"Overcast, mist"
+ALI-GOODARZ,21/11/2021,15Z,5.1,83%,1019.6 Hpa,090º (E ),39.6,8/8,7/8 CB,AC,,-,5.8,-,"Overcast, mist"
+ALI-GOODARZ,21/11/2021,12Z,4.6,88%,1017.6 Hpa,090º (E ),39.6,8/8,7/8 CB,AC,,13.0(6h),-,-,"Overcast, mist"
+ALI-GOODARZ,21/11/2021,09Z,0.6,97%,1019.6 Hpa,150º (SE),10.8,8/8,7/8 CB,AC,,-,-,-,"Overcast, snow"
+ALI-GOODARZ,21/11/2021,06Z,3.5,95%,1017.9 Hpa,200º (S ),14.4,8/8,4/8 CB,AC,,10.0(6h),-,-,"Overcast, rain"
+ALI-GOODARZ,21/11/2021,03Z,4.8,83%,1014.9 Hpa,110º (E ),10.8,8/8,4/8 CB,AC,,-,-,3.0,"Overcast, rain"
+ALI-GOODARZ,21/11/2021,00Z,5.8,79%,1012.9 Hpa,100º (E ),18.0,8/8,4/8 CB,AC,,0.2(6h),-,-,"Overcast, rain showers"
+ANZALI,21/11/2021,21Z,12.1,88%,1022.1 Hpa,calm.,,2/8,1/8 SC,AC,-,-,-,-,Few clouds
+ANZALI,21/11/2021,18Z,14.1,69%,1021.8 Hpa,290º (W ),3.6,5/8,2/8 SC,AC,-,-,-,-,Cloudy
+ANZALI,21/11/2021,15Z,14.2,64%,1020.0 Hpa,150º (SE),3.6,5/8,5/8 SC,AC,-,-,19.1,-,Cloudy
+ANZALI,21/11/2021,12Z,17.2,31%,1017.3 Hpa,010º (N),3.6,4/8,-,4/8 AC,-,-,-,-,Scattered clouds
+ANZALI,21/11/2021,09Z,18.6,55%,1015.6 Hpa,020º (N),3.6,3/8,-,3/8 AC,CI,-,-,-,Scattered clouds
+ANZALI,21/11/2021,06Z,16.1,128%,1015.4 Hpa,210º (SW),3.6,4/8,4/8 CU,AC,CC,-,-,-,Scattered clouds
+ANZALI,21/11/2021,03Z,13.9,83%,1012.4 Hpa,360º (N ),14.4,6/8,1/8 CB,-,CI,-,-,9.5,Cloudy
+ANZALI,21/11/2021,00Z,11.3,88%,1010.4 Hpa,290º (W ),3.6,7/8,3/8 SC,AC,-,-,-,-,"Cloudy, mist"
+ARAK,21/11/2021,21Z,4.8,91%,1019.9 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, mist"
+ARAK,21/11/2021,18Z,5.8,88%,1019.0 Hpa,calm.,,1/8,-,1/8 AC,-,-,-,-,"Few clouds, mist"
+ARAK,21/11/2021,15Z,6.6,81%,1018.9 Hpa,140º (SE),10.8,4/8,2/8 SC,AC,-,-,7.8,-,"Scattered clouds, mist"
+ARAK,21/11/2021,12Z,7.0,86%,1017.5 Hpa,120º (SE),14.4,8/8,4/8 SC,AC,,4.0(6h),-,-,"Overcast, mist"
+ARAK,21/11/2021,09Z,7.0,89%,1016.6 Hpa,calm.,,8/8,4/8 ST,AC,,-,-,-,"Overcast, mist"
+ARAK,21/11/2021,06Z,6.4,88%,1017.0 Hpa,calm.,,8/8,5/8 CB,AC,,5.0(6h),-,-,"Overcast, rain showers"
+ARAK,21/11/2021,03Z,6.6,86%,1014.1 Hpa,130º (SE),3.6,8/8,6/8 CB,AC,,-,-,6.6,"Overcast, rain"
+ARAK,21/11/2021,00Z,6.6,81%,1012.7 Hpa,calm.,,8/8,4/8 CB,AC,-,0.1(6h),-,-,"Overcast, mist"
+ARDEBIL,21/11/2021,21Z,1.3,98%,1018.3 Hpa,calm.,,8/8,8/8 ST,,,-,-,-,"Overcast, fog"
+ARDEBIL,21/11/2021,18Z,4.0,97%,1017.7 Hpa,calm.,,7/8,7/8 ST,AC,-,-,-,-,"Cloudy, fog"
+ARDEBIL,21/11/2021,15Z,6.1,70%,1016.6 Hpa,090º (E ),14.4,3/8,3/8 CU/SC,-,-,-,16.0,-,Scattered clouds
+ARDEBIL,21/11/2021,12Z,15.4,37%,1011.2 Hpa,210º (SW),32.4,3/8,3/8 CU/SC,-,-,-,-,-,Scattered clouds
+ARDEBIL,21/11/2021,09Z,14.0,42%,1011.2 Hpa,180º (S ),32.4,1/8,1/8 SC,AC,-,-,-,-,Few clouds
+ARDEBIL,21/11/2021,06Z,11.6,52%,1011.5 Hpa,180º (S ),25.2,1/8,-,1/8 AC,-,-,-,-,Few clouds
+ARDEBIL,21/11/2021,03Z,7.4,61%,1010.5 Hpa,210º (SW),43.2,3/8,-,2/8 AC,CI,-,-,5.2,Scattered clouds
+ARDEBIL,21/11/2021,00Z,7.0,57%,1009.1 Hpa,150º (SE),18.0,3/8,-,2/8 AC,CI,-,-,-,Scattered clouds
+BABULSAR,21/11/2021,21Z,11.6,94%,1021.8 Hpa,calm.,,6/8,2/8 ST,AC,-,-,-,-,"Cloudy, mist"
+BABULSAR,21/11/2021,18Z,12.8,93%,1021.3 Hpa,calm.,,6/8,6/8 ST,-,-,-,-,-,"Cloudy, mist"
+BABULSAR,21/11/2021,15Z,13.8,93%,1019.3 Hpa,calm.,,3/8,3/8 ST,-,-,-,17.0,-,Scattered clouds
+BABULSAR,21/11/2021,12Z,16.4,80%,1016.6 Hpa,calm.,,8/8,4/8 ST,AC,,-,-,-,Overcast
+BABULSAR,21/11/2021,09Z,16.4,71%,1014.3 Hpa,calm.,,8/8,-,8/8 AC,,-,-,-,Overcast
+BABULSAR,21/11/2021,06Z,11.0,80%,1013.1 Hpa,calm.,,7/8,-,-,CI,-,-,-,Cloudy
+BABULSAR,21/11/2021,03Z,7.0,85%,1010.3 Hpa,calm.,,1/8,-,-,CI,-,-,6.4,Few clouds
+BABULSAR,21/11/2021,00Z,7.4,91%,1010.5 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BAFT,21/11/2021,21Z,7.8,70%,1017.1 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BAFT,21/11/2021,18Z,9.6,48%,1017.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BAFT,21/11/2021,15Z,12.0,39%,1018.0 Hpa,calm.,,2/8,1/8 SC,AC,-,-,16.8,-,Few clouds
+BAFT,21/11/2021,12Z,16.4,29%,1014.2 Hpa,270º (W ),14.4,3/8,3/8 CU,-,-,-,-,-,Scattered clouds
+BAFT,21/11/2021,09Z,16.0,33%,1014.9 Hpa,330º (NW),21.6,4/8,4/8 CU,-,-,-,-,-,Scattered clouds
+BAFT,21/11/2021,06Z,12.8,31%,1017.6 Hpa,calm.,,2/8,-,2/8 AC,-,-,-,-,Few clouds
+BAFT,21/11/2021,03Z,5.2,57%,1018.0 Hpa,calm.,,2/8,-,2/8 AC,-,-,-,3.0,Few clouds
+BAFT,21/11/2021,00Z,5.0,72%,1014.1 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BAM,21/11/2021,21Z,15.8,27%,1017.0 Hpa,280º (W ),7.2,0/8,-,-,-,-,-,-,Clear
+BAM,21/11/2021,18Z,15.7,26%,1017.2 Hpa,280º (W ),7.2,0/8,-,-,-,-,-,-,Clear
+BAM,21/11/2021,15Z,17.7,28%,1017.0 Hpa,calm.,,0/8,-,-,-,-,24.6,-,Clear
+BAM,21/11/2021,12Z,24.0,14%,1013.8 Hpa,100º (E ),7.2,0/8,-,-,-,-,-,-,Clear
+BAM,21/11/2021,09Z,23.1,15%,1014.9 Hpa,110º (E ),7.2,0/8,-,-,-,-,-,-,Clear
+BAM,21/11/2021,06Z,19.7,15%,1017.7 Hpa,150º (SE),7.2,0/8,-,-,-,-,-,-,Clear
+BAM,21/11/2021,03Z,10.0,39%,1017.7 Hpa,260º (W ),7.2,0/8,-,-,-,-,-,9.6,Clear
+BAM,21/11/2021,00Z,12.0,31%,1014.4 Hpa,270º (W ),10.8,0/8,-,-,-,-,-,-,Clear
+BANDAR LENGEH,21/11/2021,21Z,22.2,63%,1016.4 Hpa,020º (N),10.8,0/8,-,-,-,-,-,-,"Clear, haze"
+BANDAR LENGEH,21/11/2021,18Z,22.3,79%,1016.5 Hpa,040º (NE),7.2,0/8,-,-,-,-,-,-,"Clear, haze"
+BANDAR LENGEH,21/11/2021,15Z,24.1,73%,1015.1 Hpa,calm.,,0/8,-,-,-,-,28.6,-,"Clear, haze"
+BANDAR LENGEH,21/11/2021,12Z,27.3,55%,1013.3 Hpa,120º (SE),14.4,0/8,-,-,-,-,-,-,"Clear, haze"
+BANDAR LENGEH,21/11/2021,09Z,27.8,48%,1014.6 Hpa,100º (E ),18.0,0/8,-,-,-,-,-,-,"Clear, haze"
+BANDAR LENGEH,21/11/2021,06Z,27.1,49%,1016.0 Hpa,090º (E ),18.0,0/8,-,-,-,-,-,-,"Clear, haze"
+BANDAR LENGEH,21/11/2021,03Z,20.2,40%,1014.4 Hpa,040º (NE),10.8,0/8,-,-,-,-,-,18.6,"Clear, haze"
+BANDAR LENGEH,21/11/2021,00Z,20.5,49%,1012.2 Hpa,070º (E ),10.8,0/8,-,-,-,-,-,-,"Clear, haze"
+BANDAR-E-DAYYER,21/11/2021,21Z,24.6,58%,1016.6 Hpa,350º (N ),7.2,0/8,-,-,-,-,-,-,Clear
+BANDAR-E-DAYYER,21/11/2021,18Z,25.9,54%,1016.7 Hpa,060º (NE),7.2,0/8,-,-,-,-,-,-,Clear
+BANDAR-E-DAYYER,21/11/2021,15Z,28.0,52%,1015.4 Hpa,150º (SE),21.6,0/8,-,-,-,-,30.2,-,Clear
+BANDAR-E-DAYYER,21/11/2021,12Z,29.1,54%,1014.0 Hpa,170º (S ),21.6,2/8,2/8 SC,-,-,-,-,-,"Few clouds, haze"
+BANDAR-E-DAYYER,21/11/2021,09Z,29.9,42%,1014.7 Hpa,160º (S ),25.2,2/8,2/8 SC,-,-,-,-,-,"Few clouds, haze"
+BANDAR-E-DAYYER,21/11/2021,06Z,28.6,109%,1016.0 Hpa,140º (SE),10.8,2/8,2/8 SC,-,-,-,-,-,"Few clouds, haze"
+BANDAR-E-DAYYER,21/11/2021,03Z,23.1,63%,1014.1 Hpa,050º (NE),7.2,4/8,-,4/8 AC,-,-,-,22.9,Scattered clouds
+BANDAR-E-DAYYER,21/11/2021,00Z,23.7,65%,1012.1 Hpa,350º (N ),7.2,4/8,-,4/8 AC,-,-,-,-,Scattered clouds
+BANDARABBASS,21/11/2021,21Z,20.1,57%,1017.5 Hpa,360º (N ),10.8,0/8,-,-,-,-,-,-,Clear
+BANDARABBASS,21/11/2021,18Z,20.1,60%,1017.4 Hpa,020º (N),10.8,0/8,-,-,-,-,-,-,Clear
+BANDARABBASS,21/11/2021,15Z,24.1,55%,1015.1 Hpa,250º (W ),10.8,0/8,-,-,-,-,31.0,-,Clear
+BANDARABBASS,21/11/2021,12Z,29.6,25%,1013.3 Hpa,220º (SW),14.4,0/8,-,-,-,-,-,-,Clear
+BANDARABBASS,21/11/2021,09Z,30.5,19%,1014.9 Hpa,190º (S ),14.4,0/8,-,-,-,-,-,-,Clear
+BANDARABBASS,21/11/2021,06Z,27.8,24%,1016.9 Hpa,020º (N),7.2,0/8,-,-,-,-,-,-,Clear
+BANDARABBASS,21/11/2021,03Z,17.8,40%,1014.7 Hpa,330º (NW),10.8,0/8,-,-,-,-,-,15.7,Clear
+BANDARABBASS,21/11/2021,00Z,16.9,54%,1013.2 Hpa,010º (N),7.2,0/8,-,-,-,-,-,-,Clear
+BIRJAND,21/11/2021,21Z,5.7,36%,1019.6 Hpa,120º (SE),10.8,1/8,-,-,CI,-,-,-,Few clouds
+BIRJAND,21/11/2021,18Z,7.8,33%,1019.5 Hpa,090º (E ),10.8,0/8,-,-,-,-,-,-,Clear
+BIRJAND,21/11/2021,15Z,13.1,21%,1021.6 Hpa,290º (W ),7.2,0/8,-,-,-,-,21.5,-,Clear
+BIRJAND,21/11/2021,12Z,20.1,16%,1016.9 Hpa,240º (SW),14.4,0/8,-,-,-,-,-,-,Clear
+BIRJAND,21/11/2021,09Z,20.6,14%,1017.4 Hpa,300º (NW),7.2,0/8,-,-,-,-,-,-,Clear
+BIRJAND,21/11/2021,06Z,15.8,20%,1020.1 Hpa,110º (E ),7.2,0/8,-,-,-,-,-,-,Clear
+BIRJAND,21/11/2021,03Z,-0.6,47%,1021.7 Hpa,110º (E ),10.8,0/8,-,-,-,-,-,-1.6,Clear
+BIRJAND,21/11/2021,00Z,0.2,43%,1018.3 Hpa,120º (SE),10.8,0/8,-,-,-,-,-,-,Clear
+BOJNOURD,21/11/2021,21Z,4.0,55%,1023.0 Hpa,calm.,,2/8,-,-,CI,-,-,-,Few clouds
+BOJNOURD,21/11/2021,18Z,6.8,45%,1022.2 Hpa,calm.,,3/8,-,-,CC,-,-,-,Scattered clouds
+BOJNOURD,21/11/2021,15Z,7.8,46%,1021.7 Hpa,270º (W ),10.8,4/8,-,1/8 AC,CI,-,16.8,-,Scattered clouds
+BOJNOURD,21/11/2021,12Z,14.8,24%,1017.6 Hpa,170º (S ),14.4,6/8,1/8 SC,AC,CI,-,-,-,Cloudy
+BOJNOURD,21/11/2021,09Z,15.4,24%,1015.9 Hpa,030º (NE),7.2,3/8,-,1/8 AC,CS,-,-,-,Scattered clouds
+BOJNOURD,21/11/2021,06Z,7.8,39%,1020.0 Hpa,Vble.,,4/8,-,-,CI,-,-,-,Scattered clouds
+BOJNOURD,21/11/2021,03Z,0.3,60%,1019.4 Hpa,calm.,,1/8,-,1/8 AC,-,-,-,-7.9,Few clouds
+BOJNOURD,21/11/2021,00Z,0.3,55%,1016.4 Hpa,Vble.,,0/8,-,-,-,-,-,-,Clear
+BUSHEHR (AIRPORT),21/11/2021,21Z,24.8,62%,1015.3 Hpa,130º (SE),14.4,8/8,4/8 SC,AC,,-,-,-,"Overcast, rain"
+BUSHEHR (AIRPORT),21/11/2021,18Z,26.3,57%,1014.7 Hpa,160º (S ),32.4,3/8,3/8 SC,-,-,Tr(6h),-,-,Scattered clouds
+BUSHEHR (AIRPORT),21/11/2021,15Z,26.8,50%,1012.9 Hpa,160º (S ),28.8,5/8,5/8 SC,-,-,-,30.2,-,"Cloudy, rain"
+BUSHEHR (AIRPORT),21/11/2021,12Z,27.9,49%,1012.5 Hpa,180º (S ),21.6,6/8,6/8 CB,-,-,Tr(6h),-,-,Cloudy
+BUSHEHR (AIRPORT),21/11/2021,09Z,29.9,43%,1013.0 Hpa,160º (S ),28.8,4/8,4/8 SC,-,-,-,-,-,"Scattered clouds, haze"
+BUSHEHR (AIRPORT),21/11/2021,06Z,26.7,53%,1014.2 Hpa,140º (SE),18.0,5/8,5/8 CB,-,-,0.2(6h),-,-,"Cloudy, haze"
+BUSHEHR (AIRPORT),21/11/2021,03Z,21.8,67%,1012.3 Hpa,110º (E ),18.0,6/8,6/8 CB,AC,-,-,-,21.0,"Cloudy, thunderstorms"
+BUSHEHR (AIRPORT),21/11/2021,00Z,21.9,64%,1011.2 Hpa,090º (E ),7.2,4/8,4/8 CB,-,-,0.2(6h),-,-,"Scattered clouds, haze"
+CHAHBAHAR,21/11/2021,21Z,23.2,44%,1015.8 Hpa,330º (NW),14.4,0/8,-,-,-,-,-,-,Clear
+CHAHBAHAR,21/11/2021,18Z,23.6,58%,1016.4 Hpa,330º (NW),14.4,0/8,-,-,-,-,-,-,Clear
+CHAHBAHAR,21/11/2021,15Z,24.8,1519%,1014.6 Hpa,290º (W ),10.8,0/8,-,-,-,-,30.8,-,Clear
+CHAHBAHAR,21/11/2021,12Z,27.9,34%,1011.1 Hpa,220º (SW),10.8,0/8,-,-,-,-,-,-,Clear
+CHAHBAHAR,21/11/2021,09Z,28.9,1771%,1011.8 Hpa,160º (S ),14.4,0/8,-,-,-,-,-,-,Clear
+CHAHBAHAR,21/11/2021,06Z,28.1,1856%,1014.8 Hpa,050º (NE),18.0,0/8,-,-,-,-,-,-,Clear
+CHAHBAHAR,21/11/2021,03Z,20.0,26%,1015.2 Hpa,calm.,,0/8,-,-,-,-,-,18.2,Clear
+CHAHBAHAR,21/11/2021,00Z,19.2,62%,1013.3 Hpa,060º (NE),7.2,0/8,-,-,-,-,-,-,Clear
+ESFAHAN,21/11/2021,21Z,7.3,84%,1019.9 Hpa,350º (N ),3.6,6/8,2/8 SC,AC,-,-,-,-,Cloudy
+ESFAHAN,21/11/2021,18Z,10.0,63%,1021.3 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, haze"
+ESFAHAN,21/11/2021,15Z,12.7,53%,1019.3 Hpa,320º (NW),3.6,8/8,3/8 SC,AC,,-,16.9,-,"Overcast, haze"
+ESFAHAN,21/11/2021,12Z,14.5,45%,1016.1 Hpa,290º (W ),3.6,5/8,2/8 SC,AC,-,-,-,-,"Cloudy, haze"
+ESFAHAN,21/11/2021,09Z,13.2,52%,1016.3 Hpa,340º (N ),3.6,5/8,2/8 SC,AC,-,-,-,-,"Cloudy, haze"
+ESFAHAN,21/11/2021,06Z,7.2,77%,1020.3 Hpa,100º (E ),3.6,8/8,3/8 SC,AC,,0.1(6h),-,-,"Overcast, haze"
+ESFAHAN,21/11/2021,03Z,3.6,89%,1018.3 Hpa,340º (N ),3.6,5/8,1/8 SC,AC,-,-,-,3.4,"Cloudy, mist"
+ESFAHAN,21/11/2021,00Z,5.1,83%,1015.2 Hpa,020º (N),3.6,1/8,1/8 SC,-,-,-,-,-,"Few clouds, mist"
+FASA,21/11/2021,21Z,10.4,60%,1019.5 Hpa,320º (NW),7.2,0/8,-,-,-,-,-,-,Clear
+FASA,21/11/2021,18Z,14.0,48%,1018.7 Hpa,010º (N),7.2,0/8,-,-,-,-,-,-,Clear
+FASA,21/11/2021,15Z,16.6,44%,1018.0 Hpa,300º (NW),7.2,0/8,-,-,-,-,21.8,-,"Clear, haze"
+FASA,21/11/2021,12Z,21.6,33%,1014.6 Hpa,210º (SW),14.4,0/8,-,-,-,-,-,-,"Clear, haze"
+FASA,21/11/2021,09Z,20.2,36%,1016.3 Hpa,210º (SW),10.8,0/8,-,-,-,-,-,-,"Clear, haze"
+FASA,21/11/2021,06Z,17.2,51%,1017.9 Hpa,calm.,,0/8,-,-,-,Tr(24h),-,-,"Clear, haze"
+FASA,21/11/2021,03Z,9.2,82%,1016.9 Hpa,360º (N ),10.8,3/8,2/8 SC,AC,-,-,-,9.2,"Scattered clouds, mist"
+FASA,21/11/2021,00Z,10.8,72%,1014.3 Hpa,060º (NE),7.2,7/8,5/8 CB,AC,-,Tr(6h),-,-,"Cloudy, haze"
+FERDOUS,21/11/2021,21Z,10.1,26%,1019.6 Hpa,calm.,,7/8,3/8 SC,AC,CI,-,-,-,Cloudy
+FERDOUS,21/11/2021,18Z,10.1,24%,1020.0 Hpa,calm.,,7/8,1/8 SC,AC,CI,-,-,-,Cloudy
+FERDOUS,21/11/2021,15Z,12.4,21%,1021.1 Hpa,calm.,,4/8,1/8 SC,AC,CI,-,20.3,-,Scattered clouds
+FERDOUS,21/11/2021,12Z,19.4,16%,1016.8 Hpa,230º (SW),10.8,1/8,-,-,CI,-,-,-,Few clouds
+FERDOUS,21/11/2021,09Z,18.5,15%,1017.2 Hpa,140º (SE),10.8,0/8,-,-,-,-,-,-,Clear
+FERDOUS,21/11/2021,06Z,14.9,15%,1019.6 Hpa,150º (SE),10.8,0/8,-,-,-,-,-,-,Clear
+FERDOUS,21/11/2021,03Z,3.9,29%,1019.9 Hpa,calm.,,0/8,-,-,-,-,-,2.4,Clear
+GACH SARAN DU GUNBADAN,21/11/2021,21Z,18.1,57%,1017.9 Hpa,140º (SE),10.8,8/8,5/8 CB,AC,,-,-,-,Overcast
+GACH SARAN DU GUNBADAN,21/11/2021,18Z,18.6,56%,1017.8 Hpa,130º (SE),10.8,7/8,5/8 CB,AC,-,0.4(6h),-,-,Cloudy
+GACH SARAN DU GUNBADAN,21/11/2021,15Z,21.1,42%,1015.5 Hpa,130º (SE),14.4,7/8,5/8 CB,AC,-,-,23.8,-,Cloudy
+GACH SARAN DU GUNBADAN,21/11/2021,12Z,22.1,37%,1014.3 Hpa,110º (E ),10.8,7/8,4/8 CB,AC,-,-,-,-,Cloudy
+GACH SARAN DU GUNBADAN,21/11/2021,09Z,23.6,33%,1014.9 Hpa,120º (SE),14.4,6/8,3/8 CB,AC,-,-,-,-,Cloudy
+GACH SARAN DU GUNBADAN,21/11/2021,06Z,19.0,55%,1015.9 Hpa,130º (SE),10.8,7/8,3/8 CB,AC,-,-,-,-,Cloudy
+GACH SARAN DU GUNBADAN,21/11/2021,03Z,16.6,61%,1015.8 Hpa,calm.,,6/8,3/8 SC,AC,-,-,-,16.2,Cloudy
+GACH SARAN DU GUNBADAN,21/11/2021,00Z,17.5,48%,1014.6 Hpa,calm.,,6/8,3/8 SC,AC,-,-,-,-,Cloudy
+GHARAKHIL,21/11/2021,21Z,11.4,94%,1022.8 Hpa,calm.,,7/8,-,7/8 AC,-,-,-,-,Cloudy
+GHARAKHIL,21/11/2021,18Z,9.6,94%,1022.3 Hpa,calm.,,6/8,-,6/8 AC,-,-,-,-,Cloudy
+GHARAKHIL,21/11/2021,15Z,13.2,93%,1019.8 Hpa,calm.,,7/8,-,7/8 AC,-,-,16.6,-,Cloudy
+GHARAKHIL,21/11/2021,12Z,16.2,77%,1017.0 Hpa,calm.,,8/8,4/8 SC,AC,,-,-,-,"Overcast, haze"
+GHARAKHIL,21/11/2021,09Z,16.0,71%,1014.8 Hpa,260º (W ),10.8,8/8,-,8/8 AC,,-,-,-,"Overcast, haze"
+GHARAKHIL,21/11/2021,06Z,11.2,80%,1012.8 Hpa,calm.,,8/8,-,-,CS,-,-,-,Overcast
+GHARAKHIL,21/11/2021,03Z,3.6,93%,1010.8 Hpa,220º (SW),7.2,4/8,-,-,CI,-,-,2.2,Scattered clouds
+GHARAKHIL,21/11/2021,00Z,2.4,96%,1010.4 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+GHAZVIN,21/11/2021,21Z,5.4,88%,1021.3 Hpa,030º (NE),7.2,7/8,1/8 SC,AC,-,-,-,-,"Cloudy, mist"
+GHAZVIN,21/11/2021,18Z,4.9,87%,1021.8 Hpa,calm.,,2/8,-,2/8 AC,-,-,-,-,"Few clouds, mist"
+GHAZVIN,21/11/2021,15Z,7.2,73%,1021.0 Hpa,110º (E ),7.2,7/8,2/8 SC,AC,-,-,9.6,-,"Cloudy, haze"
+GHAZVIN,21/11/2021,12Z,9.1,63%,1018.4 Hpa,150º (SE),10.8,7/8,3/8 SC,AC,-,-,-,-,"Cloudy, haze"
+GHAZVIN,21/11/2021,09Z,8.1,66%,1018.6 Hpa,130º (SE),7.2,8/8,-,8/8 AC,,-,-,-,"Overcast, haze"
+GHAZVIN,21/11/2021,06Z,6.9,67%,1019.1 Hpa,130º (SE),10.8,8/8,-,8/8 AC,,-,-,-,"Overcast, haze"
+GHAZVIN,21/11/2021,03Z,4.5,79%,1018.2 Hpa,060º (NE),7.2,7/8,-,3/8 AC,CI,-,-,4.0,"Cloudy, haze"
+GHAZVIN,21/11/2021,00Z,5.3,74%,1015.8 Hpa,080º (E ),3.6,7/8,-,5/8 AC,CI,-,-,-,"Cloudy, haze"
+GHUCHAN,21/11/2021,21Z,6.8,60%,1021.1 Hpa,calm.,,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+GHUCHAN,21/11/2021,18Z,8.2,52%,1020.8 Hpa,calm.,,4/8,4/8 SC,-,-,-,-,-,Scattered clouds
+GHUCHAN,21/11/2021,15Z,11.2,40%,1021.1 Hpa,330º (NW),7.2,5/8,-,-,CI,-,14.9,-,Cloudy
+GHUCHAN,21/11/2021,12Z,13.6,35%,1018.5 Hpa,220º (SW),18.0,3/8,-,-,CI,-,-,-,Scattered clouds
+GHUCHAN,21/11/2021,09Z,14.2,36%,1018.9 Hpa,220º (SW),21.6,1/8,-,-,CI,-,-,-,Few clouds
+GHUCHAN,21/11/2021,06Z,8.5,54%,1020.5 Hpa,140º (SE),10.8,1/8,-,-,CI,-,-,-,Few clouds
+GHUCHAN,21/11/2021,03Z,-1.6,72%,1019.7 Hpa,080º (E ),14.4,1/8,1/8 SC,-,-,-,-,-4.0,Few clouds
+GHUCHAN,21/11/2021,00Z,-1.1,68%,1016.9 Hpa,210º (SW),10.8,0/8,-,-,-,-,-,-,Clear
+GORGAN,21/11/2021,21Z,7.6,93%,1023.9 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, mist"
+GORGAN,21/11/2021,18Z,9.4,90%,1023.7 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, mist"
+GORGAN,21/11/2021,15Z,11.6,85%,1022.1 Hpa,210º (SW),28.8,5/8,-,2/8 AC,CS,-,15.7,-,"Cloudy, mist"
+GORGAN,21/11/2021,12Z,15.3,72%,1017.8 Hpa,240º (SW),32.4,8/8,-,2/8 AC,CS,-,-,-,"Overcast, haze"
+GORGAN,21/11/2021,09Z,14.4,66%,1015.0 Hpa,240º (SW),39.6,8/8,-,-,CS,-,-,-,"Overcast, haze"
+GORGAN,21/11/2021,06Z,11.2,74%,1013.9 Hpa,calm.,,5/8,-,-,CI,-,-,-,"Cloudy, haze"
+GORGAN,21/11/2021,03Z,3.6,91%,1012.4 Hpa,070º (E ),7.2,6/8,-,-,CI,-,-,1.9,Cloudy
+GORGAN,21/11/2021,00Z,2.8,91%,1013.0 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+HAMEDAN,21/11/2021,21Z,3.7,98%,1019.0 Hpa,320º (NW),7.2,6/8,4/8 CB,AC,-,-,-,-,"Cloudy, mist"
+HAMEDAN,21/11/2021,18Z,4.4,95%,1018.7 Hpa,100º (E ),7.2,6/8,4/8 CB,AC,-,-,-,-,Cloudy
+HAMEDAN,21/11/2021,15Z,6.4,87%,1017.6 Hpa,120º (SE),14.4,6/8,4/8 CB,AC,-,-,8.8,-,Cloudy
+HAMEDAN,21/11/2021,12Z,8.4,80%,1015.6 Hpa,120º (SE),14.4,7/8,5/8 CB,AC,-,1.0(6h),-,-,Cloudy
+HAMEDAN,21/11/2021,09Z,6.1,88%,1016.5 Hpa,120º (SE),7.2,8/8,5/8 CB,AC,,-,-,-,"Overcast, rain"
+HAMEDAN,21/11/2021,06Z,5.9,84%,1016.2 Hpa,130º (SE),21.6,8/8,5/8 CB,AC,,1.0(6h),-,-,Overcast
+HAMEDAN,21/11/2021,03Z,2.9,98%,1016.2 Hpa,120º (SE),3.6,8/8,5/8 CB,AC,,-,-,2.2,Overcast
+HAMEDAN,21/11/2021,00Z,3.1,95%,1013.6 Hpa,060º (NE),7.2,8/8,5/8 CB,AC,,0.4(6h),-,-,Overcast
+ILAM,21/11/2021,21Z,8.7,86%,1017.2 Hpa,090º (E ),3.6,2/8,2/8 CU,-,-,-,-,-,"Few clouds, mist"
+ILAM,21/11/2021,18Z,8.9,87%,1017.7 Hpa,140º (SE),7.2,1/8,1/8 CU,-,-,-,-,-,"Few clouds, mist"
+ILAM,21/11/2021,15Z,10.4,80%,1015.9 Hpa,140º (SE),7.2,7/8,4/8 CB,AC,-,-,14.3,-,"Cloudy, mist"
+ILAM,21/11/2021,12Z,12.3,72%,1014.2 Hpa,140º (SE),7.2,8/8,4/8 CB,AC,,-,-,-,"Overcast, haze"
+ILAM,21/11/2021,09Z,13.7,67%,1014.0 Hpa,130º (SE),14.4,4/8,1/8 CU,AC,-,-,-,-,Scattered clouds
+ILAM,21/11/2021,06Z,9.8,83%,1014.2 Hpa,130º (SE),14.4,7/8,5/8 CB,AC,-,0.4(6h),-,-,"Cloudy, mist"
+ILAM,21/11/2021,03Z,8.5,84%,1013.4 Hpa,110º (E ),7.2,7/8,4/8 CB,AC,-,-,-,8.2,"Cloudy, mist"
+ILAM,21/11/2021,00Z,8.7,84%,1012.7 Hpa,calm.,,7/8,4/8 CB,AC,-,2.0(6h),-,-,"Cloudy, mist"
+IRANSHAHR,21/11/2021,21Z,16.0,20%,1018.1 Hpa,010º (N),10.8,0/8,-,-,-,-,-,-,Clear
+IRANSHAHR,21/11/2021,18Z,17.6,18%,1018.5 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+IRANSHAHR,21/11/2021,15Z,22.4,17%,1017.3 Hpa,calm.,,0/8,-,-,-,-,29.4,-,Clear
+IRANSHAHR,21/11/2021,12Z,28.0,11%,1014.3 Hpa,280º (W ),10.8,0/8,-,-,-,-,-,-,Clear
+IRANSHAHR,21/11/2021,09Z,27.8,11%,1015.2 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+IRANSHAHR,21/11/2021,06Z,22.3,12%,1018.7 Hpa,080º (E ),14.4,0/8,-,-,-,-,-,-,Clear
+IRANSHAHR,21/11/2021,03Z,11.8,20%,1018.4 Hpa,calm.,,0/8,-,-,-,-,-,9.7,Clear
+IRANSHAHR,21/11/2021,00Z,12.9,20%,1015.9 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+JASK,21/11/2021,21Z,24.0,54%,1016.6 Hpa,030º (NE),7.2,0/8,-,-,-,-,-,-,Clear
+JASK,21/11/2021,18Z,23.6,75%,1017.0 Hpa,030º (NE),7.2,0/8,-,-,-,-,-,-,Clear
+JASK,21/11/2021,15Z,25.3,64%,1015.5 Hpa,280º (W ),7.2,0/8,-,-,-,-,27.5,-,Clear
+JASK,21/11/2021,12Z,26.8,120%,1014.1 Hpa,260º (W ),10.8,0/8,-,-,-,-,-,-,Clear
+JASK,21/11/2021,09Z,27.0,53%,1015.1 Hpa,230º (SW),7.2,0/8,-,-,-,-,-,-,Clear
+JASK,21/11/2021,06Z,26.3,123%,1016.6 Hpa,Vble.,,0/8,-,-,-,-,-,-,"Clear, haze"
+JASK,21/11/2021,03Z,21.4,61%,1014.7 Hpa,050º (NE),7.2,0/8,-,-,-,-,-,21.1,"Clear, haze"
+JASK,21/11/2021,00Z,21.9,63%,1013.2 Hpa,040º (NE),7.2,0/8,-,-,-,-,-,-,"Clear, haze"
+KAHNUJ,21/11/2021,21Z,12.0,36%,1014.1 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KAHNUJ,21/11/2021,18Z,17.1,28%,1014.2 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KAHNUJ,21/11/2021,15Z,21.3,23%,1013.0 Hpa,calm.,,0/8,-,-,-,-,27.9,-,Clear
+KAHNUJ,21/11/2021,12Z,27.9,16%,1010.6 Hpa,080º (E ),7.2,0/8,-,-,-,-,-,-,Clear
+KAHNUJ,21/11/2021,09Z,25.5,19%,1012.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KAHNUJ,21/11/2021,06Z,19.0,23%,1014.6 Hpa,040º (NE),10.8,0/8,-,-,-,-,-,-,Clear
+KAHNUJ,21/11/2021,03Z,10.3,34%,1012.6 Hpa,calm.,,0/8,-,-,-,-,-,10.0,Clear
+KAHNUJ,21/11/2021,00Z,10.2,33%,1010.9 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KASHAN,21/11/2021,21Z,5.6,100%,1025.0 Hpa,310º (NW),3.6,3/8,-,3/8 AC,-,-,-,-,"Scattered clouds, mist"
+KASHAN,21/11/2021,18Z,7.0,100%,1024.0 Hpa,140º (SE),3.6,4/8,-,4/8 AC,-,0.8(6h),-,-,"Scattered clouds, mist"
+KASHAN,21/11/2021,15Z,7.3,100%,1023.4 Hpa,calm.,,8/8,4/8 SC,AC,,-,10.4,-,"Overcast, mist"
+KASHAN,21/11/2021,12Z,10.0,97%,1022.6 Hpa,calm.,,8/8,4/8 SC,AC,,4.0(6h),-,-,"Overcast, rain"
+KASHAN,21/11/2021,09Z,8.3,83%,1022.0 Hpa,310º (NW),7.2,8/8,4/8 SC,AC,,-,-,-,"Overcast, rain"
+KASHAN,21/11/2021,06Z,9.2,59%,1021.5 Hpa,250º (W ),7.2,8/8,4/8 SC,AC,,-,-,-,"Overcast, haze"
+KASHAN,21/11/2021,03Z,7.3,74%,1020.2 Hpa,calm.,,0/8,-,-,-,-,-,6.2,Clear
+KASHAN,21/11/2021,00Z,6.9,75%,1018.5 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KASHMAR,21/11/2021,21Z,11.3,47%,1022.6 Hpa,calm.,,4/8,4/8 SC,-,-,-,-,-,"Scattered clouds, rain"
+KASHMAR,21/11/2021,18Z,10.8,28%,1022.3 Hpa,calm.,,1/8,1/8 SC,-,-,-,-,-,Few clouds
+KASHMAR,21/11/2021,15Z,9.8,29%,1022.5 Hpa,calm.,,1/8,1/8 SC,-,-,-,17.9,-,Few clouds
+KASHMAR,21/11/2021,12Z,17.1,17%,1019.1 Hpa,220º (SW),7.2,1/8,1/8 SC,-,-,-,-,-,Few clouds
+KASHMAR,21/11/2021,09Z,15.6,19%,1019.7 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KASHMAR,21/11/2021,06Z,12.3,26%,1022.2 Hpa,130º (SE),14.4,0/8,-,-,-,-,-,-,Clear
+KASHMAR,21/11/2021,03Z,5.7,35%,1021.7 Hpa,010º (N),7.2,0/8,-,-,-,-,-,4.2,Clear
+KASHMAR,21/11/2021,00Z,5.9,35%,1019.1 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KERMAN,21/11/2021,21Z,8.8,52%,1017.8 Hpa,120º (SE),7.2,0/8,-,-,-,-,-,-,Clear
+KERMAN,21/11/2021,18Z,10.9,49%,1017.9 Hpa,110º (E ),7.2,0/8,-,-,-,-,-,-,Clear
+KERMAN,21/11/2021,15Z,14.9,38%,1018.4 Hpa,240º (SW),7.2,1/8,-,1/8 AC,-,-,20.9,-,Few clouds
+KERMAN,21/11/2021,12Z,20.7,28%,1013.9 Hpa,240º (SW),18.0,1/8,1/8 CU,-,-,-,-,-,Few clouds
+KERMAN,21/11/2021,09Z,19.4,28%,1015.0 Hpa,220º (SW),14.4,3/8,1/8 CU,AC,-,-,-,-,Scattered clouds
+KERMAN,21/11/2021,06Z,14.0,35%,1018.0 Hpa,350º (N ),7.2,1/8,1/8 CU,-,-,-,-,-,Few clouds
+KERMAN,21/11/2021,03Z,2.0,72%,1019.6 Hpa,140º (SE),7.2,1/8,1/8 CU,-,-,-,-,1.5,Few clouds
+KERMAN,21/11/2021,00Z,3.0,64%,1015.8 Hpa,130º (SE),7.2,0/8,-,-,-,-,-,-,Clear
+KERMANSHAH,21/11/2021,21Z,8.6,79%,1017.6 Hpa,120º (SE),14.4,5/8,5/8 SC,-,-,-,-,-,Cloudy
+KERMANSHAH,21/11/2021,18Z,9.6,74%,1017.5 Hpa,120º (SE),10.8,5/8,4/8 SC,AC,-,-,-,-,Cloudy
+KERMANSHAH,21/11/2021,15Z,9.8,76%,1016.4 Hpa,130º (SE),18.0,6/8,2/8 CB,AC,CS,-,13.1,-,Cloudy
+KERMANSHAH,21/11/2021,12Z,12.9,63%,1014.4 Hpa,130º (SE),25.2,7/8,3/8 CB,AC,-,0.2(6h),-,-,Cloudy
+KERMANSHAH,21/11/2021,09Z,10.7,76%,1015.1 Hpa,120º (SE),21.6,8/8,4/8 CB,AC,,-,-,-,"Overcast, distant precipitation"
+KERMANSHAH,21/11/2021,06Z,9.4,84%,1015.2 Hpa,130º (SE),18.0,8/8,4/8 CB,AC,,1.0(6h),-,-,"Overcast, distant precipitation"
+KERMANSHAH,21/11/2021,03Z,8.1,89%,1015.1 Hpa,120º (SE),14.4,8/8,5/8 CB,AC,,-,-,8.1,"Overcast, rain"
+KERMANSHAH,21/11/2021,00Z,8.3,86%,1013.3 Hpa,calm.,,6/8,4/8 CB,AC,-,5.0(6h),-,-,"Cloudy, rain"
+KHARG,21/11/2021,15Z,26.6,79%,1013.5 Hpa,160º (S ),18.0,7/8,4/8 SC,AC,-,-,28.1,-,Cloudy
+KHARG,21/11/2021,12Z,27.2,73%,1012.3 Hpa,150º (SE),21.6,7/8,4/8 SC,AC,-,Tr(6h),-,-,Cloudy
+KHARG,21/11/2021,09Z,27.3,73%,1013.1 Hpa,160º (S ),39.6,6/8,4/8 SC,AC,-,-,-,-,Cloudy
+KHARG,21/11/2021,06Z,26.9,74%,1014.0 Hpa,150º (SE),25.2,4/8,4/8 SC,-,-,Tr(18h),-,-,Scattered clouds
+KHARG,21/11/2021,03Z,24.5,79%,1011.9 Hpa,130º (SE),21.6,3/8,3/8 SC,-,-,-,-,24.4,Scattered clouds
+KHOR,21/11/2021,21Z,11.0,39%,1020.5 Hpa,calm.,,2/8,-,1/8 AC,CI,-,-,-,Few clouds
+KHOR,21/11/2021,18Z,13.2,34%,1021.1 Hpa,270º (W ),7.2,6/8,3/8 SC,-,CI,-,-,-,Cloudy
+KHOR,21/11/2021,15Z,14.6,29%,1020.2 Hpa,calm.,,8/8,4/8 SC,-,CI,-,19.4,-,Overcast
+KHOR,21/11/2021,12Z,17.8,27%,1016.6 Hpa,060º (NE),7.2,7/8,-,-,CI,-,-,-,Cloudy
+KHOR,21/11/2021,09Z,17.0,28%,1017.5 Hpa,calm.,,3/8,-,1/8 AC,CI,-,-,-,Scattered clouds
+KHOR,21/11/2021,06Z,11.6,40%,1019.6 Hpa,calm.,,1/8,-,1/8 AC,-,-,-,-,Few clouds
+KHOR,21/11/2021,03Z,4.8,52%,1017.9 Hpa,250º (W ),7.2,1/8,-,1/8 AC,-,-,-,4.2,Few clouds
+KHOR,21/11/2021,00Z,6.9,46%,1016.1 Hpa,300º (NW),7.2,0/8,-,-,-,-,-,-,Clear
+KHORRAM ABAD,21/11/2021,21Z,11.7,82%,1017.1 Hpa,150º (SE),7.2,7/8,4/8 CB,AC,-,-,-,-,"Cloudy, rain showers"
+KHORRAM ABAD,21/11/2021,18Z,12.9,71%,1016.5 Hpa,110º (E ),10.8,7/8,3/8 SC,AC,-,-,-,-,Cloudy
+KHORRAM ABAD,21/11/2021,15Z,11.2,85%,1016.3 Hpa,360º (N ),3.6,6/8,-,4/8 AC,CI,-,14.2,-,Cloudy
+KHORRAM ABAD,21/11/2021,12Z,13.8,68%,1013.8 Hpa,130º (SE),10.8,8/8,1/8 SC,AC,,1.0(6h),-,-,Overcast
+KHORRAM ABAD,21/11/2021,09Z,11.1,71%,1015.8 Hpa,120º (SE),10.8,8/8,4/8 CB,AC,,-,-,-,Overcast
+KHORRAM ABAD,21/11/2021,06Z,8.3,89%,1017.8 Hpa,100º (E ),18.0,8/8,6/8 CB,AC,,12.0(6h),-,-,"Overcast, rain"
+KHORRAM ABAD,21/11/2021,03Z,9.0,93%,1014.6 Hpa,calm.,,8/8,5/8 CB,AC,,-,-,9.0,"Overcast, rain"
+KHORRAM ABAD,21/11/2021,00Z,9.3,90%,1013.2 Hpa,100º (E ),7.2,8/8,4/8 CB,AC,,2.0(6h),-,-,"Overcast, rain"
+KHOY,21/11/2021,21Z,3.0,80%,1020.4 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KHOY,21/11/2021,18Z,4.8,62%,1020.9 Hpa,calm.,,2/8,2/8 SC,-,-,-,-,-,Few clouds
+KHOY,21/11/2021,15Z,8.0,54%,1019.1 Hpa,calm.,,6/8,6/8 CU/SC,-,-,-,12.6,-,Cloudy
+KHOY,21/11/2021,12Z,12.6,37%,1015.9 Hpa,060º (NE),14.4,4/8,4/8 SC,-,-,-,-,-,Scattered clouds
+KHOY,21/11/2021,09Z,12.0,42%,1015.9 Hpa,calm.,,2/8,2/8 SC,-,-,-,-,-,Few clouds
+KHOY,21/11/2021,06Z,5.2,68%,1017.3 Hpa,calm.,,4/8,4/8 SC,-,-,-,-,-,Scattered clouds
+KHOY,21/11/2021,03Z,5.0,70%,1015.4 Hpa,calm.,,6/8,6/8 SC,-,-,-,-,5.0,Cloudy
+KHOY,21/11/2021,00Z,6.0,63%,1013.5 Hpa,calm.,,6/8,6/8 SC,-,-,-,-,-,Cloudy
+KISH ISLAND,21/11/2021,21Z,23.2,67%,1016.4 Hpa,080º (E ),7.2,0/8,-,-,-,-,-,-,"Clear, haze"
+KISH ISLAND,21/11/2021,18Z,25.2,57%,1016.3 Hpa,090º (E ),10.8,0/8,-,-,-,-,-,-,"Clear, haze"
+KISH ISLAND,21/11/2021,15Z,25.8,59%,1015.0 Hpa,110º (E ),10.8,0/8,-,-,-,-,29.8,-,"Clear, haze"
+KISH ISLAND,21/11/2021,12Z,27.8,57%,1013.4 Hpa,130º (SE),18.0,0/8,-,-,-,-,-,-,"Clear, haze"
+KISH ISLAND,21/11/2021,09Z,29.2,38%,1014.2 Hpa,130º (SE),18.0,0/8,-,-,-,-,-,-,"Clear, haze"
+KISH ISLAND,21/11/2021,06Z,27.6,34%,1015.6 Hpa,100º (E ),18.0,0/8,-,-,-,-,-,-,"Clear, haze"
+KISH ISLAND,21/11/2021,03Z,22.8,52%,1014.4 Hpa,070º (E ),7.2,0/8,-,-,-,-,-,22.6,Clear
+KISH ISLAND,21/11/2021,00Z,23.2,56%,1012.7 Hpa,090º (E ),7.2,0/8,-,-,-,-,-,-,Clear
+MAKKO,21/11/2021,21Z,3.0,84%,1021.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+MAKKO,21/11/2021,18Z,4.4,82%,1020.8 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+MAKKO,21/11/2021,15Z,6.0,78%,1019.8 Hpa,calm.,,2/8,2/8 SC,-,-,-,11.0,-,Few clouds
+MAKKO,21/11/2021,12Z,9.2,67%,1017.0 Hpa,100º (E ),14.4,3/8,3/8 CB,-,-,-,-,-,Scattered clouds
+MAKKO,21/11/2021,09Z,9.2,64%,1016.8 Hpa,150º (SE),7.2,4/8,4/8 SC,-,-,-,-,-,Scattered clouds
+MAKKO,21/11/2021,06Z,6.0,77%,1017.5 Hpa,250º (W ),7.2,4/8,4/8 SC,-,-,1.2(24h),-,-,Scattered clouds
+MAKKO,21/11/2021,03Z,3.8,88%,1015.7 Hpa,calm.,,6/8,6/8 SC,-,-,-,-,1.0,Cloudy
+MAKKO,21/11/2021,00Z,4.0,84%,1014.3 Hpa,calm.,,6/8,6/8 SC,-,-,0.2(6h),-,-,Cloudy
+MARAGHEH,21/11/2021,21Z,6.9,51%,1016.8 Hpa,070º (E ),18.0,1/8,-,-,CI,-,-,-,Few clouds
+MARAGHEH,21/11/2021,18Z,6.7,47%,1017.2 Hpa,090º (E ),10.8,1/8,-,1/8 AC,-,-,-,-,Few clouds
+MARAGHEH,21/11/2021,15Z,8.3,40%,1016.3 Hpa,030º (NE),7.2,0/8,-,-,-,-,17.0,-,Clear
+MARAGHEH,21/11/2021,12Z,16.4,19%,1012.6 Hpa,300º (NW),3.6,1/8,1/8 CU,-,-,-,-,-,Few clouds
+MARAGHEH,21/11/2021,09Z,15.0,24%,1013.0 Hpa,150º (SE),7.2,1/8,1/8 CU,-,-,-,-,-,Few clouds
+MARAGHEH,21/11/2021,06Z,11.1,49%,1014.3 Hpa,080º (E ),10.8,1/8,-,-,CI,0.2(24h),-,-,Few clouds
+MARAGHEH,21/11/2021,03Z,6.3,77%,1014.1 Hpa,090º (E ),7.2,3/8,1/8 SC,AC,CI,-,-,5.3,Scattered clouds
+MARAGHEH,21/11/2021,00Z,7.2,73%,1011.8 Hpa,100º (E ),10.8,7/8,2/8 SC,AC,-,0.2(6h),-,-,"Cloudy, rain"
+MARAVEH-TAPPEH,21/11/2021,21Z,8.3,67%,1023.5 Hpa,calm.,,5/8,-,5/8 AC,-,-,-,-,Cloudy
+MARAVEH-TAPPEH,21/11/2021,18Z,12.0,52%,1022.6 Hpa,250º (W ),7.2,6/8,-,6/8 AC,-,-,-,-,Cloudy
+MARAVEH-TAPPEH,21/11/2021,15Z,12.9,57%,1019.5 Hpa,340º (N ),14.4,4/8,-,1/8 AC,CS,-,23.7,-,Scattered clouds
+MARAVEH-TAPPEH,21/11/2021,12Z,19.7,34%,1014.9 Hpa,calm.,,8/8,-,-,CS,-,-,-,Overcast
+MARAVEH-TAPPEH,21/11/2021,09Z,23.3,24%,1013.0 Hpa,150º (SE),14.4,6/8,-,-,CI,-,-,-,Cloudy
+MARAVEH-TAPPEH,21/11/2021,06Z,17.6,29%,1014.7 Hpa,140º (SE),36.0,6/8,-,-,CI,-,-,-,Cloudy
+MARAVEH-TAPPEH,21/11/2021,03Z,15.3,31%,1014.6 Hpa,140º (SE),21.6,0/8,-,-,-,-,-,5.8,Clear
+MARAVEH-TAPPEH,21/11/2021,00Z,14.6,31%,1013.3 Hpa,160º (S ),28.8,0/8,-,-,-,-,-,-,Clear
+MASHHAD,21/11/2021,21Z,10.1,62%,1020.8 Hpa,210º (SW),7.2,5/8,-,5/8 AC,-,-,-,-,Cloudy
+MASHHAD,21/11/2021,18Z,11.0,51%,1021.0 Hpa,240º (SW),7.2,4/8,-,4/8 AC,-,-,-,-,Scattered clouds
+MASHHAD,21/11/2021,15Z,12.3,51%,1020.3 Hpa,220º (SW),7.2,2/8,-,1/8 AC,CI,-,19.2,-,Few clouds
+MASHHAD,21/11/2021,12Z,17.5,37%,1016.9 Hpa,110º (E ),7.2,3/8,1/8 SC,AC,CI,-,-,-,Scattered clouds
+MASHHAD,21/11/2021,09Z,17.5,36%,1016.8 Hpa,110º (E ),7.2,1/8,-,1/8 AC,CI,-,-,-,Few clouds
+MASHHAD,21/11/2021,06Z,10.4,52%,1019.4 Hpa,110º (E ),10.8,1/8,-,1/8 AC,-,-,-,-,Few clouds
+MASHHAD,21/11/2021,03Z,2.0,65%,1019.4 Hpa,150º (SE),7.2,0/8,-,-,-,-,-,1.0,Clear
+MASHHAD,21/11/2021,00Z,1.8,85%,1017.0 Hpa,250º (W ),7.2,0/8,-,-,-,-,-,-,Clear
+MASJED-SOLEYMAN,21/11/2021,21Z,20.5,60%,1015.7 Hpa,150º (SE),14.4,8/8,5/8 CB,AC,,-,-,-,Overcast
+MASJED-SOLEYMAN,21/11/2021,18Z,17.5,77%,1014.7 Hpa,350º (N ),3.6,5/8,5/8 SC,-,-,-,-,-,Cloudy
+MASJED-SOLEYMAN,21/11/2021,15Z,18.2,73%,1013.3 Hpa,340º (N ),7.2,8/8,5/8 CB,AC,,-,24.8,-,Overcast
+MASJED-SOLEYMAN,21/11/2021,12Z,18.2,73%,1011.2 Hpa,340º (N ),10.8,8/8,5/8 CB,AC,,-,-,-,Overcast
+MASJED-SOLEYMAN,21/11/2021,09Z,18.8,70%,1011.3 Hpa,330º (NW),10.8,8/8,5/8 CB,AC,,-,-,-,Overcast
+MASJED-SOLEYMAN,21/11/2021,06Z,16.2,72%,1011.8 Hpa,010º (N),7.2,8/8,7/8 CB,AC,,3.0(6h),-,-,"Overcast, thunderstorm"
+MASJED-SOLEYMAN,21/11/2021,03Z,19.1,46%,1009.6 Hpa,140º (SE),10.8,6/8,4/8 SC,AC,-,-,-,18.3,Cloudy
+MASJED-SOLEYMAN,21/11/2021,00Z,20.4,40%,1009.6 Hpa,120º (SE),3.6,8/8,6/8 CB,AC,,-,-,-,Overcast
+MEYANEH,21/11/2021,21Z,8.6,69%,1019.4 Hpa,calm.,,7/8,4/8 CB,AC,-,-,-,-,Cloudy
+MEYANEH,21/11/2021,18Z,8.2,74%,1020.6 Hpa,calm.,,6/8,1/8 SC,AC,-,-,-,-,Cloudy
+MEYANEH,21/11/2021,15Z,11.4,61%,1018.0 Hpa,calm.,,3/8,1/8 SC,-,CI,-,15.6,-,"Scattered clouds, haze"
+MEYANEH,21/11/2021,12Z,15.4,43%,1014.9 Hpa,270º (W ),14.4,5/8,1/8 CU,AC,CI,-,-,-,"Cloudy, haze"
+MEYANEH,21/11/2021,09Z,12.2,56%,1016.3 Hpa,120º (SE),7.2,2/8,-,-,CI,-,-,-,"Few clouds, haze"
+MEYANEH,21/11/2021,06Z,4.4,78%,1018.8 Hpa,calm.,,4/8,-,-,CI,-,-,-,"Scattered clouds, haze"
+MEYANEH,21/11/2021,03Z,0.8,70%,1017.3 Hpa,calm.,,7/8,-,3/8 AC,CI,-,-,-0.8,Cloudy
+MEYANEH,21/11/2021,00Z,4.0,78%,1015.3 Hpa,calm.,,7/8,-,2/8 AC,CI,-,-,-,Cloudy
+MOHABAD,21/11/2021,21Z,5.0,82%,1018.4 Hpa,calm.,,5/8,5/8 SC,-,-,-,-,-,Cloudy
+MOHABAD,21/11/2021,18Z,6.3,68%,1017.8 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+MOHABAD,21/11/2021,15Z,9.8,57%,1015.8 Hpa,calm.,,0/8,-,-,-,-,16.4,-,Clear
+MOHABAD,21/11/2021,12Z,14.6,34%,1013.2 Hpa,060º (NE),10.8,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+MOHABAD,21/11/2021,09Z,14.0,41%,1013.7 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+MOHABAD,21/11/2021,06Z,10.8,52%,1014.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+MOHABAD,21/11/2021,03Z,8.0,57%,1013.8 Hpa,220º (SW),18.0,5/8,1/8 SC,-,CI,-,-,7.4,Cloudy
+MOHABAD,21/11/2021,00Z,8.8,61%,1012.0 Hpa,210º (SW),21.6,4/8,-,-,CI,-,-,-,Scattered clouds
+NEHBANDAN,21/11/2021,21Z,6.0,21%,1021.5 Hpa,350º (N ),3.6,0/8,-,-,-,-,-,-,Clear
+NEHBANDAN,21/11/2021,18Z,7.7,20%,1022.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+NEHBANDAN,21/11/2021,15Z,11.5,13%,1023.0 Hpa,160º (S ),7.2,0/8,-,-,-,-,18.3,-,Clear
+NEHBANDAN,21/11/2021,12Z,17.4,7%,1019.5 Hpa,130º (SE),10.8,0/8,-,-,-,-,-,-,Clear
+NEHBANDAN,21/11/2021,09Z,18.0,7%,1019.2 Hpa,110º (E ),14.4,0/8,-,-,-,-,-,-,Clear
+NEHBANDAN,21/11/2021,06Z,12.8,11%,1022.4 Hpa,150º (SE),3.6,0/8,-,-,-,-,-,-,Clear
+NEHBANDAN,21/11/2021,03Z,2.8,23%,1021.5 Hpa,030º (NE),3.6,0/8,-,-,-,-,-,1.4,Clear
+NEHBANDAN,21/11/2021,00Z,1.8,25%,1018.7 Hpa,080º (E ),3.6,0/8,-,-,-,-,-,-,Clear
+NOSHAHR,21/11/2021,21Z,11.0,89%,1021.6 Hpa,240º (SW),3.6,4/8,2/8 SC,-,CI,-,-,-,Scattered clouds
+NOSHAHR,21/11/2021,18Z,11.0,84%,1020.9 Hpa,190º (S ),7.2,2/8,2/8 SC,-,-,-,-,-,Few clouds
+NOSHAHR,21/11/2021,15Z,13.0,90%,1019.0 Hpa,210º (SW),7.2,4/8,2/8 SC,-,CI,-,16.4,-,Scattered clouds
+NOSHAHR,21/11/2021,12Z,15.8,76%,1016.4 Hpa,calm.,,8/8,3/8 SC,-,CS,-,-,-,"Overcast, haze"
+NOSHAHR,21/11/2021,09Z,16.0,75%,1014.4 Hpa,280º (W ),10.8,8/8,4/8 SC,-,CS,-,-,-,"Overcast, haze"
+NOSHAHR,21/11/2021,06Z,13.0,70%,1013.7 Hpa,240º (SW),7.2,7/8,2/8 SC,-,CI,-,-,-,Cloudy
+NOSHAHR,21/11/2021,03Z,7.4,91%,1010.0 Hpa,200º (S ),7.2,7/8,-,7/8 AC,-,-,-,7.0,Cloudy
+NOSHAHR,21/11/2021,00Z,7.2,85%,1009.9 Hpa,170º (S ),3.6,5/8,1/8 SC,-,CI,-,-,-,Cloudy
+OMIDYEH-AGHAJARI,21/11/2021,21Z,23.0,56%,1016.2 Hpa,090º (E ),14.4,8/8,8/8 CB,,,-,-,-,"Overcast, thunderstorm"
+OMIDYEH-AGHAJARI,21/11/2021,18Z,22.3,62%,1015.9 Hpa,130º (SE),21.6,8/8,8/8 CB,,,23.0(6h),-,-,"Overcast, thunderstorm no precipitation"
+OMIDYEH-AGHAJARI,21/11/2021,15Z,20.3,79%,1013.5 Hpa,110º (E ),25.2,8/8,8/8 CB,,,-,28.6,-,"Overcast, thunderstorm"
+OMIDYEH-AGHAJARI,21/11/2021,12Z,22.8,70%,1012.8 Hpa,130º (SE),21.6,8/8,8/8 CB,,,2.0(6h),-,-,"Overcast, thunderstorm"
+OMIDYEH-AGHAJARI,21/11/2021,09Z,28.6,46%,1013.2 Hpa,150º (SE),36.0,7/8,7/8 CB,-,-,-,-,-,Cloudy
+OMIDYEH-AGHAJARI,21/11/2021,06Z,26.1,37%,1013.7 Hpa,160º (S ),28.8,7/8,7/8 CB,-,-,-,-,-,Cloudy
+OMIDYEH-AGHAJARI,21/11/2021,03Z,20.5,55%,1011.2 Hpa,130º (SE),18.0,6/8,6/8 CB,-,-,-,-,20.2,Cloudy
+OMIDYEH-AGHAJARI,21/11/2021,00Z,23.8,45%,1010.7 Hpa,160º (S ),14.4,6/8,6/8 CB,-,-,-,-,-,Cloudy
+ORUMIEH,21/11/2021,21Z,2.6,86%,1019.0 Hpa,280º (W ),7.2,1/8,1/8 SC,-,-,-,-,-,"Few clouds, mist"
+ORUMIEH,21/11/2021,18Z,6.2,72%,1019.0 Hpa,270º (W ),14.4,6/8,3/8 SC,AC,-,-,-,-,Cloudy
+ORUMIEH,21/11/2021,15Z,7.2,65%,1019.1 Hpa,320º (NW),10.8,1/8,1/8 SC,-,-,-,14.0,-,Few clouds
+ORUMIEH,21/11/2021,12Z,13.0,44%,1015.7 Hpa,090º (E ),10.8,3/8,3/8 CU/SC,-,-,-,-,-,Scattered clouds
+ORUMIEH,21/11/2021,09Z,12.4,50%,1014.7 Hpa,100º (E ),7.2,2/8,2/8 CU/SC,-,-,-,-,-,"Few clouds, haze"
+ORUMIEH,21/11/2021,06Z,6.8,67%,1016.9 Hpa,340º (N ),7.2,5/8,5/8 SC,-,-,-,-,-,"Cloudy, haze"
+ORUMIEH,21/11/2021,03Z,0.1,87%,1016.9 Hpa,010º (N),10.8,2/8,2/8 SC,-,-,-,-,0.0,"Few clouds, mist"
+ORUMIEH,21/11/2021,00Z,1.6,91%,1014.2 Hpa,260º (W ),7.2,5/8,3/8 SC,AC,-,-,-,-,"Cloudy, mist"
+PARS ABAD MOGHAN,21/11/2021,21Z,4.6,83%,1022.2 Hpa,250º (W ),10.8,0/8,-,-,-,-,-,-,Clear
+PARS ABAD MOGHAN,21/11/2021,18Z,8.4,73%,1021.6 Hpa,150º (SE),10.8,0/8,-,-,-,-,-,-,Clear
+PARS ABAD MOGHAN,21/11/2021,15Z,11.5,66%,1019.5 Hpa,140º (SE),18.0,0/8,-,-,-,-,19.0,-,Clear
+PARS ABAD MOGHAN,21/11/2021,12Z,18.9,37%,1016.2 Hpa,010º (N),7.2,0/8,-,-,-,-,-,-,Clear
+PARS ABAD MOGHAN,21/11/2021,09Z,17.4,45%,1014.6 Hpa,350º (N ),21.6,0/8,-,-,-,-,-,-,Clear
+PARS ABAD MOGHAN,21/11/2021,06Z,9.5,78%,1014.3 Hpa,280º (W ),18.0,0/8,-,-,-,-,-,-,Clear
+PARS ABAD MOGHAN,21/11/2021,03Z,4.5,88%,1012.5 Hpa,260º (W ),18.0,0/8,-,-,-,-,-,3.8,Clear
+PARS ABAD MOGHAN,21/11/2021,00Z,5.8,88%,1011.8 Hpa,270º (W ),14.4,0/8,-,-,-,-,-,-,Clear
+RAMSAR,21/11/2021,21Z,12.4,78%,1021.4 Hpa,230º (SW),7.2,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+RAMSAR,21/11/2021,18Z,12.2,73%,1020.7 Hpa,250º (W ),7.2,0/8,-,-,-,-,-,-,Clear
+RAMSAR,21/11/2021,15Z,13.6,85%,1019.2 Hpa,230º (SW),3.6,1/8,1/8 SC,-,-,-,17.0,-,Few clouds
+RAMSAR,21/11/2021,12Z,16.8,71%,1015.9 Hpa,160º (S ),3.6,7/8,3/8 CU/SC,-,CI,-,-,-,Cloudy
+RAMSAR,21/11/2021,09Z,16.2,75%,1014.6 Hpa,360º (N ),10.8,7/8,3/8 SC,-,CI,-,-,-,Cloudy
+RAMSAR,21/11/2021,06Z,14.2,80%,1013.8 Hpa,calm.,,7/8,3/8 SC,-,CI,-,-,-,Cloudy
+RAMSAR,21/11/2021,03Z,11.0,77%,1010.2 Hpa,240º (SW),7.2,6/8,2/8 SC,-,CI,-,-,8.2,Cloudy
+RAMSAR,21/11/2021,00Z,9.0,76%,1009.6 Hpa,230º (SW),3.6,2/8,2/8 SC,-,-,-,-,-,Few clouds
+RASHT,21/11/2021,21Z,9.8,97%,1022.2 Hpa,calm.,,5/8,-,5/8 AC,-,-,-,-,"Cloudy, mist"
+RASHT,21/11/2021,18Z,10.8,97%,1021.6 Hpa,calm.,,5/8,-,5/8 AC,-,-,-,-,"Cloudy, mist"
+RASHT,21/11/2021,15Z,14.8,78%,1019.6 Hpa,calm.,,6/8,-,6/8 AC,-,-,18.0,-,"Cloudy, haze"
+RASHT,21/11/2021,12Z,17.4,62%,1017.2 Hpa,calm.,,6/8,-,1/8 AC,CI,-,-,-,Cloudy
+RASHT,21/11/2021,09Z,17.0,64%,1015.5 Hpa,270º (W ),7.2,2/8,-,-,CI,-,-,-,Few clouds
+RASHT,21/11/2021,06Z,12.8,93%,1015.3 Hpa,calm.,,6/8,4/8 SC,AC,-,-,-,-,"Cloudy, mist"
+RASHT,21/11/2021,03Z,8.6,97%,1012.2 Hpa,190º (S ),7.2,6/8,3/8 SC,AC,-,-,-,6.2,"Cloudy, mist"
+RASHT,21/11/2021,00Z,7.2,97%,1010.5 Hpa,240º (SW),7.2,6/8,3/8 SC,AC,-,-,-,-,"Cloudy, mist"
+SABZEVAR,21/11/2021,21Z,10.0,38%,1021.9 Hpa,calm.,,8/8,1/8 SC,-,CS,-,-,-,Overcast
+SABZEVAR,21/11/2021,18Z,11.2,30%,1022.0 Hpa,calm.,,8/8,1/8 SC,-,CS,-,-,-,Overcast
+SABZEVAR,21/11/2021,15Z,10.6,33%,1021.4 Hpa,350º (N ),7.2,6/8,2/8 SC,-,CI,-,16.6,-,Cloudy
+SABZEVAR,21/11/2021,12Z,15.8,23%,1018.5 Hpa,230º (SW),10.8,5/8,1/8 SC,-,CI,-,-,-,Cloudy
+SABZEVAR,21/11/2021,09Z,16.1,22%,1018.6 Hpa,230º (SW),7.2,2/8,-,-,CI,-,-,-,Few clouds
+SABZEVAR,21/11/2021,06Z,8.6,38%,1021.9 Hpa,080º (E ),10.8,1/8,-,-,CI,-,-,-,Few clouds
+SABZEVAR,21/11/2021,03Z,3.6,48%,1021.0 Hpa,060º (NE),7.2,1/8,-,-,CI,-,-,2.6,Few clouds
+SABZEVAR,21/11/2021,00Z,4.0,45%,1019.0 Hpa,060º (NE),7.2,5/8,-,-,CI,-,-,-,Cloudy
+SAFI-ABAD DEZFUL,21/11/2021,21Z,18.6,82%,1015.6 Hpa,120º (SE),7.2,7/8,2/8 SC,AC,-,-,-,-,Cloudy
+SAFI-ABAD DEZFUL,21/11/2021,18Z,19.3,80%,1014.8 Hpa,100º (E ),14.4,7/8,3/8 CB,-,CI,-,-,-,Cloudy
+SAFI-ABAD DEZFUL,21/11/2021,15Z,19.7,81%,1013.1 Hpa,100º (E ),18.0,7/8,2/8 SC,-,CI,-,22.4,-,Cloudy
+SAFI-ABAD DEZFUL,21/11/2021,12Z,21.8,76%,1011.1 Hpa,090º (E ),21.6,7/8,6/8 CB,AC,-,1.0(6h),-,-,"Cloudy, haze"
+SAFI-ABAD DEZFUL,21/11/2021,09Z,20.8,77%,1012.4 Hpa,070º (E ),18.0,7/8,6/8 CB,AC,-,-,-,-,Cloudy
+SAFI-ABAD DEZFUL,21/11/2021,06Z,16.6,95%,1013.8 Hpa,080º (E ),7.2,7/8,6/8 CB,AC,-,20.0(6h),-,-,"Cloudy, thunderstorm"
+SAFI-ABAD DEZFUL,21/11/2021,03Z,18.8,80%,1009.2 Hpa,030º (NE),18.0,7/8,7/8 CB,-,-,-,-,16.8,"Cloudy, thunderstorm no precipitation"
+SAFI-ABAD DEZFUL,21/11/2021,00Z,18.4,69%,1011.3 Hpa,040º (NE),14.4,7/8,7/8 SC,-,-,0.1(6h),-,-,Cloudy
+SAGHEZ,21/11/2021,21Z,5.1,86%,1018.5 Hpa,calm.,,5/8,5/8 SC,-,-,-,-,-,Cloudy
+SAGHEZ,21/11/2021,18Z,5.1,83%,1018.9 Hpa,190º (S ),7.2,6/8,4/8 CU,AC,-,-,-,-,Cloudy
+SAGHEZ,21/11/2021,15Z,9.2,64%,1017.4 Hpa,180º (S ),7.2,6/8,3/8 CU,AC,-,-,12.6,-,Cloudy
+SAGHEZ,21/11/2021,12Z,11.0,55%,1015.1 Hpa,190º (S ),10.8,7/8,4/8 CU,AC,-,-,-,-,Cloudy
+SAGHEZ,21/11/2021,09Z,12.2,47%,1016.0 Hpa,140º (SE),10.8,4/8,1/8 CU,-,CI,-,-,-,Scattered clouds
+SAGHEZ,21/11/2021,06Z,6.6,62%,1017.5 Hpa,180º (S ),7.2,3/8,-,-,CI,-,-,-,Scattered clouds
+SAGHEZ,21/11/2021,03Z,3.4,73%,1016.5 Hpa,140º (SE),3.6,4/8,-,-,CI,-,-,1.6,Scattered clouds
+SAGHEZ,21/11/2021,00Z,5.9,61%,1013.7 Hpa,140º (SE),3.6,4/8,-,3/8 AC,CI,-,-,-,Scattered clouds
+SANANDAJ,21/11/2021,21Z,6.1,90%,1019.1 Hpa,calm.,,5/8,3/8 SC,AC,-,-,-,-,"Cloudy, mist"
+SANANDAJ,21/11/2021,18Z,7.3,88%,1018.9 Hpa,150º (SE),7.2,7/8,6/8 CB,AC,-,2.0(6h),-,-,"Cloudy, mist"
+SANANDAJ,21/11/2021,15Z,8.3,83%,1017.4 Hpa,calm.,,7/8,6/8 CB,AC,-,-,10.7,-,"Cloudy, mist"
+SANANDAJ,21/11/2021,12Z,10.3,68%,1015.4 Hpa,calm.,,8/8,6/8 CB,AC,,Tr(6h),-,-,"Overcast, rain showers"
+SANANDAJ,21/11/2021,09Z,10.6,65%,1016.2 Hpa,calm.,,8/8,6/8 CB,AC,,-,-,-,"Overcast, drizzle"
+SANANDAJ,21/11/2021,06Z,7.5,90%,1017.4 Hpa,calm.,,8/8,6/8 CB,AC,,3.0(6h),-,-,"Overcast, drizzle"
+SANANDAJ,21/11/2021,03Z,6.7,88%,1015.2 Hpa,160º (S ),7.2,8/8,5/8 SC,AC,,-,-,6.0,"Overcast, rain"
+SANANDAJ,21/11/2021,00Z,7.7,59%,1013.1 Hpa,Vble.,,6/8,5/8 SC,AC,-,-,-,-,Cloudy
+SARAB,21/11/2021,21Z,4.2,67%,1019.0 Hpa,110º (E ),7.2,7/8,4/8 CB,AC,-,-,-,-,Cloudy
+SARAB,21/11/2021,18Z,4.2,64%,1019.7 Hpa,010º (N),7.2,5/8,4/8 CB,AC,-,-,-,-,Cloudy
+SARAB,21/11/2021,15Z,7.2,54%,1018.6 Hpa,310º (NW),7.2,4/8,4/8 CB,-,-,-,12.6,-,Scattered clouds
+SARAB,21/11/2021,12Z,11.8,39%,1014.1 Hpa,310º (NW),14.4,5/8,5/8 CB,-,-,-,-,-,Cloudy
+SARAB,21/11/2021,09Z,10.4,47%,1014.8 Hpa,260º (W ),14.4,1/8,1/8 CU,-,-,-,-,-,Few clouds
+SARAB,21/11/2021,06Z,7.2,59%,1015.6 Hpa,310º (NW),7.2,1/8,1/8 SC,-,-,-,-,-,Few clouds
+SARAB,21/11/2021,03Z,1.4,79%,1016.3 Hpa,280º (W ),10.8,3/8,1/8 SC,AC,CI,-,-,1.4,Scattered clouds
+SARAB,21/11/2021,00Z,5.4,58%,1011.9 Hpa,300º (NW),7.2,6/8,2/8 SC,AC,CI,-,-,-,Cloudy
+SARAKHS,21/11/2021,21Z,12.6,50%,1019.0 Hpa,calm.,,5/8,-,-,CI,-,-,-,Cloudy
+SARAKHS,21/11/2021,18Z,12.7,50%,1018.4 Hpa,calm.,,4/8,-,-,CI,-,-,-,Scattered clouds
+SARAKHS,21/11/2021,15Z,14.2,45%,1016.6 Hpa,calm.,,0/8,-,-,-,-,24.8,-,Clear
+SARAKHS,21/11/2021,12Z,23.7,25%,1014.1 Hpa,300º (NW),18.0,2/8,-,-,CI,-,-,-,Few clouds
+SARAKHS,21/11/2021,09Z,23.1,25%,1013.7 Hpa,210º (SW),64.8,0/8,-,-,-,-,-,-,"Clear, dust"
+SARAKHS,21/11/2021,06Z,16.4,48%,1015.8 Hpa,210º (SW),18.0,0/8,-,-,-,-,-,-,"Clear, haze"
+SARAKHS,21/11/2021,03Z,1.5,70%,1016.3 Hpa,calm.,,0/8,-,-,-,-,-,1.5,Clear
+SARAKHS,21/11/2021,00Z,2.1,74%,1015.4 Hpa,300º (NW),10.8,0/8,-,-,-,-,-,-,Clear
+SARAVAN,21/11/2021,21Z,10.4,28%,1021.1 Hpa,310º (NW),10.8,0/8,-,-,-,-,-,-,Clear
+SARAVAN,21/11/2021,18Z,14.1,24%,1021.8 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SARAVAN,21/11/2021,15Z,16.3,21%,1023.1 Hpa,310º (NW),7.2,0/8,-,-,-,-,21.3,-,Clear
+SARAVAN,21/11/2021,12Z,20.2,17%,1019.8 Hpa,040º (NE),21.6,0/8,-,-,-,-,-,-,Clear
+SARAVAN,21/11/2021,09Z,20.8,16%,1019.6 Hpa,060º (NE),18.0,0/8,-,-,-,-,-,-,Clear
+SARAVAN,21/11/2021,06Z,16.9,17%,1022.2 Hpa,340º (N ),14.4,0/8,-,-,-,-,-,-,Clear
+SARAVAN,21/11/2021,03Z,5.2,26%,1022.7 Hpa,300º (NW),21.6,0/8,-,-,-,-,-,3.8,Clear
+SARAVAN,21/11/2021,00Z,4.9,27%,1019.8 Hpa,330º (NW),10.8,0/8,-,-,-,-,-,-,Clear
+SEMNAN,21/11/2021,21Z,4.4,58%,1023.2 Hpa,calm.,,3/8,-,1/8 AC,CI,-,-,-,"Scattered clouds, haze"
+SEMNAN,21/11/2021,18Z,6.4,53%,1022.7 Hpa,calm.,,6/8,-,2/8 AC,CS,-,-,-,"Cloudy, haze"
+SEMNAN,21/11/2021,15Z,9.0,46%,1021.9 Hpa,calm.,,7/8,-,2/8 AC,CS,-,12.2,-,"Cloudy, haze"
+SEMNAN,21/11/2021,12Z,11.2,40%,1019.7 Hpa,190º (S ),7.2,8/8,-,4/8 AC,CS,-,-,-,"Overcast, haze"
+SEMNAN,21/11/2021,09Z,12.0,38%,1019.2 Hpa,160º (S ),3.6,8/8,-,2/8 AC,CS,-,-,-,"Overcast, haze"
+SEMNAN,21/11/2021,06Z,10.2,42%,1020.9 Hpa,150º (SE),3.6,8/8,-,5/8 AC,CI,-,-,-,"Overcast, haze"
+SEMNAN,21/11/2021,03Z,3.0,61%,1020.5 Hpa,calm.,,1/8,1/8 SC,-,-,-,-,3.0,"Few clouds, haze"
+SEMNAN,21/11/2021,00Z,4.8,56%,1018.1 Hpa,340º (N ),3.6,0/8,-,-,-,-,-,-,Clear
+SHAHRE-KORD,21/11/2021,21Z,7.4,83%,1016.4 Hpa,100º (E ),3.6,6/8,4/8 CB,AC,-,-,-,-,"Cloudy, rain showers"
+SHAHRE-KORD,21/11/2021,18Z,8.4,69%,1019.1 Hpa,150º (SE),7.2,4/8,3/8 SC,AC,-,-,-,-,Scattered clouds
+SHAHRE-KORD,21/11/2021,15Z,9.5,63%,1017.2 Hpa,140º (SE),14.4,5/8,4/8 CB,AC,-,-,13.5,-,Cloudy
+SHAHRE-KORD,21/11/2021,12Z,11.0,62%,1014.5 Hpa,230º (SW),25.2,6/8,5/8 CB,AC,-,0.5(6h),-,-,"Cloudy, rain showers"
+SHAHRE-KORD,21/11/2021,09Z,13.1,53%,1012.8 Hpa,200º (S ),25.2,7/8,5/8 CB,AC,-,-,-,-,"Cloudy, rain showers"
+SHAHRE-KORD,21/11/2021,06Z,5.9,96%,1017.4 Hpa,320º (NW),7.2,7/8,4/8 CB,AC,-,2.0(6h),-,-,"Cloudy, rain showers"
+SHAHRE-KORD,21/11/2021,03Z,5.0,92%,1015.3 Hpa,350º (N ),7.2,7/8,4/8 CB,AC,-,-,-,2.3,"Cloudy, rain showers"
+SHAHRE-KORD,21/11/2021,00Z,4.9,71%,1012.9 Hpa,140º (SE),10.8,5/8,5/8 CB,AC,-,-,-,-,Cloudy
+SHAHRUD,21/11/2021,21Z,4.2,61%,1023.5 Hpa,330º (NW),7.2,0/8,-,-,-,-,-,-,Clear
+SHAHRUD,21/11/2021,18Z,4.8,59%,1023.5 Hpa,calm.,,1/8,-,-,CI,-,-,-,Few clouds
+SHAHRUD,21/11/2021,15Z,6.4,54%,1023.4 Hpa,calm.,,3/8,-,-,CS,-,9.6,-,Scattered clouds
+SHAHRUD,21/11/2021,12Z,9.2,45%,1020.8 Hpa,230º (SW),7.2,8/8,3/8 SC,-,CS,-,-,-,Overcast
+SHAHRUD,21/11/2021,09Z,9.0,42%,1020.4 Hpa,190º (S ),10.8,8/8,1/8 SC,-,CS,-,-,-,Overcast
+SHAHRUD,21/11/2021,06Z,6.4,46%,1022.0 Hpa,calm.,,4/8,-,-,CS,-,-,-,"Scattered clouds, haze"
+SHAHRUD,21/11/2021,03Z,0.0,71%,1021.3 Hpa,310º (NW),7.2,3/8,1/8 SC,-,CI,-,-,-0.8,Scattered clouds
+SHAHRUD,21/11/2021,00Z,0.0,71%,1018.9 Hpa,330º (NW),7.2,0/8,-,-,-,-,-,-,Clear
+SHIRAZ,21/11/2021,21Z,13.2,51%,1017.5 Hpa,calm.,,7/8,1/8 SC,AC,-,-,-,-,"Cloudy, haze"
+SHIRAZ,21/11/2021,18Z,14.6,49%,1018.3 Hpa,calm.,,5/8,2/8 SC,AC,-,-,-,-,"Cloudy, haze"
+SHIRAZ,21/11/2021,15Z,15.6,49%,1017.1 Hpa,300º (NW),7.2,3/8,3/8 SC,-,-,-,21.4,-,Scattered clouds
+SHIRAZ,21/11/2021,12Z,18.8,36%,1013.9 Hpa,270º (W ),10.8,4/8,4/8 CU/SC,-,-,-,-,-,"Scattered clouds, haze"
+SHIRAZ,21/11/2021,09Z,18.6,46%,1014.6 Hpa,calm.,,3/8,3/8 CB,-,-,-,-,-,"Scattered clouds, haze"
+SHIRAZ,21/11/2021,06Z,12.4,82%,1018.0 Hpa,180º (S ),7.2,4/8,4/8 CB,AC,-,Tr(6h),-,-,"Scattered clouds, mist"
+SHIRAZ,21/11/2021,03Z,9.8,97%,1015.9 Hpa,calm.,,7/8,4/8 CB,AC,-,-,-,9.4,"Cloudy, mist"
+SHIRAZ,21/11/2021,00Z,10.4,90%,1013.8 Hpa,calm.,,7/8,4/8 CB,AC,-,0.6(6h),-,-,"Cloudy, rain"
+SIRI ISLAND,21/11/2021,15Z,27.4,67%,1014.7 Hpa,060º (NE),21.6,0/8,-,-,-,-,28.6,-,"Clear, haze"
+SIRI ISLAND,21/11/2021,12Z,28.2,112%,1013.5 Hpa,090º (E ),21.6,0/8,-,-,-,-,-,-,"Clear, haze"
+SIRI ISLAND,21/11/2021,09Z,28.0,61%,1014.6 Hpa,070º (E ),25.2,0/8,-,-,-,-,-,-,"Clear, haze"
+SIRI ISLAND,21/11/2021,06Z,27.6,116%,1016.0 Hpa,070º (E ),25.2,0/8,-,-,-,-,-,-,"Clear, haze"
+SIRI ISLAND,21/11/2021,03Z,27.0,58%,1014.2 Hpa,090º (E ),18.0,0/8,-,-,-,-,-,26.0,"Clear, haze"
+SIRJAN,21/11/2021,21Z,12.0,54%,1016.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SIRJAN,21/11/2021,18Z,13.4,50%,1016.6 Hpa,calm.,,1/8,-,-,CI,-,-,-,Few clouds
+SIRJAN,21/11/2021,15Z,16.2,44%,1017.9 Hpa,calm.,,2/8,1/8 SC,-,-,-,21.2,-,Few clouds
+SIRJAN,21/11/2021,12Z,19.8,35%,1012.3 Hpa,calm.,,7/8,3/8 SC,AC,-,-,-,-,Cloudy
+SIRJAN,21/11/2021,09Z,19.6,27%,1013.9 Hpa,150º (SE),10.8,1/8,1/8 CU,-,-,-,-,-,Few clouds
+SIRJAN,21/11/2021,06Z,15.0,33%,1016.6 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SIRJAN,21/11/2021,00Z,9.6,55%,1012.4 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+TABAS,21/11/2021,21Z,13.2,40%,1020.6 Hpa,calm.,,7/8,3/8 SC,AC,-,-,-,-,"Cloudy, rain"
+TABAS,21/11/2021,18Z,15.1,20%,1020.1 Hpa,calm.,,7/8,2/8 SC,AC,-,-,-,-,Cloudy
+TABAS,21/11/2021,15Z,15.0,19%,1019.6 Hpa,calm.,,2/8,-,2/8 AC,-,-,20.9,-,Few clouds
+TABAS,21/11/2021,12Z,20.2,13%,1017.0 Hpa,calm.,,2/8,-,2/8 AC,-,-,-,-,Few clouds
+TABAS,21/11/2021,09Z,17.0,16%,1018.3 Hpa,350º (N ),3.6,0/8,-,-,-,-,-,-,Clear
+TABAS,21/11/2021,06Z,13.8,22%,1020.7 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+TABAS,21/11/2021,03Z,5.4,36%,1019.9 Hpa,calm.,,0/8,-,-,-,-,-,5.4,Clear
+TABAS,21/11/2021,00Z,7.3,31%,1017.5 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+TABRIZ,21/11/2021,21Z,5.9,54%,1020.0 Hpa,040º (NE),14.4,0/8,-,-,-,-,-,-,Clear
+TABRIZ,21/11/2021,18Z,7.4,53%,1019.9 Hpa,050º (NE),10.8,4/8,1/8 SC,AC,CI,-,-,-,Scattered clouds
+TABRIZ,21/11/2021,15Z,7.0,53%,1019.7 Hpa,010º (N),14.4,0/8,-,-,-,-,13.8,-,Clear
+TABRIZ,21/11/2021,12Z,13.4,40%,1016.6 Hpa,250º (W ),10.8,1/8,1/8 CU,-,-,-,-,-,Few clouds
+TABRIZ,21/11/2021,09Z,12.2,43%,1016.6 Hpa,300º (NW),10.8,1/8,1/8 SC,-,-,-,-,-,"Few clouds, haze"
+TABRIZ,21/11/2021,06Z,8.8,56%,1017.7 Hpa,040º (NE),7.2,3/8,1/8 SC,-,CI,-,-,-,"Scattered clouds, haze"
+TABRIZ,21/11/2021,03Z,3.4,71%,1017.5 Hpa,calm.,,7/8,3/8 CB,-,CI,-,-,3.3,"Cloudy, haze"
+TABRIZ,21/11/2021,00Z,4.0,65%,1014.2 Hpa,020º (N),14.4,5/8,3/8 CB,-,CI,-,-,-,"Cloudy, haze"
+TEHRAN-MEHRABAD,21/11/2021,21Z,6.7,69%,1022.6 Hpa,calm.,,6/8,-,3/8 AC,CI,-,-,-,"Cloudy, haze"
+TEHRAN-MEHRABAD,21/11/2021,18Z,7.5,66%,1021.9 Hpa,calm.,,3/8,-,1/8 AC,CI,-,-,-,"Scattered clouds, haze"
+TEHRAN-MEHRABAD,21/11/2021,15Z,8.0,59%,1021.9 Hpa,190º (S ),7.2,5/8,1/8 SC,AC,CS,-,9.6,-,"Cloudy, haze"
+TEHRAN-MEHRABAD,21/11/2021,12Z,9.2,58%,1019.5 Hpa,180º (S ),7.2,7/8,4/8 SC,AC,-,Tr(6h),-,-,"Cloudy, haze"
+TEHRAN-MEHRABAD,21/11/2021,09Z,9.1,56%,1019.7 Hpa,210º (SW),7.2,8/8,4/8 SC,AC,,-,-,-,"Overcast, rain"
+TEHRAN-MEHRABAD,21/11/2021,06Z,8.3,51%,1020.6 Hpa,calm.,,7/8,2/8 SC,AC,-,-,-,-,"Cloudy, haze"
+TEHRAN-MEHRABAD,21/11/2021,03Z,6.9,58%,1017.8 Hpa,210º (SW),7.2,4/8,2/8 SC,AC,-,-,-,6.1,"Scattered clouds, haze"
+TEHRAN-MEHRABAD,21/11/2021,00Z,6.5,60%,1016.9 Hpa,calm.,,2/8,-,2/8 AC,-,-,-,-,"Few clouds, haze"
+TORBAT-HEYDARIEH,21/11/2021,21Z,7.0,31%,1021.7 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+TORBAT-HEYDARIEH,21/11/2021,18Z,5.5,29%,1022.5 Hpa,260º (W ),7.2,1/8,-,-,CI,-,-,-,Few clouds
+TORBAT-HEYDARIEH,21/11/2021,15Z,6.5,25%,1024.5 Hpa,290º (W ),7.2,1/8,-,-,CI,-,15.3,-,Few clouds
+TORBAT-HEYDARIEH,21/11/2021,12Z,14.7,18%,1019.8 Hpa,150º (SE),10.8,1/8,-,-,CI,-,-,-,Few clouds
+TORBAT-HEYDARIEH,21/11/2021,09Z,14.5,18%,1019.9 Hpa,190º (S ),7.2,0/8,-,-,-,-,-,-,Clear
+TORBAT-HEYDARIEH,21/11/2021,06Z,9.6,29%,1021.9 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+TORBAT-HEYDARIEH,21/11/2021,03Z,-2.5,50%,1022.6 Hpa,300º (NW),7.2,0/8,-,-,-,-,-,-3.2,Clear
+TORBAT-HEYDARIEH,21/11/2021,00Z,-2.0,50%,1019.4 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+YASOGE,21/11/2021,21Z,8.8,100%,1020.4 Hpa,160º (S ),10.8,8/8,5/8 CB,AC,,-,-,-,"Overcast, rain"
+YASOGE,21/11/2021,18Z,9.0,100%,1019.3 Hpa,calm.,,8/8,5/8 CB,AC,,1.0(6h),-,-,"Overcast, rain"
+YASOGE,21/11/2021,15Z,9.8,76%,1018.7 Hpa,calm.,,8/8,2/8 CB,AC,,-,12.2,-,"Overcast, rain"
+YASOGE,21/11/2021,12Z,11.8,63%,1017.2 Hpa,calm.,,7/8,2/8 CB,AC,-,0.1(6h),-,-,Cloudy
+YASOGE,21/11/2021,09Z,11.6,73%,1017.7 Hpa,calm.,,7/8,2/8 CB,AC,-,-,-,-,"Cloudy, haze"
+YASOGE,21/11/2021,06Z,10.8,77%,1017.4 Hpa,calm.,,7/8,2/8 CB,AC,-,1.0(6h),-,-,"Cloudy, haze"
+YASOGE,21/11/2021,03Z,9.1,89%,1015.5 Hpa,calm.,,8/8,5/8 CB,AC,,-,-,8.6,"Overcast, rain"
+YASOGE,21/11/2021,00Z,9.2,80%,1012.6 Hpa,calm.,,8/8,5/8 CB,AC,,-,-,-,Overcast
+YAZD,21/11/2021,21Z,10.6,50%,1020.8 Hpa,300º (NW),7.2,8/8,2/8 CU,AC,,-,-,-,"Overcast, rain"
+YAZD,21/11/2021,18Z,10.8,45%,1021.8 Hpa,290º (W ),10.8,3/8,1/8 SC,AC,-,-,-,-,Scattered clouds
+YAZD,21/11/2021,15Z,14.0,40%,1020.4 Hpa,290º (W ),14.4,3/8,2/8 SC,AC,-,-,22.2,-,"Scattered clouds, haze"
+YAZD,21/11/2021,12Z,19.0,34%,1014.7 Hpa,280º (W ),10.8,4/8,3/8 SC,AC,-,-,-,-,"Scattered clouds, haze"
+YAZD,21/11/2021,09Z,21.6,29%,1014.5 Hpa,070º (E ),10.8,2/8,1/8 CU,AC,-,-,-,-,"Few clouds, haze"
+YAZD,21/11/2021,06Z,14.9,41%,1017.8 Hpa,120º (SE),14.4,1/8,-,1/8 AC,-,-,-,-,"Few clouds, haze"
+YAZD,21/11/2021,03Z,6.6,70%,1018.0 Hpa,170º (S ),7.2,1/8,1/8 CU,-,-,-,-,6.1,"Few clouds, haze"
+YAZD,21/11/2021,00Z,7.3,63%,1015.4 Hpa,200º (S ),3.6,2/8,-,2/8 AC,-,-,-,-,"Few clouds, haze"
+ZABOL,21/11/2021,21Z,6.8,26%,1024.2 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+ZABOL,21/11/2021,18Z,8.7,28%,1024.4 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+ZABOL,21/11/2021,15Z,13.6,21%,1023.7 Hpa,calm.,,0/8,-,-,-,-,22.6,-,Clear
+ZABOL,21/11/2021,12Z,21.3,14%,1020.7 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+ZABOL,21/11/2021,09Z,19.5,17%,1021.5 Hpa,080º (E ),7.2,0/8,-,-,-,-,-,-,Clear
+ZABOL,21/11/2021,06Z,13.6,23%,1024.7 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+ZABOL,21/11/2021,03Z,0.9,38%,1025.1 Hpa,calm.,,0/8,-,-,-,-,-,-0.4,Clear
+ZABOL,21/11/2021,00Z,1.6,37%,1022.0 Hpa,210º (SW),7.2,0/8,-,-,-,-,-,-,Clear
+ZAHEDAN,21/11/2021,21Z,5.1,31%,1021.8 Hpa,190º (S ),10.8,0/8,-,-,-,-,-,-,Clear
+ZAHEDAN,21/11/2021,18Z,10.1,26%,1021.6 Hpa,220º (SW),10.8,0/8,-,-,-,-,-,-,Clear
+ZAHEDAN,21/11/2021,15Z,14.6,21%,1022.8 Hpa,140º (SE),14.4,0/8,-,-,-,-,21.4,-,Clear
+ZAHEDAN,21/11/2021,12Z,19.9,17%,1018.8 Hpa,120º (SE),14.4,0/8,-,-,-,-,-,-,Clear
+ZAHEDAN,21/11/2021,09Z,20.5,18%,1018.3 Hpa,130º (SE),14.4,0/8,-,-,-,-,-,-,Clear
+ZAHEDAN,21/11/2021,06Z,15.4,19%,1021.0 Hpa,200º (S ),10.8,0/8,-,-,-,-,-,-,Clear
+ZAHEDAN,21/11/2021,03Z,1.0,32%,1022.7 Hpa,220º (SW),7.2,0/8,-,-,-,-,-,0.4,Clear
+ZAHEDAN,21/11/2021,00Z,1.1,31%,1019.5 Hpa,170º (S ),7.2,0/8,-,-,-,-,-,-,Clear
+ZANJAN,21/11/2021,21Z,2.3,89%,1020.0 Hpa,090º (E ),7.2,3/8,2/8 SC,AC,-,-,-,-,"Scattered clouds, mist"
+ZANJAN,21/11/2021,18Z,4.4,86%,1020.9 Hpa,090º (E ),10.8,6/8,3/8 SC,AC,-,Tr(6h),-,-,"Cloudy, rain"
+ZANJAN,21/11/2021,15Z,6.2,74%,1019.6 Hpa,100º (E ),7.2,7/8,4/8 SC,AC,-,-,12.3,-,"Cloudy, haze"
+ZANJAN,21/11/2021,12Z,7.8,79%,1017.9 Hpa,calm.,,7/8,5/8 CB,AC,-,0.5(6h),-,-,Cloudy
+ZANJAN,21/11/2021,09Z,11.7,49%,1016.1 Hpa,090º (E ),10.8,7/8,4/8 CU,AC,-,-,-,-,"Cloudy, haze"
+ZANJAN,21/11/2021,06Z,5.3,69%,1018.4 Hpa,110º (E ),7.2,5/8,2/8 SC,-,CI,-,-,-,Cloudy
+ZANJAN,21/11/2021,03Z,3.4,73%,1016.7 Hpa,090º (E ),3.6,3/8,-,-,CI,-,-,0.7,Scattered clouds
+ZANJAN,21/11/2021,00Z,1.6,84%,1014.3 Hpa,090º (E ),7.2,0/8,-,-,-,-,-,-,Clear

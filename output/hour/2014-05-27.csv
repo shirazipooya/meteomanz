@@ -1,0 +1,614 @@
+Station ∆,Date,UTC time,Temp. (ºC),Rel. Hum. (%),Pressure/ Geopot.,Wind dir,Wins speed (Km/h),Clouds,Low clouds,Medium clouds,High clouds,Prec. (mm),Max temp. (ºC),Min temp. (ºC),Conditions
+ABADAN,27/05/2014,21Z,31.6,41%,1004.0 Hpa,calm.,,2/8,-,2/8 AC,-,-,-,-,Few clouds
+ABADAN,27/05/2014,18Z,35.2,24%,1004.6 Hpa,140º (SE),7.2,3/8,-,-,CI,-,-,-,Scattered clouds
+ABADAN,27/05/2014,15Z,39.0,21%,1004.4 Hpa,180º (S ),7.2,6/8,3/8 CB,AC,-,-,42.8,-,Cloudy
+ABADAN,27/05/2014,12Z,41.6,16%,1005.0 Hpa,170º (S ),21.6,7/8,4/8 CB,AC,-,-,-,-,Cloudy
+ABADAN,27/05/2014,09Z,40.4,18%,1006.3 Hpa,150º (SE),10.8,7/8,4/8 CB,AC,-,-,-,-,Cloudy
+ABADAN,27/05/2014,06Z,37.4,24%,1006.5 Hpa,190º (S ),7.2,5/8,3/8 SC,AC,-,-,-,-,Cloudy
+ABADAN,27/05/2014,03Z,30.0,47%,1005.6 Hpa,210º (SW),7.2,6/8,1/8 CU,-,CI,-,-,29.4,"Cloudy, dust"
+ABADAN,27/05/2014,00Z,31.0,37%,1004.7 Hpa,calm.,,4/8,-,4/8 AC,-,-,-,-,Scattered clouds
+ABADEH,27/05/2014,21Z,19.2,35%,1004.5 Hpa,010º (N),7.2,2/8,-,-,CI,-,-,-,Few clouds
+ABADEH,27/05/2014,18Z,20.4,36%,1006.1 Hpa,calm.,,4/8,1/8 SC,-,CI,-,-,-,Scattered clouds
+ABADEH,27/05/2014,15Z,23.2,24%,1006.9 Hpa,310º (NW),18.0,6/8,4/8 CB,-,CI,-,29.4,-,Cloudy
+ABADEH,27/05/2014,12Z,29.0,9%,1004.1 Hpa,250º (W ),28.8,6/8,3/8 SC,-,CI,-,-,-,Cloudy
+ABADEH,27/05/2014,09Z,27.4,12%,1004.9 Hpa,010º (N),10.8,4/8,3/8 SC,-,CI,-,-,-,Scattered clouds
+ABADEH,27/05/2014,06Z,23.8,18%,1005.4 Hpa,300º (NW),18.0,3/8,-,-,CI,-,-,-,Scattered clouds
+ABADEH,27/05/2014,03Z,16.8,36%,1005.9 Hpa,calm.,,4/8,-,4/8 AC,-,-,-,14.8,Scattered clouds
+ABADEH,27/05/2014,00Z,15.8,36%,1004.0 Hpa,350º (N ),10.8,0/8,-,-,-,-,-,-,Clear
+ABU MUSA,27/05/2014,15Z,32.0,85%,1002.6 Hpa,240º (SW),21.6,0/8,-,-,-,-,33.2,-,"Clear, mist"
+ABU MUSA,27/05/2014,12Z,33.0,246%,1003.6 Hpa,230º (SW),21.6,0/8,-,-,-,-,-,-,"Clear, mist"
+ABU MUSA,27/05/2014,09Z,32.2,84%,1005.4 Hpa,240º (SW),18.0,0/8,-,-,-,-,-,-,"Clear, mist"
+ABU MUSA,27/05/2014,06Z,31.4,160%,1004.9 Hpa,220º (SW),10.8,1/8,-,-,CI,-,-,-,"Few clouds, mist"
+ABU MUSA,27/05/2014,03Z,30.0,93%,1003.7 Hpa,190º (S ),14.4,2/8,-,-,CI,-,-,29.0,"Few clouds, mist"
+AHAR,27/05/2014,21Z,14.4,65%,1004.5 Hpa,calm.,,3/8,3/8 CB,-,-,-,-,-,Scattered clouds
+AHAR,27/05/2014,18Z,18.0,49%,1005.2 Hpa,120º (SE),14.4,4/8,4/8 CB,-,-,-,-,-,Scattered clouds
+AHAR,27/05/2014,15Z,24.2,31%,1003.5 Hpa,190º (S ),21.6,6/8,4/8 CB,-,CI,-,26.5,-,Cloudy
+AHAR,27/05/2014,12Z,23.6,33%,1005.6 Hpa,170º (S ),28.8,6/8,2/8 CB,AC,CI,-,-,-,"Cloudy, thunderstorms"
+AHAR,27/05/2014,09Z,25.0,23%,1005.9 Hpa,240º (SW),18.0,6/8,4/8 CB,-,CI,-,-,-,Cloudy
+AHAR,27/05/2014,06Z,22.4,34%,1007.2 Hpa,calm.,,1/8,1/8 CU,-,CI,-,-,-,Few clouds
+AHAR,27/05/2014,03Z,12.6,72%,1008.6 Hpa,calm.,,1/8,-,-,CI,-,-,10.8,Few clouds
+AHAR,27/05/2014,00Z,12.2,71%,1008.6 Hpa,340º (N ),10.8,4/8,4/8 SC,-,-,-,-,-,Scattered clouds
+AHWAZ,27/05/2014,21Z,31.4,35%,1003.6 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+AHWAZ,27/05/2014,18Z,33.4,0%,1004.8 Hpa,120º (SE),7.2,6/8,1/8 ST,AC,-,0.2(6h),-,-,"Cloudy, thunderstorm no precipitation"
+AHWAZ,27/05/2014,15Z,40.2,19%,1003.4 Hpa,240º (SW),3.6,7/8,1/8 CB,AC,-,-,41.6,-,Cloudy
+AHWAZ,27/05/2014,12Z,40.4,20%,1004.9 Hpa,100º (E ),7.2,6/8,4/8 CB,AC,-,-,-,-,Cloudy
+AHWAZ,27/05/2014,09Z,40.4,18%,1006.5 Hpa,260º (W ),10.8,8/8,4/8 CB,AC,,-,-,-,"Overcast, thunderstorm no precipitation"
+AHWAZ,27/05/2014,06Z,38.4,23%,1005.9 Hpa,030º (NE),7.2,5/8,2/8 SC,-,CI,-,-,-,Cloudy
+AHWAZ,27/05/2014,03Z,28.2,40%,1004.9 Hpa,calm.,,6/8,4/8 SC,AC,-,-,-,27.6,Cloudy
+AHWAZ,27/05/2014,00Z,28.4,44%,1004.5 Hpa,110º (E ),3.6,0/8,-,-,-,-,-,-,Clear
+ALI-GOODARZ,27/05/2014,21Z,17.2,46%,1005.5 Hpa,110º (E ),21.6,3/8,-,3/8 AC,-,-,-,-,Scattered clouds
+ALI-GOODARZ,27/05/2014,18Z,20.6,36%,1004.4 Hpa,210º (SW),14.4,3/8,3/8 SC,-,-,1.0(6h),-,-,Scattered clouds
+ALI-GOODARZ,27/05/2014,15Z,20.0,42%,1006.9 Hpa,190º (S ),54.0,4/8,2/8 SC,AC,-,-,22.2,-,Scattered clouds
+ALI-GOODARZ,27/05/2014,12Z,18.6,51%,1011.2 Hpa,180º (S ),36.0,8/8,1/8 CB,AC,CI,0.2(6h),-,-,"Overcast, rain showers"
+ALI-GOODARZ,27/05/2014,09Z,19.2,47%,1010.7 Hpa,160º (S ),25.2,7/8,3/8 SC,AC,-,-,-,-,Cloudy
+ALI-GOODARZ,27/05/2014,06Z,21.8,33%,1006.8 Hpa,170º (S ),14.4,6/8,-,-,CI,-,-,-,Cloudy
+ALI-GOODARZ,27/05/2014,03Z,12.6,56%,1009.1 Hpa,120º (SE),14.4,4/8,-,-,CI,-,-,11.8,Scattered clouds
+ALI-GOODARZ,27/05/2014,00Z,17.0,34%,1007.0 Hpa,330º (NW),14.4,2/8,-,2/8 AC,-,-,-,-,Few clouds
+ANZALI,27/05/2014,21Z,24.2,93%,1004.8 Hpa,030º (NE),18.0,3/8,-,3/8 AC,-,-,-,-,Scattered clouds
+ANZALI,27/05/2014,18Z,25.8,87%,1004.8 Hpa,calm.,,5/8,2/8 SC,AC,-,-,-,-,Cloudy
+ANZALI,27/05/2014,15Z,26.4,73%,1006.3 Hpa,160º (S ),18.0,6/8,3/8 CU,AC,-,-,27.8,-,Cloudy
+ANZALI,27/05/2014,12Z,26.2,125%,1007.5 Hpa,090º (E ),21.6,6/8,3/8 CB,AC,CI,-,-,-,Cloudy
+ANZALI,27/05/2014,09Z,26.8,72%,1009.6 Hpa,070º (E ),25.2,5/8,2/8 CU,-,CI,-,-,-,Cloudy
+ANZALI,27/05/2014,06Z,25.8,128%,1009.2 Hpa,140º (SE),10.8,4/8,3/8 CU,-,CI,-,-,-,Scattered clouds
+ANZALI,27/05/2014,03Z,23.8,88%,1011.7 Hpa,010º (N),7.2,3/8,3/8 ST,-,-,-,-,22.4,Scattered clouds
+ANZALI,27/05/2014,00Z,22.8,92%,1009.3 Hpa,240º (SW),7.2,0/8,-,-,-,-,-,-,Clear
+ARAK,27/05/2014,21Z,12.6,70%,1007.9 Hpa,calm.,,1/8,1/8 CU,-,-,-,-,-,Few clouds
+ARAK,27/05/2014,18Z,13.4,742%,1008.6 Hpa,310º (NW),14.4,1/8,1/8 CU,-,-,-,-,-,"Few clouds, haze"
+ARAK,27/05/2014,15Z,24.2,35%,1004.4 Hpa,230º (SW),14.4,3/8,3/8 CU,-,CI,-,28.2,-,"Scattered clouds, haze"
+ARAK,27/05/2014,12Z,27.4,26%,1003.9 Hpa,200º (S ),25.2,5/8,3/8 CU,AC,CI,-,-,-,"Cloudy, haze"
+ARAK,27/05/2014,09Z,25.0,29%,1006.4 Hpa,140º (SE),7.2,6/8,4/8 CB,AC,CI,-,-,-,Cloudy
+ARAK,27/05/2014,06Z,23.2,31%,1007.7 Hpa,060º (NE),10.8,3/8,1/8 CU,-,CI,-,-,-,Scattered clouds
+ARAK,27/05/2014,03Z,17.4,44%,1008.0 Hpa,110º (E ),7.2,3/8,-,-,CI,-,-,16.0,Scattered clouds
+ARAK,27/05/2014,00Z,19.0,38%,1004.9 Hpa,180º (S ),10.8,0/8,-,-,-,-,-,-,Clear
+ARDEBIL,27/05/2014,21Z,17.2,51%,1001.7 Hpa,190º (S ),21.6,0/8,-,-,-,-,-,-,Clear
+ARDEBIL,27/05/2014,18Z,19.4,43%,1004.3 Hpa,180º (S ),18.0,5/8,1/8 SC,AC,CI,-,-,-,Cloudy
+ARDEBIL,27/05/2014,15Z,23.2,30%,1004.0 Hpa,210º (SW),21.6,5/8,1/8 SC,AC,CI,-,28.0,-,Cloudy
+ARDEBIL,27/05/2014,12Z,22.6,34%,1006.1 Hpa,190º (S ),57.6,5/8,1/8 CB,AC,CS,Tr(6h),-,-,Cloudy
+ARDEBIL,27/05/2014,09Z,28.0,18%,1004.9 Hpa,210º (SW),39.6,7/8,4/8 CB,AC,CI,-,-,-,Cloudy
+ARDEBIL,27/05/2014,06Z,22.0,42%,1007.5 Hpa,calm.,,2/8,-,-,CI,-,-,-,Few clouds
+ARDEBIL,27/05/2014,03Z,15.0,75%,1007.3 Hpa,calm.,,3/8,1/8 SC,-,CI,-,-,11.0,Scattered clouds
+ARDEBIL,27/05/2014,00Z,11.6,92%,1006.5 Hpa,calm.,,3/8,3/8 SC,AC,-,-,-,-,Scattered clouds
+BABULSAR,27/05/2014,21Z,23.8,88%,1004.7 Hpa,060º (NE),25.2,7/8,-,-,CI,-,-,-,Cloudy
+BABULSAR,27/05/2014,18Z,24.0,84%,1006.5 Hpa,150º (SE),7.2,1/8,1/8 SC,-,-,-,-,-,Few clouds
+BABULSAR,27/05/2014,15Z,25.0,77%,1007.3 Hpa,330º (NW),18.0,5/8,2/8 SC,-,CI,-,28.2,-,Cloudy
+BABULSAR,27/05/2014,12Z,27.2,72%,1006.6 Hpa,360º (N ),18.0,1/8,-,-,CI,-,-,-,Few clouds
+BABULSAR,27/05/2014,09Z,26.6,72%,1009.2 Hpa,310º (NW),10.8,1/8,1/8 CU,-,-,-,-,-,Few clouds
+BABULSAR,27/05/2014,06Z,25.6,77%,1011.3 Hpa,calm.,,5/8,1/8 CU,AC,-,-,-,-,Cloudy
+BABULSAR,27/05/2014,03Z,23.0,91%,1010.3 Hpa,290º (W ),7.2,8/8,2/8 ST,AC,,-,-,22.4,"Overcast, mist"
+BABULSAR,27/05/2014,00Z,23.0,92%,1007.8 Hpa,calm.,,2/8,2/8 ST,-,-,-,-,-,Few clouds
+BAFT,27/05/2014,21Z,20.2,31%,1001.5 Hpa,060º (NE),7.2,1/8,-,-,CI,-,-,-,Few clouds
+BAFT,27/05/2014,18Z,21.6,27%,1002.7 Hpa,350º (N ),7.2,2/8,2/8 SC,-,CI,-,-,-,Few clouds
+BAFT,27/05/2014,15Z,25.8,25%,1001.9 Hpa,180º (S ),18.0,4/8,3/8 SC,-,CI,-,29.2,-,Scattered clouds
+BAFT,27/05/2014,12Z,27.4,22%,1002.1 Hpa,210º (SW),7.2,5/8,5/8 CU/SC,-,CI,-,-,-,Cloudy
+BAFT,27/05/2014,09Z,28.2,22%,1002.3 Hpa,220º (SW),18.0,5/8,2/8 CU,-,CI,-,-,-,Cloudy
+BAFT,27/05/2014,06Z,25.6,29%,1003.5 Hpa,calm.,,4/8,-,-,CI,-,-,-,Scattered clouds
+BAFT,27/05/2014,03Z,19.6,40%,1003.8 Hpa,calm.,,0/8,-,-,-,-,-,17.2,Clear
+BAFT,27/05/2014,00Z,17.4,37%,1003.1 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BAM,27/05/2014,21Z,32.2,14%,997.9 Hpa,300º (NW),7.2,0/8,-,-,-,-,-,-,Clear
+BAM,27/05/2014,18Z,34.2,14%,998.8 Hpa,290º (W ),7.2,3/8,1/8 SC,AC,-,-,-,-,Scattered clouds
+BAM,27/05/2014,15Z,38.2,9%,998.1 Hpa,240º (SW),10.8,5/8,2/8 SC,AC,-,-,42.7,-,Cloudy
+BAM,27/05/2014,12Z,41.3,8%,997.5 Hpa,250º (W ),14.4,5/8,5/8 SC,-,-,-,-,-,Cloudy
+BAM,27/05/2014,09Z,42.0,7%,998.9 Hpa,260º (W ),14.4,5/8,5/8 SC,-,-,-,-,-,Cloudy
+BAM,27/05/2014,06Z,38.6,10%,1000.6 Hpa,320º (NW),10.8,5/8,2/8 SC,-,CI,-,-,-,Cloudy
+BAM,27/05/2014,03Z,28.8,21%,1001.9 Hpa,280º (W ),18.0,8/8,-,-,CS,-,-,26.8,Overcast
+BAM,27/05/2014,00Z,28.8,21%,1000.8 Hpa,280º (W ),14.4,0/8,-,-,-,-,-,-,Clear
+BANDAR LENGEH,27/05/2014,21Z,29.8,81%,1002.7 Hpa,300º (NW),7.2,0/8,-,-,-,-,-,-,"Clear, mist"
+BANDAR LENGEH,27/05/2014,18Z,30.8,82%,1003.2 Hpa,260º (W ),18.0,0/8,-,-,-,-,-,-,"Clear, mist"
+BANDAR LENGEH,27/05/2014,15Z,32.4,71%,1002.3 Hpa,250º (W ),28.8,0/8,-,-,-,-,34.8,-,"Clear, dust"
+BANDAR LENGEH,27/05/2014,12Z,33.8,,1003.6 Hpa,220º (SW),18.0,0/8,-,-,-,-,-,-,"Clear, haze"
+BANDAR LENGEH,27/05/2014,09Z,33.0,73%,1005.3 Hpa,180º (S ),14.4,0/8,-,-,-,-,-,-,"Clear, haze"
+BANDAR LENGEH,27/05/2014,06Z,32.6,,1005.7 Hpa,140º (SE),10.8,0/8,-,-,-,-,-,-,"Clear, haze"
+BANDAR LENGEH,27/05/2014,03Z,28.8,92%,1004.2 Hpa,calm.,,4/8,4/8 ST,-,-,-,-,26.8,"Scattered clouds, mist"
+BANDAR LENGEH,27/05/2014,00Z,28.0,88%,1003.1 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, mist"
+BANDAR-E-DAYYER,27/05/2014,21Z,32.2,51%,1003.8 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BANDAR-E-DAYYER,27/05/2014,18Z,39.2,22%,1004.5 Hpa,310º (NW),14.4,0/8,-,-,-,-,-,-,Clear
+BANDAR-E-DAYYER,27/05/2014,15Z,41.6,20%,1003.0 Hpa,290º (W ),14.4,4/8,-,-,CI,-,41.8,-,Scattered clouds
+BANDAR-E-DAYYER,27/05/2014,12Z,38.4,63%,1003.1 Hpa,240º (SW),28.8,6/8,-,-,CI,-,-,-,Cloudy
+BANDAR-E-DAYYER,27/05/2014,09Z,36.6,42%,1005.1 Hpa,250º (W ),14.4,6/8,-,-,CI,-,-,-,Cloudy
+BANDAR-E-DAYYER,27/05/2014,06Z,38.8,61%,1004.9 Hpa,230º (SW),7.2,4/8,-,-,CI,-,-,-,"Scattered clouds, haze"
+BANDAR-E-DAYYER,27/05/2014,03Z,35.6,27%,-,300º (NW),7.2,0/8,-,-,-,-,-,34.9,"Clear, haze"
+BANDAR-E-DAYYER,27/05/2014,00Z,36.8,26%,1002.9 Hpa,310º (NW),18.0,0/8,-,-,-,-,-,-,"Clear, haze"
+BANDARABBASS,27/05/2014,21Z,28.6,97%,1003.6 Hpa,170º (S ),10.8,0/8,-,-,-,-,-,-,"Clear, mist"
+BANDARABBASS,27/05/2014,18Z,30.8,87%,1003.9 Hpa,130º (SE),7.2,0/8,-,-,-,-,-,-,"Clear, mist"
+BANDARABBASS,27/05/2014,15Z,32.6,75%,1002.4 Hpa,190º (S ),21.6,1/8,-,-,CI,-,36.8,-,"Few clouds, haze"
+BANDARABBASS,27/05/2014,12Z,35.7,57%,1003.2 Hpa,190º (S ),25.2,4/8,-,-,CI,-,-,-,"Scattered clouds, dust"
+BANDARABBASS,27/05/2014,09Z,35.8,52%,1005.1 Hpa,180º (S ),25.2,3/8,-,-,CI,-,-,-,"Scattered clouds, dust"
+BANDARABBASS,27/05/2014,06Z,36.5,51%,1005.8 Hpa,150º (SE),10.8,2/8,-,-,CI,-,-,-,"Few clouds, haze"
+BANDARABBASS,27/05/2014,03Z,29.8,72%,1004.8 Hpa,020º (N),7.2,5/8,-,-,CI,-,-,26.0,"Cloudy, haze"
+BANDARABBASS,27/05/2014,00Z,27.4,80%,1003.6 Hpa,350º (N ),7.2,0/8,-,-,-,-,-,-,"Clear, mist"
+BIRJAND,27/05/2014,21Z,21.6,27%,1003.0 Hpa,070º (E ),7.2,0/8,-,-,-,-,-,-,Clear
+BIRJAND,27/05/2014,18Z,25.8,23%,1002.4 Hpa,040º (NE),10.8,4/8,2/8 SC,AC,-,-,-,-,Scattered clouds
+BIRJAND,27/05/2014,15Z,29.3,17%,1002.1 Hpa,290º (W ),7.2,2/8,1/8 SC,AC,CI,-,32.8,-,Few clouds
+BIRJAND,27/05/2014,12Z,29.0,20%,1003.7 Hpa,120º (SE),28.8,5/8,1/8 CB,AC,CI,-,-,-,Cloudy
+BIRJAND,27/05/2014,09Z,30.0,19%,1004.8 Hpa,080º (E ),32.4,7/8,7/8 CB,AC,CI,-,-,-,Cloudy
+BIRJAND,27/05/2014,06Z,32.1,11%,1002.9 Hpa,060º (NE),14.4,3/8,3/8 CB,-,-,-,-,-,Scattered clouds
+BIRJAND,27/05/2014,03Z,24.3,19%,1003.8 Hpa,070º (E ),7.2,3/8,2/8 CU,AC,CC,-,-,21.9,Scattered clouds
+BIRJAND,27/05/2014,00Z,21.9,19%,1002.9 Hpa,030º (NE),14.4,2/8,1/8 SC,-,CI,-,-,-,Few clouds
+BOJNOURD,27/05/2014,21Z,21.6,55%,1005.0 Hpa,calm.,,1/8,1/8 SC,-,-,-,-,-,Few clouds
+BOJNOURD,27/05/2014,18Z,22.4,57%,1005.9 Hpa,calm.,,3/8,1/8 SC,AC,-,-,-,-,Scattered clouds
+BOJNOURD,27/05/2014,15Z,26.2,38%,1007.3 Hpa,calm.,,7/8,5/8 CB,AC,-,-,31.8,-,Cloudy
+BOJNOURD,27/05/2014,12Z,27.6,29%,1007.9 Hpa,080º (E ),7.2,4/8,3/8 CB,AC,-,0.4(6h),-,-,"Scattered clouds, thunderstorms"
+BOJNOURD,27/05/2014,09Z,31.2,23%,1006.3 Hpa,280º (W ),14.4,4/8,1/8 SC,AC,-,-,-,-,Scattered clouds
+BOJNOURD,27/05/2014,06Z,28.8,27%,1006.1 Hpa,calm.,,2/8,-,2/8 AC,-,-,-,-,Few clouds
+BOJNOURD,27/05/2014,03Z,21.2,57%,1006.7 Hpa,calm.,,1/8,1/8 CU,AC,-,-,-,18.2,Few clouds
+BOJNOURD,27/05/2014,00Z,19.6,52%,1005.7 Hpa,220º (SW),7.2,0/8,-,-,-,-,-,-,Clear
+BUSHEHR,27/05/2014,21Z,31.6,38%,1003.6 Hpa,060º (NE),7.2,0/8,-,-,-,-,-,-,Clear
+BUSHEHR,27/05/2014,18Z,32.2,49%,1004.9 Hpa,320º (NW),3.6,1/8,-,1/8 AC,-,-,-,-,Few clouds
+BUSHEHR,27/05/2014,15Z,34.0,48%,1004.2 Hpa,340º (N ),7.2,2/8,-,2/8 AC,-,-,36.3,-,Few clouds
+BUSHEHR,27/05/2014,12Z,34.0,80%,1005.0 Hpa,300º (NW),18.0,1/8,-,1/8 AC,-,-,-,-,Few clouds
+BUSHEHR,27/05/2014,09Z,34.5,65%,1005.4 Hpa,290º (W ),7.2,3/8,-,3/8 AC,-,-,-,-,Scattered clouds
+BUSHEHR,27/05/2014,06Z,34.0,139%,1005.6 Hpa,220º (SW),7.2,2/8,-,-,CI,-,-,-,Few clouds
+BUSHEHR,27/05/2014,03Z,30.1,70%,1004.8 Hpa,160º (S ),3.6,2/8,-,-,CI,-,-,29.1,Few clouds
+BUSHEHR,27/05/2014,00Z,30.9,55%,1004.0 Hpa,030º (NE),7.2,0/8,-,-,-,-,-,-,Clear
+BUSHEHR (AIRPORT),27/05/2014,21Z,33.2,39%,1003.8 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BUSHEHR (AIRPORT),27/05/2014,18Z,31.4,57%,1004.9 Hpa,calm.,,3/8,-,3/8 AC,-,-,-,-,Scattered clouds
+BUSHEHR (AIRPORT),27/05/2014,15Z,32.6,61%,1004.3 Hpa,calm.,,5/8,-,5/8 AC,-,-,36.6,-,Cloudy
+BUSHEHR (AIRPORT),27/05/2014,12Z,34.6,51%,1005.2 Hpa,290º (W ),21.6,1/8,-,1/8 AC,-,-,-,-,Few clouds
+BUSHEHR (AIRPORT),27/05/2014,09Z,35.2,50%,1005.7 Hpa,280º (W ),10.8,5/8,-,-,CC,-,-,-,Cloudy
+BUSHEHR (AIRPORT),27/05/2014,06Z,36.0,46%,1005.8 Hpa,260º (W ),10.8,1/8,-,-,CI,-,-,-,Few clouds
+BUSHEHR (AIRPORT),27/05/2014,03Z,28.0,79%,1004.7 Hpa,calm.,,2/8,-,-,CI,-,-,28.0,Few clouds
+BUSHEHR (AIRPORT),27/05/2014,00Z,31.6,46%,1004.2 Hpa,calm.,,2/8,-,2/8 AC,-,-,-,-,Few clouds
+CHAHBAHAR,27/05/2014,21Z,,,1004.3 Hpa,calm.,,5/8,5/8 ST,-,-,-,-,-,"Cloudy, mist"
+CHAHBAHAR,27/05/2014,18Z,,,1004.5 Hpa,calm.,,4/8,4/8 ST,-,-,-,-,-,"Scattered clouds, mist"
+CHAHBAHAR,27/05/2014,15Z,30.5,713%,1003.9 Hpa,130º (SE),7.2,0/8,-,-,-,-,33.5,-,"Clear, mist"
+CHAHBAHAR,27/05/2014,12Z,31.8,1008%,1003.7 Hpa,150º (SE),10.8,0/8,-,-,-,-,-,-,"Clear, mist"
+CHAHBAHAR,27/05/2014,09Z,32.9,1405%,1005.7 Hpa,140º (SE),10.8,0/8,-,-,-,-,-,-,"Clear, mist"
+CHAHBAHAR,27/05/2014,06Z,31.4,1529%,1006.2 Hpa,130º (SE),14.4,0/8,-,-,-,-,-,-,"Clear, mist"
+CHAHBAHAR,27/05/2014,03Z,31.2,13%,1005.3 Hpa,100º (E ),7.2,0/8,-,-,-,-,-,28.5,"Clear, haze"
+CHAHBAHAR,27/05/2014,00Z,,,1004.0 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, haze"
+ESFAHAN,27/05/2014,21Z,23.6,30%,1003.5 Hpa,210º (SW),7.2,7/8,-,-,CI,-,-,-,Cloudy
+ESFAHAN,27/05/2014,18Z,22.0,42%,1005.4 Hpa,calm.,,4/8,-,-,CI,0.2(6h),-,-,Scattered clouds
+ESFAHAN,27/05/2014,15Z,25.8,32%,1006.1 Hpa,150º (SE),7.2,7/8,3/8 SC,-,CI,-,31.0,-,Cloudy
+ESFAHAN,27/05/2014,12Z,27.2,22%,1005.0 Hpa,300º (NW),43.2,7/8,1/8 CB,AC,-,-,-,-,Cloudy
+ESFAHAN,27/05/2014,09Z,29.8,16%,1004.9 Hpa,270º (W ),25.2,6/8,1/8 CB,-,-,-,-,-,Cloudy
+ESFAHAN,27/05/2014,06Z,27.4,21%,1005.0 Hpa,270º (W ),18.0,3/8,-,-,CI,-,-,-,Scattered clouds
+ESFAHAN,27/05/2014,03Z,20.4,33%,1005.6 Hpa,270º (W ),10.8,6/8,-,-,CI,-,-,19.8,Cloudy
+ESFAHAN,27/05/2014,00Z,21.8,28%,1003.6 Hpa,280º (W ),18.0,0/8,-,-,-,-,-,-,Clear
+FASA,27/05/2014,21Z,27.6,17%,1001.1 Hpa,320º (NW),21.6,0/8,-,-,-,-,-,-,Clear
+FASA,27/05/2014,18Z,29.6,14%,1001.3 Hpa,290º (W ),18.0,0/8,-,-,-,-,-,-,Clear
+FASA,27/05/2014,15Z,34.4,11%,1000.0 Hpa,280º (W ),21.6,4/8,1/8 SC,AC,CI,-,37.6,-,Scattered clouds
+FASA,27/05/2014,12Z,37.4,8%,999.6 Hpa,280º (W ),21.6,4/8,2/8 SC,-,CI,-,-,-,Scattered clouds
+FASA,27/05/2014,09Z,35.8,,1001.2 Hpa,330º (NW),14.4,3/8,1/8 CU,-,CI,-,-,-,Scattered clouds
+FASA,27/05/2014,06Z,32.6,12%,1002.2 Hpa,300º (NW),14.4,5/8,-,-,CI,-,-,-,Cloudy
+FASA,27/05/2014,03Z,22.8,31%,1002.1 Hpa,calm.,,2/8,-,-,CI,-,-,19.6,Few clouds
+FASA,27/05/2014,00Z,22.8,30%,1000.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+FERDOUS,27/05/2014,21Z,25.6,29%,1000.2 Hpa,100º (E ),10.8,2/8,-,-,CI,-,-,-,Few clouds
+FERDOUS,27/05/2014,18Z,28.6,23%,1001.0 Hpa,110º (E ),14.4,4/8,3/8 SC,-,CI,-,-,-,"Scattered clouds, thunderstorms"
+FERDOUS,27/05/2014,15Z,32.0,20%,1000.0 Hpa,040º (NE),10.8,5/8,4/8 SC,AC,CI,-,35.8,-,Cloudy
+FERDOUS,27/05/2014,12Z,33.6,16%,1000.7 Hpa,200º (S ),25.2,7/8,2/8 CB,AC,CI,-,-,-,Cloudy
+FERDOUS,27/05/2014,09Z,35.4,16%,1000.9 Hpa,180º (S ),18.0,6/8,5/8 SC,AC,-,-,-,-,Cloudy
+FERDOUS,27/05/2014,06Z,32.6,20%,1002.1 Hpa,calm.,,2/8,1/8 SC,AC,-,-,-,-,Few clouds
+FERDOUS,27/05/2014,03Z,26.6,31%,1002.2 Hpa,090º (E ),10.8,2/8,1/8 SC,AC,-,-,-,22.4,Few clouds
+FERDOUS,27/05/2014,00Z,22.6,30%,1002.3 Hpa,040º (NE),10.8,0/8,-,-,-,-,-,-,Clear
+GACH SARAN DU GUNBADAN,27/05/2014,21Z,28.6,22%,1004.8 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+GACH SARAN DU GUNBADAN,27/05/2014,18Z,32.3,17%,1005.3 Hpa,320º (NW),7.2,0/8,-,-,-,-,-,-,Clear
+GACH SARAN DU GUNBADAN,27/05/2014,15Z,30.4,15%,1005.7 Hpa,290º (W ),21.6,8/8,3/8 SC,-,CI,-,40.6,-,Overcast
+GACH SARAN DU GUNBADAN,27/05/2014,12Z,38.0,12%,1004.7 Hpa,320º (NW),14.4,6/8,-,-,CI,-,-,-,Cloudy
+GACH SARAN DU GUNBADAN,27/05/2014,09Z,38.6,11%,1005.8 Hpa,280º (W ),32.4,6/8,-,-,CI,-,-,-,Cloudy
+GACH SARAN DU GUNBADAN,27/05/2014,06Z,36.8,12%,1005.8 Hpa,calm.,,3/8,-,-,CI,-,-,-,Scattered clouds
+GACH SARAN DU GUNBADAN,27/05/2014,03Z,28.0,23%,1005.3 Hpa,calm.,,3/8,-,-,CI,-,-,25.8,Scattered clouds
+GACH SARAN DU GUNBADAN,27/05/2014,00Z,30.4,18%,1004.0 Hpa,calm.,,5/8,-,-,CI,-,-,-,Cloudy
+GHARAKHIL,27/05/2014,21Z,23.6,86%,1004.9 Hpa,060º (NE),14.4,8/8,2/8 SC,AC,,-,-,-,Overcast
+GHARAKHIL,27/05/2014,18Z,23.2,89%,1007.0 Hpa,240º (SW),7.2,7/8,-,7/8 AC,-,-,-,-,Cloudy
+GHARAKHIL,27/05/2014,15Z,27.4,76%,1007.0 Hpa,360º (N ),10.8,4/8,-,2/8 AC,CI,-,32.4,-,Scattered clouds
+GHARAKHIL,27/05/2014,12Z,32.2,51%,1006.4 Hpa,350º (N ),10.8,2/8,-,1/8 AC,CI,-,-,-,Few clouds
+GHARAKHIL,27/05/2014,09Z,29.0,68%,1009.4 Hpa,240º (SW),10.8,1/8,-,1/8 AC,-,-,-,-,Few clouds
+GHARAKHIL,27/05/2014,06Z,24.8,78%,1011.9 Hpa,230º (SW),7.2,6/8,-,6/8 AC,-,-,-,-,Cloudy
+GHARAKHIL,27/05/2014,03Z,20.4,94%,1010.9 Hpa,240º (SW),10.8,8/8,-,8/8 AC,,-,-,18.8,Overcast
+GHARAKHIL,27/05/2014,00Z,19.0,96%,1008.3 Hpa,140º (SE),7.2,1/8,-,1/8 AC,-,-,-,-,Few clouds
+GHAZVIN,27/05/2014,21Z,16.0,68%,1007.0 Hpa,calm.,,4/8,1/8 CB,-,CI,-,-,-,Scattered clouds
+GHAZVIN,27/05/2014,18Z,18.0,301%,1010.0 Hpa,180º (S ),7.2,8/8,1/8 CB,AC,,Tr(6h),-,-,"Overcast, rain"
+GHAZVIN,27/05/2014,15Z,19.0,60%,1008.4 Hpa,calm.,,7/8,2/8 CB,AC,-,-,32.0,-,"Cloudy, rain showers"
+GHAZVIN,27/05/2014,12Z,27.2,20%,1006.8 Hpa,360º (N ),14.4,7/8,3/8 CB,AC,-,-,-,-,Cloudy
+GHAZVIN,27/05/2014,09Z,30.8,13%,1006.1 Hpa,270º (W ),14.4,2/8,2/8 CU,-,-,-,-,-,Few clouds
+GHAZVIN,27/05/2014,06Z,27.6,14%,1008.2 Hpa,230º (SW),10.8,0/8,-,-,-,-,-,-,Clear
+GHAZVIN,27/05/2014,03Z,17.4,42%,1008.7 Hpa,calm.,,0/8,-,-,-,-,-,13.9,Clear
+GHAZVIN,27/05/2014,00Z,14.8,39%,1007.4 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+GHUCHAN,27/05/2014,21Z,17.0,52%,1001.7 Hpa,150º (SE),10.8,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+GHUCHAN,27/05/2014,18Z,21.2,42%,1003.1 Hpa,270º (W ),7.2,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+GHUCHAN,27/05/2014,15Z,26.8,30%,1002.9 Hpa,030º (NE),14.4,4/8,4/8 SC,-,-,-,33.2,-,Scattered clouds
+GHUCHAN,27/05/2014,12Z,29.4,23%,1001.8 Hpa,060º (NE),7.2,7/8,7/8 SC,-,-,-,-,-,Cloudy
+GHUCHAN,27/05/2014,09Z,30.8,21%,1002.2 Hpa,120º (SE),10.8,5/8,5/8 CU/SC,-,-,-,-,-,Cloudy
+GHUCHAN,27/05/2014,06Z,29.4,22%,1002.6 Hpa,100º (E ),21.6,3/8,1/8 SC,-,CI,-,-,-,Scattered clouds
+GHUCHAN,27/05/2014,03Z,22.4,37%,1003.3 Hpa,070º (E ),14.4,3/8,1/8 CU,-,CI,-,-,18.1,Scattered clouds
+GHUCHAN,27/05/2014,00Z,20.8,33%,1003.5 Hpa,340º (N ),10.8,0/8,-,-,-,-,-,-,Clear
+GORGAN,27/05/2014,21Z,21.4,90%,1007.5 Hpa,210º (SW),10.8,4/8,-,-,CI,-,-,-,Scattered clouds
+GORGAN,27/05/2014,18Z,25.0,83%,1009.1 Hpa,020º (N),14.4,0/8,-,-,-,-,-,-,Clear
+GORGAN,27/05/2014,15Z,31.6,45%,1008.0 Hpa,calm.,,4/8,1/8 CU,-,CI,-,34.0,-,Scattered clouds
+GORGAN,27/05/2014,12Z,33.6,34%,1008.4 Hpa,060º (NE),7.2,5/8,1/8 CU,-,CI,-,-,-,"Cloudy, haze"
+GORGAN,27/05/2014,09Z,30.2,46%,1011.0 Hpa,220º (SW),18.0,5/8,2/8 CU,AC,-,-,-,-,"Cloudy, haze"
+GORGAN,27/05/2014,06Z,26.6,58%,1012.8 Hpa,270º (W ),25.2,8/8,3/8 SC,AC,,-,-,-,"Overcast, haze"
+GORGAN,27/05/2014,03Z,21.4,85%,1010.7 Hpa,240º (SW),10.8,3/8,1/8 CU,AC,-,-,-,18.2,Scattered clouds
+GORGAN,27/05/2014,00Z,19.0,88%,1008.8 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+HAMEDAN,27/05/2014,21Z,11.8,92%,1006.9 Hpa,130º (SE),7.2,6/8,6/8 CB,-,-,-,-,-,Cloudy
+HAMEDAN,27/05/2014,18Z,11.9,432%,1009.1 Hpa,310º (NW),7.2,7/8,4/8 CB,AC,-,6.0(6h),-,-,"Cloudy, thunderstorm"
+HAMEDAN,27/05/2014,15Z,15.1,70%,1010.0 Hpa,050º (NE),25.2,8/8,5/8 CB,-,-,-,27.1,-,"Overcast, thunderstorm no precipitation"
+HAMEDAN,27/05/2014,12Z,22.3,31%,1009.6 Hpa,230º (SW),50.4,8/8,3/8 CB,AC,CI,Tr(6h),-,-,"Overcast, thunderstorm"
+HAMEDAN,27/05/2014,09Z,25.0,26%,1006.0 Hpa,260º (W ),10.8,4/8,4/8 CB,-,-,-,-,-,"Scattered clouds, thunderstorms"
+HAMEDAN,27/05/2014,06Z,24.4,21%,1005.9 Hpa,200º (S ),3.6,1/8,-,-,CI,-,-,-,Few clouds
+HAMEDAN,27/05/2014,03Z,11.3,52%,1010.9 Hpa,160º (S ),3.6,1/8,1/8 CU,-,-,-,-,8.2,Few clouds
+HAMEDAN,27/05/2014,00Z,9.0,54%,1013.7 Hpa,170º (S ),3.6,0/8,-,-,-,-,-,-,Clear
+ILAM,27/05/2014,18Z,24.2,20%,1004.6 Hpa,220º (SW),14.4,0/8,-,-,-,-,-,-,Clear
+ILAM,27/05/2014,15Z,28.6,16%,1004.6 Hpa,180º (S ),14.4,3/8,3/8 SC,-,-,-,31.0,-,"Scattered clouds, dust"
+ILAM,27/05/2014,12Z,29.0,24%,1004.8 Hpa,140º (SE),25.2,7/8,4/8 CB,AC,-,-,-,-,Cloudy
+ILAM,27/05/2014,09Z,28.0,22%,1005.9 Hpa,200º (S ),21.6,7/8,4/8 CB,AC,-,-,-,-,Cloudy
+ILAM,27/05/2014,06Z,28.0,21%,1006.6 Hpa,120º (SE),7.2,3/8,-,4/8 AC,-,-,-,-,Scattered clouds
+ILAM,27/05/2014,03Z,17.0,32%,1007.1 Hpa,100º (E ),10.8,0/8,-,-,-,-,-,15.2,Clear
+ILAM,27/05/2014,00Z,16.0,33%,1007.1 Hpa,070º (E ),10.8,0/8,-,-,-,-,-,-,Clear
+IRANSHAHR,27/05/2014,18Z,37.2,14%,1001.8 Hpa,280º (W ),7.2,2/8,-,-,CI,-,-,-,Few clouds
+IRANSHAHR,27/05/2014,15Z,41.6,10%,1000.3 Hpa,270º (W ),14.4,6/8,2/8 SC,AC,CI,-,44.4,-,Cloudy
+IRANSHAHR,27/05/2014,12Z,43.8,9%,1000.4 Hpa,calm.,,5/8,1/8 CU,-,CI,-,-,-,Cloudy
+IRANSHAHR,27/05/2014,09Z,42.6,9%,1003.0 Hpa,240º (SW),10.8,4/8,-,-,CI,-,-,-,Scattered clouds
+IRANSHAHR,27/05/2014,06Z,38.7,13%,1004.7 Hpa,calm.,,3/8,-,-,CI,-,-,-,Scattered clouds
+IRANSHAHR,27/05/2014,03Z,31.6,18%,1004.6 Hpa,040º (NE),7.2,0/8,-,-,-,-,-,29.4,Clear
+IRANSHAHR,27/05/2014,00Z,29.8,20%,1003.1 Hpa,calm.,,1/8,-,-,CI,-,-,-,Few clouds
+JASK,27/05/2014,21Z,29.8,95%,1004.0 Hpa,110º (E ),14.4,0/8,-,-,-,-,-,-,"Clear, mist"
+JASK,27/05/2014,18Z,31.0,92%,1004.7 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, mist"
+JASK,27/05/2014,15Z,31.8,92%,1002.9 Hpa,150º (SE),7.2,0/8,-,-,-,-,33.6,-,"Clear, mist"
+JASK,27/05/2014,12Z,33.4,239%,1003.6 Hpa,170º (S ),10.8,0/8,-,-,-,-,-,-,"Clear, mist"
+JASK,27/05/2014,09Z,33.2,84%,1005.8 Hpa,180º (S ),7.2,0/8,-,-,-,-,-,-,"Clear, mist"
+JASK,27/05/2014,06Z,30.6,281%,1005.9 Hpa,130º (SE),14.4,2/8,-,-,CI,-,-,-,"Few clouds, mist"
+JASK,27/05/2014,03Z,29.4,91%,1004.1 Hpa,100º (E ),10.8,0/8,-,-,-,-,-,28.0,"Clear, mist"
+JASK,27/05/2014,00Z,29.0,89%,1003.5 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, mist"
+KAHNUJ,27/05/2014,21Z,33.5,23%,998.2 Hpa,230º (SW),32.4,0/8,-,-,-,-,-,-,Clear
+KAHNUJ,27/05/2014,18Z,35.1,21%,998.7 Hpa,210º (SW),32.4,0/8,-,-,-,-,-,-,Clear
+KAHNUJ,27/05/2014,15Z,39.3,13%,997.1 Hpa,240º (SW),36.0,5/8,2/8 SC,-,CI,-,43.2,-,Cloudy
+KAHNUJ,27/05/2014,12Z,42.5,11%,997.0 Hpa,240º (SW),18.0,5/8,2/8 SC,-,CI,-,-,-,Cloudy
+KAHNUJ,27/05/2014,09Z,41.9,11%,999.3 Hpa,240º (SW),28.8,5/8,2/8 SC,-,CI,-,-,-,Cloudy
+KAHNUJ,27/05/2014,06Z,38.7,14%,1000.7 Hpa,210º (SW),36.0,0/8,-,-,-,-,-,-,Clear
+KAHNUJ,27/05/2014,03Z,29.9,25%,1000.8 Hpa,calm.,,0/8,-,-,-,-,-,27.4,Clear
+KAHNUJ,27/05/2014,00Z,32.0,19%,998.8 Hpa,270º (W ),180.0,0/8,-,-,-,-,-,-,Clear
+KASHAN,27/05/2014,21Z,23.4,31%,1009.2 Hpa,030º (NE),14.4,0/8,-,-,-,-,-,-,Clear
+KASHAN,27/05/2014,18Z,29.0,22%,1005.7 Hpa,330º (NW),21.6,3/8,-,-,CI,-,-,-,Scattered clouds
+KASHAN,27/05/2014,15Z,32.0,15%,1004.7 Hpa,270º (W ),25.2,5/8,1/8 SC,-,CI,-,36.0,-,Cloudy
+KASHAN,27/05/2014,12Z,34.0,17%,1005.1 Hpa,260º (W ),21.6,5/8,2/8 SC,-,CI,-,-,-,Cloudy
+KASHAN,27/05/2014,09Z,34.0,19%,1006.3 Hpa,240º (SW),14.4,6/8,2/8 SC,-,CI,-,-,-,Cloudy
+KASHAN,27/05/2014,06Z,30.2,27%,1007.7 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KASHAN,27/05/2014,03Z,22.4,43%,1007.7 Hpa,calm.,,6/8,-,-,CI,-,-,22.0,Cloudy
+KASHAN,27/05/2014,00Z,25.0,31%,1004.7 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KASHMAR,27/05/2014,21Z,28.8,16%,999.9 Hpa,100º (E ),7.2,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+KASHMAR,27/05/2014,18Z,29.8,13%,1001.1 Hpa,020º (N),7.2,1/8,-,-,CI,-,-,-,Few clouds
+KASHMAR,27/05/2014,15Z,34.0,9%,1000.2 Hpa,calm.,,4/8,2/8 CU,-,CI,-,36.0,-,Scattered clouds
+KASHMAR,27/05/2014,12Z,35.4,11%,1001.0 Hpa,300º (NW),14.4,4/8,2/8 CU,-,CI,-,-,-,Scattered clouds
+KASHMAR,27/05/2014,09Z,35.6,10%,1003.0 Hpa,150º (SE),14.4,2/8,2/8 CU,-,-,-,-,-,Few clouds
+KASHMAR,27/05/2014,06Z,32.8,12%,1004.0 Hpa,090º (E ),25.2,0/8,-,-,-,-,-,-,Clear
+KASHMAR,27/05/2014,03Z,30.0,15%,1002.9 Hpa,090º (E ),18.0,2/8,2/8 CU,-,-,-,-,25.6,Few clouds
+KASHMAR,27/05/2014,00Z,25.8,17%,1002.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KERMAN,27/05/2014,21Z,24.0,20%,1001.1 Hpa,330º (NW),7.2,2/8,2/8 SC,-,-,-,-,-,Few clouds
+KERMAN,27/05/2014,18Z,27.0,18%,1001.3 Hpa,360º (N ),7.2,4/8,3/8 SC,-,CI,-,-,-,Scattered clouds
+KERMAN,27/05/2014,15Z,31.0,13%,1001.2 Hpa,300º (NW),21.6,7/8,2/8 SC,AC,CI,-,35.2,-,Cloudy
+KERMAN,27/05/2014,12Z,33.4,11%,1000.4 Hpa,280º (W ),25.2,6/8,4/8 CB,AC,-,-,-,-,Cloudy
+KERMAN,27/05/2014,09Z,32.6,13%,1001.7 Hpa,270º (W ),18.0,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+KERMAN,27/05/2014,06Z,30.6,20%,1003.2 Hpa,150º (SE),10.8,6/8,-,-,CI,Tr(24h),-,-,Cloudy
+KERMAN,27/05/2014,03Z,20.0,37%,1005.5 Hpa,120º (SE),10.8,1/8,1/8 SC,-,-,-,-,16.8,Few clouds
+KERMAN,27/05/2014,00Z,20.0,34%,1003.3 Hpa,120º (SE),10.8,2/8,2/8 SC,-,-,-,-,-,Few clouds
+KERMANSHAH,27/05/2014,21Z,11.7,87%,1006.3 Hpa,140º (SE),7.2,0/8,-,-,-,-,-,-,Clear
+KERMANSHAH,27/05/2014,18Z,15.3,68%,1006.2 Hpa,140º (SE),7.2,2/8,2/8 SC,-,-,3.0(6h),-,-,Few clouds
+KERMANSHAH,27/05/2014,15Z,21.3,49%,-,080º (E ),10.8,8/8,-,-,-,-,-,-,Overcast
+KERMANSHAH,27/05/2014,12Z,27.8,21%,1005.6 Hpa,030º (NE),7.2,7/8,6/8 CB,AC,-,0.1(6h),-,-,"Cloudy, thunderstorm"
+KERMANSHAH,27/05/2014,09Z,30.0,13%,1007.2 Hpa,160º (S ),25.2,4/8,4/8 SC,-,-,-,-,-,Scattered clouds
+KERMANSHAH,27/05/2014,06Z,26.4,14%,1007.9 Hpa,120º (SE),18.0,1/8,1/8 CU,-,-,-,-,-,Few clouds
+KERMANSHAH,27/05/2014,03Z,13.3,38%,1009.7 Hpa,340º (N ),7.2,1/8,1/8 SC,-,-,-,-,11.3,Few clouds
+KERMANSHAH,27/05/2014,00Z,16.2,25%,1008.3 Hpa,300º (NW),7.2,0/8,-,-,-,-,-,-,Clear
+KHARG,27/05/2014,15Z,33.2,64%,1004.6 Hpa,calm.,,8/8,-,3/8 AC,CS,-,39.7,-,Overcast
+KHARG,27/05/2014,12Z,33.7,58%,1006.0 Hpa,340º (N ),21.6,5/8,-,3/8 AC,CI,-,-,-,Cloudy
+KHARG,27/05/2014,09Z,37.7,34%,1006.3 Hpa,290º (W ),10.8,3/8,-,-,CI,-,-,-,Scattered clouds
+KHARG,27/05/2014,06Z,35.7,51%,1006.5 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KHARG,27/05/2014,03Z,30.3,73%,1004.9 Hpa,170º (S ),7.2,4/8,2/8 CU,-,CI,-,-,29.0,Scattered clouds
+KHOR,27/05/2014,21Z,32.2,15%,1001.1 Hpa,260º (W ),7.2,0/8,-,-,-,-,-,-,Clear
+KHOR,27/05/2014,18Z,33.6,13%,1001.4 Hpa,calm.,,6/8,2/8 SC,-,CI,-,-,-,Cloudy
+KHOR,27/05/2014,15Z,36.6,12%,1001.1 Hpa,270º (W ),7.2,5/8,1/8 SC,AC,CI,-,38.6,-,Cloudy
+KHOR,27/05/2014,12Z,37.6,13%,1001.2 Hpa,340º (N ),7.2,2/8,-,-,CI,-,-,-,Few clouds
+KHOR,27/05/2014,09Z,37.6,11%,1003.1 Hpa,calm.,,6/8,1/8 SC,AC,CI,-,-,-,Cloudy
+KHOR,27/05/2014,06Z,34.6,11%,1003.6 Hpa,calm.,,5/8,1/8 SC,AC,CI,-,-,-,Cloudy
+KHOR,27/05/2014,03Z,26.8,18%,1002.7 Hpa,300º (NW),7.2,2/8,-,1/8 AC,CI,-,-,24.0,Few clouds
+KHOR,27/05/2014,00Z,27.6,18%,1001.7 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KHORRAM ABAD,27/05/2014,21Z,25.6,25%,1004.0 Hpa,180º (S ),7.2,0/8,-,-,-,-,-,-,Clear
+KHORRAM ABAD,27/05/2014,18Z,27.4,23%,1005.8 Hpa,180º (S ),7.2,0/8,-,-,-,-,-,-,Clear
+KHORRAM ABAD,27/05/2014,15Z,29.0,21%,1005.5 Hpa,150º (SE),10.8,1/8,1/8 SC,-,-,-,31.4,-,Few clouds
+KHORRAM ABAD,27/05/2014,12Z,31.0,21%,1006.2 Hpa,100º (E ),28.8,4/8,3/8 SC,AC,-,Tr(6h),-,-,Scattered clouds
+KHORRAM ABAD,27/05/2014,09Z,30.8,19%,1007.3 Hpa,120º (SE),14.4,4/8,2/8 SC,AC,-,-,-,-,Scattered clouds
+KHORRAM ABAD,27/05/2014,06Z,22.8,33%,1008.5 Hpa,090º (E ),18.0,8/8,2/8 CB,AC,CI,0.4(6h),-,-,Overcast
+KHORRAM ABAD,27/05/2014,03Z,17.4,46%,1008.6 Hpa,calm.,,1/8,-,-,CI,-,-,13.6,Few clouds
+KHORRAM ABAD,27/05/2014,00Z,17.8,42%,1014.9 Hpa,140º (SE),7.2,3/8,2/8 SC,AC,-,-,-,-,Scattered clouds
+KHOY,27/05/2014,21Z,15.0,79%,1005.9 Hpa,150º (SE),10.8,2/8,2/8 SC,-,-,-,-,-,Few clouds
+KHOY,27/05/2014,18Z,17.6,63%,1006.6 Hpa,calm.,,5/8,2/8 CB,AC,CI,0.2(6h),-,-,"Cloudy, lightning"
+KHOY,27/05/2014,15Z,20.6,50%,1004.8 Hpa,040º (NE),18.0,5/8,5/8 CB,-,-,-,25.6,-,Cloudy
+KHOY,27/05/2014,12Z,23.0,43%,1005.6 Hpa,090º (E ),10.8,6/8,3/8 ST,AC,-,Tr(6h),-,-,"Cloudy, thunderstorm"
+KHOY,27/05/2014,09Z,24.4,28%,1008.6 Hpa,180º (S ),28.8,5/8,5/8 CB,-,-,-,-,-,Cloudy
+KHOY,27/05/2014,06Z,20.0,57%,1010.6 Hpa,120º (SE),10.8,2/8,2/8 CU,-,-,4.6(24h),-,-,Few clouds
+KHOY,27/05/2014,03Z,13.4,84%,1010.7 Hpa,calm.,,0/8,-,-,-,-,-,13.0,Clear
+KHOY,27/05/2014,00Z,14.0,81%,1010.7 Hpa,calm.,,5/8,5/8 CB,-,-,2.0(6h),-,-,Cloudy
+KISH ISLAND,27/05/2014,21Z,30.0,74%,1002.8 Hpa,290º (W ),21.6,0/8,-,-,-,-,-,-,"Clear, haze"
+KISH ISLAND,27/05/2014,18Z,30.2,87%,1003.6 Hpa,280º (W ),21.6,0/8,-,-,-,-,-,-,"Clear, mist"
+KISH ISLAND,27/05/2014,15Z,31.8,81%,1002.6 Hpa,280º (W ),18.0,1/8,-,-,CI,-,35.8,-,"Few clouds, mist"
+KISH ISLAND,27/05/2014,12Z,32.4,76%,1003.6 Hpa,230º (SW),14.4,0/8,-,-,-,-,-,-,"Clear, haze"
+KISH ISLAND,27/05/2014,09Z,34.8,58%,1005.3 Hpa,200º (S ),18.0,2/8,-,-,CI,-,-,-,"Few clouds, haze"
+KISH ISLAND,27/05/2014,06Z,31.8,72%,1005.4 Hpa,120º (SE),14.4,3/8,-,-,CI,-,-,-,"Scattered clouds, haze"
+KISH ISLAND,27/05/2014,03Z,27.4,100%,1003.3 Hpa,110º (E ),7.2,1/8,1/8 ST,-,-,-,-,26.6,"Few clouds, fog"
+KISH ISLAND,27/05/2014,00Z,27.0,100%,1002.3 Hpa,280º (W ),18.0,0/8,-,-,-,-,-,-,"Clear, fog"
+MAKKO,27/05/2014,21Z,14.0,69%,1006.9 Hpa,330º (NW),10.8,7/8,7/8 CB,-,-,-,-,-,Cloudy
+MAKKO,27/05/2014,18Z,14.8,72%,1007.4 Hpa,330º (NW),10.8,7/8,2/8 CB,AC,-,0.4(6h),-,-,"Cloudy, thunderstorms"
+MAKKO,27/05/2014,15Z,16.6,66%,1007.2 Hpa,240º (SW),10.8,6/8,6/8 CB,-,-,-,20.8,-,Cloudy
+MAKKO,27/05/2014,12Z,20.0,49%,1007.5 Hpa,150º (SE),10.8,6/8,6/8 CB,-,-,-,-,-,Cloudy
+MAKKO,27/05/2014,09Z,19.8,43%,1007.5 Hpa,030º (NE),18.0,6/8,6/8 CB,-,-,-,-,-,Cloudy
+MAKKO,27/05/2014,06Z,18.0,56%,1009.3 Hpa,calm.,,0/8,-,-,-,0.5(24h),-,-,Clear
+MAKKO,27/05/2014,03Z,12.0,75%,1010.0 Hpa,090º (E ),7.2,1/8,1/8 CU,-,-,-,-,11.0,Few clouds
+MAKKO,27/05/2014,00Z,11.4,79%,1010.3 Hpa,240º (SW),10.8,3/8,3/8 SC,-,-,0.5(6h),-,-,Scattered clouds
+MARAGHEH,27/05/2014,21Z,16.0,46%,1004.6 Hpa,080º (E ),14.4,3/8,-,-,CI,-,-,-,Scattered clouds
+MARAGHEH,27/05/2014,18Z,17.4,42%,1004.3 Hpa,080º (E ),7.2,3/8,1/8 SC,-,CI,-,-,-,Scattered clouds
+MARAGHEH,27/05/2014,15Z,22.8,33%,1004.3 Hpa,calm.,,6/8,4/8 CB,AC,CI,-,25.2,-,"Cloudy, precipitation within sight"
+MARAGHEH,27/05/2014,12Z,23.4,28%,1007.2 Hpa,180º (S ),25.2,5/8,1/8 CU/SC,AC,CI,Tr(6h),-,-,Cloudy
+MARAGHEH,27/05/2014,09Z,23.6,27%,1008.8 Hpa,180º (S ),25.2,6/8,3/8 CB,AC,CI,-,-,-,Cloudy
+MARAGHEH,27/05/2014,06Z,23.8,24%,1006.9 Hpa,150º (SE),7.2,3/8,1/8 CU,AC,CI,-,-,-,Scattered clouds
+MARAGHEH,27/05/2014,03Z,15.4,42%,1008.1 Hpa,070º (E ),21.6,3/8,1/8 SC,-,CI,-,-,12.6,Scattered clouds
+MARAGHEH,27/05/2014,00Z,14.0,41%,1008.2 Hpa,080º (E ),18.0,0/8,-,-,-,-,-,-,Clear
+MARAVEH-TAPPEH,27/05/2014,21Z,23.5,59%,1006.2 Hpa,150º (SE),14.4,0/8,-,-,-,-,-,-,Clear
+MARAVEH-TAPPEH,27/05/2014,18Z,26.7,48%,1007.3 Hpa,150º (SE),10.8,0/8,-,-,-,-,-,-,Clear
+MARAVEH-TAPPEH,27/05/2014,15Z,30.7,40%,1006.5 Hpa,320º (NW),10.8,1/8,1/8 CU,-,-,-,32.2,-,Few clouds
+MARAVEH-TAPPEH,27/05/2014,12Z,32.0,38%,1007.9 Hpa,260º (W ),7.2,1/8,1/8 CU,-,-,-,-,-,Few clouds
+MARAVEH-TAPPEH,27/05/2014,09Z,30.4,44%,1009.5 Hpa,230º (SW),14.4,2/8,1/8 CU,-,CI,-,-,-,Few clouds
+MARAVEH-TAPPEH,27/05/2014,06Z,27.0,57%,1010.0 Hpa,280º (W ),14.4,1/8,1/8 CU,-,-,-,-,-,Few clouds
+MARAVEH-TAPPEH,27/05/2014,03Z,25.7,56%,1007.9 Hpa,170º (S ),10.8,1/8,-,-,CI,-,-,20.6,Few clouds
+MARAVEH-TAPPEH,27/05/2014,00Z,20.6,74%,1007.7 Hpa,140º (SE),10.8,4/8,2/8 CB,AC,-,-,-,-,Scattered clouds
+MASHHAD,27/05/2014,21Z,25.2,25%,1002.4 Hpa,190º (S ),7.2,3/8,1/8 SC,-,CI,-,-,-,Scattered clouds
+MASHHAD,27/05/2014,18Z,26.8,23%,1004.4 Hpa,040º (NE),10.8,4/8,2/8 SC,-,CI,-,-,-,Scattered clouds
+MASHHAD,27/05/2014,15Z,32.8,15%,1002.9 Hpa,170º (S ),14.4,4/8,2/8 CB,AC,CI,-,36.6,-,Scattered clouds
+MASHHAD,27/05/2014,12Z,35.0,10%,1003.3 Hpa,220º (SW),10.8,5/8,1/8 ST,AC,-,-,-,-,Cloudy
+MASHHAD,27/05/2014,09Z,35.4,10%,1003.6 Hpa,110º (E ),18.0,5/8,2/8 SC,AC,CI,-,-,-,Cloudy
+MASHHAD,27/05/2014,06Z,31.0,14%,1005.7 Hpa,060º (NE),10.8,5/8,-,1/8 AC,CI,-,-,-,Cloudy
+MASHHAD,27/05/2014,03Z,26.0,23%,1006.1 Hpa,280º (W ),7.2,6/8,-,1/8 AC,CI,-,-,19.0,Cloudy
+MASHHAD,27/05/2014,00Z,19.2,36%,1006.2 Hpa,290º (W ),7.2,2/8,-,-,CI,-,-,-,Few clouds
+MASJED-SOLEYMAN,27/05/2014,21Z,32.9,24%,1003.0 Hpa,140º (SE),7.2,2/8,2/8 SC,-,-,-,-,-,Few clouds
+MASJED-SOLEYMAN,27/05/2014,18Z,32.9,25%,1004.2 Hpa,120º (SE),7.2,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+MASJED-SOLEYMAN,27/05/2014,15Z,36.8,18%,1003.3 Hpa,070º (E ),10.8,5/8,4/8 CB,-,-,-,40.5,-,Cloudy
+MASJED-SOLEYMAN,27/05/2014,12Z,38.9,17%,1004.4 Hpa,100º (E ),7.2,8/8,5/8 CB,AC,CS,-,-,-,Overcast
+MASJED-SOLEYMAN,27/05/2014,09Z,38.6,15%,1005.4 Hpa,010º (N),10.8,8/8,6/8 CB,AC,,-,-,-,Overcast
+MASJED-SOLEYMAN,27/05/2014,06Z,35.6,19%,1005.7 Hpa,320º (NW),10.8,6/8,4/8 CB,-,-,-,-,-,Cloudy
+MASJED-SOLEYMAN,27/05/2014,03Z,28.9,29%,1004.8 Hpa,270º (W ),3.6,3/8,-,3/8 AC,-,-,-,27.2,Scattered clouds
+MASJED-SOLEYMAN,27/05/2014,00Z,28.0,31%,1004.2 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+MEYANEH,27/05/2014,21Z,20.0,50%,1004.7 Hpa,120º (SE),7.2,6/8,3/8 CB,-,CI,-,-,-,"Cloudy, thunderstorms"
+MEYANEH,27/05/2014,18Z,21.8,38%,1004.9 Hpa,calm.,,4/8,2/8 CB,-,CI,-,-,-,Scattered clouds
+MEYANEH,27/05/2014,15Z,24.4,31%,1005.7 Hpa,150º (SE),7.2,6/8,4/8 CB,AC,CI,-,27.0,-,Cloudy
+MEYANEH,27/05/2014,12Z,22.8,36%,1008.7 Hpa,180º (S ),7.2,7/8,2/8 ST,AC,-,Tr(6h),-,-,"Cloudy, rain showers"
+MEYANEH,27/05/2014,09Z,25.6,26%,1007.3 Hpa,210º (SW),14.4,7/8,3/8 CB,AC,CI,-,-,-,Cloudy
+MEYANEH,27/05/2014,06Z,22.8,33%,1008.4 Hpa,090º (E ),7.2,1/8,-,-,CI,-,-,-,Few clouds
+MEYANEH,27/05/2014,03Z,15.0,62%,1009.1 Hpa,calm.,,1/8,-,-,CI,-,-,14.0,Few clouds
+MEYANEH,27/05/2014,00Z,17.0,45%,1007.9 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+MOHABAD,27/05/2014,21Z,15.4,63%,1005.8 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+MOHABAD,27/05/2014,18Z,18.2,49%,1003.4 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+MOHABAD,27/05/2014,15Z,23.0,28%,1004.1 Hpa,160º (S ),18.0,5/8,5/8 CB,-,-,-,24.6,-,Cloudy
+MOHABAD,27/05/2014,12Z,23.8,31%,1006.8 Hpa,180º (S ),36.0,5/8,5/8 CB,-,-,0.2(6h),-,-,Cloudy
+MOHABAD,27/05/2014,09Z,21.2,33%,1008.6 Hpa,180º (S ),18.0,6/8,6/8 CB,-,-,-,-,-,Cloudy
+MOHABAD,27/05/2014,06Z,22.2,32%,1007.6 Hpa,290º (W ),18.0,5/8,5/8 CB,-,-,-,-,-,Cloudy
+MOHABAD,27/05/2014,03Z,15.2,48%,1008.4 Hpa,calm.,,0/8,-,-,-,-,-,12.0,Clear
+MOHABAD,27/05/2014,00Z,14.4,51%,1007.8 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+NEHBANDAN,27/05/2014,21Z,23.8,28%,1000.0 Hpa,calm.,,1/8,-,1/8 AC,-,-,-,-,Few clouds
+NEHBANDAN,27/05/2014,18Z,27.9,22%,1000.7 Hpa,calm.,,2/8,1/8 SC,AC,-,-,-,-,Few clouds
+NEHBANDAN,27/05/2014,15Z,31.9,15%,1000.4 Hpa,calm.,,5/8,3/8 SC,AC,-,-,37.6,-,Cloudy
+NEHBANDAN,27/05/2014,12Z,33.0,18%,1002.7 Hpa,330º (NW),18.0,6/8,2/8 CB,AC,-,-,-,-,"Cloudy, thunderstorm no precipitation"
+NEHBANDAN,27/05/2014,09Z,35.7,13%,1001.1 Hpa,240º (SW),10.8,6/8,2/8 CU,AC,CI,-,-,-,Cloudy
+NEHBANDAN,27/05/2014,06Z,34.2,12%,1002.3 Hpa,150º (SE),14.4,2/8,-,2/8 AC,CI,-,-,-,Few clouds
+NEHBANDAN,27/05/2014,03Z,26.8,22%,1002.6 Hpa,calm.,,0/8,-,-,-,-,-,20.2,Clear
+NEHBANDAN,27/05/2014,00Z,21.0,28%,1002.0 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+NOSHAHR,27/05/2014,21Z,23.4,91%,1004.7 Hpa,180º (S ),7.2,5/8,3/8 SC,-,CI,-,-,-,Cloudy
+NOSHAHR,27/05/2014,18Z,24.0,89%,1005.5 Hpa,090º (E ),21.6,5/8,3/8 SC,-,CI,-,-,-,Cloudy
+NOSHAHR,27/05/2014,15Z,25.0,75%,1006.9 Hpa,calm.,,5/8,3/8 SC,-,CI,-,27.0,-,Cloudy
+NOSHAHR,27/05/2014,12Z,26.4,74%,1006.4 Hpa,090º (E ),18.0,2/8,2/8 SC,-,-,-,-,-,Few clouds
+NOSHAHR,27/05/2014,09Z,26.0,77%,1009.2 Hpa,060º (NE),14.4,2/8,2/8 SC,-,-,-,-,-,Few clouds
+NOSHAHR,27/05/2014,06Z,25.6,74%,1010.8 Hpa,030º (NE),10.8,2/8,2/8 SC,-,-,-,-,-,Few clouds
+NOSHAHR,27/05/2014,03Z,21.6,80%,1010.3 Hpa,calm.,,3/8,1/8 CU,AC,-,-,-,19.2,Scattered clouds
+NOSHAHR,27/05/2014,00Z,21.2,88%,1008.8 Hpa,260º (W ),7.2,6/8,6/8 ST,-,-,-,-,-,Cloudy
+OMIDYEH-AGHAJARI,27/05/2014,21Z,33.2,22%,1004.5 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+OMIDYEH-AGHAJARI,27/05/2014,18Z,35.9,15%,1005.7 Hpa,140º (SE),3.6,6/8,3/8 SC,AC,-,-,-,-,Cloudy
+OMIDYEH-AGHAJARI,27/05/2014,15Z,40.9,13%,1005.1 Hpa,300º (NW),7.2,7/8,2/8 SC,AC,-,-,44.7,-,Cloudy
+OMIDYEH-AGHAJARI,27/05/2014,12Z,43.5,6%,1005.7 Hpa,290º (W ),10.8,6/8,6/8 SC,-,-,-,-,-,Cloudy
+OMIDYEH-AGHAJARI,27/05/2014,09Z,42.5,8%,1006.8 Hpa,290º (W ),43.2,4/8,-,-,CI,-,-,-,Scattered clouds
+OMIDYEH-AGHAJARI,27/05/2014,06Z,41.1,10%,1005.3 Hpa,210º (SW),7.2,0/8,-,-,-,-,-,-,Clear
+OMIDYEH-AGHAJARI,27/05/2014,03Z,29.3,28%,1005.6 Hpa,260º (W ),7.2,5/8,2/8 SC,-,CI,-,-,28.7,Cloudy
+OMIDYEH-AGHAJARI,27/05/2014,00Z,28.9,25%,1005.5 Hpa,340º (N ),7.2,8/8,8/8 CB,,,-,-,-,Overcast
+ORUMIEH,27/05/2014,21Z,12.6,67%,1004.4 Hpa,150º (SE),7.2,2/8,2/8 SC,-,-,-,-,-,Few clouds
+ORUMIEH,27/05/2014,18Z,18.4,43%,1003.6 Hpa,280º (W ),10.8,3/8,3/8 CB,-,-,-,-,-,Scattered clouds
+ORUMIEH,27/05/2014,15Z,23.6,27%,1003.6 Hpa,240º (SW),18.0,5/8,5/8 CB,-,-,-,26.4,-,Cloudy
+ORUMIEH,27/05/2014,12Z,25.4,27%,1005.4 Hpa,150º (SE),25.2,4/8,4/8 CB,-,-,-,-,-,Scattered clouds
+ORUMIEH,27/05/2014,09Z,24.8,29%,1006.9 Hpa,160º (S ),10.8,4/8,4/8 CB,-,-,-,-,-,Scattered clouds
+ORUMIEH,27/05/2014,06Z,20.8,40%,1008.2 Hpa,200º (S ),7.2,5/8,5/8 CB,-,-,-,-,-,Cloudy
+ORUMIEH,27/05/2014,03Z,12.4,63%,1008.9 Hpa,260º (W ),7.2,1/8,1/8 SC,-,-,-,-,10.4,Few clouds
+ORUMIEH,27/05/2014,00Z,10.6,72%,1008.5 Hpa,260º (W ),7.2,0/8,-,-,-,-,-,-,Clear
+PARS ABAD MOGHAN,27/05/2014,21Z,20.0,79%,1006.7 Hpa,240º (SW),14.4,4/8,2/8 CB,-,CI,-,-,-,"Scattered clouds, lightning"
+PARS ABAD MOGHAN,27/05/2014,18Z,20.2,79%,1007.4 Hpa,270º (W ),10.8,3/8,3/8 SC,-,-,0.3(6h),-,-,Scattered clouds
+PARS ABAD MOGHAN,27/05/2014,15Z,21.6,77%,1007.8 Hpa,150º (SE),7.2,7/8,4/8 CB,-,CI,-,30.0,-,"Cloudy, thunderstorm no precipitation"
+PARS ABAD MOGHAN,27/05/2014,12Z,29.8,41%,1005.7 Hpa,050º (NE),18.0,0/8,-,-,-,-,-,-,Clear
+PARS ABAD MOGHAN,27/05/2014,09Z,28.2,48%,1007.7 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+PARS ABAD MOGHAN,27/05/2014,06Z,25.2,56%,1009.9 Hpa,320º (NW),7.2,0/8,-,-,-,0.2(6h),-,-,Clear
+PARS ABAD MOGHAN,27/05/2014,03Z,19.2,86%,1010.3 Hpa,250º (W ),10.8,0/8,-,-,-,-,-,17.0,Clear
+PARS ABAD MOGHAN,27/05/2014,00Z,18.0,89%,1010.1 Hpa,240º (SW),7.2,7/8,7/8 CB,-,-,4.0(6h),-,-,"Cloudy, heavy thunderstorm"
+RAMSAR,27/05/2014,21Z,22.4,82%,1002.9 Hpa,calm.,,2/8,1/8 SC,-,CI,-,-,-,Few clouds
+RAMSAR,27/05/2014,18Z,23.8,88%,1005.0 Hpa,calm.,,8/8,2/8 CB,AC,CI,Tr(6h),-,-,Overcast
+RAMSAR,27/05/2014,15Z,25.8,71%,1004.9 Hpa,calm.,,7/8,5/8 CB,-,CI,-,27.2,-,Cloudy
+RAMSAR,27/05/2014,12Z,24.8,85%,1006.5 Hpa,100º (E ),14.4,7/8,7/8 CB,-,-,-,-,-,Cloudy
+RAMSAR,27/05/2014,09Z,26.4,76%,1008.0 Hpa,090º (E ),14.4,1/8,1/8 CU,-,CI,-,-,-,Few clouds
+RAMSAR,27/05/2014,06Z,25.2,77%,1010.2 Hpa,090º (E ),10.8,1/8,1/8 CU,-,-,-,-,-,Few clouds
+RAMSAR,27/05/2014,03Z,21.0,85%,1010.5 Hpa,calm.,,7/8,7/8 CB,-,-,-,-,19.6,"Cloudy, mist"
+RAMSAR,27/05/2014,00Z,20.2,88%,1008.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+RASHT,27/05/2014,21Z,24.2,86%,1004.7 Hpa,Vble.,,6/8,3/8 SC,AC,-,-,-,-,"Cloudy, mist"
+RASHT,27/05/2014,18Z,28.0,50%,1005.3 Hpa,180º (S ),14.4,5/8,1/8 CB,AC,CI,-,-,-,"Cloudy, haze"
+RASHT,27/05/2014,15Z,26.8,76%,1006.8 Hpa,120º (SE),10.8,6/8,1/8 CB,AC,CI,-,30.0,-,"Cloudy, haze"
+RASHT,27/05/2014,12Z,29.2,63%,1007.8 Hpa,010º (N),14.4,5/8,1/8 CB,AC,CI,-,-,-,"Cloudy, haze"
+RASHT,27/05/2014,09Z,29.8,62%,1008.4 Hpa,060º (NE),10.8,4/8,1/8 CU,AC,CI,-,-,-,Scattered clouds
+RASHT,27/05/2014,06Z,26.0,70%,1010.2 Hpa,calm.,,3/8,1/8 CU,AC,CI,-,-,-,Scattered clouds
+RASHT,27/05/2014,03Z,22.2,94%,1012.0 Hpa,210º (SW),7.2,7/8,5/8 CU/SC,AC,-,-,-,21.2,"Cloudy, mist"
+RASHT,27/05/2014,00Z,21.6,96%,1008.8 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, mist"
+SABZEVAR,27/05/2014,21Z,26.7,21%,1000.7 Hpa,120º (SE),7.2,0/8,-,-,-,-,-,-,Clear
+SABZEVAR,27/05/2014,18Z,30.8,16%,1001.0 Hpa,050º (NE),14.4,1/8,-,-,CI,-,-,-,Few clouds
+SABZEVAR,27/05/2014,15Z,32.8,12%,1001.2 Hpa,340º (N ),14.4,6/8,2/8 SC,-,CI,-,38.5,-,Cloudy
+SABZEVAR,27/05/2014,12Z,37.7,8%,1001.4 Hpa,210º (SW),10.8,6/8,1/8 SC,-,CI,-,-,-,Cloudy
+SABZEVAR,27/05/2014,09Z,36.3,8%,1002.4 Hpa,260º (W ),18.0,6/8,1/8 SC,-,CI,-,-,-,Cloudy
+SABZEVAR,27/05/2014,06Z,33.2,13%,1003.6 Hpa,080º (E ),18.0,3/8,1/8 SC,-,CI,-,-,-,Scattered clouds
+SABZEVAR,27/05/2014,03Z,26.8,19%,1004.7 Hpa,070º (E ),18.0,1/8,-,-,CI,-,-,23.4,Few clouds
+SABZEVAR,27/05/2014,00Z,25.3,21%,1003.4 Hpa,250º (W ),7.2,3/8,-,-,CS,-,-,-,Scattered clouds
+SAFI-ABAD DEZFUL,27/05/2014,21Z,27.2,48%,1004.8 Hpa,calm.,,3/8,-,3/8 AC,-,-,-,-,Scattered clouds
+SAFI-ABAD DEZFUL,27/05/2014,18Z,29.2,0%,1005.3 Hpa,090º (E ),10.8,2/8,2/8 SC,-,-,0.2(6h),-,-,Few clouds
+SAFI-ABAD DEZFUL,27/05/2014,15Z,36.2,22%,1003.8 Hpa,120º (SE),14.4,5/8,2/8 SC,AC,-,-,39.8,-,Cloudy
+SAFI-ABAD DEZFUL,27/05/2014,12Z,39.0,16%,1005.4 Hpa,090º (E ),18.0,7/8,3/8 CB,AC,-,-,-,-,Cloudy
+SAFI-ABAD DEZFUL,27/05/2014,09Z,39.2,16%,1007.0 Hpa,100º (E ),14.4,5/8,5/8 SC,-,-,-,-,-,Cloudy
+SAFI-ABAD DEZFUL,27/05/2014,06Z,33.6,35%,1006.7 Hpa,040º (NE),10.8,7/8,1/8 CB,AC,CI,Tr(6h),-,-,Cloudy
+SAFI-ABAD DEZFUL,27/05/2014,03Z,24.6,59%,1005.5 Hpa,calm.,,2/8,-,-,CI,-,-,24.0,Few clouds
+SAFI-ABAD DEZFUL,27/05/2014,00Z,25.2,60%,1005.4 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SAGHEZ,27/05/2014,21Z,11.6,79%,1008.0 Hpa,120º (SE),7.2,0/8,-,-,-,-,-,-,Clear
+SAGHEZ,27/05/2014,18Z,14.3,68%,1008.0 Hpa,130º (SE),10.8,0/8,-,-,-,-,-,-,Clear
+SAGHEZ,27/05/2014,15Z,20.7,44%,1007.2 Hpa,090º (E ),10.8,2/8,2/8 CU,-,-,-,22.1,-,Few clouds
+SAGHEZ,27/05/2014,12Z,20.3,45%,1010.2 Hpa,310º (NW),7.2,3/8,2/8 CB,-,CI,2.0(6h),-,-,Scattered clouds
+SAGHEZ,27/05/2014,09Z,17.5,59%,1012.7 Hpa,350º (N ),7.2,6/8,6/8 CB,-,-,-,-,-,"Cloudy, thunderstorm no precipitation"
+SAGHEZ,27/05/2014,06Z,16.4,53%,1013.0 Hpa,250º (W ),32.4,8/8,8/8 CB,,,0.2(6h),-,-,"Overcast, heavy thunderstorm"
+SAGHEZ,27/05/2014,03Z,9.6,66%,1010.7 Hpa,110º (E ),7.2,0/8,-,-,-,-,-,5.5,Clear
+SAGHEZ,27/05/2014,00Z,6.3,79%,1010.6 Hpa,130º (SE),7.2,0/8,-,-,-,-,-,-,Clear
+SANANDAJ,27/05/2014,21Z,12.9,94%,1005.5 Hpa,130º (SE),3.6,2/8,2/8 SC,-,-,-,-,-,Few clouds
+SANANDAJ,27/05/2014,18Z,14.6,0%,1007.4 Hpa,350º (N ),3.6,5/8,2/8 CB,AC,CI,4.0(6h),-,-,"Cloudy, thunderstorm"
+SANANDAJ,27/05/2014,15Z,18.6,60%,1008.7 Hpa,260º (W ),7.2,7/8,6/8 CB,AC,-,-,30.8,-,"Cloudy, thunderstorm"
+SANANDAJ,27/05/2014,12Z,24.4,26%,1006.2 Hpa,180º (S ),7.2,6/8,5/8 CB,AC,-,Tr(6h),-,-,"Cloudy, thunderstorm no precipitation"
+SANANDAJ,27/05/2014,09Z,29.7,14%,1005.5 Hpa,190º (S ),21.6,4/8,4/8 CU,-,CI,-,-,-,Scattered clouds
+SANANDAJ,27/05/2014,06Z,22.0,21%,1008.1 Hpa,160º (S ),7.2,3/8,1/8 CU,-,CI,-,-,-,Scattered clouds
+SANANDAJ,27/05/2014,03Z,10.2,57%,1010.6 Hpa,calm.,,1/8,1/8 SC,-,-,-,-,8.4,Few clouds
+SANANDAJ,27/05/2014,00Z,10.0,59%,1009.4 Hpa,160º (S ),3.6,0/8,-,-,-,-,-,-,Clear
+SARAB,27/05/2014,21Z,15.8,37%,1006.9 Hpa,030º (NE),10.8,6/8,3/8 CB,AC,-,-,-,-,Cloudy
+SARAB,27/05/2014,18Z,17.8,37%,1004.8 Hpa,200º (S ),21.6,6/8,3/8 CB,AC,-,-,-,-,Cloudy
+SARAB,27/05/2014,15Z,19.8,28%,1007.4 Hpa,250º (W ),21.6,5/8,2/8 CB,AC,CI,-,22.2,-,Cloudy
+SARAB,27/05/2014,12Z,19.6,36%,1009.6 Hpa,210º (SW),10.8,6/8,2/8 CB,AC,CS,0.2(6h),-,-,Cloudy
+SARAB,27/05/2014,09Z,13.8,67%,1013.2 Hpa,280º (W ),36.0,8/8,5/8 CB,AC,,-,-,-,"Overcast, thunderstorm"
+SARAB,27/05/2014,06Z,19.6,38%,1009.2 Hpa,300º (NW),7.2,2/8,1/8 CU,-,CI,-,-,-,Few clouds
+SARAB,27/05/2014,03Z,8.0,77%,1010.7 Hpa,calm.,,1/8,-,-,CI,-,-,7.0,Few clouds
+SARAB,27/05/2014,00Z,9.6,64%,1009.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SARAKHS,27/05/2014,21Z,34.2,15%,1004.6 Hpa,300º (NW),18.0,0/8,-,-,-,-,-,-,Clear
+SARAKHS,27/05/2014,18Z,34.2,15%,1004.6 Hpa,040º (NE),18.0,0/8,-,-,-,-,-,-,Clear
+SARAKHS,27/05/2014,15Z,36.1,14%,1003.3 Hpa,030º (NE),28.8,4/8,4/8 SC,-,-,-,42.8,-,Scattered clouds
+SARAKHS,27/05/2014,12Z,41.4,8%,1003.3 Hpa,060º (NE),18.0,6/8,-,-,CI,-,-,-,Cloudy
+SARAKHS,27/05/2014,09Z,40.4,9%,1005.6 Hpa,100º (E ),21.6,1/8,-,-,CI,-,-,-,Few clouds
+SARAKHS,27/05/2014,06Z,36.3,12%,1007.5 Hpa,120º (SE),14.4,0/8,-,-,-,-,-,-,Clear
+SARAKHS,27/05/2014,03Z,27.1,30%,1007.6 Hpa,190º (S ),10.8,2/8,-,-,CI,-,-,20.9,Few clouds
+SARAKHS,27/05/2014,00Z,20.9,40%,1006.8 Hpa,180º (S ),10.8,0/8,-,-,-,-,-,-,Clear
+SARAVAN,27/05/2014,21Z,28.9,30%,1003.0 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SARAVAN,27/05/2014,18Z,32.4,20%,1003.1 Hpa,190º (S ),14.4,0/8,-,-,-,-,-,-,Clear
+SARAVAN,27/05/2014,15Z,35.2,16%,1003.1 Hpa,190º (S ),14.4,6/8,6/8 CB,-,-,-,39.4,-,Cloudy
+SARAVAN,27/05/2014,12Z,38.2,10%,1002.3 Hpa,calm.,,5/8,5/8 CB,-,-,-,-,-,Cloudy
+SARAVAN,27/05/2014,09Z,38.4,10%,1003.4 Hpa,190º (S ),14.4,3/8,3/8 CU,-,-,-,-,-,Scattered clouds
+SARAVAN,27/05/2014,06Z,36.1,14%,1004.6 Hpa,010º (N),10.8,0/8,-,-,-,-,-,-,Clear
+SARAVAN,27/05/2014,03Z,26.0,27%,1006.2 Hpa,calm.,,0/8,-,-,-,-,-,22.2,Clear
+SARAVAN,27/05/2014,00Z,24.1,27%,1004.9 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SEMNAN,27/05/2014,21Z,26.4,23%,1001.9 Hpa,330º (NW),14.4,3/8,-,-,CI,-,-,-,Scattered clouds
+SEMNAN,27/05/2014,18Z,28.0,18%,1002.4 Hpa,270º (W ),3.6,2/8,-,-,CI,-,-,-,Few clouds
+SEMNAN,27/05/2014,15Z,32.2,8%,1002.2 Hpa,260º (W ),21.6,5/8,-,-,CI,-,36.0,-,Cloudy
+SEMNAN,27/05/2014,12Z,34.2,7%,1002.0 Hpa,240º (SW),25.2,4/8,4/8 CB,-,-,-,-,-,Scattered clouds
+SEMNAN,27/05/2014,09Z,34.2,9%,1002.7 Hpa,220º (SW),10.8,4/8,2/8 SC,AC,-,-,-,-,Scattered clouds
+SEMNAN,27/05/2014,06Z,30.6,13%,1004.5 Hpa,240º (SW),7.2,3/8,-,3/8 AC,-,-,-,-,Scattered clouds
+SEMNAN,27/05/2014,03Z,23.0,22%,1004.6 Hpa,360º (N ),3.6,5/8,5/8 SC,-,-,-,-,22.4,Cloudy
+SEMNAN,27/05/2014,00Z,24.4,13%,1003.2 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SHAHRE-KORD,27/05/2014,21Z,12.9,58%,1006.3 Hpa,230º (SW),3.6,0/8,-,-,-,-,-,-,Clear
+SHAHRE-KORD,27/05/2014,18Z,19.2,36%,1007.0 Hpa,220º (SW),10.8,4/8,4/8 SC,-,-,-,-,-,Scattered clouds
+SHAHRE-KORD,27/05/2014,15Z,21.8,32%,1010.2 Hpa,270º (W ),14.4,5/8,5/8 SC,-,-,-,26.7,-,Cloudy
+SHAHRE-KORD,27/05/2014,12Z,19.5,45%,1012.4 Hpa,310º (NW),14.4,7/8,2/8 CB,AC,CI,-,-,-,Cloudy
+SHAHRE-KORD,27/05/2014,09Z,25.9,23%,1009.1 Hpa,270º (W ),7.2,6/8,4/8 CB,AC,-,-,-,-,Cloudy
+SHAHRE-KORD,27/05/2014,06Z,22.5,32%,1009.1 Hpa,calm.,,6/8,2/8 SC,-,CI,-,-,-,Cloudy
+SHAHRE-KORD,27/05/2014,03Z,10.5,64%,1010.4 Hpa,calm.,,6/8,2/8 SC,AC,-,-,-,7.5,Cloudy
+SHAHRE-KORD,27/05/2014,00Z,8.7,67%,1009.3 Hpa,calm.,,2/8,2/8 SC,-,-,-,-,-,Few clouds
+SHAHRUD,27/05/2014,21Z,21.6,33%,1002.6 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SHAHRUD,27/05/2014,18Z,24.4,32%,1002.6 Hpa,020º (N),14.4,0/8,-,-,-,-,-,-,Clear
+SHAHRUD,27/05/2014,15Z,29.6,21%,1000.7 Hpa,calm.,,5/8,3/8 SC,-,CI,-,33.0,-,Cloudy
+SHAHRUD,27/05/2014,12Z,31.8,16%,1002.1 Hpa,240º (SW),14.4,6/8,6/8 SC,-,-,-,-,-,Cloudy
+SHAHRUD,27/05/2014,09Z,30.4,16%,1003.2 Hpa,190º (S ),18.0,6/8,6/8 SC,-,-,-,-,-,Cloudy
+SHAHRUD,27/05/2014,06Z,28.8,28%,1003.8 Hpa,calm.,,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+SHAHRUD,27/05/2014,03Z,24.8,29%,1003.6 Hpa,calm.,,5/8,5/8 CB,-,-,-,-,20.6,Cloudy
+SHAHRUD,27/05/2014,00Z,21.0,38%,1002.8 Hpa,060º (NE),7.2,2/8,2/8 SC,-,-,-,-,-,Few clouds
+SHIRAZ,27/05/2014,21Z,26.0,21%,1003.6 Hpa,330º (NW),10.8,3/8,1/8 SC,-,CI,-,-,-,Scattered clouds
+SHIRAZ,27/05/2014,18Z,27.4,21%,1004.4 Hpa,300º (NW),14.4,3/8,1/8 SC,-,CI,-,-,-,Scattered clouds
+SHIRAZ,27/05/2014,15Z,30.8,15%,1003.5 Hpa,280º (W ),25.2,3/8,1/8 SC,-,CI,-,34.2,-,Scattered clouds
+SHIRAZ,27/05/2014,12Z,33.8,11%,1002.3 Hpa,310º (NW),18.0,5/8,1/8 CU/SC,AC,CI,-,-,-,Cloudy
+SHIRAZ,27/05/2014,09Z,33.0,11%,1003.4 Hpa,310º (NW),21.6,4/8,1/8 CU,-,CI,-,-,-,Scattered clouds
+SHIRAZ,27/05/2014,06Z,29.8,18%,1004.1 Hpa,280º (W ),7.2,1/8,-,-,CI,-,-,-,Few clouds
+SHIRAZ,27/05/2014,03Z,23.4,29%,1004.3 Hpa,300º (NW),7.2,4/8,-,1/8 AC,CI,-,-,20.0,Scattered clouds
+SHIRAZ,27/05/2014,00Z,24.2,23%,1002.5 Hpa,calm.,,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+SIRI ISLAND,27/05/2014,15Z,32.2,80%,1003.2 Hpa,150º (SE),21.6,0/8,-,-,-,-,34.2,-,Clear
+SIRI ISLAND,27/05/2014,12Z,33.6,142%,1004.0 Hpa,210º (SW),21.6,0/8,-,-,-,-,-,-,Clear
+SIRI ISLAND,27/05/2014,09Z,32.6,70%,1006.1 Hpa,190º (S ),18.0,0/8,-,-,-,-,-,-,Clear
+SIRI ISLAND,27/05/2014,06Z,31.2,163%,1006.2 Hpa,240º (SW),14.4,0/8,-,-,-,-,-,-,Clear
+SIRI ISLAND,27/05/2014,03Z,29.6,88%,1004.7 Hpa,230º (SW),10.8,2/8,-,-,CI,-,-,29.4,"Few clouds, mist"
+SIRJAN,27/05/2014,21Z,22.4,27%,1002.3 Hpa,300º (NW),10.8,0/8,-,-,-,-,-,-,Clear
+SIRJAN,27/05/2014,18Z,27.0,20%,1001.6 Hpa,280º (W ),10.8,2/8,2/8 CU,-,-,-,-,-,Few clouds
+SIRJAN,27/05/2014,15Z,31.0,16%,999.5 Hpa,320º (NW),18.0,4/8,4/8 SC,-,-,-,34.0,-,Scattered clouds
+SIRJAN,27/05/2014,12Z,33.6,14%,1000.2 Hpa,280º (W ),18.0,5/8,5/8 SC,-,-,-,-,-,Cloudy
+SIRJAN,27/05/2014,09Z,32.8,15%,1002.2 Hpa,180º (S ),18.0,6/8,2/8 SC,-,CI,-,-,-,Cloudy
+SIRJAN,27/05/2014,06Z,29.0,21%,1004.3 Hpa,180º (S ),10.8,2/8,-,-,CI,-,-,-,Few clouds
+SIRJAN,27/05/2014,03Z,22.6,33%,1003.3 Hpa,090º (E ),10.8,2/8,-,-,CI,-,-,17.6,Few clouds
+SIRJAN,27/05/2014,00Z,19.6,32%,1001.7 Hpa,130º (SE),10.8,0/8,-,-,-,-,-,-,Clear
+TABAS,27/05/2014,21Z,32.2,16%,1000.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+TABAS,27/05/2014,18Z,34.4,10%,1001.3 Hpa,020º (N),7.2,2/8,1/8 SC,AC,-,-,-,-,Few clouds
+TABAS,27/05/2014,15Z,39.4,9%,1000.0 Hpa,290º (W ),7.2,2/8,2/8 SC,-,-,-,41.8,-,Few clouds
+TABAS,27/05/2014,12Z,40.9,9%,1000.3 Hpa,250º (W ),10.8,4/8,3/8 SC,AC,-,-,-,-,Scattered clouds
+TABAS,27/05/2014,09Z,41.1,9%,1001.8 Hpa,calm.,,3/8,3/8 CB,-,-,-,-,-,Scattered clouds
+TABAS,27/05/2014,06Z,36.1,14%,1003.4 Hpa,160º (S ),10.8,3/8,1/8 CU,AC,-,-,-,-,Scattered clouds
+TABAS,27/05/2014,03Z,30.1,19%,1002.6 Hpa,200º (S ),7.2,1/8,1/8 SC,-,-,-,-,28.5,"Few clouds, haze"
+TABAS,27/05/2014,00Z,29.4,21%,1001.2 Hpa,350º (N ),7.2,1/8,1/8 SC,-,-,-,-,-,Few clouds
+TABRIZ,27/05/2014,21Z,17.2,48%,1004.2 Hpa,350º (N ),21.6,5/8,1/8 SC,-,CI,-,-,-,Cloudy
+TABRIZ,27/05/2014,18Z,19.8,36%,1003.5 Hpa,300º (NW),10.8,3/8,2/8 CB,-,CI,-,-,-,Scattered clouds
+TABRIZ,27/05/2014,15Z,24.8,26%,1003.1 Hpa,230º (SW),28.8,3/8,3/8 CB,-,CI,-,26.8,-,Scattered clouds
+TABRIZ,27/05/2014,12Z,25.8,25%,1005.2 Hpa,260º (W ),32.4,4/8,3/8 CB,-,CI,-,-,-,Scattered clouds
+TABRIZ,27/05/2014,09Z,25.4,27%,1007.3 Hpa,270º (W ),21.6,4/8,2/8 CU,AC,CI,-,-,-,Scattered clouds
+TABRIZ,27/05/2014,06Z,23.0,34%,1007.5 Hpa,calm.,,2/8,1/8 CU,AC,-,0.1(24h),-,-,Few clouds
+TABRIZ,27/05/2014,03Z,16.6,54%,1008.4 Hpa,060º (NE),10.8,1/8,1/8 SC,-,-,-,-,14.0,Few clouds
+TABRIZ,27/05/2014,00Z,16.0,65%,1008.2 Hpa,120º (SE),7.2,4/8,1/8 CB,AC,-,0.1(6h),-,-,Scattered clouds
+TEHRAN-MEHRABAD,27/05/2014,21Z,21.1,42%,1005.0 Hpa,020º (N),10.8,6/8,2/8 SC,AC,-,-,-,-,Cloudy
+TEHRAN-MEHRABAD,27/05/2014,18Z,22.4,41%,1007.3 Hpa,060º (NE),10.8,7/8,6/8 CB,AC,-,0.6(6h),-,-,"Cloudy, thunderstorm"
+TEHRAN-MEHRABAD,27/05/2014,15Z,30.8,10%,1000.8 Hpa,120º (SE),28.8,7/8,6/8 CB,AC,-,-,33.2,-,"Cloudy, thunderstorm no precipitation"
+TEHRAN-MEHRABAD,27/05/2014,12Z,31.7,9%,1002.8 Hpa,150º (SE),14.4,4/8,2/8 CU,-,CI,-,-,-,Scattered clouds
+TEHRAN-MEHRABAD,27/05/2014,09Z,31.4,8%,1004.3 Hpa,250º (W ),32.4,4/8,2/8 CU,-,CI,-,-,-,Scattered clouds
+TEHRAN-MEHRABAD,27/05/2014,06Z,28.6,12%,1005.3 Hpa,260º (W ),25.2,1/8,1/8 CU,-,-,-,-,-,Few clouds
+TEHRAN-MEHRABAD,27/05/2014,03Z,26.2,13%,1004.4 Hpa,290º (W ),18.0,0/8,-,-,-,-,-,22.4,Clear
+TEHRAN-MEHRABAD,27/05/2014,00Z,22.9,20%,1003.6 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+TORBAT-HEYDARIEH,27/05/2014,21Z,20.1,29%,1000.8 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+TORBAT-HEYDARIEH,27/05/2014,18Z,26.1,20%,1014.5 Hpa,360º (N ),10.8,0/8,-,-,-,-,-,-,Clear
+TORBAT-HEYDARIEH,27/05/2014,15Z,29.0,17%,1001.0 Hpa,360º (N ),25.2,4/8,2/8 CB,-,CI,-,34.2,-,Scattered clouds
+TORBAT-HEYDARIEH,27/05/2014,12Z,33.2,12%,1001.7 Hpa,240º (SW),10.8,6/8,4/8 CB,-,CI,-,-,-,Cloudy
+TORBAT-HEYDARIEH,27/05/2014,09Z,33.0,13%,1003.0 Hpa,210º (SW),18.0,5/8,3/8 SC,-,CI,-,-,-,Cloudy
+TORBAT-HEYDARIEH,27/05/2014,06Z,30.0,16%,1003.7 Hpa,120º (SE),10.8,2/8,1/8 SC,-,CI,-,-,-,Few clouds
+TORBAT-HEYDARIEH,27/05/2014,03Z,25.1,23%,1003.7 Hpa,calm.,,5/8,3/8 SC,-,CI,-,-,16.6,Cloudy
+TORBAT-HEYDARIEH,27/05/2014,00Z,19.2,29%,1003.6 Hpa,200º (S ),7.2,0/8,-,-,-,-,-,-,Clear
+YASOGE,27/05/2014,21Z,16.2,42%,-,calm.,,0/8,-,-,-,-,-,-,Clear
+YASOGE,27/05/2014,18Z,20.2,30%,1008.1 Hpa,090º (E ),7.2,1/8,1/8 SC,-,-,-,-,-,Few clouds
+YASOGE,27/05/2014,15Z,25.6,18%,1008.3 Hpa,calm.,,6/8,6/8 SC,AC,-,-,32.0,-,Cloudy
+YASOGE,27/05/2014,12Z,28.4,16%,1007.6 Hpa,330º (NW),28.8,6/8,5/8 SC,AC,-,-,-,-,Cloudy
+YASOGE,27/05/2014,09Z,29.2,14%,1007.1 Hpa,calm.,,6/8,5/8 SC,AC,-,-,-,-,Cloudy
+YASOGE,27/05/2014,06Z,24.0,24%,1008.7 Hpa,calm.,,3/8,-,-,CC,-,-,-,Scattered clouds
+YASOGE,27/05/2014,03Z,14.8,55%,1009.1 Hpa,calm.,,3/8,-,1/8 AC,CC,-,-,14.0,Scattered clouds
+YASOGE,27/05/2014,00Z,15.4,44%,1007.0 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+YAZD,27/05/2014,21Z,25.5,22%,1004.6 Hpa,230º (SW),10.8,1/8,-,-,CI,-,-,-,"Few clouds, haze"
+YAZD,27/05/2014,18Z,28.4,20%,1005.6 Hpa,310º (NW),18.0,2/8,2/8 SC,-,CI,-,-,-,"Few clouds, dust"
+YAZD,27/05/2014,15Z,34.2,8%,1002.6 Hpa,330º (NW),10.8,5/8,3/8 CB,-,CI,-,36.5,-,Cloudy
+YAZD,27/05/2014,12Z,36.0,8%,1003.0 Hpa,060º (NE),10.8,3/8,1/8 CU,AC,-,-,-,-,Scattered clouds
+YAZD,27/05/2014,09Z,34.6,8%,1004.6 Hpa,320º (NW),14.4,7/8,1/8 CU,AC,CI,-,-,-,Cloudy
+YAZD,27/05/2014,06Z,31.7,11%,1006.0 Hpa,340º (N ),14.4,2/8,-,-,CI,-,-,-,Few clouds
+YAZD,27/05/2014,03Z,27.2,16%,1004.8 Hpa,calm.,,3/8,-,-,CI,-,-,22.2,Scattered clouds
+YAZD,27/05/2014,00Z,23.3,20%,1003.9 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+ZABOL,27/05/2014,21Z,33.5,24%,999.5 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+ZABOL,27/05/2014,18Z,32.0,30%,1000.9 Hpa,030º (NE),7.2,2/8,-,-,CI,-,-,-,Few clouds
+ZABOL,27/05/2014,15Z,36.2,20%,1001.0 Hpa,350º (N ),10.8,4/8,2/8 SC,-,CS,-,42.2,-,Scattered clouds
+ZABOL,27/05/2014,12Z,41.0,12%,1001.3 Hpa,020º (N),7.2,3/8,2/8 CU,-,CI,-,-,-,Scattered clouds
+ZABOL,27/05/2014,09Z,41.5,13%,1002.9 Hpa,calm.,,1/8,1/8 CU,-,-,-,-,-,Few clouds
+ZABOL,27/05/2014,06Z,38.4,17%,1004.1 Hpa,calm.,,1/8,-,-,CI,-,-,-,Few clouds
+ZABOL,27/05/2014,03Z,27.2,44%,1004.2 Hpa,calm.,,2/8,-,-,CI,-,-,22.4,"Few clouds, haze"
+ZABOL,27/05/2014,00Z,23.8,49%,1002.7 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+ZAHEDAN,27/05/2014,21Z,24.2,24%,1000.7 Hpa,270º (W ),10.8,0/8,-,-,-,-,-,-,Clear
+ZAHEDAN,27/05/2014,18Z,29.0,19%,1000.8 Hpa,350º (N ),10.8,2/8,-,2/8 AC,-,-,-,-,Few clouds
+ZAHEDAN,27/05/2014,15Z,33.1,14%,999.8 Hpa,090º (E ),18.0,5/8,4/8 CB,AC,-,-,36.4,-,Cloudy
+ZAHEDAN,27/05/2014,12Z,35.0,13%,999.4 Hpa,320º (NW),7.2,6/8,6/8 CB,-,-,-,-,-,Cloudy
+ZAHEDAN,27/05/2014,09Z,35.9,11%,1000.7 Hpa,220º (SW),25.2,7/8,6/8 CB,AC,-,-,-,-,Cloudy
+ZAHEDAN,27/05/2014,06Z,34.4,13%,1002.5 Hpa,200º (S ),7.2,4/8,1/8 CU,AC,CI,-,-,-,Scattered clouds
+ZAHEDAN,27/05/2014,03Z,26.2,20%,1003.6 Hpa,150º (SE),7.2,6/8,1/8 SC,AC,-,-,-,23.4,Cloudy
+ZAHEDAN,27/05/2014,00Z,24.2,21%,1001.9 Hpa,160º (S ),14.4,5/8,2/8 SC,AC,CI,-,-,-,Cloudy
+ZANJAN,27/05/2014,21Z,14.2,71%,1008.4 Hpa,110º (E ),7.2,4/8,3/8 CU,-,CI,-,-,-,Scattered clouds
+ZANJAN,27/05/2014,18Z,13.6,77%,1009.6 Hpa,110º (E ),7.2,4/8,3/8 CU,-,CI,-,-,-,Scattered clouds
+ZANJAN,27/05/2014,15Z,18.0,44%,1008.4 Hpa,130º (SE),3.6,8/8,4/8 CB,-,CI,-,27.6,-,Overcast
+ZANJAN,27/05/2014,12Z,23.0,28%,1009.2 Hpa,310º (NW),21.6,5/8,4/8 CB,-,CS,-,-,-,Cloudy
+ZANJAN,27/05/2014,09Z,25.0,25%,1007.9 Hpa,250º (W ),7.2,5/8,3/8 CU,-,CI,-,-,-,Cloudy
+ZANJAN,27/05/2014,06Z,21.2,32%,1008.9 Hpa,090º (E ),7.2,0/8,-,-,-,-,-,-,Clear
+ZANJAN,27/05/2014,03Z,12.4,48%,1008.8 Hpa,090º (E ),7.2,1/8,1/8 SC,-,-,-,-,7.8,Few clouds
+ZANJAN,27/05/2014,00Z,7.8,76%,1009.0 Hpa,120º (SE),3.6,0/8,-,-,-,-,-,-,Clear

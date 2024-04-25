@@ -1,0 +1,607 @@
+Station ∆,Date,UTC time,Temp. (ºC),Rel. Hum. (%),Pressure/ Geopot.,Wind dir,Wins speed (Km/h),Clouds,Low clouds,Medium clouds,High clouds,Prec. (mm),Max temp. (ºC),Min temp. (ºC),Conditions
+ABADAN,08/03/2022,21Z,18.9,54%,1011.6 Hpa,310º (NW),7.2,6/8,-,2/8 AC,CI,-,-,-,"Cloudy, dust"
+ABADAN,08/03/2022,18Z,21.2,42%,1011.9 Hpa,310º (NW),10.8,4/8,-,-,CI,-,-,-,"Scattered clouds, dust"
+ABADAN,08/03/2022,15Z,24.2,35%,1010.7 Hpa,330º (NW),18.0,6/8,-,-,CI,-,26.4,-,"Cloudy, dust"
+ABADAN,08/03/2022,12Z,26.4,31%,1009.9 Hpa,330º (NW),21.6,6/8,-,4/8 AC,CI,-,-,-,"Cloudy, dust"
+ABADAN,08/03/2022,09Z,23.4,45%,1011.0 Hpa,300º (NW),21.6,5/8,-,1/8 AC,CI,-,-,-,"Cloudy, dust"
+ABADAN,08/03/2022,06Z,19.1,56%,1011.1 Hpa,280º (W ),14.4,0/8,-,-,-,-,-,-,"Clear, dust"
+ABADAN,08/03/2022,03Z,15.8,57%,1009.0 Hpa,250º (W ),10.8,4/8,-,-,CI,-,-,15.8,"Scattered clouds, dust"
+ABADAN,08/03/2022,00Z,16.9,47%,1018.0 Hpa,220º (SW),10.8,2/8,-,-,CI,-,-,-,"Few clouds, dust"
+ABADEH,08/03/2022,21Z,8.8,24%,1007.6 Hpa,360º (N ),7.2,7/8,-,7/8 AC,-,-,-,-,Cloudy
+ABADEH,08/03/2022,18Z,12.6,18%,1006.3 Hpa,210º (SW),18.0,6/8,-,-,CI,-,-,-,Cloudy
+ABADEH,08/03/2022,15Z,13.4,25%,1005.8 Hpa,220º (SW),28.8,6/8,-,2/8 AC,CI,-,17.4,-,Cloudy
+ABADEH,08/03/2022,12Z,17.1,18%,1002.7 Hpa,220º (SW),36.0,4/8,-,-,CI,-,-,-,Scattered clouds
+ABADEH,08/03/2022,09Z,16.1,23%,1004.0 Hpa,220º (SW),39.6,7/8,-,-,CI,-,-,-,"Cloudy, dust"
+ABADEH,08/03/2022,06Z,13.4,32%,1006.4 Hpa,220º (SW),39.6,3/8,-,-,CI,0.4(24h),-,-,"Scattered clouds, dust"
+ABADEH,08/03/2022,03Z,10.7,39%,1005.5 Hpa,220º (SW),36.0,0/8,-,-,-,-,-,10.1,Clear
+ABADEH,08/03/2022,00Z,10.6,41%,1003.4 Hpa,210º (SW),46.8,0/8,-,-,-,-,-,-,Clear
+ABU MUSA,08/03/2022,15Z,26.6,48%,1008.8 Hpa,060º (NE),18.0,7/8,-,7/8 AC,-,-,31.4,-,"Cloudy, haze"
+ABU MUSA,08/03/2022,12Z,28.4,110%,1008.3 Hpa,010º (N),14.4,3/8,-,1/8 AC,CI,-,-,-,"Scattered clouds, haze"
+ABU MUSA,08/03/2022,09Z,30.0,38%,1010.2 Hpa,020º (N),14.4,0/8,-,-,-,-,-,-,"Clear, haze"
+ABU MUSA,08/03/2022,06Z,26.2,220%,1010.4 Hpa,170º (S ),36.0,4/8,-,4/8 AC,-,-,-,-,"Scattered clouds, dust"
+ABU MUSA,08/03/2022,03Z,24.6,68%,1009.2 Hpa,130º (SE),21.6,2/8,-,2/8 AC,-,-,-,24.0,"Few clouds, haze"
+AHAR,08/03/2022,21Z,3.5,57%,1010.1 Hpa,290º (W ),10.8,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+AHAR,08/03/2022,18Z,4.5,56%,1011.0 Hpa,260º (W ),14.4,0/8,-,-,-,-,-,-,Clear
+AHAR,08/03/2022,15Z,7.5,42%,1009.6 Hpa,270º (W ),36.0,2/8,1/8 CU,-,CI,-,11.5,-,Few clouds
+AHAR,08/03/2022,12Z,11.5,29%,1006.4 Hpa,260º (W ),28.8,6/8,5/8 CB,-,CI,-,-,-,Cloudy
+AHAR,08/03/2022,09Z,9.8,33%,1008.6 Hpa,230º (SW),32.4,6/8,4/8 CB,-,CI,-,-,-,Cloudy
+AHAR,08/03/2022,06Z,4.7,61%,1010.3 Hpa,230º (SW),21.6,6/8,4/8 CB,AC,CI,-,-,-,Cloudy
+AHAR,08/03/2022,03Z,-0.3,76%,1010.8 Hpa,280º (W ),18.0,0/8,-,-,-,-,-,-3.3,Clear
+AHAR,08/03/2022,00Z,0.4,71%,1010.9 Hpa,300º (NW),18.0,2/8,2/8 SC,-,-,-,-,-,Few clouds
+AHWAZ,08/03/2022,21Z,19.5,42%,1010.2 Hpa,300º (NW),7.2,6/8,-,-,CI,-,-,-,"Cloudy, dust"
+AHWAZ,08/03/2022,18Z,20.8,50%,1010.9 Hpa,270º (W ),7.2,6/8,-,3/8 AC,CI,-,-,-,"Cloudy, dust"
+AHWAZ,08/03/2022,15Z,21.4,58%,1009.7 Hpa,calm.,,6/8,-,3/8 AC,CS,-,24.0,-,"Cloudy, dust"
+AHWAZ,08/03/2022,12Z,23.3,50%,1009.2 Hpa,280º (W ),7.2,7/8,-,1/8 AC,CI,-,-,-,"Cloudy, dust"
+AHWAZ,08/03/2022,09Z,23.1,44%,1009.9 Hpa,190º (S ),7.2,5/8,-,-,CI,-,-,-,"Cloudy, dust"
+AHWAZ,08/03/2022,06Z,19.3,63%,1010.1 Hpa,180º (S ),7.2,3/8,-,-,CI,-,-,-,"Scattered clouds, dust"
+AHWAZ,08/03/2022,03Z,16.2,69%,1007.8 Hpa,180º (S ),3.6,0/8,-,-,-,-,-,15.9,"Clear, dust"
+AHWAZ,08/03/2022,00Z,16.7,67%,1006.2 Hpa,150º (SE),7.2,0/8,-,-,-,-,-,-,"Clear, dust"
+ALI-GOODARZ,08/03/2022,21Z,4.7,54%,1011.1 Hpa,120º (SE),7.2,3/8,-,-,CI,-,-,-,"Scattered clouds, dust"
+ALI-GOODARZ,08/03/2022,18Z,6.0,52%,1012.7 Hpa,050º (NE),14.4,3/8,-,-,CI,-,-,-,"Scattered clouds, dust"
+ALI-GOODARZ,08/03/2022,15Z,10.0,33%,1010.9 Hpa,200º (S ),14.4,5/8,-,-,CI,-,13.4,-,"Cloudy, dust"
+ALI-GOODARZ,08/03/2022,12Z,13.0,26%,1008.8 Hpa,230º (SW),36.0,4/8,4/8 SC,-,-,-,-,-,"Scattered clouds, dust"
+ALI-GOODARZ,08/03/2022,09Z,11.9,34%,1008.4 Hpa,340º (N ),10.8,4/8,4/8 SC,-,-,-,-,-,"Scattered clouds, haze"
+ALI-GOODARZ,08/03/2022,06Z,6.8,77%,1011.6 Hpa,340º (N ),10.8,3/8,3/8 ST,-,-,5.4(24h),-,-,"Scattered clouds, haze"
+ALI-GOODARZ,08/03/2022,03Z,1.3,100%,1012.7 Hpa,220º (SW),10.8,,-,-,-,-,-,-0.8,fog
+ALI-GOODARZ,08/03/2022,00Z,0.7,100%,1011.7 Hpa,330º (NW),10.8,,-,-,-,-,-,-,fog
+ANZALI,08/03/2022,21Z,10.5,88%,1010.4 Hpa,360º (N ),10.8,6/8,-,-,CI,-,-,-,Cloudy
+ANZALI,08/03/2022,18Z,9.9,85%,1009.7 Hpa,160º (S ),3.6,0/8,-,-,-,-,-,-,Clear
+ANZALI,08/03/2022,15Z,10.7,82%,1008.1 Hpa,080º (E ),10.8,0/8,-,-,-,-,15.6,-,Clear
+ANZALI,08/03/2022,12Z,14.8,251%,1007.8 Hpa,030º (NE),7.2,3/8,3/8 CU,-,-,-,-,-,Scattered clouds
+ANZALI,08/03/2022,09Z,12.7,66%,1009.8 Hpa,360º (N ),7.2,4/8,4/8 CU/SC,-,-,-,-,-,Scattered clouds
+ANZALI,08/03/2022,06Z,8.7,376%,1011.5 Hpa,200º (S ),7.2,6/8,4/8 CU/SC,AC,-,-,-,-,Cloudy
+ANZALI,08/03/2022,03Z,5.9,90%,1012.2 Hpa,230º (SW),7.2,7/8,4/8 CB,AC,-,-,-,5.6,Cloudy
+ANZALI,08/03/2022,00Z,6.3,93%,1012.3 Hpa,200º (S ),3.6,0/8,-,-,-,-,-,-,"Clear, mist"
+ARAK,08/03/2022,21Z,9.0,39%,1008.0 Hpa,060º (NE),21.6,0/8,-,-,-,-,-,-,"Clear, dust"
+ARAK,08/03/2022,18Z,10.4,40%,1010.7 Hpa,230º (SW),7.2,0/8,-,-,-,-,-,-,"Clear, haze"
+ARAK,08/03/2022,15Z,12.2,38%,1007.6 Hpa,350º (N ),3.6,0/8,-,-,-,-,15.0,-,"Clear, dust"
+ARAK,08/03/2022,12Z,14.8,32%,1005.3 Hpa,230º (SW),21.6,1/8,1/8 CU,-,-,-,-,-,"Few clouds, dust"
+ARAK,08/03/2022,09Z,12.0,56%,1008.6 Hpa,200º (S ),10.8,1/8,1/8 CU,-,-,-,-,-,"Few clouds, dust"
+ARAK,08/03/2022,06Z,6.4,78%,1011.0 Hpa,calm.,,0/8,-,-,-,5.2(24h),-,-,"Clear, dust"
+ARAK,08/03/2022,03Z,2.2,96%,1011.0 Hpa,calm.,,7/8,2/8 ST,AC,-,-,-,2.0,"Cloudy, mist"
+ARAK,08/03/2022,00Z,3.2,93%,1009.3 Hpa,calm.,,7/8,2/8 SC,AC,,0.1(6h),-,-,"Cloudy, mist"
+ARDEBIL,08/03/2022,21Z,5.4,55%,1006.7 Hpa,180º (S ),28.8,7/8,-,-,CI,-,-,-,Cloudy
+ARDEBIL,08/03/2022,18Z,7.2,48%,1006.6 Hpa,300º (NW),32.4,5/8,-,-,CI,-,-,-,Cloudy
+ARDEBIL,08/03/2022,15Z,8.6,42%,1005.8 Hpa,210º (SW),28.8,4/8,4/8 CB,-,-,-,11.4,-,Scattered clouds
+ARDEBIL,08/03/2022,12Z,11.0,35%,1002.8 Hpa,210º (SW),57.6,4/8,4/8 CU,AC,-,-,-,-,Scattered clouds
+ARDEBIL,08/03/2022,09Z,9.2,48%,1007.3 Hpa,210º (SW),39.6,6/8,5/8 CB,AC,-,-,-,-,Cloudy
+ARDEBIL,08/03/2022,06Z,6.4,59%,1007.3 Hpa,180º (S ),43.2,4/8,1/8 SC,AC,CC,-,-,-,Scattered clouds
+ARDEBIL,08/03/2022,03Z,1.8,79%,1008.9 Hpa,180º (S ),25.2,2/8,1/8 SC,AC,-,-,-,-6.7,Few clouds
+ARDEBIL,08/03/2022,00Z,0.0,85%,1008.6 Hpa,180º (S ),21.6,2/8,2/8 SC,-,-,-,-,-,Few clouds
+BABULSAR,08/03/2022,21Z,11.0,80%,1010.1 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BABULSAR,08/03/2022,18Z,11.6,73%,1008.9 Hpa,calm.,,1/8,1/8 ST,-,-,-,-,-,Few clouds
+BABULSAR,08/03/2022,15Z,12.4,64%,1008.3 Hpa,calm.,,3/8,-,3/8 AC,-,-,15.0,-,Scattered clouds
+BABULSAR,08/03/2022,12Z,14.2,59%,1008.7 Hpa,300º (NW),10.8,2/8,-,2/8 AC,-,-,-,-,Few clouds
+BABULSAR,08/03/2022,09Z,14.0,54%,1009.0 Hpa,020º (N),10.8,0/8,-,-,-,-,-,-,Clear
+BABULSAR,08/03/2022,06Z,11.8,71%,1011.1 Hpa,calm.,,5/8,1/8 ST,-,CI,0.9(24h),-,-,Cloudy
+BABULSAR,08/03/2022,03Z,8.8,86%,1011.6 Hpa,calm.,,6/8,3/8 ST,AC,-,-,-,8.2,Cloudy
+BABULSAR,08/03/2022,00Z,8.6,89%,1013.4 Hpa,calm.,,1/8,1/8 ST,-,-,-,-,-,Few clouds
+BAFT,08/03/2022,21Z,8.2,71%,1013.5 Hpa,calm.,,4/8,2/8 SC,-,CI,-,-,-,Scattered clouds
+BAFT,08/03/2022,18Z,9.6,61%,1012.9 Hpa,calm.,,5/8,2/8 SC,-,CI,-,-,-,Cloudy
+BAFT,08/03/2022,15Z,11.0,51%,1011.9 Hpa,270º (W ),7.2,3/8,3/8 SC,-,-,-,15.0,-,Scattered clouds
+BAFT,08/03/2022,12Z,14.6,36%,1010.3 Hpa,270º (W ),25.2,6/8,2/8 CU,-,CI,-,-,-,Cloudy
+BAFT,08/03/2022,09Z,10.2,64%,1013.6 Hpa,270º (W ),10.8,5/8,2/8 SC,AC,-,-,-,-,Cloudy
+BAFT,08/03/2022,06Z,10.2,62%,1014.5 Hpa,calm.,,6/8,2/8 SC,AC,-,6.0(24h),-,-,Cloudy
+BAFT,08/03/2022,03Z,8.0,63%,1012.0 Hpa,calm.,,8/8,3/8 SC,AC,,-,-,4.6,Overcast
+BAFT,08/03/2022,00Z,5.8,81%,1013.8 Hpa,calm.,,8/8,4/8 CB,AC,,6.0(6h),-,-,Overcast
+BAM,08/03/2022,21Z,23.8,23%,1003.2 Hpa,300º (NW),18.0,2/8,2/8 SC,-,-,-,-,-,Few clouds
+BAM,08/03/2022,18Z,24.3,22%,1004.6 Hpa,290º (W ),21.6,5/8,5/8 SC,-,-,-,-,-,"Cloudy, dust"
+BAM,08/03/2022,15Z,24.8,19%,1004.1 Hpa,270º (W ),7.2,3/8,3/8 SC,-,-,-,30.8,-,"Scattered clouds, dust"
+BAM,08/03/2022,12Z,27.5,18%,1001.4 Hpa,250º (W ),25.2,5/8,1/8 CU,AC,-,-,-,-,"Cloudy, dust"
+BAM,08/03/2022,09Z,30.0,13%,1003.2 Hpa,240º (SW),10.8,6/8,3/8 CU,AC,-,-,-,-,"Cloudy, dust"
+BAM,08/03/2022,06Z,26.1,19%,1007.0 Hpa,150º (SE),14.4,6/8,3/8 SC,AC,-,-,-,-,"Cloudy, dust"
+BAM,08/03/2022,03Z,22.3,23%,1005.9 Hpa,240º (SW),7.2,0/8,-,-,-,-,-,18.8,"Clear, haze"
+BAM,08/03/2022,00Z,21.2,29%,1003.6 Hpa,260º (W ),7.2,0/8,-,-,-,-,-,-,Clear
+BANDAR LENGEH,08/03/2022,21Z,21.6,60%,1009.7 Hpa,070º (E ),14.4,5/8,2/8 SC,AC,-,-,-,-,"Cloudy, haze"
+BANDAR LENGEH,08/03/2022,18Z,25.2,67%,1010.3 Hpa,100º (E ),14.4,6/8,2/8 SC,AC,-,-,-,-,"Cloudy, haze"
+BANDAR LENGEH,08/03/2022,15Z,28.9,27%,1009.3 Hpa,360º (N ),7.2,5/8,-,5/8 AC,-,-,31.5,-,"Cloudy, haze"
+BANDAR LENGEH,08/03/2022,12Z,30.8,25%,1009.8 Hpa,260º (W ),14.4,6/8,-,6/8 AC,-,-,-,-,"Cloudy, haze"
+BANDAR LENGEH,08/03/2022,09Z,29.7,31%,1011.5 Hpa,140º (SE),7.2,6/8,2/8 SC,AC,-,-,-,-,"Cloudy, haze"
+BANDAR LENGEH,08/03/2022,06Z,26.4,56%,1013.4 Hpa,100º (E ),21.6,6/8,1/8 SC,AC,-,-,-,-,"Cloudy, haze"
+BANDAR LENGEH,08/03/2022,03Z,24.4,59%,1010.4 Hpa,090º (E ),21.6,4/8,1/8 SC,AC,-,-,-,21.0,"Scattered clouds, haze"
+BANDAR LENGEH,08/03/2022,00Z,23.3,66%,1009.1 Hpa,100º (E ),14.4,7/8,2/8 SC,AC,-,-,-,-,"Cloudy, haze"
+BANDAR-E-DAYYER,08/03/2022,21Z,22.7,66%,1010.0 Hpa,010º (N),7.2,6/8,2/8 SC,AC,-,-,-,-,Cloudy
+BANDAR-E-DAYYER,08/03/2022,18Z,23.8,67%,1010.9 Hpa,330º (NW),7.2,0/8,-,-,-,-,-,-,Clear
+BANDAR-E-DAYYER,08/03/2022,15Z,24.3,77%,1009.4 Hpa,150º (SE),10.8,4/8,-,-,CI,-,28.5,-,Scattered clouds
+BANDAR-E-DAYYER,08/03/2022,12Z,26.4,123%,1008.5 Hpa,160º (S ),25.2,4/8,-,-,CI,-,-,-,"Scattered clouds, dust"
+BANDAR-E-DAYYER,08/03/2022,09Z,26.9,62%,1010.0 Hpa,150º (SE),28.8,6/8,2/8 SC,AC,-,-,-,-,"Cloudy, dust"
+BANDAR-E-DAYYER,08/03/2022,06Z,26.7,121%,1010.9 Hpa,310º (NW),7.2,6/8,2/8 SC,AC,-,-,-,-,"Cloudy, dust"
+BANDAR-E-DAYYER,08/03/2022,03Z,25.3,53%,1009.2 Hpa,120º (SE),10.8,6/8,2/8 SC,AC,-,-,-,21.0,"Cloudy, dust"
+BANDAR-E-DAYYER,08/03/2022,00Z,21.7,47%,1007.5 Hpa,150º (SE),3.6,0/8,-,-,-,-,-,-,"Clear, dust"
+BANDARABBASS,08/03/2022,21Z,22.4,87%,1011.7 Hpa,010º (N),14.4,5/8,2/8 SC,-,CI,-,-,-,"Cloudy, mist"
+BANDARABBASS,08/03/2022,18Z,23.6,82%,1011.8 Hpa,060º (NE),14.4,5/8,2/8 SC,-,CI,-,-,-,"Cloudy, mist"
+BANDARABBASS,08/03/2022,15Z,24.8,78%,1010.3 Hpa,200º (S ),7.2,6/8,4/8 SC,-,CS,-,30.3,-,"Cloudy, haze"
+BANDARABBASS,08/03/2022,12Z,27.2,63%,1010.1 Hpa,180º (S ),21.6,7/8,3/8 SC,-,CS,-,-,-,"Cloudy, haze"
+BANDARABBASS,08/03/2022,09Z,29.6,30%,1012.2 Hpa,060º (NE),7.2,7/8,1/8 SC,-,CI,-,-,-,"Cloudy, haze"
+BANDARABBASS,08/03/2022,06Z,26.4,42%,1013.7 Hpa,300º (NW),10.8,6/8,1/8 SC,-,CI,Tr(24h),-,-,"Cloudy, haze"
+BANDARABBASS,08/03/2022,03Z,19.9,73%,1011.5 Hpa,350º (N ),14.4,1/8,1/8 CU,-,CI,-,-,18.9,"Few clouds, haze"
+BANDARABBASS,08/03/2022,00Z,21.6,76%,1010.3 Hpa,090º (E ),10.8,3/8,3/8 SC,-,-,Tr(6h),-,-,"Scattered clouds, haze"
+BIRJAND,08/03/2022,21Z,15.2,32%,1002.6 Hpa,calm.,,4/8,1/8 SC,AC,-,-,-,-,"Scattered clouds, haze"
+BIRJAND,08/03/2022,18Z,12.6,42%,1005.4 Hpa,120º (SE),14.4,3/8,3/8 SC,-,-,-,-,-,"Scattered clouds, haze"
+BIRJAND,08/03/2022,15Z,16.1,33%,1006.1 Hpa,290º (W ),10.8,0/8,-,-,-,-,21.3,-,"Clear, haze"
+BIRJAND,08/03/2022,12Z,19.5,24%,1004.0 Hpa,280º (W ),32.4,2/8,2/8 SC,-,CI,-,-,-,"Few clouds, dust"
+BIRJAND,08/03/2022,09Z,19.6,24%,1004.3 Hpa,280º (W ),28.8,4/8,4/8 CB,-,-,-,-,-,"Scattered clouds, dust"
+BIRJAND,08/03/2022,06Z,16.5,33%,1007.9 Hpa,calm.,,7/8,3/8 CU,AC,CI,0.6(24h),-,-,"Cloudy, haze"
+BIRJAND,08/03/2022,03Z,10.1,65%,1006.8 Hpa,030º (NE),14.4,5/8,4/8 CB,AC,CI,-,-,9.2,"Cloudy, haze"
+BIRJAND,08/03/2022,00Z,10.9,57%,1004.2 Hpa,060º (NE),18.0,5/8,4/8 CB,AC,-,0.6(6h),-,-,"Cloudy, haze"
+BOJNOURD,08/03/2022,21Z,5.1,88%,1009.4 Hpa,340º (N ),10.8,2/8,-,2/8 AC,-,-,-,-,Few clouds
+BOJNOURD,08/03/2022,18Z,6.6,80%,1010.6 Hpa,290º (W ),36.0,8/8,5/8 CB,AC,,0.8(6h),-,-,"Overcast, rain showers"
+BOJNOURD,08/03/2022,15Z,12.8,45%,1007.4 Hpa,180º (S ),7.2,6/8,5/8 CU/SC,AC,-,-,16.0,-,Cloudy
+BOJNOURD,08/03/2022,12Z,15.2,31%,1006.0 Hpa,210º (SW),18.0,6/8,5/8 CU/SC,AC,CI,-,-,-,Cloudy
+BOJNOURD,08/03/2022,09Z,14.2,42%,1007.7 Hpa,360º (N ),7.2,5/8,3/8 CU/SC,AC,CI,-,-,-,Cloudy
+BOJNOURD,08/03/2022,06Z,8.0,63%,1011.7 Hpa,330º (NW),7.2,6/8,1/8 SC,AC,CI,Tr(24h),-,-,"Cloudy, haze"
+BOJNOURD,08/03/2022,03Z,2.1,86%,1012.6 Hpa,320º (NW),10.8,2/8,1/8 SC,AC,CI,-,-,2.1,"Few clouds, mist"
+BOJNOURD,08/03/2022,00Z,5.1,68%,1011.7 Hpa,080º (E ),7.2,7/8,-,7/8 AC,-,Tr(6h),-,-,Cloudy
+BUSHEHR (AIRPORT),08/03/2022,21Z,20.3,65%,1010.6 Hpa,320º (NW),7.2,7/8,-,-,CI,-,-,-,"Cloudy, haze"
+BUSHEHR (AIRPORT),08/03/2022,18Z,20.3,63%,1010.9 Hpa,320º (NW),10.8,3/8,-,-,CI,-,-,-,"Scattered clouds, haze"
+BUSHEHR (AIRPORT),08/03/2022,15Z,20.6,65%,1009.8 Hpa,330º (NW),18.0,6/8,-,3/8 AC,CI,-,24.6,-,"Cloudy, dust"
+BUSHEHR (AIRPORT),08/03/2022,12Z,22.2,56%,1008.5 Hpa,310º (NW),21.6,4/8,-,-,CI,-,-,-,"Scattered clouds, dust"
+BUSHEHR (AIRPORT),08/03/2022,09Z,23.0,63%,1009.9 Hpa,330º (NW),18.0,6/8,-,-,CI,-,-,-,"Cloudy, dust"
+BUSHEHR (AIRPORT),08/03/2022,06Z,23.6,46%,1010.6 Hpa,090º (E ),10.8,3/8,-,-,CI,-,-,-,"Scattered clouds, dust"
+BUSHEHR (AIRPORT),08/03/2022,03Z,17.5,69%,1009.1 Hpa,calm.,,1/8,-,-,CI,-,-,17.0,"Few clouds, dust"
+BUSHEHR (AIRPORT),08/03/2022,00Z,21.0,66%,1007.5 Hpa,330º (NW),18.0,0/8,-,-,-,-,-,-,Clear
+CHAHBAHAR,08/03/2022,21Z,23.4,85%,1012.7 Hpa,110º (E ),7.2,2/8,2/8 ST,-,-,-,-,-,"Few clouds, mist"
+CHAHBAHAR,08/03/2022,18Z,24.2,80%,1013.2 Hpa,150º (SE),10.8,0/8,-,-,-,-,-,-,"Clear, mist"
+CHAHBAHAR,08/03/2022,15Z,24.5,1553%,1012.1 Hpa,160º (S ),14.4,3/8,3/8 SC,-,-,-,26.8,-,"Scattered clouds, haze"
+CHAHBAHAR,08/03/2022,12Z,26.1,74%,1009.9 Hpa,130º (SE),18.0,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+CHAHBAHAR,08/03/2022,09Z,26.7,1358%,1012.1 Hpa,160º (S ),18.0,2/8,1/8 CU,-,CI,-,-,-,Few clouds
+CHAHBAHAR,08/03/2022,06Z,25.6,,1014.1 Hpa,120º (SE),25.2,2/8,1/8 CU,-,CI,-,-,-,Few clouds
+CHAHBAHAR,08/03/2022,03Z,22.3,2609%,1014.2 Hpa,050º (NE),18.0,2/8,2/8 ST,-,-,-,-,22.0,"Few clouds, mist"
+CHAHBAHAR,08/03/2022,00Z,23.8,83%,1012.1 Hpa,110º (E ),7.2,4/8,4/8 ST,-,-,-,-,-,"Scattered clouds, mist"
+ESFAHAN,08/03/2022,21Z,11.0,32%,1009.4 Hpa,330º (NW),7.2,0/8,-,-,-,-,-,-,Clear
+ESFAHAN,08/03/2022,18Z,13.7,27%,1008.3 Hpa,310º (NW),14.4,0/8,-,-,-,-,-,-,Clear
+ESFAHAN,08/03/2022,15Z,17.3,16%,1008.7 Hpa,330º (NW),18.0,1/8,1/8 SC,-,-,-,21.8,-,Few clouds
+ESFAHAN,08/03/2022,12Z,21.2,16%,1005.0 Hpa,290º (W ),28.8,3/8,3/8 SC,-,-,-,-,-,"Scattered clouds, haze"
+ESFAHAN,08/03/2022,09Z,17.6,41%,1007.7 Hpa,150º (SE),7.2,0/8,-,-,-,-,-,-,"Clear, haze"
+ESFAHAN,08/03/2022,06Z,13.0,59%,1010.9 Hpa,010º (N),3.6,0/8,-,-,-,1.0(24h),-,-,"Clear, haze"
+ESFAHAN,08/03/2022,03Z,2.9,95%,1012.1 Hpa,240º (SW),3.6,0/8,-,-,-,-,-,2.6,"Clear, mist"
+ESFAHAN,08/03/2022,00Z,3.3,91%,1010.1 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+FASA,08/03/2022,21Z,15.4,50%,1009.4 Hpa,050º (NE),10.8,7/8,-,-,CI,-,-,-,"Cloudy, dust"
+FASA,08/03/2022,18Z,16.2,46%,1010.9 Hpa,calm.,,6/8,-,2/8 AC,CI,-,-,-,"Cloudy, dust"
+FASA,08/03/2022,15Z,19.2,36%,1010.2 Hpa,220º (SW),18.0,6/8,3/8 SC,AC,CI,-,23.0,-,"Cloudy, dust"
+FASA,08/03/2022,12Z,22.8,27%,1008.2 Hpa,190º (S ),32.4,7/8,3/8 SC,AC,CI,-,-,-,"Cloudy, dust"
+FASA,08/03/2022,09Z,21.6,29%,1010.6 Hpa,160º (S ),14.4,6/8,3/8 SC,AC,CI,-,-,-,"Cloudy, dust"
+FASA,08/03/2022,06Z,16.6,54%,1012.1 Hpa,calm.,,6/8,4/8 CU/SC,AC,CI,0.1(24h),-,-,"Cloudy, dust"
+FASA,08/03/2022,03Z,9.4,84%,1011.2 Hpa,calm.,,1/8,-,1/8 AC,-,-,-,9.2,Few clouds
+FASA,08/03/2022,00Z,11.8,75%,1010.2 Hpa,calm.,,3/8,-,3/8 AC,-,0.1(6h),-,-,Scattered clouds
+FERDOUS,08/03/2022,21Z,11.8,61%,1007.1 Hpa,030º (NE),7.2,0/8,-,-,-,-,-,-,"Clear, haze"
+FERDOUS,08/03/2022,18Z,12.8,66%,1007.2 Hpa,060º (NE),7.2,2/8,-,2/8 AC,-,-,-,-,"Few clouds, haze"
+FERDOUS,08/03/2022,15Z,15.5,49%,1006.8 Hpa,calm.,,0/8,-,-,-,-,19.0,-,"Clear, haze"
+FERDOUS,08/03/2022,12Z,18.8,38%,1005.1 Hpa,calm.,,6/8,2/8 SC,AC,-,-,-,-,"Cloudy, haze"
+FERDOUS,08/03/2022,09Z,16.0,49%,1007.8 Hpa,280º (W ),7.2,5/8,3/8 SC,AC,-,-,-,-,"Cloudy, haze"
+FERDOUS,08/03/2022,06Z,12.6,63%,1009.6 Hpa,calm.,,7/8,6/8 CB,AC,-,4.0(6h),-,-,Cloudy
+FERDOUS,08/03/2022,03Z,8.5,84%,1007.9 Hpa,090º (E ),7.2,4/8,3/8 CB,AC,-,-,-,8.5,Scattered clouds
+FERDOUS,08/03/2022,00Z,9.9,73%,1007.3 Hpa,360º (N ),14.4,8/8,5/8 CB,AC,,2.0(6h),-,-,"Overcast, thunderstorm"
+GACH SARAN DU GUNBADAN,08/03/2022,21Z,16.7,62%,1011.0 Hpa,140º (SE),7.2,6/8,3/8 CU,AC,-,-,-,-,"Cloudy, dust"
+GACH SARAN DU GUNBADAN,08/03/2022,18Z,16.5,57%,1011.8 Hpa,Vble.,,5/8,2/8 CU,AC,-,-,-,-,"Cloudy, dust"
+GACH SARAN DU GUNBADAN,08/03/2022,15Z,20.7,53%,1009.9 Hpa,190º (S ),7.2,6/8,-,-,CI,-,23.8,-,"Cloudy, dust"
+GACH SARAN DU GUNBADAN,08/03/2022,12Z,23.0,40%,1008.9 Hpa,160º (S ),7.2,5/8,-,-,CI,-,-,-,"Cloudy, dust"
+GACH SARAN DU GUNBADAN,08/03/2022,09Z,22.2,38%,1010.4 Hpa,160º (S ),14.4,5/8,-,-,CI,-,-,-,"Cloudy, dust"
+GACH SARAN DU GUNBADAN,08/03/2022,06Z,18.2,59%,1011.3 Hpa,130º (SE),7.2,5/8,-,-,CI,-,-,-,"Cloudy, dust"
+GACH SARAN DU GUNBADAN,08/03/2022,03Z,12.1,72%,1011.0 Hpa,Vble.,,0/8,-,-,-,-,-,11.8,"Clear, dust"
+GACH SARAN DU GUNBADAN,08/03/2022,00Z,13.0,69%,1009.1 Hpa,Vble.,,0/8,-,-,-,-,-,-,"Clear, dust"
+GHARAKHIL,08/03/2022,21Z,6.2,93%,1009.1 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+GHARAKHIL,08/03/2022,18Z,7.8,91%,1008.7 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+GHARAKHIL,08/03/2022,15Z,11.8,87%,1008.3 Hpa,calm.,,2/8,-,2/8 AC,-,-,16.2,-,Few clouds
+GHARAKHIL,08/03/2022,12Z,15.0,56%,1007.4 Hpa,020º (N),7.2,0/8,-,-,-,-,-,-,Clear
+GHARAKHIL,08/03/2022,09Z,15.6,55%,1008.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+GHARAKHIL,08/03/2022,06Z,12.8,65%,1010.8 Hpa,calm.,,4/8,-,-,CI,Tr(24h),-,-,Scattered clouds
+GHARAKHIL,08/03/2022,03Z,6.0,97%,1011.7 Hpa,calm.,,7/8,4/8 SC,AC,-,-,-,6.0,Cloudy
+GHARAKHIL,08/03/2022,00Z,6.0,87%,1012.3 Hpa,calm.,,3/8,-,3/8 AC,-,-,-,-,Scattered clouds
+GHAZVIN,08/03/2022,21Z,6.9,56%,1011.1 Hpa,050º (NE),3.6,0/8,-,-,-,-,-,-,Clear
+GHAZVIN,08/03/2022,18Z,7.8,51%,1011.1 Hpa,320º (NW),3.6,0/8,-,-,-,-,-,-,"Clear, haze"
+GHAZVIN,08/03/2022,15Z,10.2,50%,1008.2 Hpa,300º (NW),3.6,3/8,3/8 CU/SC,-,-,-,14.1,-,"Scattered clouds, haze"
+GHAZVIN,08/03/2022,12Z,13.5,62%,1006.3 Hpa,200º (S ),14.4,3/8,3/8 CB,-,-,-,-,-,"Scattered clouds, haze"
+GHAZVIN,08/03/2022,09Z,9.2,82%,1009.6 Hpa,140º (SE),14.4,8/8,6/8 CB,AC,,-,-,-,"Overcast, mist"
+GHAZVIN,08/03/2022,06Z,5.5,100%,1011.7 Hpa,160º (S ),7.2,8/8,6/8 SC,AC,,0.1(6h),-,-,"Overcast, mist"
+GHAZVIN,08/03/2022,03Z,3.7,100%,1012.1 Hpa,190º (S ),3.6,8/8,7/8 SC,AC,,-,-,3.1,"Overcast, fog"
+GHAZVIN,08/03/2022,00Z,3.9,98%,1010.7 Hpa,040º (NE),3.6,8/8,5/8 SC,AC,,2.0(6h),-,-,"Overcast, rain"
+GHUCHAN,08/03/2022,21Z,0.3,87%,1014.0 Hpa,300º (NW),14.4,8/8,5/8 CB,AC,-,-,-,-,"Overcast, thunderstorm"
+GHUCHAN,08/03/2022,18Z,6.8,75%,1008.8 Hpa,120º (SE),7.2,2/8,2/8 SC,-,-,-,-,-,Few clouds
+GHUCHAN,08/03/2022,15Z,9.7,58%,1008.0 Hpa,180º (S ),7.2,5/8,5/8 SC,-,-,-,13.8,-,Cloudy
+GHUCHAN,08/03/2022,12Z,13.2,49%,1007.1 Hpa,230º (SW),32.4,4/8,4/8 SC,-,-,-,-,-,Scattered clouds
+GHUCHAN,08/03/2022,09Z,8.3,78%,1009.8 Hpa,090º (E ),25.2,6/8,4/8 CB,AC,-,-,-,-,"Cloudy, haze"
+GHUCHAN,08/03/2022,06Z,3.0,88%,1013.7 Hpa,080º (E ),25.2,7/8,4/8 CB,AC,-,0.1(6h),-,-,"Cloudy, mist"
+GHUCHAN,08/03/2022,03Z,1.9,84%,1013.4 Hpa,080º (E ),28.8,6/8,6/8 SC,-,-,-,-,1.4,Cloudy
+GHUCHAN,08/03/2022,00Z,1.6,82%,1014.0 Hpa,110º (E ),39.6,0/8,-,-,-,-,-,-,Clear
+GORGAN,08/03/2022,21Z,7.9,89%,1012.0 Hpa,240º (SW),14.4,2/8,-,2/8 AC,-,-,-,-,Few clouds
+GORGAN,08/03/2022,18Z,12.4,83%,1009.5 Hpa,120º (SE),18.0,4/8,2/8 CB,AC,-,Tr(6h),-,-,"Scattered clouds, rain showers"
+GORGAN,08/03/2022,15Z,12.5,71%,1010.6 Hpa,280º (W ),10.8,6/8,2/8 CU,AC,-,-,16.7,-,Cloudy
+GORGAN,08/03/2022,12Z,16.5,53%,1008.9 Hpa,030º (NE),7.2,1/8,1/8 CU,-,-,-,-,-,Few clouds
+GORGAN,08/03/2022,09Z,15.1,52%,1010.5 Hpa,050º (NE),7.2,1/8,1/8 CU,-,-,-,-,-,Few clouds
+GORGAN,08/03/2022,06Z,11.8,68%,1013.0 Hpa,340º (N ),7.2,2/8,-,-,CI,-,-,-,"Few clouds, haze"
+GORGAN,08/03/2022,03Z,5.2,90%,1013.6 Hpa,calm.,,4/8,-,4/8 AC,-,-,-,4.6,Scattered clouds
+GORGAN,08/03/2022,00Z,4.9,90%,1013.8 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+HAMEDAN,08/03/2022,21Z,1.4,73%,1010.5 Hpa,050º (NE),3.6,0/8,-,-,-,-,-,-,Clear
+HAMEDAN,08/03/2022,18Z,4.5,59%,1012.1 Hpa,100º (E ),18.0,0/8,-,-,-,-,-,-,Clear
+HAMEDAN,08/03/2022,15Z,9.1,40%,1008.4 Hpa,260º (W ),21.6,0/8,-,-,-,-,13.1,-,Clear
+HAMEDAN,08/03/2022,12Z,12.7,37%,1006.3 Hpa,250º (W ),28.8,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+HAMEDAN,08/03/2022,09Z,11.0,49%,1007.8 Hpa,280º (W ),18.0,3/8,3/8 SC,-,-,-,-,-,"Scattered clouds, haze"
+HAMEDAN,08/03/2022,06Z,2.9,100%,1010.3 Hpa,060º (NE),7.2,8/8,8/8 ST,,,6.9(24h),-,-,"Overcast, fog"
+HAMEDAN,08/03/2022,03Z,1.8,100%,1009.3 Hpa,calm.,,8/8,4/8 CB,AC,,-,-,1.1,"Overcast, fog"
+HAMEDAN,08/03/2022,00Z,1.9,98%,1008.4 Hpa,300º (NW),7.2,7/8,4/8 CB,AC,-,4.0(6h),-,-,"Cloudy, rain"
+ILAM,08/03/2022,21Z,5.7,68%,1013.6 Hpa,110º (E ),7.2,0/8,-,-,-,-,-,-,Clear
+ILAM,08/03/2022,18Z,6.5,68%,1014.4 Hpa,080º (E ),7.2,0/8,-,-,-,-,-,-,Clear
+ILAM,08/03/2022,15Z,12.1,45%,1012.8 Hpa,240º (SW),3.6,4/8,-,-,CI,-,16.3,-,Scattered clouds
+ILAM,08/03/2022,12Z,15.2,32%,1012.0 Hpa,280º (W ),14.4,4/8,-,-,CI,-,-,-,Scattered clouds
+ILAM,08/03/2022,09Z,15.1,36%,1012.7 Hpa,200º (S ),14.4,3/8,1/8 CU,-,CI,-,-,-,"Scattered clouds, dust"
+ILAM,08/03/2022,06Z,11.3,69%,1013.5 Hpa,130º (SE),7.2,4/8,1/8 SC,AC,-,1.7(24h),-,-,"Scattered clouds, dust"
+ILAM,08/03/2022,03Z,5.8,86%,1012.3 Hpa,120º (SE),7.2,5/8,2/8 SC,AC,-,-,-,5.4,"Cloudy, mist"
+ILAM,08/03/2022,00Z,6.1,85%,1011.0 Hpa,120º (SE),10.8,4/8,1/8 SC,AC,-,-,-,-,"Scattered clouds, mist"
+IRANSHAHR,08/03/2022,21Z,23.7,34%,1010.7 Hpa,240º (SW),7.2,1/8,-,-,CI,-,-,-,"Few clouds, haze"
+IRANSHAHR,08/03/2022,18Z,25.6,28%,1011.2 Hpa,290º (W ),7.2,2/8,-,-,CI,-,-,-,"Few clouds, haze"
+IRANSHAHR,08/03/2022,15Z,28.0,21%,1009.9 Hpa,300º (NW),14.4,3/8,3/8 SC,-,-,-,32.1,-,"Scattered clouds, haze"
+IRANSHAHR,08/03/2022,12Z,31.3,17%,1007.6 Hpa,250º (W ),28.8,5/8,2/8 SC,-,CI,-,-,-,"Cloudy, dust"
+IRANSHAHR,08/03/2022,09Z,29.8,18%,1010.1 Hpa,240º (SW),18.0,0/8,-,-,-,-,-,-,Clear
+IRANSHAHR,08/03/2022,06Z,25.7,27%,1013.6 Hpa,calm.,,6/8,-,-,CI,-,-,-,Cloudy
+IRANSHAHR,08/03/2022,03Z,17.3,38%,1014.0 Hpa,010º (N),7.2,0/8,-,-,-,-,-,16.2,Clear
+IRANSHAHR,08/03/2022,00Z,19.0,40%,1011.1 Hpa,010º (N),10.8,0/8,-,-,-,-,-,-,Clear
+JASK,08/03/2022,21Z,23.9,89%,1011.1 Hpa,100º (E ),21.6,0/8,-,-,-,-,-,-,"Clear, mist"
+JASK,08/03/2022,18Z,24.4,89%,1011.6 Hpa,130º (SE),28.8,0/8,-,-,-,-,-,-,"Clear, mist"
+JASK,08/03/2022,15Z,24.4,88%,1010.1 Hpa,130º (SE),32.4,0/8,-,-,-,-,25.5,-,"Clear, dust"
+JASK,08/03/2022,12Z,25.0,392%,1009.8 Hpa,140º (SE),28.8,3/8,-,-,CS,-,-,-,"Scattered clouds, dust"
+JASK,08/03/2022,09Z,25.2,81%,1012.1 Hpa,130º (SE),36.0,5/8,-,-,CS,-,-,-,"Cloudy, dust"
+JASK,08/03/2022,06Z,24.8,136%,1013.3 Hpa,130º (SE),25.2,5/8,-,-,CI,-,-,-,"Cloudy, haze"
+JASK,08/03/2022,03Z,22.5,86%,1012.1 Hpa,070º (E ),10.8,3/8,-,-,CI,-,-,22.5,"Scattered clouds, mist"
+JASK,08/03/2022,00Z,23.5,84%,1010.2 Hpa,100º (E ),28.8,0/8,-,-,-,-,-,-,"Clear, mist"
+KAHNUJ,08/03/2022,21Z,21.6,48%,1005.9 Hpa,250º (W ),10.8,0/8,-,-,-,-,-,-,Clear
+KAHNUJ,08/03/2022,18Z,23.1,41%,1006.5 Hpa,210º (SW),10.8,0/8,-,-,-,-,-,-,Clear
+KAHNUJ,08/03/2022,15Z,24.7,37%,1005.8 Hpa,180º (S ),18.0,5/8,-,-,CI,-,28.9,-,Cloudy
+KAHNUJ,08/03/2022,12Z,28.1,26%,1004.0 Hpa,210º (SW),32.4,6/8,-,3/8 AC,CI,-,-,-,Cloudy
+KAHNUJ,08/03/2022,09Z,28.9,24%,1005.8 Hpa,210º (SW),28.8,5/8,-,-,CI,-,-,-,Cloudy
+KAHNUJ,08/03/2022,06Z,26.0,29%,1008.0 Hpa,180º (S ),10.8,0/8,-,-,-,-,-,-,Clear
+KAHNUJ,08/03/2022,03Z,16.7,47%,1007.5 Hpa,calm.,,0/8,-,-,-,-,-,16.7,Clear
+KAHNUJ,08/03/2022,00Z,21.9,30%,1006.0 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KASHAN,08/03/2022,21Z,10.6,100%,1011.1 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KASHAN,08/03/2022,18Z,11.8,96%,1010.1 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KASHAN,08/03/2022,15Z,15.2,65%,1007.2 Hpa,calm.,,0/8,-,-,-,-,18.9,-,Clear
+KASHAN,08/03/2022,12Z,18.0,46%,1006.9 Hpa,340º (N ),10.8,0/8,-,-,-,-,-,-,Clear
+KASHAN,08/03/2022,09Z,15.4,66%,1009.1 Hpa,calm.,,4/8,4/8 SC,-,-,-,-,-,Scattered clouds
+KASHAN,08/03/2022,06Z,11.6,84%,1012.3 Hpa,calm.,,7/8,7/8 SC,AC,-,4.4(24h),-,-,Cloudy
+KASHAN,08/03/2022,03Z,8.8,97%,1012.8 Hpa,calm.,,6/8,3/8 SC,AC,-,-,-,8.5,"Cloudy, mist"
+KASHAN,08/03/2022,00Z,8.6,96%,1012.0 Hpa,calm.,,6/8,3/8 SC,AC,-,0.2(6h),-,-,"Cloudy, mist"
+KASHMAR,08/03/2022,21Z,12.7,73%,1007.7 Hpa,calm.,,2/8,2/8 SC,-,-,-,-,-,Few clouds
+KASHMAR,08/03/2022,18Z,11.8,68%,1008.8 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KASHMAR,08/03/2022,15Z,13.9,56%,1007.7 Hpa,calm.,,1/8,1/8 SC,-,-,-,16.5,-,Few clouds
+KASHMAR,08/03/2022,12Z,16.0,50%,1007.4 Hpa,290º (W ),7.2,4/8,2/8 CU,-,CI,-,-,-,Scattered clouds
+KASHMAR,08/03/2022,09Z,14.8,57%,1009.0 Hpa,150º (SE),10.8,4/8,3/8 CU,-,CI,-,-,-,Scattered clouds
+KASHMAR,08/03/2022,06Z,11.0,68%,1010.8 Hpa,110º (E ),10.8,7/8,4/8 SC,AC,-,0.5(24h),-,-,Cloudy
+KASHMAR,08/03/2022,03Z,9.0,72%,1011.1 Hpa,080º (E ),18.0,7/8,3/8 SC,-,CI,-,-,9.0,Cloudy
+KASHMAR,08/03/2022,00Z,10.2,72%,1009.1 Hpa,calm.,,7/8,3/8 SC,AC,-,0.2(6h),-,-,Cloudy
+KERMAN,08/03/2022,21Z,15.1,37%,1005.5 Hpa,220º (SW),7.2,0/8,-,-,-,-,-,-,Clear
+KERMAN,08/03/2022,18Z,15.8,36%,1006.2 Hpa,140º (SE),7.2,4/8,1/8 SC,-,CI,-,-,-,Scattered clouds
+KERMAN,08/03/2022,15Z,17.3,31%,1005.4 Hpa,240º (SW),25.2,6/8,3/8 CB,-,CI,-,21.8,-,Cloudy
+KERMAN,08/03/2022,12Z,20.1,25%,1003.0 Hpa,240º (SW),43.2,6/8,5/8 CB,AC,-,-,-,-,"Cloudy, dust"
+KERMAN,08/03/2022,09Z,21.4,23%,1003.6 Hpa,260º (W ),43.2,6/8,4/8 CB,AC,-,-,-,-,"Cloudy, dust"
+KERMAN,08/03/2022,06Z,18.1,31%,1007.8 Hpa,250º (W ),28.8,6/8,1/8 SC,AC,CI,-,-,-,"Cloudy, dust"
+KERMAN,08/03/2022,03Z,12.8,42%,1008.2 Hpa,130º (SE),10.8,5/8,-,5/8 AC,-,-,-,10.4,"Cloudy, dust"
+KERMAN,08/03/2022,00Z,13.5,43%,1006.0 Hpa,240º (SW),25.2,4/8,-,4/8 AC,-,-,-,-,Scattered clouds
+KERMANSHAH,08/03/2022,21Z,4.6,70%,1013.2 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KERMANSHAH,08/03/2022,18Z,7.9,52%,1013.2 Hpa,290º (W ),18.0,0/8,-,-,-,-,-,-,Clear
+KERMANSHAH,08/03/2022,15Z,12.7,33%,1011.6 Hpa,310º (NW),18.0,1/8,1/8 CU,-,-,-,16.4,-,Few clouds
+KERMANSHAH,08/03/2022,12Z,15.2,31%,1010.4 Hpa,240º (SW),18.0,5/8,5/8 CB,-,-,-,-,-,Cloudy
+KERMANSHAH,08/03/2022,09Z,13.2,53%,1011.7 Hpa,260º (W ),10.8,5/8,5/8 CB,-,-,-,-,-,Cloudy
+KERMANSHAH,08/03/2022,06Z,6.5,91%,1013.6 Hpa,330º (NW),10.8,5/8,5/8 CB,-,-,5.9(24h),-,-,"Cloudy, mist"
+KERMANSHAH,08/03/2022,03Z,2.0,98%,1012.8 Hpa,calm.,,4/8,2/8 SC,AC,-,-,-,2.0,"Scattered clouds, mist"
+KERMANSHAH,08/03/2022,00Z,3.4,96%,1011.5 Hpa,calm.,,4/8,2/8 SC,AC,-,-,-,-,"Scattered clouds, mist"
+KHARG,08/03/2022,15Z,19.6,84%,1010.0 Hpa,320º (NW),10.8,6/8,-,1/8 AC,CI,-,22.4,-,"Cloudy, mist"
+KHARG,08/03/2022,12Z,21.0,79%,1009.5 Hpa,310º (NW),18.0,5/8,-,-,CI,-,-,-,"Cloudy, dust"
+KHARG,08/03/2022,09Z,21.3,69%,1010.6 Hpa,310º (NW),18.0,3/8,-,-,CI,-,-,-,"Scattered clouds, dust"
+KHARG,08/03/2022,06Z,21.5,75%,1010.9 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, dust"
+KHARG,08/03/2022,03Z,19.3,89%,1009.2 Hpa,310º (NW),7.2,3/8,-,-,CI,-,-,19.1,"Scattered clouds, mist"
+KHOR,08/03/2022,21Z,13.4,60%,1009.4 Hpa,270º (W ),7.2,0/8,-,-,-,-,-,-,Clear
+KHOR,08/03/2022,18Z,14.4,57%,1009.0 Hpa,200º (S ),3.6,1/8,-,1/8 AC,-,-,-,-,Few clouds
+KHOR,08/03/2022,15Z,18.0,42%,1007.3 Hpa,040º (NE),7.2,1/8,-,1/8 AC,-,-,22.6,-,Few clouds
+KHOR,08/03/2022,12Z,22.0,31%,1006.2 Hpa,130º (SE),7.2,0/8,-,-,-,-,-,-,Clear
+KHOR,08/03/2022,09Z,18.6,41%,1009.4 Hpa,190º (S ),7.2,1/8,1/8 CU,-,-,-,-,-,Few clouds
+KHOR,08/03/2022,06Z,14.5,61%,1011.6 Hpa,110º (E ),7.2,4/8,-,3/8 AC,CI,1.4(24h),-,-,Scattered clouds
+KHOR,08/03/2022,03Z,7.8,87%,1011.9 Hpa,calm.,,6/8,3/8 SC,AC,-,-,-,7.8,Cloudy
+KHOR,08/03/2022,00Z,9.1,86%,1009.6 Hpa,calm.,,3/8,3/8 SC,-,-,0.7(6h),-,-,Scattered clouds
+KHORRAM ABAD,08/03/2022,21Z,6.1,82%,1012.7 Hpa,120º (SE),3.6,0/8,-,-,-,-,-,-,"Clear, dust"
+KHORRAM ABAD,08/03/2022,18Z,11.2,50%,1012.6 Hpa,210º (SW),3.6,3/8,-,-,CS,-,-,-,"Scattered clouds, dust"
+KHORRAM ABAD,08/03/2022,15Z,15.2,35%,1010.6 Hpa,230º (SW),10.8,5/8,-,-,CI,-,18.0,-,"Cloudy, dust"
+KHORRAM ABAD,08/03/2022,12Z,17.3,45%,1009.4 Hpa,290º (W ),21.6,3/8,-,3/8 AC,-,-,-,-,"Scattered clouds, dust"
+KHORRAM ABAD,08/03/2022,09Z,14.7,65%,1010.9 Hpa,260º (W ),18.0,4/8,-,4/8 AC,-,-,-,-,"Scattered clouds, dust"
+KHORRAM ABAD,08/03/2022,06Z,8.1,80%,1013.0 Hpa,140º (SE),3.6,2/8,-,2/8 AC,-,3.6(24h),-,-,"Few clouds, mist"
+KHORRAM ABAD,08/03/2022,03Z,3.6,96%,1012.8 Hpa,calm.,,2/8,-,2/8 AC,-,-,-,3.3,"Few clouds, mist"
+KHORRAM ABAD,08/03/2022,00Z,4.6,93%,1011.5 Hpa,calm.,,3/8,-,3/8 AC,-,-,-,-,Scattered clouds
+KHOY,08/03/2022,21Z,6.0,45%,1009.0 Hpa,calm.,,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+KHOY,08/03/2022,18Z,8.2,40%,1009.7 Hpa,calm.,,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+KHOY,08/03/2022,15Z,11.4,31%,1008.6 Hpa,270º (W ),14.4,4/8,4/8 CB,-,-,-,14.0,-,Scattered clouds
+KHOY,08/03/2022,12Z,12.2,29%,1006.2 Hpa,130º (SE),7.2,7/8,5/8 CB,AC,-,-,-,-,Cloudy
+KHOY,08/03/2022,09Z,11.0,37%,1007.8 Hpa,180º (S ),18.0,6/8,5/8 CB,AC,-,-,-,-,Cloudy
+KHOY,08/03/2022,06Z,4.0,66%,1010.5 Hpa,calm.,,5/8,2/8 SC,AC,-,-,-,-,Cloudy
+KHOY,08/03/2022,03Z,0.0,74%,1009.8 Hpa,calm.,,0/8,-,-,-,-,-,-1.4,Clear
+KHOY,08/03/2022,00Z,3.4,57%,1008.7 Hpa,100º (E ),7.2,0/8,-,-,-,-,-,-,Clear
+KISH ISLAND,08/03/2022,21Z,24.6,60%,1009.7 Hpa,120º (SE),18.0,6/8,1/8 CU,AC,-,-,-,-,"Cloudy, haze"
+KISH ISLAND,08/03/2022,18Z,26.6,40%,1009.7 Hpa,070º (E ),14.4,6/8,1/8 CU,AC,-,-,-,-,"Cloudy, haze"
+KISH ISLAND,08/03/2022,15Z,26.8,44%,1009.2 Hpa,070º (E ),10.8,6/8,1/8 CU,AC,-,-,29.4,-,"Cloudy, haze"
+KISH ISLAND,08/03/2022,12Z,28.6,39%,1009.5 Hpa,150º (SE),10.8,7/8,2/8 CU,AC,-,-,-,-,"Cloudy, haze"
+KISH ISLAND,08/03/2022,09Z,29.0,44%,1011.3 Hpa,120º (SE),21.6,7/8,2/8 CU,AC,-,-,-,-,"Cloudy, haze"
+KISH ISLAND,08/03/2022,06Z,27.6,45%,1012.2 Hpa,110º (E ),28.8,6/8,2/8 CU,AC,-,-,-,-,"Cloudy, haze"
+KISH ISLAND,08/03/2022,03Z,24.0,58%,1009.9 Hpa,070º (E ),21.6,6/8,-,6/8 AC,-,-,-,23.2,"Cloudy, haze"
+KISH ISLAND,08/03/2022,00Z,23.6,68%,1008.8 Hpa,090º (E ),18.0,4/8,-,4/8 AC,-,-,-,-,"Scattered clouds, haze"
+MAKKO,08/03/2022,21Z,4.8,52%,1009.6 Hpa,360º (N ),7.2,4/8,4/8 SC,-,-,-,-,-,Scattered clouds
+MAKKO,08/03/2022,18Z,6.2,46%,1010.6 Hpa,210º (SW),14.4,4/8,4/8 SC,-,-,-,-,-,Scattered clouds
+MAKKO,08/03/2022,15Z,7.4,44%,1010.0 Hpa,250º (W ),10.8,4/8,4/8 CB,-,-,-,9.8,-,Scattered clouds
+MAKKO,08/03/2022,12Z,8.8,42%,1008.1 Hpa,270º (W ),28.8,3/8,3/8 CB,-,-,-,-,-,Scattered clouds
+MAKKO,08/03/2022,09Z,8.2,42%,1008.3 Hpa,270º (W ),36.0,6/8,2/8 CU/SC,-,CI,-,-,-,Cloudy
+MAKKO,08/03/2022,06Z,3.0,47%,1010.1 Hpa,calm.,,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+MAKKO,08/03/2022,03Z,-1.2,57%,1010.8 Hpa,calm.,,4/8,4/8 SC,-,-,-,-,-2.4,Scattered clouds
+MAKKO,08/03/2022,00Z,-0.4,53%,1010.1 Hpa,350º (N ),10.8,0/8,-,-,-,-,-,-,Clear
+MARAGHEH,08/03/2022,21Z,5.5,54%,1009.8 Hpa,120º (SE),10.8,0/8,-,-,-,-,-,-,Clear
+MARAGHEH,08/03/2022,18Z,4.4,56%,1010.9 Hpa,100º (E ),7.2,4/8,1/8 SC,-,CI,-,-,-,Scattered clouds
+MARAGHEH,08/03/2022,15Z,10.0,33%,1008.9 Hpa,260º (W ),21.6,5/8,1/8 CU,-,CI,-,13.5,-,Cloudy
+MARAGHEH,08/03/2022,12Z,13.0,24%,1006.9 Hpa,270º (W ),21.6,4/8,4/8 CU/SC,-,-,-,-,-,Scattered clouds
+MARAGHEH,08/03/2022,09Z,10.8,46%,1009.3 Hpa,260º (W ),14.4,4/8,2/8 CU/SC,AC,-,-,-,-,Scattered clouds
+MARAGHEH,08/03/2022,06Z,5.9,69%,1009.6 Hpa,210º (SW),7.2,7/8,2/8 SC,AC,-,0.3(24h),-,-,"Cloudy, haze"
+MARAGHEH,08/03/2022,03Z,1.7,79%,1010.0 Hpa,150º (SE),3.6,7/8,4/8 SC,AC,-,-,-,-1.5,"Cloudy, mist"
+MARAGHEH,08/03/2022,00Z,0.3,87%,1009.7 Hpa,080º (E ),14.4,6/8,1/8 SC,AC,CI,-,-,-,"Cloudy, mist"
+MARAVEH-TAPPEH,08/03/2022,21Z,8.7,74%,1011.9 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+MARAVEH-TAPPEH,08/03/2022,18Z,12.9,57%,1009.9 Hpa,170º (S ),25.2,5/8,3/8 CB,AC,-,0.1(6h),-,-,Cloudy
+MARAVEH-TAPPEH,08/03/2022,15Z,11.6,64%,1010.7 Hpa,calm.,,6/8,3/8 CB,AC,-,-,14.5,-,Cloudy
+MARAVEH-TAPPEH,08/03/2022,12Z,14.3,52%,1008.5 Hpa,calm.,,5/8,1/8 CU,AC,-,-,-,-,Cloudy
+MARAVEH-TAPPEH,08/03/2022,09Z,11.4,62%,1010.6 Hpa,calm.,,5/8,1/8 CU,AC,CI,-,-,-,Cloudy
+MARAVEH-TAPPEH,08/03/2022,06Z,9.6,64%,1012.8 Hpa,calm.,,1/8,-,1/8 AC,-,-,-,-,Few clouds
+MARAVEH-TAPPEH,08/03/2022,03Z,4.9,78%,1012.1 Hpa,calm.,,2/8,-,-,CI,-,-,4.7,Few clouds
+MARAVEH-TAPPEH,08/03/2022,00Z,5.9,69%,1012.4 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+MASHHAD,08/03/2022,21Z,9.8,75%,1008.2 Hpa,calm.,,4/8,2/8 SC,-,CI,-,-,-,Scattered clouds
+MASHHAD,08/03/2022,18Z,11.7,64%,1007.4 Hpa,calm.,,1/8,-,-,CI,Tr(6h),-,-,Few clouds
+MASHHAD,08/03/2022,15Z,13.0,55%,1008.3 Hpa,140º (SE),10.8,3/8,2/8 SC,AC,-,-,15.8,-,Scattered clouds
+MASHHAD,08/03/2022,12Z,15.1,51%,1007.5 Hpa,320º (NW),25.2,3/8,2/8 SC,-,CI,-,-,-,Scattered clouds
+MASHHAD,08/03/2022,09Z,12.0,60%,1010.1 Hpa,330º (NW),18.0,5/8,2/8 SC,AC,CI,-,-,-,"Cloudy, haze"
+MASHHAD,08/03/2022,06Z,8.1,70%,1013.5 Hpa,050º (NE),7.2,7/8,3/8 SC,AC,CI,0.5(24h),-,-,"Cloudy, haze"
+MASHHAD,08/03/2022,03Z,4.0,84%,1014.3 Hpa,090º (E ),7.2,8/8,8/8 ST,,,-,-,4.0,"Overcast, mist"
+MASHHAD,08/03/2022,00Z,4.2,84%,1014.2 Hpa,160º (S ),14.4,8/8,8/8 ST,,,0.5(6h),-,-,Overcast
+MASJED-SOLEYMAN,08/03/2022,21Z,15.8,72%,1009.6 Hpa,150º (SE),3.6,0/8,-,-,-,-,-,-,Clear
+MASJED-SOLEYMAN,08/03/2022,18Z,17.3,64%,1010.0 Hpa,070º (E ),3.6,0/8,-,-,-,-,-,-,"Clear, dust"
+MASJED-SOLEYMAN,08/03/2022,15Z,20.4,51%,1008.8 Hpa,calm.,,3/8,-,3/8 AC,-,-,24.7,-,"Scattered clouds, dust"
+MASJED-SOLEYMAN,08/03/2022,12Z,24.2,32%,1007.9 Hpa,160º (S ),10.8,3/8,-,3/8 AC,-,-,-,-,"Scattered clouds, dust"
+MASJED-SOLEYMAN,08/03/2022,09Z,24.1,36%,1008.6 Hpa,180º (S ),7.2,0/8,-,-,-,-,-,-,"Clear, dust"
+MASJED-SOLEYMAN,08/03/2022,06Z,20.4,54%,1008.9 Hpa,160º (S ),3.6,0/8,-,-,-,-,-,-,"Clear, dust"
+MASJED-SOLEYMAN,08/03/2022,03Z,16.8,64%,1007.8 Hpa,140º (SE),3.6,0/8,-,-,-,-,-,16.4,"Clear, dust"
+MASJED-SOLEYMAN,08/03/2022,00Z,17.7,59%,1006.2 Hpa,160º (S ),7.2,0/8,-,-,-,-,-,-,"Clear, dust"
+MEYANEH,08/03/2022,21Z,5.6,74%,1011.4 Hpa,calm.,,7/8,1/8 CB,AC,-,-,-,-,Cloudy
+MEYANEH,08/03/2022,18Z,7.0,73%,1011.2 Hpa,200º (S ),7.2,4/8,1/8 CB,-,CI,-,-,-,Scattered clouds
+MEYANEH,08/03/2022,15Z,11.0,50%,1008.3 Hpa,220º (SW),43.2,3/8,2/8 CB,-,CI,-,14.6,-,Scattered clouds
+MEYANEH,08/03/2022,12Z,13.4,48%,1006.4 Hpa,230º (SW),64.8,5/8,5/8 CB,-,-,-,-,-,Cloudy
+MEYANEH,08/03/2022,09Z,10.2,62%,1008.7 Hpa,360º (N ),7.2,6/8,5/8 CB,AC,-,-,-,-,Cloudy
+MEYANEH,08/03/2022,06Z,4.4,82%,1011.5 Hpa,calm.,,5/8,2/8 SC,AC,-,0.2(24h),-,-,Cloudy
+MEYANEH,08/03/2022,03Z,2.8,87%,1011.0 Hpa,calm.,,7/8,2/8 CB,AC,-,-,-,2.8,Cloudy
+MEYANEH,08/03/2022,00Z,3.4,75%,1011.2 Hpa,calm.,,7/8,1/8 CB,AC,-,-,-,-,Cloudy
+MOHABAD,08/03/2022,21Z,6.4,58%,1010.8 Hpa,180º (S ),7.2,0/8,-,-,-,-,-,-,Clear
+MOHABAD,08/03/2022,18Z,7.2,54%,1010.9 Hpa,180º (S ),18.0,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+MOHABAD,08/03/2022,15Z,8.6,55%,1011.8 Hpa,180º (S ),21.6,5/8,5/8 CB,-,-,-,12.6,-,Cloudy
+MOHABAD,08/03/2022,12Z,12.2,41%,1009.1 Hpa,190º (S ),25.2,4/8,4/8 CB,-,-,-,-,-,Scattered clouds
+MOHABAD,08/03/2022,09Z,10.9,46%,1009.9 Hpa,210º (SW),21.6,4/8,4/8 SC,-,-,-,-,-,Scattered clouds
+MOHABAD,08/03/2022,06Z,7.8,57%,1010.3 Hpa,calm.,,2/8,2/8 SC,-,-,-,-,-,Few clouds
+MOHABAD,08/03/2022,03Z,-0.4,85%,1012.0 Hpa,calm.,,0/8,-,-,-,-,-,-1.4,Clear
+MOHABAD,08/03/2022,00Z,-0.7,81%,1011.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+NEHBANDAN,08/03/2022,21Z,13.7,48%,1005.5 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+NEHBANDAN,08/03/2022,18Z,16.2,40%,1006.0 Hpa,360º (N ),7.2,5/8,-,-,CI,-,-,-,Cloudy
+NEHBANDAN,08/03/2022,15Z,20.2,21%,1005.1 Hpa,360º (N ),10.8,8/8,3/8 SC,AC,,-,24.7,-,"Overcast, dust"
+NEHBANDAN,08/03/2022,12Z,24.4,9%,1002.5 Hpa,360º (N ),18.0,8/8,4/8 CB,AC,,-,-,-,"Overcast, dust"
+NEHBANDAN,08/03/2022,09Z,23.7,13%,1005.1 Hpa,360º (N ),21.6,8/8,1/8 SC,AC,,-,-,-,"Overcast, dust"
+NEHBANDAN,08/03/2022,06Z,21.0,16%,1006.6 Hpa,230º (SW),21.6,7/8,3/8 SC,AC,-,-,-,-,"Cloudy, dust"
+NEHBANDAN,08/03/2022,03Z,17.1,20%,1005.6 Hpa,220º (SW),10.8,5/8,2/8 SC,AC,-,-,-,13.2,"Cloudy, haze"
+NEHBANDAN,08/03/2022,00Z,15.3,25%,1004.4 Hpa,310º (NW),7.2,0/8,-,-,-,-,-,-,Clear
+NOSHAHR,08/03/2022,21Z,8.2,91%,1008.9 Hpa,170º (S ),7.2,0/8,-,-,-,-,-,-,Clear
+NOSHAHR,08/03/2022,18Z,8.6,86%,1008.1 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+NOSHAHR,08/03/2022,15Z,11.6,68%,1006.9 Hpa,090º (E ),10.8,5/8,5/8 CU/SC,-,-,-,13.8,-,Cloudy
+NOSHAHR,08/03/2022,12Z,13.0,59%,1007.6 Hpa,020º (N),10.8,5/8,5/8 CU/SC,-,-,-,-,-,Cloudy
+NOSHAHR,08/03/2022,09Z,12.8,63%,1008.3 Hpa,070º (E ),7.2,4/8,1/8 CU,-,CI,-,-,-,Scattered clouds
+NOSHAHR,08/03/2022,06Z,11.4,73%,1010.6 Hpa,330º (NW),3.6,3/8,3/8 SC,-,CI,11.1(24h),-,-,Scattered clouds
+NOSHAHR,08/03/2022,03Z,7.8,85%,1011.4 Hpa,150º (SE),7.2,7/8,4/8 SC,AC,-,-,-,7.2,Cloudy
+NOSHAHR,08/03/2022,00Z,7.8,88%,1012.6 Hpa,120º (SE),3.6,8/8,4/8 SC,AC,,-,-,-,Overcast
+OMIDYEH-AGHAJARI,08/03/2022,21Z,19.6,63%,1011.1 Hpa,010º (N),10.8,0/8,-,-,-,-,-,-,"Clear, dust"
+OMIDYEH-AGHAJARI,08/03/2022,18Z,21.1,57%,1011.2 Hpa,340º (N ),10.8,0/8,-,-,-,-,-,-,"Clear, dust"
+OMIDYEH-AGHAJARI,08/03/2022,15Z,24.1,41%,1010.2 Hpa,360º (N ),7.2,7/8,2/8 SC,AC,-,-,27.5,-,"Cloudy, dust"
+OMIDYEH-AGHAJARI,08/03/2022,12Z,27.5,20%,1009.7 Hpa,180º (S ),10.8,8/8,-,-,CS,-,-,-,"Overcast, dust"
+OMIDYEH-AGHAJARI,08/03/2022,09Z,24.7,35%,1011.0 Hpa,200º (S ),10.8,8/8,-,-,CS,-,-,-,"Overcast, dust"
+OMIDYEH-AGHAJARI,08/03/2022,06Z,20.7,60%,1011.0 Hpa,150º (SE),7.2,7/8,-,-,CI,-,-,-,"Cloudy, dust"
+OMIDYEH-AGHAJARI,08/03/2022,03Z,16.6,72%,1009.2 Hpa,150º (SE),7.2,8/8,2/8 SC,AC,,-,-,16.6,"Overcast, dust"
+OMIDYEH-AGHAJARI,08/03/2022,00Z,18.7,63%,1008.4 Hpa,150º (SE),10.8,0/8,-,-,-,-,-,-,"Clear, dust"
+ORUMIEH,08/03/2022,21Z,5.8,50%,1009.0 Hpa,120º (SE),7.2,4/8,1/8 SC,-,CI,-,-,-,Scattered clouds
+ORUMIEH,08/03/2022,18Z,5.8,53%,1010.5 Hpa,210º (SW),10.8,5/8,1/8 SC,-,CI,-,-,-,Cloudy
+ORUMIEH,08/03/2022,15Z,9.0,43%,1010.7 Hpa,260º (W ),10.8,6/8,2/8 CB,-,CI,-,13.9,-,Cloudy
+ORUMIEH,08/03/2022,12Z,12.6,31%,1008.3 Hpa,260º (W ),25.2,5/8,5/8 CB,-,-,-,-,-,Cloudy
+ORUMIEH,08/03/2022,09Z,10.8,46%,1009.3 Hpa,130º (SE),14.4,2/8,2/8 SC,-,-,-,-,-,"Few clouds, haze"
+ORUMIEH,08/03/2022,06Z,3.8,75%,1012.1 Hpa,280º (W ),7.2,2/8,2/8 SC,-,-,-,-,-,"Few clouds, haze"
+ORUMIEH,08/03/2022,03Z,-3.4,92%,1012.0 Hpa,270º (W ),7.2,3/8,2/8 SC,-,CI,-,-,-4.3,"Scattered clouds, mist"
+ORUMIEH,08/03/2022,00Z,-2.6,91%,1010.8 Hpa,270º (W ),10.8,0/8,-,-,-,-,-,-,"Clear, mist"
+PARS ABAD MOGHAN,08/03/2022,21Z,5.5,67%,1011.0 Hpa,220º (SW),14.4,0/8,-,-,-,-,-,-,Clear
+PARS ABAD MOGHAN,08/03/2022,18Z,5.5,58%,1010.2 Hpa,270º (W ),10.8,0/8,-,-,-,-,-,-,Clear
+PARS ABAD MOGHAN,08/03/2022,15Z,11.4,49%,1007.6 Hpa,calm.,,0/8,-,-,-,-,15.2,-,Clear
+PARS ABAD MOGHAN,08/03/2022,12Z,14.6,37%,1008.2 Hpa,050º (NE),7.2,0/8,-,-,-,-,-,-,Clear
+PARS ABAD MOGHAN,08/03/2022,09Z,11.2,49%,1009.6 Hpa,330º (NW),7.2,3/8,-,-,CI,-,-,-,Scattered clouds
+PARS ABAD MOGHAN,08/03/2022,06Z,7.9,79%,1011.8 Hpa,260º (W ),10.8,5/8,-,-,CI,-,-,-,Cloudy
+PARS ABAD MOGHAN,08/03/2022,03Z,-0.8,94%,1011.7 Hpa,220º (SW),7.2,1/8,1/8 SC,-,-,-,-,-1.0,Few clouds
+PARS ABAD MOGHAN,08/03/2022,00Z,1.9,95%,1012.5 Hpa,260º (W ),7.2,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+RAMSAR,08/03/2022,21Z,7.8,91%,1008.9 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+RAMSAR,08/03/2022,18Z,9.0,86%,1009.0 Hpa,230º (SW),3.6,0/8,-,-,-,-,-,-,Clear
+RAMSAR,08/03/2022,15Z,10.8,80%,1007.4 Hpa,150º (SE),7.2,3/8,3/8 CU,-,-,-,12.2,-,Scattered clouds
+RAMSAR,08/03/2022,12Z,11.4,77%,1007.7 Hpa,120º (SE),7.2,7/8,7/8 CB,-,-,-,-,-,Cloudy
+RAMSAR,08/03/2022,09Z,11.2,80%,1008.3 Hpa,080º (E ),14.4,4/8,3/8 SC,-,CI,-,-,-,Scattered clouds
+RAMSAR,08/03/2022,06Z,10.2,81%,1011.2 Hpa,360º (N ),10.8,4/8,2/8 SC,-,CI,9.6(24h),-,-,Scattered clouds
+RAMSAR,08/03/2022,03Z,6.6,90%,1011.7 Hpa,calm.,,7/8,7/8 CB,-,-,-,-,6.6,"Cloudy, mist"
+RAMSAR,08/03/2022,00Z,7.2,91%,1013.8 Hpa,calm.,,6/8,6/8 ST,-,-,-,-,-,"Cloudy, mist"
+RASHT,08/03/2022,21Z,6.8,97%,1009.5 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, mist"
+RASHT,08/03/2022,18Z,9.0,97%,1009.9 Hpa,090º (E ),7.2,0/8,-,-,-,-,-,-,"Clear, mist"
+RASHT,08/03/2022,15Z,10.0,86%,1007.4 Hpa,350º (N ),7.2,2/8,2/8 SC,-,-,-,14.2,-,Few clouds
+RASHT,08/03/2022,12Z,13.4,64%,1007.6 Hpa,350º (N ),10.8,6/8,6/8 CB,-,-,-,-,-,Cloudy
+RASHT,08/03/2022,09Z,11.8,66%,1009.5 Hpa,270º (W ),7.2,6/8,6/8 CB,-,-,-,-,-,Cloudy
+RASHT,08/03/2022,06Z,9.0,80%,1012.1 Hpa,170º (S ),7.2,4/8,3/8 CB,-,CI,1.9(24h),-,-,"Scattered clouds, mist"
+RASHT,08/03/2022,03Z,4.0,100%,1012.1 Hpa,calm.,,,-,-,-,-,-,1.8,fog
+RASHT,08/03/2022,00Z,3.4,100%,1012.4 Hpa,calm.,,6/8,6/8 ST,-,-,-,-,-,"Cloudy, fog"
+SABZEVAR,08/03/2022,21Z,10.2,60%,1008.3 Hpa,360º (N ),25.2,5/8,4/8 SC,-,CI,-,-,-,Cloudy
+SABZEVAR,08/03/2022,18Z,10.7,57%,1008.2 Hpa,330º (NW),10.8,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+SABZEVAR,08/03/2022,15Z,15.3,38%,1007.0 Hpa,240º (SW),18.0,4/8,4/8 SC,-,-,-,17.3,-,Scattered clouds
+SABZEVAR,08/03/2022,12Z,16.7,41%,1007.3 Hpa,calm.,,4/8,4/8 SC,-,-,-,-,-,Scattered clouds
+SABZEVAR,08/03/2022,09Z,15.4,47%,1008.8 Hpa,250º (W ),7.2,5/8,3/8 CU,-,CI,-,-,-,Cloudy
+SABZEVAR,08/03/2022,06Z,9.3,62%,1011.7 Hpa,070º (E ),10.8,7/8,5/8 CB,AC,-,Tr(24h),-,-,Cloudy
+SABZEVAR,08/03/2022,03Z,7.3,69%,1011.0 Hpa,020º (N),14.4,8/8,4/8 CB,AC,,-,-,6.3,Overcast
+SABZEVAR,08/03/2022,00Z,6.4,76%,1010.6 Hpa,080º (E ),25.2,8/8,4/8 CB,AC,,Tr(6h),-,-,"Overcast, haze"
+SAFI-ABAD DEZFUL,08/03/2022,18Z,17.2,89%,1010.9 Hpa,090º (E ),7.2,0/8,-,-,-,-,-,-,"Clear, dust"
+SAFI-ABAD DEZFUL,08/03/2022,15Z,21.4,67%,1009.7 Hpa,160º (S ),7.2,2/8,-,-,CI,-,24.9,-,"Few clouds, dust"
+SAFI-ABAD DEZFUL,08/03/2022,12Z,24.8,48%,1009.1 Hpa,200º (S ),7.2,5/8,-,-,CI,-,-,-,"Cloudy, dust"
+SAFI-ABAD DEZFUL,08/03/2022,09Z,23.6,58%,1010.4 Hpa,200º (S ),3.6,7/8,-,-,CI,-,-,-,"Cloudy, dust"
+SAFI-ABAD DEZFUL,08/03/2022,06Z,18.8,75%,1010.5 Hpa,140º (SE),10.8,3/8,-,-,CI,-,-,-,"Scattered clouds, dust"
+SAFI-ABAD DEZFUL,08/03/2022,03Z,14.7,88%,1008.4 Hpa,100º (E ),14.4,5/8,-,-,CI,-,-,14.7,"Cloudy, dust"
+SAFI-ABAD DEZFUL,08/03/2022,00Z,16.1,81%,1006.8 Hpa,120º (SE),14.4,0/8,-,-,-,-,-,-,Clear
+SAGHEZ,08/03/2022,21Z,4.2,70%,1012.7 Hpa,170º (S ),3.6,5/8,3/8 SC,-,CI,-,-,-,Cloudy
+SAGHEZ,08/03/2022,18Z,4.4,71%,1016.5 Hpa,150º (SE),7.2,5/8,3/8 SC,-,CI,-,-,-,Cloudy
+SAGHEZ,08/03/2022,15Z,7.0,67%,1013.6 Hpa,190º (S ),7.2,2/8,2/8 CU,-,-,-,9.9,-,Few clouds
+SAGHEZ,08/03/2022,12Z,9.5,55%,1011.3 Hpa,270º (W ),28.8,2/8,2/8 CU,-,-,-,-,-,Few clouds
+SAGHEZ,08/03/2022,09Z,8.7,54%,1012.4 Hpa,200º (S ),7.2,3/8,1/8 SC,AC,-,-,-,-,Scattered clouds
+SAGHEZ,08/03/2022,06Z,-1.0,94%,1015.5 Hpa,340º (N ),7.2,3/8,1/8 CU,AC,-,-,-,-,"Scattered clouds, mist"
+SAGHEZ,08/03/2022,03Z,-2.3,98%,1014.1 Hpa,calm.,,,-,-,-,-,-,-2.7,fog
+SAGHEZ,08/03/2022,00Z,-1.8,98%,1013.2 Hpa,180º (S ),7.2,,-,-,-,-,-,-,fog
+SANANDAJ,08/03/2022,21Z,3.3,68%,1013.0 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SANANDAJ,08/03/2022,18Z,6.5,51%,1013.5 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SANANDAJ,08/03/2022,15Z,11.2,30%,1011.2 Hpa,260º (W ),14.4,1/8,1/8 SC,-,CI,-,15.4,-,Few clouds
+SANANDAJ,08/03/2022,12Z,14.8,25%,1008.0 Hpa,220º (SW),21.6,1/8,1/8 SC,-,-,-,-,-,Few clouds
+SANANDAJ,08/03/2022,09Z,13.4,32%,1008.8 Hpa,170º (S ),28.8,2/8,2/8 CU,-,-,-,-,-,Few clouds
+SANANDAJ,08/03/2022,06Z,6.8,76%,1011.4 Hpa,010º (N),7.2,2/8,2/8 ST,-,-,4.8(24h),-,-,"Few clouds, haze"
+SANANDAJ,08/03/2022,03Z,3.3,91%,1011.0 Hpa,calm.,,6/8,4/8 SC,AC,-,-,-,3.0,Cloudy
+SANANDAJ,08/03/2022,00Z,4.1,91%,1009.9 Hpa,Vble.,,6/8,4/8 SC,AC,-,0.4(6h),-,-,Cloudy
+SARAB,08/03/2022,21Z,2.8,69%,1012.5 Hpa,270º (W ),10.8,4/8,3/8 CB,AC,-,-,-,-,Scattered clouds
+SARAB,08/03/2022,18Z,0.6,71%,1012.6 Hpa,170º (S ),7.2,3/8,2/8 CB,AC,-,-,-,-,Scattered clouds
+SARAB,08/03/2022,15Z,5.4,56%,1010.8 Hpa,250º (W ),10.8,5/8,3/8 CB,AC,-,-,7.6,-,Cloudy
+SARAB,08/03/2022,12Z,7.2,47%,1009.0 Hpa,280º (W ),28.8,6/8,4/8 CB,AC,-,0.9(6h),-,-,Cloudy
+SARAB,08/03/2022,09Z,3.2,78%,1010.6 Hpa,300º (NW),14.4,6/8,3/8 CB,AC,-,-,-,-,"Cloudy, snow showers"
+SARAB,08/03/2022,06Z,2.8,78%,1010.4 Hpa,280º (W ),14.4,7/8,4/8 CB,AC,-,-,-,-,Cloudy
+SARAB,08/03/2022,03Z,-1.8,94%,1012.2 Hpa,calm.,,6/8,4/8 CB,AC,-,-,-,-2.8,Cloudy
+SARAB,08/03/2022,00Z,-2.6,91%,1012.9 Hpa,calm.,,8/8,5/8 CB,AC,,-,-,-,Overcast
+SARAKHS,08/03/2022,21Z,10.2,83%,1006.6 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SARAKHS,08/03/2022,18Z,11.4,73%,1008.5 Hpa,calm.,,1/8,-,-,CI,-,-,-,Few clouds
+SARAKHS,08/03/2022,15Z,16.0,54%,1007.7 Hpa,100º (E ),7.2,4/8,-,-,CI,-,19.5,-,Scattered clouds
+SARAKHS,08/03/2022,12Z,19.0,50%,1006.5 Hpa,calm.,,2/8,-,-,CI,-,-,-,Few clouds
+SARAKHS,08/03/2022,09Z,15.7,60%,1009.2 Hpa,170º (S ),10.8,3/8,-,-,CI,-,-,-,Scattered clouds
+SARAKHS,08/03/2022,06Z,9.7,73%,1013.7 Hpa,calm.,,7/8,3/8 SC,-,CI,-,-,-,Cloudy
+SARAKHS,08/03/2022,03Z,7.7,77%,1014.8 Hpa,calm.,,8/8,3/8 SC,-,CS,-,-,7.3,Overcast
+SARAKHS,08/03/2022,00Z,7.4,75%,1015.9 Hpa,300º (NW),10.8,8/8,3/8 SC,-,CS,-,-,-,Overcast
+SARAVAN,08/03/2022,21Z,19.2,56%,1010.4 Hpa,250º (W ),10.8,0/8,-,-,-,-,-,-,"Clear, haze"
+SARAVAN,08/03/2022,18Z,19.8,56%,1012.0 Hpa,220º (SW),18.0,0/8,-,-,-,-,-,-,"Clear, haze"
+SARAVAN,08/03/2022,15Z,23.4,32%,1010.7 Hpa,220º (SW),21.6,0/8,-,-,-,-,26.8,-,"Clear, haze"
+SARAVAN,08/03/2022,12Z,26.2,18%,1009.3 Hpa,270º (W ),36.0,3/8,3/8 CU,-,-,-,-,-,"Scattered clouds, dust"
+SARAVAN,08/03/2022,09Z,25.7,22%,1011.0 Hpa,250º (W ),21.6,2/8,-,-,CI,-,-,-,"Few clouds, haze"
+SARAVAN,08/03/2022,06Z,21.0,40%,1014.5 Hpa,220º (SW),18.0,0/8,-,-,-,-,-,-,"Clear, haze"
+SARAVAN,08/03/2022,03Z,16.6,61%,1013.6 Hpa,230º (SW),18.0,0/8,-,-,-,-,-,14.9,Clear
+SARAVAN,08/03/2022,00Z,16.2,51%,1011.2 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SEMNAN,08/03/2022,21Z,8.6,62%,1009.4 Hpa,120º (SE),3.6,0/8,-,-,-,-,-,-,Clear
+SEMNAN,08/03/2022,18Z,14.0,37%,1007.7 Hpa,270º (W ),7.2,0/8,-,-,-,-,-,-,Clear
+SEMNAN,08/03/2022,15Z,14.0,51%,1006.3 Hpa,250º (W ),14.4,2/8,1/8 CB,-,CI,-,16.6,-,"Few clouds, haze"
+SEMNAN,08/03/2022,12Z,16.4,46%,1005.3 Hpa,220º (SW),10.8,7/8,1/8 CB,-,CS,-,-,-,Cloudy
+SEMNAN,08/03/2022,09Z,12.8,57%,1008.7 Hpa,190º (S ),14.4,3/8,3/8 CB,-,-,-,-,-,Scattered clouds
+SEMNAN,08/03/2022,06Z,10.0,69%,1011.5 Hpa,170º (S ),3.6,4/8,1/8 CU/SC,AC,-,0.1(24h),-,-,Scattered clouds
+SEMNAN,08/03/2022,03Z,8.0,73%,1010.5 Hpa,110º (E ),3.6,7/8,1/8 SC,AC,-,-,-,8.0,"Cloudy, haze"
+SEMNAN,08/03/2022,00Z,9.2,65%,1009.8 Hpa,calm.,,8/8,1/8 SC,AC,,-,-,-,Overcast
+SHAHRE-KORD,08/03/2022,21Z,4.3,44%,1009.9 Hpa,300º (NW),7.2,1/8,-,-,CI,-,-,-,Few clouds
+SHAHRE-KORD,08/03/2022,18Z,7.0,36%,1009.5 Hpa,280º (W ),10.8,5/8,-,-,CI,-,-,-,Cloudy
+SHAHRE-KORD,08/03/2022,15Z,9.8,31%,1008.6 Hpa,260º (W ),21.6,5/8,1/8 CU,-,CC,-,16.5,-,"Cloudy, dust"
+SHAHRE-KORD,08/03/2022,12Z,15.6,15%,1004.3 Hpa,240º (SW),32.4,2/8,1/8 CU,-,CI,-,-,-,"Few clouds, dust"
+SHAHRE-KORD,08/03/2022,09Z,15.4,25%,1004.3 Hpa,220º (SW),25.2,1/8,1/8 SC,-,-,-,-,-,"Few clouds, dust"
+SHAHRE-KORD,08/03/2022,06Z,12.2,34%,1007.0 Hpa,210º (SW),21.6,1/8,1/8 SC,-,-,0.3(24h),-,-,"Few clouds, dust"
+SHAHRE-KORD,08/03/2022,03Z,7.2,48%,1007.8 Hpa,230º (SW),18.0,1/8,1/8 CU,-,-,-,-,6.5,"Few clouds, dust"
+SHAHRE-KORD,08/03/2022,00Z,7.8,47%,1004.8 Hpa,230º (SW),18.0,2/8,2/8 SC,-,-,-,-,-,"Few clouds, dust"
+SHAHRUD,08/03/2022,21Z,7.0,63%,1009.1 Hpa,350º (N ),10.8,0/8,-,-,-,-,-,-,Clear
+SHAHRUD,08/03/2022,18Z,8.2,64%,1008.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SHAHRUD,08/03/2022,15Z,10.0,64%,1006.8 Hpa,calm.,,3/8,3/8 CB,-,-,-,12.8,-,Scattered clouds
+SHAHRUD,08/03/2022,12Z,12.2,51%,1006.2 Hpa,150º (SE),14.4,2/8,2/8 SC,-,-,-,-,-,Few clouds
+SHAHRUD,08/03/2022,09Z,9.4,61%,1009.4 Hpa,190º (S ),14.4,6/8,6/8 SC,-,-,-,-,-,Cloudy
+SHAHRUD,08/03/2022,06Z,6.2,72%,1011.9 Hpa,210º (SW),10.8,6/8,3/8 SC,AC,-,1.0(24h),-,-,Cloudy
+SHAHRUD,08/03/2022,03Z,3.2,93%,1011.4 Hpa,calm.,,5/8,2/8 SC,-,CI,-,-,3.0,Cloudy
+SHAHRUD,08/03/2022,00Z,4.8,88%,1010.0 Hpa,160º (S ),7.2,8/8,4/8 SC,AC,,-,-,-,Overcast
+SHIRAZ,08/03/2022,21Z,14.4,42%,1008.0 Hpa,020º (N),7.2,3/8,-,-,CI,-,-,-,"Scattered clouds, dust"
+SHIRAZ,08/03/2022,18Z,16.0,30%,1008.9 Hpa,330º (NW),7.2,4/8,-,-,CI,-,-,-,"Scattered clouds, dust"
+SHIRAZ,08/03/2022,15Z,18.4,20%,1008.8 Hpa,240º (SW),7.2,5/8,-,-,CI,-,23.4,-,"Cloudy, dust"
+SHIRAZ,08/03/2022,12Z,22.4,12%,1005.8 Hpa,270º (W ),25.2,6/8,-,-,CI,-,-,-,"Cloudy, dust"
+SHIRAZ,08/03/2022,09Z,22.2,11%,1007.3 Hpa,270º (W ),25.2,6/8,-,-,CI,-,-,-,"Cloudy, dust"
+SHIRAZ,08/03/2022,06Z,18.8,33%,1009.6 Hpa,180º (S ),14.4,4/8,-,-,CI,Tr(24h),-,-,"Scattered clouds, dust"
+SHIRAZ,08/03/2022,03Z,11.0,66%,1010.2 Hpa,calm.,,2/8,-,-,CI,-,-,10.4,"Few clouds, dust"
+SHIRAZ,08/03/2022,00Z,12.6,58%,1007.8 Hpa,040º (NE),7.2,7/8,4/8 CB,AC,-,-,-,-,"Cloudy, dust"
+SIRI ISLAND,08/03/2022,15Z,25.4,67%,1009.7 Hpa,050º (NE),10.8,3/8,-,-,CI,-,29.4,-,"Scattered clouds, haze"
+SIRI ISLAND,08/03/2022,12Z,28.4,110%,1009.2 Hpa,030º (NE),18.0,2/8,-,-,CI,-,-,-,"Few clouds, haze"
+SIRI ISLAND,08/03/2022,09Z,26.6,65%,1011.2 Hpa,090º (E ),14.4,1/8,-,-,CI,-,-,-,"Few clouds, haze"
+SIRI ISLAND,08/03/2022,06Z,25.6,130%,1011.9 Hpa,150º (SE),25.2,2/8,-,2/8 AC,-,-,-,-,"Few clouds, haze"
+SIRI ISLAND,08/03/2022,03Z,24.0,88%,1010.2 Hpa,150º (SE),18.0,3/8,-,3/8 AC,-,-,-,21.4,"Scattered clouds, mist"
+SIRJAN,08/03/2022,21Z,14.5,45%,1008.5 Hpa,180º (S ),25.2,5/8,3/8 SC,-,CI,-,-,-,"Cloudy, dust"
+SIRJAN,08/03/2022,18Z,16.1,39%,1008.7 Hpa,210º (SW),21.6,7/8,2/8 SC,-,CI,-,-,-,"Cloudy, dust"
+SIRJAN,08/03/2022,15Z,17.0,38%,1008.8 Hpa,210º (SW),21.6,7/8,3/8 SC,-,CI,-,20.1,-,"Cloudy, dust"
+SIRJAN,08/03/2022,12Z,19.0,33%,1007.1 Hpa,180º (S ),21.6,6/8,3/8 SC,-,CI,-,-,-,"Cloudy, dust"
+SIRJAN,08/03/2022,09Z,18.6,32%,1008.6 Hpa,210º (SW),36.0,6/8,3/8 CU,-,CI,-,-,-,"Cloudy, dust"
+SIRJAN,08/03/2022,06Z,16.4,41%,1010.0 Hpa,130º (SE),36.0,5/8,2/8 SC,-,CI,-,-,-,"Cloudy, dust"
+SIRJAN,08/03/2022,03Z,10.9,58%,1009.3 Hpa,090º (E ),14.4,7/8,4/8 SC,AC,-,-,-,10.5,Cloudy
+SIRJAN,08/03/2022,00Z,11.3,59%,1008.0 Hpa,120º (SE),14.4,4/8,4/8 SC,-,-,-,-,-,Scattered clouds
+TABAS,08/03/2022,21Z,18.2,28%,1006.7 Hpa,060º (NE),10.8,0/8,-,-,-,-,-,-,"Clear, dust"
+TABAS,08/03/2022,18Z,18.0,37%,1006.6 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, dust"
+TABAS,08/03/2022,15Z,20.9,31%,1005.7 Hpa,calm.,,0/8,-,-,-,-,25.1,-,"Clear, dust"
+TABAS,08/03/2022,12Z,24.1,27%,1004.9 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, haze"
+TABAS,08/03/2022,09Z,22.0,34%,1007.7 Hpa,calm.,,4/8,-,-,CI,-,-,-,"Scattered clouds, haze"
+TABAS,08/03/2022,06Z,16.7,54%,1010.2 Hpa,calm.,,3/8,-,3/8 AC,-,1.8(24h),-,-,"Scattered clouds, haze"
+TABAS,08/03/2022,03Z,12.7,71%,1008.5 Hpa,calm.,,5/8,2/8 ST,AC,-,-,-,12.1,"Cloudy, haze"
+TABAS,08/03/2022,00Z,15.7,47%,1005.9 Hpa,060º (NE),10.8,4/8,-,4/8 AC,-,2.0(6h),-,-,"Scattered clouds, haze"
+TABRIZ,08/03/2022,21Z,4.8,65%,1011.2 Hpa,360º (N ),7.2,7/8,2/8 SC,AC,-,-,-,-,Cloudy
+TABRIZ,08/03/2022,18Z,7.5,51%,1011.6 Hpa,240º (SW),7.2,5/8,2/8 SC,AC,-,-,-,-,Cloudy
+TABRIZ,08/03/2022,15Z,9.3,45%,1009.5 Hpa,260º (W ),7.2,6/8,3/8 CB,AC,CI,-,12.0,-,Cloudy
+TABRIZ,08/03/2022,12Z,11.3,35%,1008.3 Hpa,250º (W ),39.6,5/8,4/8 CB,AC,-,-,-,-,"Cloudy, distant precipitation"
+TABRIZ,08/03/2022,09Z,9.4,50%,1010.3 Hpa,250º (W ),18.0,4/8,2/8 CU,AC,CI,-,-,-,Scattered clouds
+TABRIZ,08/03/2022,06Z,3.4,79%,1012.8 Hpa,260º (W ),7.2,8/8,4/8 CB,AC,,-,-,-,"Overcast, mist"
+TABRIZ,08/03/2022,03Z,2.6,83%,1010.9 Hpa,Vble.,,7/8,3/8 CB,AC,-,-,-,-0.2,"Cloudy, mist"
+TABRIZ,08/03/2022,00Z,1.2,86%,1011.0 Hpa,Vble.,,7/8,3/8 CB,AC,-,-,-,-,"Cloudy, mist"
+TEHRAN-MEHRABAD,08/03/2022,21Z,9.4,59%,1010.2 Hpa,250º (W ),18.0,3/8,1/8 CU,AC,-,-,-,-,"Scattered clouds, haze"
+TEHRAN-MEHRABAD,08/03/2022,18Z,10.7,75%,1009.6 Hpa,260º (W ),10.8,6/8,4/8 CB,AC,-,1.0(6h),-,-,"Cloudy, haze"
+TEHRAN-MEHRABAD,08/03/2022,15Z,11.5,68%,1007.9 Hpa,210º (SW),7.2,6/8,3/8 CB,AC,-,-,14.6,-,"Cloudy, haze"
+TEHRAN-MEHRABAD,08/03/2022,12Z,13.3,45%,1007.3 Hpa,220º (SW),10.8,7/8,3/8 CB,AC,-,Tr(6h),-,-,"Cloudy, rain showers"
+TEHRAN-MEHRABAD,08/03/2022,09Z,11.7,59%,1009.7 Hpa,250º (W ),10.8,6/8,2/8 SC,AC,CI,-,-,-,"Cloudy, haze"
+TEHRAN-MEHRABAD,08/03/2022,06Z,8.3,84%,1012.0 Hpa,calm.,,7/8,3/8 SC,AC,-,0.2(6h),-,-,"Cloudy, mist"
+TEHRAN-MEHRABAD,08/03/2022,03Z,6.3,88%,1011.0 Hpa,230º (SW),7.2,8/8,4/8 SC,AC,,-,-,6.1,"Overcast, mist"
+TEHRAN-MEHRABAD,08/03/2022,00Z,6.7,88%,1011.0 Hpa,250º (W ),7.2,8/8,3/8 SC,AC,,2.0(6h),-,-,"Overcast, rain"
+TORBAT-HEYDARIEH,08/03/2022,21Z,8.9,87%,1008.1 Hpa,120º (SE),7.2,6/8,4/8 CB,-,CI,-,-,-,"Cloudy, rain showers"
+TORBAT-HEYDARIEH,08/03/2022,18Z,8.6,90%,1009.3 Hpa,calm.,,5/8,1/8 SC,-,CI,-,-,-,"Cloudy, mist"
+TORBAT-HEYDARIEH,08/03/2022,15Z,10.6,58%,1008.5 Hpa,calm.,,3/8,-,-,CI,-,14.2,-,"Scattered clouds, haze"
+TORBAT-HEYDARIEH,08/03/2022,12Z,13.8,51%,1007.2 Hpa,240º (SW),14.4,7/8,4/8 SC,-,CI,-,-,-,"Cloudy, haze"
+TORBAT-HEYDARIEH,08/03/2022,09Z,10.2,75%,1009.4 Hpa,calm.,,7/8,6/8 CB,-,CS,-,-,-,"Cloudy, haze"
+TORBAT-HEYDARIEH,08/03/2022,06Z,6.6,83%,1011.0 Hpa,calm.,,8/8,5/8 SC,AC,,Tr(24h),-,-,"Overcast, mist"
+TORBAT-HEYDARIEH,08/03/2022,03Z,5.2,79%,1010.1 Hpa,100º (E ),7.2,8/8,2/8 SC,-,CS,-,-,4.7,"Overcast, mist"
+TORBAT-HEYDARIEH,08/03/2022,00Z,4.9,75%,1009.1 Hpa,050º (NE),10.8,8/8,4/8 SC,-,CS,Tr(6h),-,-,"Overcast, haze"
+YASOGE,08/03/2022,21Z,9.6,51%,1012.0 Hpa,calm.,,4/8,2/8 SC,AC,-,-,-,-,Scattered clouds
+YASOGE,08/03/2022,18Z,10.8,62%,1011.2 Hpa,calm.,,5/8,3/8 SC,AC,-,-,-,-,Cloudy
+YASOGE,08/03/2022,15Z,11.8,45%,1011.3 Hpa,150º (SE),10.8,6/8,4/8 SC,AC,-,-,16.0,-,"Cloudy, dust"
+YASOGE,08/03/2022,12Z,14.6,33%,1009.7 Hpa,170º (S ),14.4,6/8,4/8 SC,AC,-,-,-,-,"Cloudy, dust"
+YASOGE,08/03/2022,09Z,15.4,35%,1009.4 Hpa,190º (S ),18.0,5/8,3/8 SC,AC,-,-,-,-,"Cloudy, dust"
+YASOGE,08/03/2022,06Z,13.0,47%,1011.6 Hpa,190º (S ),7.2,6/8,3/8 SC,AC,-,1.2(24h),-,-,"Cloudy, dust"
+YASOGE,08/03/2022,03Z,10.0,67%,1010.3 Hpa,calm.,,5/8,3/8 SC,AC,-,-,-,9.0,"Cloudy, dust"
+YASOGE,08/03/2022,00Z,9.6,69%,1008.9 Hpa,calm.,,3/8,3/8 SC,-,-,-,-,-,"Scattered clouds, dust"
+YAZD,08/03/2022,21Z,13.0,43%,1009.3 Hpa,230º (SW),7.2,0/8,-,-,-,-,-,-,"Clear, dust"
+YAZD,08/03/2022,18Z,15.9,37%,1008.2 Hpa,330º (NW),3.6,5/8,1/8 CU,-,CI,-,-,-,"Cloudy, dust"
+YAZD,08/03/2022,15Z,19.4,34%,1006.3 Hpa,280º (W ),7.2,3/8,1/8 CU,-,CI,-,24.5,-,"Scattered clouds, dust"
+YAZD,08/03/2022,12Z,23.2,25%,1004.1 Hpa,070º (E ),7.2,3/8,2/8 CU,-,CI,-,-,-,"Scattered clouds, dust"
+YAZD,08/03/2022,09Z,17.4,43%,1008.6 Hpa,220º (SW),3.6,1/8,1/8 CU,-,-,-,-,-,"Few clouds, dust"
+YAZD,08/03/2022,06Z,10.6,66%,1012.3 Hpa,330º (NW),3.6,1/8,-,-,CI,0.2(24h),-,-,"Few clouds, dust"
+YAZD,08/03/2022,03Z,7.6,78%,1011.7 Hpa,280º (W ),7.2,5/8,1/8 SC,AC,-,-,-,6.8,"Cloudy, haze"
+YAZD,08/03/2022,00Z,7.7,77%,1010.2 Hpa,290º (W ),3.6,3/8,-,-,CI,-,-,-,"Scattered clouds, dust"
+ZABOL,08/03/2022,21Z,20.0,41%,1007.0 Hpa,110º (E ),14.4,0/8,-,-,-,-,-,-,Clear
+ZABOL,08/03/2022,18Z,21.9,37%,1009.1 Hpa,320º (NW),14.4,4/8,1/8 SC,AC,-,-,-,-,Scattered clouds
+ZABOL,08/03/2022,15Z,22.4,38%,1007.0 Hpa,010º (N),25.2,6/8,1/8 CB,AC,CS,-,28.6,-,Cloudy
+ZABOL,08/03/2022,12Z,27.7,23%,1005.2 Hpa,360º (N ),25.2,8/8,-,3/8 AC,CI,-,-,-,Overcast
+ZABOL,08/03/2022,09Z,26.4,25%,1006.9 Hpa,360º (N ),18.0,8/8,-,3/8 AC,CI,-,-,-,"Overcast, dust"
+ZABOL,08/03/2022,06Z,20.7,35%,1009.9 Hpa,360º (N ),18.0,5/8,-,2/8 AC,CI,-,-,-,"Cloudy, dust"
+ZABOL,08/03/2022,03Z,13.9,49%,1009.6 Hpa,350º (N ),21.6,5/8,-,4/8 AC,CI,-,-,13.9,"Cloudy, dust"
+ZABOL,08/03/2022,00Z,15.1,42%,1006.5 Hpa,340º (N ),7.2,4/8,-,3/8 AC,CI,-,-,-,Scattered clouds
+ZAHEDAN,08/03/2022,21Z,17.1,39%,1006.3 Hpa,230º (SW),18.0,2/8,-,-,CI,-,-,-,Few clouds
+ZAHEDAN,08/03/2022,18Z,18.5,32%,1007.1 Hpa,230º (SW),25.2,3/8,-,-,CS,-,-,-,Scattered clouds
+ZAHEDAN,08/03/2022,15Z,21.2,26%,1006.7 Hpa,240º (SW),28.8,5/8,1/8 SC,AC,CS,-,25.5,-,"Cloudy, dust"
+ZAHEDAN,08/03/2022,12Z,23.4,22%,1005.0 Hpa,250º (W ),39.6,7/8,2/8 CU,AC,CI,-,-,-,"Cloudy, dust"
+ZAHEDAN,08/03/2022,09Z,24.1,21%,1005.5 Hpa,260º (W ),43.2,6/8,-,2/8 AC,CI,-,-,-,"Cloudy, dust"
+ZAHEDAN,08/03/2022,06Z,21.4,25%,1008.4 Hpa,240º (SW),36.0,7/8,-,3/8 AC,CI,-,-,-,"Cloudy, dust"
+ZAHEDAN,08/03/2022,03Z,16.2,40%,1007.5 Hpa,250º (W ),43.2,7/8,-,4/8 AC,CI,-,-,16.2,"Cloudy, dust"
+ZAHEDAN,08/03/2022,00Z,17.2,26%,1006.3 Hpa,240º (SW),43.2,7/8,-,3/8 AC,CI,-,-,-,"Cloudy, dust"
+ZANJAN,08/03/2022,21Z,2.5,71%,1011.2 Hpa,100º (E ),3.6,3/8,-,-,CI,-,-,-,Scattered clouds
+ZANJAN,08/03/2022,18Z,4.2,63%,1011.8 Hpa,260º (W ),3.6,0/8,-,-,-,-,-,-,Clear
+ZANJAN,08/03/2022,15Z,7.2,47%,1009.6 Hpa,250º (W ),14.4,2/8,1/8 CU,AC,-,-,11.0,-,Few clouds
+ZANJAN,08/03/2022,12Z,10.6,37%,1007.2 Hpa,250º (W ),21.6,2/8,2/8 CU,-,-,-,-,-,Few clouds
+ZANJAN,08/03/2022,09Z,8.6,55%,1008.7 Hpa,240º (SW),18.0,6/8,6/8 CB,AC,-,-,-,-,Cloudy
+ZANJAN,08/03/2022,06Z,4.3,83%,1011.4 Hpa,310º (NW),3.6,7/8,7/8 CB,-,-,0.1(24h),-,-,"Cloudy, mist"
+ZANJAN,08/03/2022,03Z,2.1,93%,1010.6 Hpa,130º (SE),3.6,8/8,8/8 ST,,,-,-,0.1,"Overcast, mist"
+ZANJAN,08/03/2022,00Z,0.6,95%,1010.8 Hpa,120º (SE),3.6,7/8,6/8 ST,AC,CI,Tr(6h),-,-,"Cloudy, mist"

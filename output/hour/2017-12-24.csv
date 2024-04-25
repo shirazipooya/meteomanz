@@ -1,0 +1,613 @@
+Station ∆,Date,UTC time,Temp. (ºC),Rel. Hum. (%),Pressure/ Geopot.,Wind dir,Wins speed (Km/h),Clouds,Low clouds,Medium clouds,High clouds,Prec. (mm),Max temp. (ºC),Min temp. (ºC),Conditions
+ABADAN,24/12/2017,21Z,17.8,81%,1014.0 Hpa,140º (SE),10.8,0/8,-,-,-,-,-,-,"Clear, mist"
+ABADAN,24/12/2017,18Z,19.3,81%,1014.5 Hpa,130º (SE),14.4,3/8,-,-,CI,-,-,-,"Scattered clouds, mist"
+ABADAN,24/12/2017,15Z,20.4,68%,1014.3 Hpa,130º (SE),10.8,6/8,-,-,CI,-,27.2,-,"Cloudy, haze"
+ABADAN,24/12/2017,12Z,26.9,34%,1013.5 Hpa,130º (SE),14.4,6/8,-,-,CI,-,-,-,Cloudy
+ABADAN,24/12/2017,09Z,26.0,40%,1015.5 Hpa,150º (SE),14.4,0/8,-,-,-,-,-,-,"Clear, haze"
+ABADAN,24/12/2017,06Z,19.4,81%,1017.9 Hpa,130º (SE),10.8,4/8,-,-,CI,-,-,-,"Scattered clouds, mist"
+ABADAN,24/12/2017,03Z,17.1,79%,1017.4 Hpa,120º (SE),10.8,0/8,-,-,-,-,-,16.0,"Clear, haze"
+ABADAN,24/12/2017,00Z,17.3,89%,1017.2 Hpa,130º (SE),10.8,0/8,-,-,-,-,-,-,"Clear, mist"
+ABADEH,24/12/2017,21Z,8.8,17%,1014.7 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+ABADEH,24/12/2017,18Z,12.4,14%,1014.1 Hpa,200º (S ),10.8,0/8,-,-,-,-,-,-,Clear
+ABADEH,24/12/2017,15Z,16.0,10%,1012.9 Hpa,calm.,,2/8,-,-,CI,-,20.4,-,Few clouds
+ABADEH,24/12/2017,12Z,20.4,8%,1010.9 Hpa,200º (S ),10.8,6/8,-,2/8 AC,CI,-,-,-,Cloudy
+ABADEH,24/12/2017,09Z,17.4,9%,1013.1 Hpa,270º (W ),10.8,6/8,-,1/8 AC,CI,-,-,-,Cloudy
+ABADEH,24/12/2017,06Z,15.4,10%,1016.5 Hpa,220º (SW),7.2,7/8,-,2/8 AC,CI,-,-,-,Cloudy
+ABADEH,24/12/2017,03Z,10.6,21%,1016.2 Hpa,290º (W ),10.8,5/8,-,-,CI,-,-,9.0,Cloudy
+ABADEH,24/12/2017,00Z,9.6,22%,1014.5 Hpa,340º (N ),10.8,6/8,-,1/8 AC,CI,-,-,-,Cloudy
+ABU MUSA,24/12/2017,15Z,24.2,76%,1015.5 Hpa,300º (NW),14.4,1/8,1/8 SC,-,-,-,26.0,-,"Few clouds, haze"
+ABU MUSA,24/12/2017,12Z,25.8,129%,1014.6 Hpa,250º (W ),10.8,0/8,-,-,-,-,-,-,"Clear, haze"
+ABU MUSA,24/12/2017,09Z,25.6,70%,1015.8 Hpa,300º (NW),10.8,4/8,1/8 SC,AC,CI,-,-,-,"Scattered clouds, haze"
+ABU MUSA,24/12/2017,06Z,24.4,139%,1017.6 Hpa,240º (SW),18.0,4/8,2/8 SC,AC,-,-,-,-,"Scattered clouds, haze"
+ABU MUSA,24/12/2017,03Z,23.0,84%,1016.2 Hpa,250º (W ),10.8,3/8,1/8 ST,-,CI,-,-,23.0,"Scattered clouds, mist"
+AHAR,24/12/2017,21Z,7.6,66%,1007.3 Hpa,260º (W ),10.8,5/8,5/8 CB,-,-,-,-,-,Cloudy
+AHAR,24/12/2017,18Z,8.2,62%,1007.7 Hpa,270º (W ),28.8,7/8,6/8 CB,AC,CI,-,-,-,Cloudy
+AHAR,24/12/2017,15Z,9.4,50%,1008.0 Hpa,240º (SW),39.6,6/8,4/8 CB,AC,CI,-,16.3,-,"Cloudy, dust"
+AHAR,24/12/2017,12Z,14.4,23%,1004.2 Hpa,210º (SW),39.6,7/8,4/8 CB,AC,CI,-,-,-,"Cloudy, dust"
+AHAR,24/12/2017,09Z,14.8,23%,1004.2 Hpa,240º (SW),43.2,7/8,4/8 CB,AC,-,-,-,-,Cloudy
+AHAR,24/12/2017,06Z,12.6,27%,1005.4 Hpa,160º (S ),7.2,7/8,4/8 CB,AC,-,-,-,-,Cloudy
+AHAR,24/12/2017,03Z,10.8,33%,1006.5 Hpa,170º (S ),7.2,6/8,4/8 CB,AC,-,-,-,10.4,Cloudy
+AHAR,24/12/2017,00Z,10.8,38%,1007.9 Hpa,240º (SW),18.0,7/8,5/8 CB,AC,-,-,-,-,Cloudy
+AHWAZ,24/12/2017,21Z,14.8,58%,1014.1 Hpa,130º (SE),7.2,4/8,-,-,CI,-,-,-,Scattered clouds
+AHWAZ,24/12/2017,18Z,19.4,49%,1014.6 Hpa,150º (SE),10.8,7/8,-,-,CI,-,-,-,Cloudy
+AHWAZ,24/12/2017,15Z,22.8,33%,1014.2 Hpa,160º (S ),7.2,7/8,-,-,CI,-,27.8,-,Cloudy
+AHWAZ,24/12/2017,12Z,27.2,19%,1014.0 Hpa,140º (SE),14.4,6/8,-,-,CI,-,-,-,Cloudy
+AHWAZ,24/12/2017,09Z,26.0,28%,1016.1 Hpa,140º (SE),10.8,5/8,-,-,CI,-,-,-,Cloudy
+AHWAZ,24/12/2017,06Z,16.8,56%,1018.2 Hpa,100º (E ),7.2,3/8,-,-,CI,-,-,-,"Scattered clouds, haze"
+AHWAZ,24/12/2017,03Z,9.4,73%,1017.7 Hpa,090º (E ),3.6,0/8,-,-,-,-,-,9.0,"Clear, haze"
+AHWAZ,24/12/2017,00Z,10.0,76%,1017.1 Hpa,070º (E ),3.6,0/8,-,-,-,-,-,-,"Clear, haze"
+ALI-GOODARZ,24/12/2017,21Z,12.7,10%,1008.0 Hpa,150º (SE),39.6,4/8,-,-,CI,-,-,-,Scattered clouds
+ALI-GOODARZ,24/12/2017,18Z,13.3,12%,1010.6 Hpa,180º (S ),43.2,4/8,-,-,CI,-,-,-,Scattered clouds
+ALI-GOODARZ,24/12/2017,15Z,13.8,14%,1013.2 Hpa,180º (S ),18.0,4/8,-,-,CI,-,19.0,-,Scattered clouds
+ALI-GOODARZ,24/12/2017,12Z,18.1,11%,1011.7 Hpa,240º (SW),18.0,5/8,-,1/8 AC,CI,-,-,-,Cloudy
+ALI-GOODARZ,24/12/2017,09Z,18.6,11%,1012.3 Hpa,230º (SW),21.6,5/8,-,1/8 AC,CI,-,-,-,Cloudy
+ALI-GOODARZ,24/12/2017,06Z,13.8,19%,1014.5 Hpa,160º (S ),36.0,3/8,-,-,CI,-,-,-,Scattered clouds
+ALI-GOODARZ,24/12/2017,03Z,8.0,26%,1016.6 Hpa,340º (N ),7.2,0/8,-,-,-,-,-,2.9,Clear
+ALI-GOODARZ,24/12/2017,00Z,5.4,35%,1015.6 Hpa,330º (NW),3.6,0/8,-,-,-,-,-,-,Clear
+ANZALI,24/12/2017,21Z,11.0,94%,1011.3 Hpa,calm.,,8/8,6/8 ST,AC,,-,-,-,"Overcast, drizzle"
+ANZALI,24/12/2017,18Z,11.6,89%,1011.2 Hpa,calm.,,8/8,6/8 ST,AC,,0.1(6h),-,-,"Overcast, drizzle"
+ANZALI,24/12/2017,15Z,12.0,87%,1010.2 Hpa,320º (NW),25.2,8/8,5/8 SC,AC,,-,13.0,-,Overcast
+ANZALI,24/12/2017,12Z,11.4,175%,1007.6 Hpa,270º (W ),7.2,8/8,5/8 SC,AC,,-,-,-,Overcast
+ANZALI,24/12/2017,09Z,12.8,85%,1007.2 Hpa,330º (NW),21.6,8/8,5/8 SC,AC,,-,-,-,Overcast
+ANZALI,24/12/2017,06Z,12.4,163%,1006.2 Hpa,330º (NW),14.4,8/8,5/8 SC,AC,,-,-,-,Overcast
+ANZALI,24/12/2017,03Z,11.6,97%,1005.5 Hpa,300º (NW),10.8,8/8,8/8 ST,,,-,-,10.4,"Overcast, mist"
+ANZALI,24/12/2017,00Z,12.0,90%,1006.0 Hpa,270º (W ),10.8,8/8,8/8 ST,,,-,-,-,"Overcast, mist"
+ARAK,24/12/2017,21Z,17.2,9%,1005.4 Hpa,210º (SW),21.6,0/8,-,-,-,-,-,-,Clear
+ARAK,24/12/2017,18Z,17.0,9%,1008.3 Hpa,220º (SW),18.0,1/8,-,-,CI,-,-,-,Few clouds
+ARAK,24/12/2017,15Z,17.2,9%,1010.5 Hpa,240º (SW),25.2,3/8,-,1/8 AC,CI,-,21.8,-,Scattered clouds
+ARAK,24/12/2017,12Z,20.4,10%,1008.1 Hpa,260º (W ),21.6,6/8,-,2/8 AC,CI,-,-,-,Cloudy
+ARAK,24/12/2017,09Z,20.2,7%,1007.9 Hpa,270º (W ),25.2,5/8,-,3/8 AC,CI,-,-,-,Cloudy
+ARAK,24/12/2017,06Z,15.2,20%,1011.9 Hpa,030º (NE),7.2,5/8,-,3/8 AC,CI,-,-,-,Cloudy
+ARAK,24/12/2017,03Z,10.4,26%,1013.5 Hpa,calm.,,4/8,-,-,CI,-,-,9.4,Scattered clouds
+ARDEBIL,24/12/2017,21Z,11.0,76%,1002.6 Hpa,210º (SW),54.0,8/8,3/8 CB,AC,CS,-,-,-,Overcast
+ARDEBIL,24/12/2017,18Z,12.8,48%,1002.6 Hpa,240º (SW),43.2,8/8,3/8 CB,AC,CS,-,-,-,Overcast
+ARDEBIL,24/12/2017,15Z,13.8,42%,1003.3 Hpa,220º (SW),36.0,8/8,3/8 CB,AC,CS,-,17.6,-,Overcast
+ARDEBIL,24/12/2017,12Z,15.0,21%,1001.7 Hpa,210º (SW),46.8,7/8,1/8 CB,AC,CI,-,-,-,Cloudy
+ARDEBIL,24/12/2017,09Z,16.8,20%,1002.4 Hpa,240º (SW),46.8,7/8,3/8 CB,AC,CI,-,-,-,Cloudy
+ARDEBIL,24/12/2017,06Z,13.8,30%,1004.4 Hpa,210º (SW),36.0,7/8,2/8 CB,AC,CI,-,-,-,Cloudy
+ARDEBIL,24/12/2017,03Z,11.9,35%,1006.0 Hpa,210º (SW),28.8,7/8,2/8 CB,AC,CI,-,-,11.0,Cloudy
+ARDEBIL,24/12/2017,00Z,12.4,36%,1005.3 Hpa,210º (SW),54.0,6/8,2/8 CB,AC,CI,-,-,-,Cloudy
+BABULSAR,24/12/2017,21Z,13.6,93%,1010.3 Hpa,calm.,,8/8,4/8 ST,AC,,-,-,-,"Overcast, drizzle"
+BABULSAR,24/12/2017,18Z,15.0,88%,1009.7 Hpa,270º (W ),18.0,8/8,3/8 ST,AC,,-,-,-,Overcast
+BABULSAR,24/12/2017,15Z,14.6,95%,1007.6 Hpa,calm.,,8/8,2/8 ST,AC,,-,15.6,-,"Overcast, mist"
+BABULSAR,24/12/2017,12Z,15.4,97%,1006.0 Hpa,280º (W ),10.8,8/8,-,-,CS,-,-,-,"Overcast, mist"
+BABULSAR,24/12/2017,09Z,13.8,97%,1004.1 Hpa,calm.,,8/8,-,8/8 AC,,-,-,-,"Overcast, mist"
+BABULSAR,24/12/2017,06Z,14.4,95%,1007.0 Hpa,calm.,,8/8,-,8/8 AC,,-,-,-,"Overcast, mist"
+BABULSAR,24/12/2017,03Z,12.0,89%,1005.0 Hpa,180º (S ),7.2,8/8,-,8/8 AC,,-,-,11.4,Overcast
+BABULSAR,24/12/2017,00Z,13.0,93%,1004.5 Hpa,Vble.,,8/8,-,8/8 AC,,-,-,-,Overcast
+BAFT,24/12/2017,21Z,7.0,30%,1016.5 Hpa,360º (N ),10.8,0/8,-,-,-,-,-,-,Clear
+BAFT,24/12/2017,18Z,9.6,28%,1018.2 Hpa,060º (NE),7.2,1/8,-,-,CI,-,-,-,Few clouds
+BAFT,24/12/2017,15Z,11.2,25%,1018.6 Hpa,calm.,,5/8,-,-,CI,-,19.0,-,Cloudy
+BAFT,24/12/2017,12Z,18.0,15%,1014.0 Hpa,270º (W ),25.2,6/8,1/8 CU,-,CI,-,-,-,Cloudy
+BAFT,24/12/2017,09Z,17.6,18%,1016.8 Hpa,270º (W ),21.6,6/8,1/8 CU,-,CI,-,-,-,Cloudy
+BAFT,24/12/2017,06Z,13.2,25%,1019.5 Hpa,300º (NW),28.8,3/8,-,-,CI,-,-,-,Scattered clouds
+BAFT,24/12/2017,03Z,7.4,37%,1019.1 Hpa,360º (N ),21.6,3/8,-,-,CI,-,-,4.2,Scattered clouds
+BAFT,24/12/2017,00Z,7.8,43%,1016.0 Hpa,360º (N ),10.8,0/8,-,-,-,-,-,-,Clear
+BAM,24/12/2017,21Z,18.1,16%,1010.6 Hpa,280º (W ),14.4,4/8,-,-,CI,-,-,-,Scattered clouds
+BAM,24/12/2017,18Z,18.3,21%,1013.3 Hpa,280º (W ),10.8,4/8,-,-,CI,-,-,-,Scattered clouds
+BAM,24/12/2017,15Z,19.6,23%,1014.1 Hpa,270º (W ),3.6,4/8,-,-,CI,-,30.2,-,Scattered clouds
+BAM,24/12/2017,12Z,26.3,13%,1011.4 Hpa,060º (NE),10.8,5/8,-,-,CI,-,-,-,Cloudy
+BAM,24/12/2017,09Z,29.2,9%,1011.5 Hpa,180º (S ),7.2,5/8,-,-,CI,-,-,-,Cloudy
+BAM,24/12/2017,06Z,21.8,16%,1015.4 Hpa,280º (W ),14.4,5/8,-,-,CI,-,-,-,Cloudy
+BAM,24/12/2017,03Z,15.7,23%,1015.3 Hpa,270º (W ),21.6,0/8,-,-,-,-,-,15.0,Clear
+BAM,24/12/2017,00Z,16.6,23%,1012.3 Hpa,280º (W ),21.6,0/8,-,-,-,-,-,-,Clear
+BANDAR LENGEH,24/12/2017,21Z,18.1,100%,1016.7 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, fog"
+BANDAR LENGEH,24/12/2017,18Z,19.7,100%,1016.8 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, mist"
+BANDAR LENGEH,24/12/2017,15Z,22.0,100%,1016.1 Hpa,calm.,,0/8,-,-,-,-,24.3,-,"Clear, mist"
+BANDAR LENGEH,24/12/2017,12Z,23.6,79%,1014.8 Hpa,200º (S ),7.2,0/8,-,-,-,-,-,-,"Clear, mist"
+BANDAR LENGEH,24/12/2017,09Z,23.2,77%,1016.5 Hpa,110º (E ),7.2,1/8,-,-,CI,-,-,-,"Few clouds, haze"
+BANDAR LENGEH,24/12/2017,06Z,21.4,98%,1018.8 Hpa,070º (E ),7.2,1/8,-,-,CI,-,-,-,"Few clouds, mist"
+BANDAR LENGEH,24/12/2017,03Z,16.6,100%,1017.2 Hpa,060º (NE),10.8,0/8,-,-,-,-,-,16.1,"Clear, mist"
+BANDAR LENGEH,24/12/2017,00Z,17.7,100%,1016.3 Hpa,040º (NE),7.2,0/8,-,-,-,-,-,-,"Clear, mist"
+BANDAR-E-DAYYER,24/12/2017,21Z,18.0,61%,1016.0 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BANDAR-E-DAYYER,24/12/2017,18Z,20.6,76%,1016.6 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BANDAR-E-DAYYER,24/12/2017,15Z,23.2,62%,1015.7 Hpa,260º (W ),7.2,0/8,-,-,-,-,28.0,-,Clear
+BANDAR-E-DAYYER,24/12/2017,12Z,27.0,207%,1014.8 Hpa,260º (W ),7.2,3/8,-,-,CI,-,-,-,Scattered clouds
+BANDAR-E-DAYYER,24/12/2017,09Z,26.0,56%,1016.6 Hpa,110º (E ),7.2,0/8,-,-,-,-,-,-,Clear
+BANDAR-E-DAYYER,24/12/2017,06Z,20.4,308%,1018.2 Hpa,050º (NE),7.2,3/8,-,-,CI,-,-,-,Scattered clouds
+BANDAR-E-DAYYER,24/12/2017,03Z,20.1,46%,1017.1 Hpa,310º (NW),3.6,0/8,-,-,-,-,-,16.3,Clear
+BANDAR-E-DAYYER,24/12/2017,00Z,19.0,54%,1016.5 Hpa,330º (NW),7.2,0/8,-,-,-,-,-,-,Clear
+BANDARABBASS,24/12/2017,21Z,16.7,95%,1016.4 Hpa,030º (NE),7.2,0/8,-,-,-,-,-,-,"Clear, fog"
+BANDARABBASS,24/12/2017,18Z,21.7,88%,1016.4 Hpa,240º (SW),10.8,1/8,-,-,CI,-,-,-,"Few clouds, mist"
+BANDARABBASS,24/12/2017,15Z,21.9,86%,1015.6 Hpa,240º (SW),7.2,4/8,-,-,CI,-,26.2,-,"Scattered clouds, mist"
+BANDARABBASS,24/12/2017,12Z,26.0,61%,1014.6 Hpa,260º (W ),14.4,5/8,-,-,CI,-,-,-,"Cloudy, haze"
+BANDARABBASS,24/12/2017,09Z,25.2,64%,1016.0 Hpa,190º (S ),14.4,4/8,-,-,CI,-,-,-,"Scattered clouds, haze"
+BANDARABBASS,24/12/2017,06Z,17.2,95%,1018.8 Hpa,080º (E ),7.2,3/8,3/8 SC,-,-,-,-,-,"Scattered clouds, mist"
+BANDARABBASS,24/12/2017,03Z,16.2,100%,1017.2 Hpa,010º (N),7.2,,,,,-,-,14.3,fog
+BANDARABBASS,24/12/2017,00Z,16.4,98%,1016.8 Hpa,010º (N),10.8,0/8,-,-,-,-,-,-,"Clear, mist"
+BIRJAND,24/12/2017,21Z,6.3,32%,1015.5 Hpa,070º (E ),10.8,0/8,-,-,-,-,-,-,Clear
+BIRJAND,24/12/2017,18Z,7.1,30%,1018.8 Hpa,100º (E ),18.0,3/8,-,-,CI,-,-,-,Scattered clouds
+BIRJAND,24/12/2017,15Z,13.3,24%,1018.9 Hpa,calm.,,4/8,-,-,CI,-,20.5,-,Scattered clouds
+BIRJAND,24/12/2017,12Z,20.0,15%,1015.3 Hpa,300º (NW),18.0,8/8,1/8 SC,-,CS,-,-,-,Overcast
+BIRJAND,24/12/2017,09Z,18.6,21%,1016.3 Hpa,290º (W ),18.0,7/8,-,1/8 AC,CI,-,-,-,Cloudy
+BIRJAND,24/12/2017,06Z,10.4,38%,1020.6 Hpa,150º (SE),7.2,6/8,1/8 SC,AC,CI,-,-,-,Cloudy
+BIRJAND,24/12/2017,03Z,1.1,58%,1020.8 Hpa,120º (SE),7.2,2/8,-,-,CI,-,-,0.7,Few clouds
+BIRJAND,24/12/2017,00Z,1.2,54%,1018.5 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BOJNOURD,24/12/2017,21Z,12.4,33%,1007.9 Hpa,320º (NW),14.4,5/8,-,-,CI,-,-,-,Cloudy
+BOJNOURD,24/12/2017,18Z,15.4,23%,1008.9 Hpa,360º (N ),7.2,3/8,-,0/8 AC,CI,-,-,-,Scattered clouds
+BOJNOURD,24/12/2017,15Z,16.6,19%,1009.8 Hpa,190º (S ),14.4,7/8,-,4/8 AC,CI,-,18.0,-,Cloudy
+BOJNOURD,24/12/2017,12Z,16.8,24%,1007.7 Hpa,190º (S ),36.0,8/8,-,5/8 AC,CS,-,-,-,Overcast
+BOJNOURD,24/12/2017,09Z,17.8,25%,1008.4 Hpa,180º (S ),25.2,8/8,-,2/8 AC,CS,-,-,-,Overcast
+BOJNOURD,24/12/2017,06Z,11.8,53%,1013.6 Hpa,calm.,,7/8,-,1/8 AC,CI,-,-,-,Cloudy
+BOJNOURD,24/12/2017,03Z,7.2,65%,1013.5 Hpa,330º (NW),7.2,2/8,-,-,CI,-,-,6.6,Few clouds
+BOJNOURD,24/12/2017,00Z,12.8,41%,1011.6 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BUSHEHR,24/12/2017,21Z,17.6,61%,1016.4 Hpa,110º (E ),3.6,0/8,-,-,-,-,-,-,Clear
+BUSHEHR,24/12/2017,18Z,18.5,84%,1017.1 Hpa,120º (SE),3.6,0/8,-,-,-,-,-,-,"Clear, mist"
+BUSHEHR,24/12/2017,15Z,19.0,86%,1016.5 Hpa,140º (SE),3.6,3/8,-,-,CI,-,27.0,-,"Scattered clouds, mist"
+BUSHEHR,24/12/2017,12Z,24.8,19%,1015.7 Hpa,calm.,,3/8,-,-,CI,-,-,-,Scattered clouds
+BUSHEHR,24/12/2017,09Z,23.0,66%,1017.0 Hpa,250º (W ),7.2,3/8,-,-,CI,-,-,-,Scattered clouds
+BUSHEHR,24/12/2017,06Z,23.1,21%,1019.6 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, haze"
+BUSHEHR,24/12/2017,03Z,15.4,80%,1018.4 Hpa,calm.,,3/8,-,-,CI,-,-,14.4,"Scattered clouds, mist"
+BUSHEHR,24/12/2017,00Z,15.1,91%,1018.3 Hpa,040º (NE),3.6,0/8,-,-,-,-,-,-,"Clear, mist"
+BUSHEHR (AIRPORT),24/12/2017,21Z,16.7,71%,1015.7 Hpa,100º (E ),7.2,0/8,-,-,-,-,-,-,"Clear, haze"
+BUSHEHR (AIRPORT),24/12/2017,18Z,17.6,66%,1016.4 Hpa,120º (SE),7.2,2/8,-,-,CI,-,-,-,Few clouds
+BUSHEHR (AIRPORT),24/12/2017,15Z,18.8,62%,1015.9 Hpa,170º (S ),3.6,2/8,-,-,CI,-,25.8,-,Few clouds
+BUSHEHR (AIRPORT),24/12/2017,12Z,25.0,36%,1015.3 Hpa,260º (W ),10.8,4/8,-,-,CI,-,-,-,Scattered clouds
+BUSHEHR (AIRPORT),24/12/2017,09Z,23.8,35%,1016.6 Hpa,310º (NW),10.8,2/8,-,-,CI,-,-,-,Few clouds
+BUSHEHR (AIRPORT),24/12/2017,06Z,20.0,48%,1019.0 Hpa,calm.,,2/8,-,-,CI,-,-,-,"Few clouds, haze"
+BUSHEHR (AIRPORT),24/12/2017,03Z,12.2,94%,1017.8 Hpa,calm.,,2/8,-,-,CI,-,-,11.8,"Few clouds, mist"
+BUSHEHR (AIRPORT),24/12/2017,00Z,12.8,90%,1017.6 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, mist"
+CHAHBAHAR,24/12/2017,21Z,90.1,,1015.5 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, mist"
+CHAHBAHAR,24/12/2017,18Z,70.1,,1015.8 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, mist"
+CHAHBAHAR,24/12/2017,15Z,70.0,,1015.3 Hpa,calm.,,1/8,-,-,CI,-,25.5,-,"Few clouds, mist"
+CHAHBAHAR,24/12/2017,12Z,80.0,,1013.8 Hpa,230º (SW),7.2,2/8,-,-,CI,-,-,-,Few clouds
+CHAHBAHAR,24/12/2017,09Z,60.1,,1014.8 Hpa,210º (SW),7.2,1/8,-,-,CI,-,-,-,Few clouds
+CHAHBAHAR,24/12/2017,06Z,50.1,,1017.4 Hpa,120º (SE),7.2,0/8,-,-,-,-,-,-,Clear
+CHAHBAHAR,24/12/2017,03Z,50.1,,1015.8 Hpa,calm.,,0/8,-,-,-,-,-,18.4,"Clear, mist"
+CHAHBAHAR,24/12/2017,00Z,40.1,,1014.4 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, mist"
+ESFAHAN,24/12/2017,21Z,18.0,7%,1010.1 Hpa,200º (S ),14.4,0/8,-,-,-,-,-,-,Clear
+ESFAHAN,24/12/2017,18Z,19.4,8%,1013.3 Hpa,190º (S ),7.2,0/8,-,-,-,-,-,-,Clear
+ESFAHAN,24/12/2017,15Z,21.0,7%,1013.2 Hpa,260º (W ),14.4,3/8,-,-,CI,-,23.4,-,Scattered clouds
+ESFAHAN,24/12/2017,12Z,20.6,13%,1012.9 Hpa,140º (SE),7.2,2/8,-,2/8 AC,-,-,-,-,Few clouds
+ESFAHAN,24/12/2017,09Z,14.0,29%,1016.5 Hpa,060º (NE),10.8,6/8,-,2/8 AC,CI,-,-,-,"Cloudy, haze"
+ESFAHAN,24/12/2017,06Z,5.0,54%,1022.7 Hpa,calm.,,7/8,1/8 SC,AC,-,-,-,-,"Cloudy, haze"
+ESFAHAN,24/12/2017,03Z,3.6,63%,1020.2 Hpa,calm.,,3/8,-,3/8 AC,-,-,-,3.6,"Scattered clouds, haze"
+ESFAHAN,24/12/2017,00Z,4.6,54%,1017.3 Hpa,calm.,,2/8,-,-,CI,-,-,-,Few clouds
+FASA,24/12/2017,21Z,7.2,50%,1015.9 Hpa,320º (NW),7.2,2/8,-,-,CI,-,-,-,Few clouds
+FASA,24/12/2017,18Z,9.6,41%,1018.1 Hpa,340º (N ),7.2,3/8,-,-,CI,-,-,-,Scattered clouds
+FASA,24/12/2017,15Z,16.6,27%,1017.1 Hpa,060º (NE),7.2,4/8,-,-,CI,-,23.4,-,Scattered clouds
+FASA,24/12/2017,12Z,23.2,20%,1013.6 Hpa,090º (E ),7.2,5/8,-,-,CI,-,-,-,Cloudy
+FASA,24/12/2017,09Z,21.4,21%,1015.3 Hpa,120º (SE),7.2,4/8,-,-,CI,-,-,-,Scattered clouds
+FASA,24/12/2017,06Z,12.6,45%,1019.7 Hpa,calm.,,5/8,-,-,CI,-,-,-,Cloudy
+FASA,24/12/2017,03Z,4.2,69%,1019.2 Hpa,calm.,,3/8,-,-,CI,-,-,3.6,Scattered clouds
+FASA,24/12/2017,00Z,4.8,68%,1016.6 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+FERDOUS,24/12/2017,21Z,15.8,25%,1011.2 Hpa,100º (E ),10.8,7/8,4/8 SC,AC,CI,-,-,-,Cloudy
+FERDOUS,24/12/2017,18Z,15.6,27%,1013.0 Hpa,160º (S ),18.0,7/8,3/8 SC,AC,CI,-,-,-,Cloudy
+FERDOUS,24/12/2017,15Z,16.3,25%,1014.0 Hpa,170º (S ),10.8,6/8,2/8 SC,AC,CI,-,20.5,-,Cloudy
+FERDOUS,24/12/2017,12Z,19.7,19%,1011.5 Hpa,180º (S ),14.4,7/8,3/8 SC,-,CI,-,-,-,Cloudy
+FERDOUS,24/12/2017,09Z,19.7,21%,1013.6 Hpa,140º (SE),18.0,6/8,3/8 SC,-,CI,-,-,-,Cloudy
+FERDOUS,24/12/2017,06Z,16.4,27%,1016.3 Hpa,100º (E ),18.0,5/8,2/8 SC,-,CI,-,-,-,Cloudy
+FERDOUS,24/12/2017,03Z,11.0,37%,1016.0 Hpa,050º (NE),7.2,4/8,-,-,CI,-,-,7.5,Scattered clouds
+FERDOUS,24/12/2017,00Z,12.2,36%,1014.2 Hpa,130º (SE),14.4,1/8,-,-,CI,-,-,-,Few clouds
+GACH SARAN DU GUNBADAN,24/12/2017,21Z,12.1,51%,1017.4 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+GACH SARAN DU GUNBADAN,24/12/2017,18Z,14.9,44%,1019.0 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+GACH SARAN DU GUNBADAN,24/12/2017,15Z,17.9,41%,1018.7 Hpa,calm.,,3/8,-,-,CI,-,28.1,-,Scattered clouds
+GACH SARAN DU GUNBADAN,24/12/2017,12Z,27.5,14%,1016.3 Hpa,calm.,,3/8,-,-,CI,-,-,-,Scattered clouds
+GACH SARAN DU GUNBADAN,24/12/2017,09Z,23.9,21%,1018.4 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+GACH SARAN DU GUNBADAN,24/12/2017,06Z,15.7,44%,1021.4 Hpa,150º (SE),7.2,2/8,-,-,CI,-,-,-,Few clouds
+GACH SARAN DU GUNBADAN,24/12/2017,03Z,8.1,75%,1021.1 Hpa,calm.,,0/8,-,-,-,-,-,7.9,Clear
+GACH SARAN DU GUNBADAN,24/12/2017,00Z,9.9,64%,1019.2 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+GHARAKHIL,24/12/2017,21Z,13.0,93%,1010.0 Hpa,calm.,,8/8,2/8 SC,AC,,-,-,-,Overcast
+GHARAKHIL,24/12/2017,18Z,13.2,95%,1008.8 Hpa,calm.,,8/8,3/8 SC,AC,,-,-,-,Overcast
+GHARAKHIL,24/12/2017,15Z,14.0,93%,1007.6 Hpa,calm.,,8/8,4/8 ST,AC,,-,17.4,-,Overcast
+GHARAKHIL,24/12/2017,12Z,15.8,77%,1005.3 Hpa,280º (W ),7.2,8/8,-,8/8 AC,,-,-,-,Overcast
+GHARAKHIL,24/12/2017,09Z,16.8,71%,1003.7 Hpa,calm.,,7/8,-,4/8 AC,CI,-,-,-,Cloudy
+GHARAKHIL,24/12/2017,06Z,13.0,76%,1006.2 Hpa,calm.,,7/8,-,3/8 AC,CI,-,-,-,Cloudy
+GHARAKHIL,24/12/2017,03Z,10.8,82%,1005.3 Hpa,calm.,,7/8,-,7/8 AC,-,-,-,10.0,Cloudy
+GHARAKHIL,24/12/2017,00Z,10.2,89%,1005.3 Hpa,calm.,,7/8,-,-,CI,-,-,-,Cloudy
+GHAZVIN,24/12/2017,21Z,11.2,33%,1007.9 Hpa,160º (S ),3.6,7/8,-,7/8 AC,-,-,-,-,Cloudy
+GHAZVIN,24/12/2017,18Z,13.5,34%,1009.6 Hpa,110º (E ),21.6,8/8,-,8/8 AC,,-,-,-,Overcast
+GHAZVIN,24/12/2017,15Z,13.6,34%,1010.8 Hpa,140º (SE),7.2,8/8,1/8 SC,AC,,-,17.8,-,Overcast
+GHAZVIN,24/12/2017,12Z,17.3,29%,1008.9 Hpa,110º (E ),14.4,8/8,1/8 SC,AC,CS,-,-,-,Overcast
+GHAZVIN,24/12/2017,09Z,16.2,41%,1011.0 Hpa,150º (SE),18.0,7/8,-,-,CI,-,-,-,"Cloudy, haze"
+GHAZVIN,24/12/2017,06Z,9.7,57%,1014.8 Hpa,110º (E ),7.2,7/8,-,-,CI,-,-,-,Cloudy
+GHAZVIN,24/12/2017,03Z,7.9,55%,1015.1 Hpa,070º (E ),7.2,7/8,-,7/8 AC,-,-,-,6.9,Cloudy
+GHAZVIN,24/12/2017,00Z,9.5,60%,1013.8 Hpa,070º (E ),3.6,6/8,-,6/8 AC,-,-,-,-,Cloudy
+GHUCHAN,24/12/2017,21Z,10.3,44%,1008.1 Hpa,060º (NE),10.8,3/8,-,-,CI,-,-,-,Scattered clouds
+GHUCHAN,24/12/2017,18Z,9.5,48%,1011.3 Hpa,090º (E ),10.8,3/8,-,-,CI,-,-,-,Scattered clouds
+GHUCHAN,24/12/2017,15Z,14.1,35%,1011.6 Hpa,300º (NW),18.0,6/8,-,6/8 AC,-,-,17.4,-,Cloudy
+GHUCHAN,24/12/2017,12Z,16.1,36%,1009.1 Hpa,calm.,,7/8,-,3/8 AC,CI,-,-,-,Cloudy
+GHUCHAN,24/12/2017,09Z,16.0,42%,1011.2 Hpa,080º (E ),10.8,6/8,-,3/8 AC,CI,-,-,-,Cloudy
+GHUCHAN,24/12/2017,06Z,8.4,70%,1015.4 Hpa,030º (NE),7.2,5/8,2/8 SC,-,CI,-,-,-,Cloudy
+GHUCHAN,24/12/2017,03Z,3.8,76%,1016.1 Hpa,calm.,,5/8,3/8 SC,-,CI,-,-,3.7,Cloudy
+GHUCHAN,24/12/2017,00Z,7.0,69%,1012.6 Hpa,030º (NE),10.8,1/8,1/8 SC,-,CI,-,-,-,Few clouds
+GORGAN,24/12/2017,21Z,9.8,96%,1012.3 Hpa,270º (W ),7.2,8/8,6/8 ST,AC,,-,-,-,"Overcast, drizzle"
+GORGAN,24/12/2017,18Z,12.0,96%,1011.0 Hpa,240º (SW),21.6,8/8,8/8 ST,,,Tr(6h),-,-,"Overcast, drizzle"
+GORGAN,24/12/2017,15Z,13.9,88%,1008.8 Hpa,240º (SW),25.2,8/8,2/8 SC,AC,CS,-,19.5,-,"Overcast, mist"
+GORGAN,24/12/2017,12Z,15.7,77%,1005.9 Hpa,290º (W ),14.4,8/8,2/8 SC,AC,CS,-,-,-,"Overcast, haze"
+GORGAN,24/12/2017,09Z,18.3,68%,1004.8 Hpa,260º (W ),10.8,8/8,2/8 SC,AC,CS,-,-,-,Overcast
+GORGAN,24/12/2017,06Z,13.7,83%,1007.4 Hpa,calm.,,8/8,2/8 SC,AC,CS,-,-,-,Overcast
+GORGAN,24/12/2017,03Z,9.7,89%,1006.5 Hpa,calm.,,5/8,-,2/8 AC,CS,-,-,8.7,Cloudy
+GORGAN,24/12/2017,00Z,10.9,91%,1006.0 Hpa,calm.,,3/8,-,3/8 AC,-,-,-,-,"Scattered clouds, mist"
+HAMEDAN,24/12/2017,21Z,12.6,13%,1006.1 Hpa,220º (SW),7.2,0/8,-,-,-,-,-,-,Clear
+HAMEDAN,24/12/2017,18Z,11.2,18%,1008.1 Hpa,050º (NE),14.4,1/8,-,-,CI,-,-,-,Few clouds
+HAMEDAN,24/12/2017,15Z,14.3,14%,1009.3 Hpa,220º (SW),10.8,4/8,-,-,CI,-,18.8,-,Scattered clouds
+HAMEDAN,24/12/2017,12Z,17.0,14%,1008.1 Hpa,240º (SW),25.2,4/8,-,-,CI,-,-,-,Scattered clouds
+HAMEDAN,24/12/2017,09Z,17.6,13%,1008.7 Hpa,210º (SW),25.2,5/8,-,-,CI,-,-,-,Cloudy
+HAMEDAN,24/12/2017,06Z,15.0,16%,1010.6 Hpa,220º (SW),21.6,5/8,-,-,CI,-,-,-,Cloudy
+HAMEDAN,24/12/2017,03Z,12.1,19%,1011.3 Hpa,190º (S ),18.0,0/8,-,-,-,-,-,11.6,Clear
+HAMEDAN,24/12/2017,00Z,12.2,18%,1011.7 Hpa,220º (SW),32.4,0/8,-,-,-,-,-,-,Clear
+ILAM,24/12/2017,21Z,13.4,27%,1013.3 Hpa,130º (SE),18.0,8/8,-,4/8 AC,CS,-,-,-,Overcast
+ILAM,24/12/2017,18Z,14.3,23%,1013.3 Hpa,140º (SE),18.0,8/8,-,4/8 AC,CS,-,-,-,Overcast
+ILAM,24/12/2017,15Z,15.1,24%,1014.3 Hpa,140º (SE),14.4,8/8,-,3/8 AC,CS,-,18.9,-,Overcast
+ILAM,24/12/2017,12Z,17.8,20%,1013.9 Hpa,140º (SE),18.0,7/8,-,3/8 AC,CI,-,-,-,Cloudy
+ILAM,24/12/2017,09Z,17.6,21%,1015.8 Hpa,140º (SE),18.0,7/8,-,2/8 AC,CI,-,-,-,Cloudy
+ILAM,24/12/2017,06Z,15.0,24%,1017.2 Hpa,140º (SE),14.4,6/8,-,-,CI,-,-,-,Cloudy
+ILAM,24/12/2017,03Z,12.5,28%,1017.5 Hpa,150º (SE),14.4,5/8,-,-,CI,-,-,8.6,Cloudy
+IRANSHAHR,24/12/2017,21Z,15.4,32%,1016.0 Hpa,020º (N),14.4,2/8,-,-,CI,-,-,-,Few clouds
+IRANSHAHR,24/12/2017,18Z,17.4,30%,1016.8 Hpa,350º (N ),10.8,3/8,-,-,CS,-,-,-,Scattered clouds
+IRANSHAHR,24/12/2017,15Z,23.0,24%,1016.6 Hpa,290º (W ),7.2,6/8,-,-,CS,-,28.3,-,Cloudy
+IRANSHAHR,24/12/2017,12Z,27.2,20%,1014.2 Hpa,200º (S ),7.2,7/8,-,-,CI,-,-,-,Cloudy
+IRANSHAHR,24/12/2017,09Z,26.6,19%,1015.6 Hpa,270º (W ),7.2,6/8,-,-,CS,-,-,-,Cloudy
+IRANSHAHR,24/12/2017,06Z,22.3,21%,1019.2 Hpa,050º (NE),7.2,2/8,-,-,CI,-,-,-,Few clouds
+IRANSHAHR,24/12/2017,03Z,11.5,37%,1018.4 Hpa,010º (N),14.4,1/8,-,-,CI,-,-,10.9,Few clouds
+IRANSHAHR,24/12/2017,00Z,12.9,32%,1016.7 Hpa,010º (N),10.8,0/8,-,-,-,-,-,-,Clear
+JASK,24/12/2017,21Z,20.8,85%,1014.6 Hpa,300º (NW),7.2,0/8,-,-,-,-,-,-,"Clear, mist"
+JASK,24/12/2017,18Z,22.2,82%,1014.9 Hpa,320º (NW),18.0,0/8,-,-,-,-,-,-,"Clear, mist"
+JASK,24/12/2017,15Z,23.5,82%,1014.0 Hpa,280º (W ),18.0,3/8,-,-,CI,-,25.9,-,"Scattered clouds, mist"
+JASK,24/12/2017,12Z,25.1,232%,1012.8 Hpa,260º (W ),25.2,3/8,-,-,CI,-,-,-,"Scattered clouds, mist"
+JASK,24/12/2017,09Z,25.9,75%,1014.5 Hpa,250º (W ),21.6,0/8,-,-,-,-,-,-,"Clear, haze"
+JASK,24/12/2017,06Z,23.1,150%,1016.9 Hpa,320º (NW),18.0,0/8,-,-,-,-,-,-,"Clear, haze"
+JASK,24/12/2017,03Z,20.9,77%,1015.2 Hpa,300º (NW),14.4,0/8,-,-,-,-,-,20.9,"Clear, haze"
+JASK,24/12/2017,00Z,23.3,76%,1014.3 Hpa,280º (W ),25.2,0/8,-,-,-,-,-,-,"Clear, haze"
+KAHNUJ,24/12/2017,21Z,17.8,49%,1011.9 Hpa,270º (W ),14.4,0/8,-,-,-,-,-,-,Clear
+KAHNUJ,24/12/2017,18Z,16.9,48%,1013.1 Hpa,250º (W ),10.8,0/8,-,-,-,-,-,-,Clear
+KAHNUJ,24/12/2017,15Z,21.2,34%,1012.3 Hpa,340º (N ),10.8,6/8,-,-,CI,-,27.7,-,Cloudy
+KAHNUJ,24/12/2017,12Z,26.8,26%,1010.1 Hpa,090º (E ),10.8,7/8,-,3/8 AC,CI,-,-,-,Cloudy
+KAHNUJ,24/12/2017,09Z,24.9,29%,1012.0 Hpa,calm.,,6/8,-,-,CI,-,-,-,Cloudy
+KAHNUJ,24/12/2017,06Z,19.7,41%,1015.3 Hpa,120º (SE),10.8,5/8,-,-,CI,-,-,-,Cloudy
+KAHNUJ,24/12/2017,03Z,14.6,56%,1013.2 Hpa,280º (W ),7.2,0/8,-,-,-,-,-,14.5,Clear
+KAHNUJ,24/12/2017,00Z,15.1,54%,1011.7 Hpa,270º (W ),7.2,0/8,-,-,-,-,-,-,Clear
+KASHAN,24/12/2017,21Z,9.0,35%,1009.4 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KASHAN,24/12/2017,18Z,11.2,36%,1012.4 Hpa,calm.,,3/8,-,3/8 AC,-,-,-,-,Scattered clouds
+KASHAN,24/12/2017,15Z,13.2,40%,1014.0 Hpa,calm.,,3/8,-,3/8 AC,-,-,21.6,-,Scattered clouds
+KASHAN,24/12/2017,12Z,21.0,19%,1011.0 Hpa,350º (N ),7.2,4/8,-,4/8 AC,-,-,-,-,Scattered clouds
+KASHAN,24/12/2017,09Z,17.8,25%,1012.6 Hpa,050º (NE),10.8,6/8,-,6/8 AC,-,-,-,-,Cloudy
+KASHAN,24/12/2017,06Z,10.2,41%,1016.3 Hpa,calm.,,7/8,2/8 SC,AC,-,-,-,-,Cloudy
+KASHAN,24/12/2017,03Z,7.0,59%,1015.1 Hpa,calm.,,6/8,2/8 SC,AC,-,-,-,7.0,Cloudy
+KASHAN,24/12/2017,00Z,8.8,52%,1013.8 Hpa,calm.,,6/8,2/8 SC,AC,-,-,-,-,Cloudy
+KASHMAR,24/12/2017,21Z,9.4,46%,1013.6 Hpa,calm.,,8/8,2/8 SC,AC,,-,-,-,Overcast
+KASHMAR,24/12/2017,18Z,12.6,39%,1014.5 Hpa,calm.,,8/8,1/8 SC,AC,,-,-,-,Overcast
+KASHMAR,24/12/2017,15Z,12.8,41%,1015.8 Hpa,calm.,,7/8,3/8 SC,-,CI,-,16.5,-,Cloudy
+KASHMAR,24/12/2017,12Z,15.6,36%,1014.0 Hpa,calm.,,6/8,3/8 SC,-,CI,-,-,-,Cloudy
+KASHMAR,24/12/2017,09Z,15.5,38%,1015.6 Hpa,calm.,,5/8,2/8 SC,-,CI,-,-,-,Cloudy
+KASHMAR,24/12/2017,06Z,12.8,44%,1017.4 Hpa,120º (SE),10.8,5/8,3/8 SC,-,CI,-,-,-,Cloudy
+KASHMAR,24/12/2017,03Z,7.3,56%,1017.2 Hpa,calm.,,2/8,1/8 SC,-,CI,-,-,6.6,Few clouds
+KASHMAR,24/12/2017,00Z,8.5,53%,1015.7 Hpa,calm.,,1/8,-,-,CI,-,-,-,Few clouds
+KERMAN,24/12/2017,21Z,3.9,16%,1017.3 Hpa,100º (E ),10.8,0/8,-,-,-,-,-,-,Clear
+KERMAN,24/12/2017,18Z,6.0,16%,1020.3 Hpa,110º (E ),10.8,2/8,-,-,CI,-,-,-,Few clouds
+KERMAN,24/12/2017,15Z,12.0,8%,1021.7 Hpa,calm.,,3/8,-,-,CI,-,22.5,-,Scattered clouds
+KERMAN,24/12/2017,12Z,21.6,5%,1016.6 Hpa,180º (S ),7.2,7/8,-,-,CI,-,-,-,Cloudy
+KERMAN,24/12/2017,09Z,21.6,11%,1016.4 Hpa,190º (S ),7.2,6/8,-,-,CI,-,-,-,Cloudy
+KERMAN,24/12/2017,06Z,12.6,27%,1021.7 Hpa,calm.,,5/8,-,-,CI,-,-,-,Cloudy
+KERMAN,24/12/2017,03Z,0.2,44%,1023.2 Hpa,calm.,,4/8,-,-,CI,-,-,-0.7,Scattered clouds
+KERMAN,24/12/2017,00Z,1.0,42%,1018.8 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KERMANSHAH,24/12/2017,21Z,13.9,11%,1011.3 Hpa,120º (SE),10.8,7/8,2/8 SC,-,CI,-,-,-,Cloudy
+KERMANSHAH,24/12/2017,18Z,15.3,10%,1012.4 Hpa,120º (SE),14.4,7/8,2/8 SC,AC,-,-,-,-,Cloudy
+KERMANSHAH,24/12/2017,15Z,15.1,10%,1015.0 Hpa,120º (SE),21.6,7/8,-,4/8 AC,CI,-,19.0,-,Cloudy
+KERMANSHAH,24/12/2017,12Z,18.1,9%,1012.4 Hpa,140º (SE),21.6,7/8,-,4/8 AC,CS,-,-,-,Cloudy
+KERMANSHAH,24/12/2017,09Z,18.3,9%,1015.1 Hpa,140º (SE),21.6,7/8,-,3/8 AC,CS,-,-,-,Cloudy
+KERMANSHAH,24/12/2017,06Z,14.1,18%,1016.5 Hpa,120º (SE),14.4,6/8,-,4/8 AC,CI,-,-,-,Cloudy
+KERMANSHAH,24/12/2017,03Z,6.5,30%,1017.6 Hpa,calm.,,3/8,-,-,CI,-,-,6.5,Scattered clouds
+KERMANSHAH,24/12/2017,00Z,12.7,14%,1015.7 Hpa,140º (SE),10.8,0/8,-,-,-,-,-,-,Clear
+KHARG,24/12/2017,15Z,19.1,85%,1016.2 Hpa,160º (S ),7.2,0/8,-,-,-,-,28.9,-,"Clear, mist"
+KHARG,24/12/2017,12Z,23.6,57%,1015.7 Hpa,130º (SE),7.2,1/8,-,-,CI,-,-,-,Few clouds
+KHARG,24/12/2017,09Z,23.5,52%,1017.1 Hpa,120º (SE),7.2,0/8,-,-,-,-,-,-,Clear
+KHARG,24/12/2017,06Z,21.3,69%,1019.4 Hpa,130º (SE),7.2,0/8,-,-,-,0.1(24h),-,-,Clear
+KHARG,24/12/2017,03Z,13.5,100%,1018.4 Hpa,calm.,,0/8,-,-,-,-,-,13.0,"Clear, mist"
+KHOR,24/12/2017,21Z,11.6,32%,1010.1 Hpa,280º (W ),7.2,3/8,-,2/8 AC,CI,-,-,-,Scattered clouds
+KHOR,24/12/2017,18Z,10.8,40%,1012.5 Hpa,calm.,,4/8,-,2/8 AC,CI,-,-,-,Scattered clouds
+KHOR,24/12/2017,15Z,13.0,37%,1012.5 Hpa,calm.,,6/8,2/8 SC,AC,CI,-,19.4,-,Cloudy
+KHOR,24/12/2017,12Z,19.2,29%,1010.7 Hpa,090º (E ),7.2,7/8,2/8 SC,AC,CI,-,-,-,Cloudy
+KHOR,24/12/2017,09Z,17.4,32%,1013.9 Hpa,070º (E ),7.2,7/8,2/8 SC,AC,CI,-,-,-,Cloudy
+KHOR,24/12/2017,06Z,13.2,38%,1015.5 Hpa,calm.,,8/8,2/8 SC,AC,CS,-,-,-,Overcast
+KHOR,24/12/2017,03Z,10.8,47%,1013.9 Hpa,calm.,,6/8,-,2/8 AC,CI,-,-,9.2,Cloudy
+KHOR,24/12/2017,00Z,11.2,43%,1013.1 Hpa,calm.,,5/8,-,-,CI,-,-,-,Cloudy
+KHORRAM ABAD,24/12/2017,21Z,10.4,31%,1013.4 Hpa,190º (S ),7.2,6/8,-,-,CS,-,-,-,Cloudy
+KHORRAM ABAD,24/12/2017,18Z,11.6,32%,1016.8 Hpa,340º (N ),7.2,8/8,-,1/8 AC,CS,-,-,-,Overcast
+KHORRAM ABAD,24/12/2017,15Z,14.7,23%,1017.8 Hpa,calm.,,8/8,-,1/8 AC,CS,-,23.5,-,Overcast
+KHORRAM ABAD,24/12/2017,12Z,23.2,12%,1014.8 Hpa,calm.,,8/8,-,1/8 AC,CS,-,-,-,Overcast
+KHORRAM ABAD,24/12/2017,09Z,18.7,22%,1017.5 Hpa,160º (S ),7.2,8/8,-,1/8 AC,CS,-,-,-,Overcast
+KHORRAM ABAD,24/12/2017,06Z,7.9,61%,1021.8 Hpa,calm.,,6/8,-,-,CI,-,-,-,Cloudy
+KHORRAM ABAD,24/12/2017,03Z,2.3,71%,1021.4 Hpa,140º (SE),7.2,0/8,-,-,-,-,-,2.1,Clear
+KHORRAM ABAD,24/12/2017,00Z,4.0,66%,1019.7 Hpa,110º (E ),7.2,0/8,-,-,-,-,-,-,Clear
+KHOY,24/12/2017,21Z,6.2,74%,1008.7 Hpa,calm.,,4/8,2/8 SC,AC,-,-,-,-,Scattered clouds
+KHOY,24/12/2017,18Z,8.0,74%,1008.3 Hpa,calm.,,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+KHOY,24/12/2017,15Z,8.8,67%,1008.5 Hpa,calm.,,5/8,3/8 SC,AC,-,-,14.8,-,Cloudy
+KHOY,24/12/2017,12Z,11.0,59%,1007.1 Hpa,230º (SW),14.4,8/8,3/8 SC,AC,,0.4(6h),-,-,Overcast
+KHOY,24/12/2017,09Z,12.8,47%,1007.0 Hpa,250º (W ),10.8,8/8,5/8 CB,AC,,-,-,-,"Overcast, rain"
+KHOY,24/12/2017,06Z,11.2,48%,1007.7 Hpa,calm.,,8/8,5/8 CB,AC,,Tr(24h),-,-,Overcast
+KHOY,24/12/2017,03Z,11.0,36%,1007.3 Hpa,170º (S ),14.4,7/8,7/8 SC,-,-,-,-,10.6,Cloudy
+KHOY,24/12/2017,00Z,12.4,37%,1009.0 Hpa,180º (S ),21.6,6/8,6/8 SC,-,-,-,-,-,Cloudy
+KISH ISLAND,24/12/2017,21Z,20.4,88%,1016.7 Hpa,290º (W ),7.2,0/8,-,-,-,-,-,-,"Clear, mist"
+KISH ISLAND,24/12/2017,18Z,20.6,84%,1016.7 Hpa,310º (NW),7.2,0/8,-,-,-,-,-,-,"Clear, mist"
+KISH ISLAND,24/12/2017,15Z,22.8,76%,1015.9 Hpa,290º (W ),10.8,2/8,-,-,CI,-,25.8,-,"Few clouds, haze"
+KISH ISLAND,24/12/2017,12Z,24.6,74%,1014.9 Hpa,260º (W ),18.0,0/8,-,-,-,-,-,-,"Clear, haze"
+KISH ISLAND,24/12/2017,09Z,25.2,66%,1016.7 Hpa,360º (N ),14.4,3/8,-,-,CI,-,-,-,"Scattered clouds, haze"
+KISH ISLAND,24/12/2017,06Z,23.6,81%,1018.2 Hpa,360º (N ),14.4,3/8,-,-,CI,-,-,-,"Scattered clouds, mist"
+KISH ISLAND,24/12/2017,03Z,21.2,94%,1016.7 Hpa,310º (NW),14.4,1/8,-,-,CI,-,-,20.2,"Few clouds, mist"
+KISH ISLAND,24/12/2017,00Z,20.8,93%,1016.2 Hpa,310º (NW),10.8,0/8,-,-,-,-,-,-,"Clear, mist"
+MAKKO,24/12/2017,21Z,6.4,71%,1009.5 Hpa,360º (N ),7.2,6/8,6/8 CB,-,-,-,-,-,Cloudy
+MAKKO,24/12/2017,18Z,8.2,60%,1008.1 Hpa,270º (W ),28.8,7/8,6/8 CB,AC,-,0.2(6h),-,-,Cloudy
+MAKKO,24/12/2017,15Z,7.8,67%,1007.2 Hpa,270º (W ),28.8,7/8,6/8 CB,AC,-,-,7.8,-,"Cloudy, rain"
+MAKKO,24/12/2017,12Z,7.2,71%,1006.1 Hpa,270º (W ),18.0,8/8,7/8 CB,AC,,5.0(6h),-,-,"Overcast, rain"
+MAKKO,24/12/2017,09Z,4.8,91%,1008.1 Hpa,240º (SW),10.8,8/8,6/8 CB,AC,,-,-,-,"Overcast, rain"
+MAKKO,24/12/2017,06Z,4.4,91%,1009.0 Hpa,190º (S ),18.0,8/8,6/8 CB,AC,,9.0(6h),-,-,"Overcast, rain"
+MAKKO,24/12/2017,03Z,4.6,97%,1008.7 Hpa,270º (W ),14.4,8/8,6/8 CB,AC,,-,-,4.6,"Overcast, rain"
+MAKKO,24/12/2017,00Z,8.4,64%,1008.5 Hpa,210º (SW),36.0,8/8,6/8 CB,AC,,Tr(6h),-,-,"Overcast, rain showers"
+MARAGHEH,24/12/2017,21Z,6.8,86%,1010.5 Hpa,270º (W ),14.4,8/8,3/8 SC,AC,,-,-,-,"Overcast, rain"
+MARAGHEH,24/12/2017,18Z,9.4,52%,1010.4 Hpa,300º (NW),18.0,8/8,2/8 SC,AC,,-,-,-,"Overcast, haze"
+MARAGHEH,24/12/2017,15Z,11.4,32%,1009.5 Hpa,270º (W ),14.4,7/8,1/8 SC,AC,-,-,16.0,-,Cloudy
+MARAGHEH,24/12/2017,12Z,14.2,24%,1005.7 Hpa,220º (SW),36.0,8/8,-,6/8 AC,CS,-,-,-,"Overcast, dust"
+MARAGHEH,24/12/2017,09Z,15.6,21%,1008.2 Hpa,230º (SW),25.2,8/8,-,6/8 AC,CS,-,-,-,"Overcast, dust"
+MARAGHEH,24/12/2017,06Z,9.0,40%,1011.6 Hpa,090º (E ),7.2,7/8,1/8 SC,AC,CI,-,-,-,Cloudy
+MARAGHEH,24/12/2017,03Z,10.0,34%,1010.4 Hpa,150º (SE),10.8,1/8,-,-,CI,-,-,8.0,Few clouds
+MARAGHEH,24/12/2017,00Z,10.6,34%,1011.0 Hpa,200º (S ),14.4,3/8,1/8 SC,-,CI,-,-,-,Scattered clouds
+MARAVEH-TAPPEH,24/12/2017,21Z,11.5,78%,1008.0 Hpa,180º (S ),18.0,0/8,-,-,-,-,-,-,Clear
+MARAVEH-TAPPEH,24/12/2017,18Z,16.4,38%,1006.6 Hpa,290º (W ),7.2,2/8,-,-,CS,-,-,-,Few clouds
+MARAVEH-TAPPEH,24/12/2017,15Z,20.1,26%,1006.1 Hpa,130º (SE),14.4,6/8,-,-,CS,-,23.8,-,Cloudy
+MARAVEH-TAPPEH,24/12/2017,12Z,22.5,25%,1004.8 Hpa,150º (SE),18.0,8/8,-,-,CS,-,-,-,Overcast
+MARAVEH-TAPPEH,24/12/2017,09Z,22.7,26%,1005.0 Hpa,140º (SE),25.2,8/8,-,4/8 AC,CS,-,-,-,Overcast
+MARAVEH-TAPPEH,24/12/2017,06Z,21.7,26%,1007.7 Hpa,140º (SE),28.8,8/8,-,2/8 AC,CS,-,-,-,Overcast
+MARAVEH-TAPPEH,24/12/2017,03Z,19.4,29%,1007.6 Hpa,140º (SE),28.8,8/8,-,-,CS,-,-,12.1,Overcast
+MARAVEH-TAPPEH,24/12/2017,00Z,17.3,37%,1008.2 Hpa,calm.,,4/8,-,-,CS,-,-,-,Scattered clouds
+MASHHAD,24/12/2017,21Z,11.2,51%,1009.2 Hpa,300º (NW),7.2,5/8,-,2/8 AC,CI,-,-,-,"Cloudy, haze"
+MASHHAD,24/12/2017,18Z,12.0,42%,1011.4 Hpa,020º (N),7.2,4/8,-,-,CI,-,-,-,Scattered clouds
+MASHHAD,24/12/2017,15Z,13.0,43%,1012.6 Hpa,280º (W ),7.2,7/8,-,-,CI,-,19.1,-,"Cloudy, haze"
+MASHHAD,24/12/2017,12Z,17.0,33%,1010.9 Hpa,calm.,,7/8,-,-,CI,-,-,-,"Cloudy, haze"
+MASHHAD,24/12/2017,09Z,16.5,42%,1012.0 Hpa,100º (E ),10.8,7/8,-,-,CI,-,-,-,"Cloudy, haze"
+MASHHAD,24/12/2017,06Z,10.3,60%,1015.8 Hpa,calm.,,7/8,-,-,CI,Tr(24h),-,-,"Cloudy, haze"
+MASHHAD,24/12/2017,03Z,4.2,91%,1015.7 Hpa,calm.,,5/8,-,-,CI,-,-,3.8,"Cloudy, mist"
+MASHHAD,24/12/2017,00Z,5.1,83%,1014.2 Hpa,Vble.,,3/8,-,-,CI,-,-,-,"Scattered clouds, mist"
+MASJED-SOLEYMAN,24/12/2017,21Z,15.6,56%,1014.1 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+MASJED-SOLEYMAN,24/12/2017,18Z,18.2,47%,1015.0 Hpa,160º (S ),3.6,3/8,-,-,CI,-,-,-,Scattered clouds
+MASJED-SOLEYMAN,24/12/2017,15Z,20.9,38%,1014.5 Hpa,130º (SE),3.6,3/8,-,-,CI,-,26.4,-,Scattered clouds
+MASJED-SOLEYMAN,24/12/2017,12Z,25.3,29%,1014.0 Hpa,180º (S ),7.2,4/8,-,-,CI,-,-,-,Scattered clouds
+MASJED-SOLEYMAN,24/12/2017,09Z,24.7,46%,1015.7 Hpa,160º (S ),3.6,4/8,-,-,CI,-,-,-,Scattered clouds
+MASJED-SOLEYMAN,24/12/2017,06Z,17.0,74%,1018.3 Hpa,calm.,,2/8,-,-,CI,-,-,-,Few clouds
+MASJED-SOLEYMAN,24/12/2017,03Z,12.0,91%,1017.7 Hpa,170º (S ),3.6,0/8,-,-,-,-,-,12.0,Clear
+MASJED-SOLEYMAN,24/12/2017,00Z,12.6,87%,1017.2 Hpa,300º (NW),3.6,0/8,-,-,-,-,-,-,Clear
+MEYANEH,24/12/2017,21Z,12.4,37%,1008.9 Hpa,300º (NW),28.8,8/8,2/8 SC,AC,,-,-,-,Overcast
+MEYANEH,24/12/2017,18Z,13.2,28%,1009.9 Hpa,300º (NW),18.0,7/8,1/8 SC,AC,CI,-,-,-,Cloudy
+MEYANEH,24/12/2017,15Z,13.2,33%,1009.5 Hpa,240º (SW),10.8,8/8,4/8 SC,AC,,-,13.4,-,"Overcast, haze"
+MEYANEH,24/12/2017,12Z,9.4,70%,1009.5 Hpa,calm.,,8/8,4/8 SC,AC,,-,-,-,"Overcast, haze"
+MEYANEH,24/12/2017,09Z,7.0,73%,1012.1 Hpa,calm.,,8/8,4/8 SC,AC,,-,-,-,"Overcast, haze"
+MEYANEH,24/12/2017,06Z,2.0,93%,1015.0 Hpa,calm.,,7/8,3/8 SC,-,CI,-,-,-,"Cloudy, mist"
+MEYANEH,24/12/2017,03Z,1.0,96%,1013.9 Hpa,calm.,,8/8,1/8 CU,-,CS,-,-,1.0,Overcast
+MEYANEH,24/12/2017,00Z,1.6,96%,1016.0 Hpa,calm.,,8/8,3/8 CU,-,CS,-,-,-,Overcast
+MOHABAD,24/12/2017,21Z,6.4,82%,1011.9 Hpa,210º (SW),10.8,8/8,3/8 SC,AC,-,-,-,-,"Overcast, rain"
+MOHABAD,24/12/2017,18Z,10.8,43%,1008.4 Hpa,230º (SW),25.2,8/8,2/8 SC,AC,,-,-,-,Overcast
+MOHABAD,24/12/2017,15Z,12.7,30%,1007.6 Hpa,210º (SW),25.2,8/8,2/8 SC,AC,,-,14.4,-,Overcast
+MOHABAD,24/12/2017,12Z,14.3,22%,1006.5 Hpa,210º (SW),32.4,8/8,1/8 SC,AC,,-,-,-,Overcast
+MOHABAD,24/12/2017,09Z,14.3,21%,1008.4 Hpa,220º (SW),43.2,7/8,1/8 SC,AC,CI,-,-,-,Cloudy
+MOHABAD,24/12/2017,06Z,13.6,22%,1009.9 Hpa,240º (SW),21.6,6/8,1/8 SC,AC,CI,-,-,-,Cloudy
+MOHABAD,24/12/2017,03Z,12.6,24%,1009.5 Hpa,210º (SW),36.0,0/8,-,-,-,-,-,12.0,Clear
+MOHABAD,24/12/2017,00Z,12.9,23%,1009.3 Hpa,210º (SW),46.8,0/8,-,-,-,-,-,-,Clear
+NEHBANDAN,24/12/2017,21Z,5.9,42%,1016.1 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+NEHBANDAN,24/12/2017,18Z,9.1,35%,1017.9 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+NEHBANDAN,24/12/2017,15Z,13.8,25%,1018.7 Hpa,230º (SW),7.2,3/8,-,-,CI,-,22.4,-,Scattered clouds
+NEHBANDAN,24/12/2017,12Z,20.9,17%,1015.4 Hpa,calm.,,6/8,-,-,CI,-,-,-,Cloudy
+NEHBANDAN,24/12/2017,09Z,21.5,16%,1014.7 Hpa,200º (S ),10.8,4/8,-,1/8 AC,CI,-,-,-,Scattered clouds
+NEHBANDAN,24/12/2017,06Z,14.9,28%,1018.3 Hpa,calm.,,7/8,1/8 CU,AC,CI,-,-,-,Cloudy
+NEHBANDAN,24/12/2017,03Z,5.6,47%,1018.1 Hpa,calm.,,1/8,-,1/8 AC,-,-,-,5.3,Few clouds
+NEHBANDAN,24/12/2017,00Z,6.1,42%,1016.2 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+NOSHAHR,24/12/2017,21Z,12.4,97%,1010.5 Hpa,calm.,,8/8,7/8 ST,AC,,-,-,-,"Overcast, drizzle"
+NOSHAHR,24/12/2017,18Z,13.6,88%,1010.2 Hpa,300º (NW),14.4,8/8,7/8 CB,AC,,-,-,-,"Overcast, mist"
+NOSHAHR,24/12/2017,15Z,13.8,93%,1008.0 Hpa,calm.,,8/8,6/8 ST,AC,,-,15.2,-,"Overcast, mist"
+NOSHAHR,24/12/2017,12Z,14.4,91%,1006.7 Hpa,290º (W ),14.4,8/8,8/8 ST,,,-,-,-,"Overcast, mist"
+NOSHAHR,24/12/2017,09Z,14.8,84%,1004.7 Hpa,300º (NW),18.0,7/8,3/8 SC,-,CI,-,-,-,Cloudy
+NOSHAHR,24/12/2017,06Z,12.2,71%,1005.8 Hpa,calm.,,7/8,4/8 SC,AC,-,-,-,-,Cloudy
+NOSHAHR,24/12/2017,03Z,12.0,90%,1005.6 Hpa,250º (W ),7.2,7/8,4/8 SC,-,CI,-,-,11.6,Cloudy
+NOSHAHR,24/12/2017,00Z,12.4,90%,1003.7 Hpa,calm.,,7/8,4/8 SC,-,CI,-,-,-,Cloudy
+OMIDYEH-AGHAJARI,24/12/2017,21Z,16.2,48%,1016.2 Hpa,090º (E ),10.8,3/8,-,-,CI,-,-,-,Scattered clouds
+OMIDYEH-AGHAJARI,24/12/2017,18Z,16.8,48%,1016.5 Hpa,130º (SE),3.6,6/8,-,-,CI,-,-,-,Cloudy
+OMIDYEH-AGHAJARI,24/12/2017,15Z,22.0,46%,1016.5 Hpa,120º (SE),14.4,6/8,-,-,CS,-,28.2,-,Cloudy
+OMIDYEH-AGHAJARI,24/12/2017,12Z,28.0,22%,1016.0 Hpa,170º (S ),10.8,8/8,-,-,CS,-,-,-,Overcast
+OMIDYEH-AGHAJARI,24/12/2017,09Z,26.6,25%,1018.3 Hpa,140º (SE),14.4,8/8,-,-,CS,-,-,-,Overcast
+OMIDYEH-AGHAJARI,24/12/2017,06Z,17.4,54%,1019.8 Hpa,120º (SE),3.6,3/8,-,-,CI,-,-,-,Scattered clouds
+OMIDYEH-AGHAJARI,24/12/2017,03Z,12.6,70%,1018.9 Hpa,calm.,,0/8,-,-,-,-,-,12.6,Clear
+OMIDYEH-AGHAJARI,24/12/2017,00Z,13.6,63%,1018.7 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+ORUMIEH,24/12/2017,21Z,2.2,85%,1010.4 Hpa,190º (S ),10.8,3/8,3/8 CB,-,-,-,-,-,Scattered clouds
+ORUMIEH,24/12/2017,18Z,5.8,74%,1009.3 Hpa,220º (SW),18.0,7/8,4/8 CB,AC,-,Tr(6h),-,-,Cloudy
+ORUMIEH,24/12/2017,15Z,7.0,67%,1010.2 Hpa,210º (SW),14.4,8/8,4/8 CB,AC,,-,15.2,-,Overcast
+ORUMIEH,24/12/2017,12Z,8.8,63%,1007.9 Hpa,220º (SW),28.8,7/8,4/8 CB,AC,-,-,-,-,Cloudy
+ORUMIEH,24/12/2017,09Z,12.6,36%,1007.4 Hpa,230º (SW),32.4,7/8,2/8 SC,-,CI,-,-,-,Cloudy
+ORUMIEH,24/12/2017,06Z,14.0,27%,1007.0 Hpa,230º (SW),14.4,6/8,2/8 SC,-,CI,-,-,-,Cloudy
+ORUMIEH,24/12/2017,03Z,11.2,35%,1007.3 Hpa,230º (SW),21.6,7/8,1/8 SC,-,CI,-,-,11.0,Cloudy
+ORUMIEH,24/12/2017,00Z,11.6,36%,1009.2 Hpa,220º (SW),25.2,5/8,1/8 SC,-,CI,-,-,-,Cloudy
+PARS ABAD MOGHAN,24/12/2017,21Z,7.4,70%,1012.1 Hpa,320º (NW),10.8,8/8,6/8 SC,AC,,-,-,-,Overcast
+PARS ABAD MOGHAN,24/12/2017,18Z,8.7,67%,1011.3 Hpa,010º (N),7.2,6/8,6/8 SC,-,-,-,-,-,Cloudy
+PARS ABAD MOGHAN,24/12/2017,15Z,7.4,82%,1010.4 Hpa,280º (W ),7.2,6/8,6/8 SC,-,-,-,11.5,-,Cloudy
+PARS ABAD MOGHAN,24/12/2017,12Z,10.6,67%,1008.5 Hpa,350º (N ),10.8,8/8,5/8 SC,AC,,-,-,-,Overcast
+PARS ABAD MOGHAN,24/12/2017,09Z,10.1,72%,1007.5 Hpa,calm.,,7/8,5/8 SC,AC,-,-,-,-,Cloudy
+PARS ABAD MOGHAN,24/12/2017,06Z,7.3,81%,1007.9 Hpa,calm.,,8/8,5/8 SC,AC,,-,-,-,Overcast
+PARS ABAD MOGHAN,24/12/2017,03Z,5.7,90%,1007.3 Hpa,270º (W ),7.2,7/8,7/8 ST,-,-,-,-,3.7,Cloudy
+PARS ABAD MOGHAN,24/12/2017,00Z,4.0,89%,1007.9 Hpa,250º (W ),14.4,6/8,6/8 ST,-,-,-,-,-,Cloudy
+RAMSAR,24/12/2017,21Z,12.0,89%,1009.8 Hpa,300º (NW),7.2,8/8,8/8 ST,,,-,-,-,"Overcast, mist"
+RAMSAR,24/12/2017,18Z,13.0,88%,1010.1 Hpa,340º (N ),18.0,8/8,8/8 ST,,,-,-,-,"Overcast, mist"
+RAMSAR,24/12/2017,15Z,13.6,88%,1007.8 Hpa,310º (NW),14.4,8/8,8/8 ST,,,-,14.6,-,"Overcast, mist"
+RAMSAR,24/12/2017,12Z,14.4,91%,1006.2 Hpa,320º (NW),18.0,8/8,3/8 ST,AC,CS,-,-,-,"Overcast, mist"
+RAMSAR,24/12/2017,09Z,14.2,95%,1005.4 Hpa,300º (NW),10.8,7/8,3/8 ST,AC,CI,-,-,-,"Cloudy, mist"
+RAMSAR,24/12/2017,06Z,12.2,94%,1005.3 Hpa,calm.,,7/8,3/8 ST,AC,CI,-,-,-,"Cloudy, mist"
+RAMSAR,24/12/2017,03Z,11.6,92%,1005.4 Hpa,230º (SW),7.2,8/8,4/8 SC,AC,,-,-,11.6,Overcast
+RAMSAR,24/12/2017,00Z,12.4,94%,1004.7 Hpa,300º (NW),7.2,8/8,4/8 SC,AC,,-,-,-,Overcast
+RASHT,24/12/2017,21Z,11.0,97%,1011.5 Hpa,calm.,,8/8,7/8 CB,AC,,-,-,-,"Overcast, drizzle"
+RASHT,24/12/2017,18Z,10.8,97%,1011.9 Hpa,240º (SW),7.2,8/8,7/8 CB,AC,,0.2(6h),-,-,"Overcast, drizzle"
+RASHT,24/12/2017,15Z,10.6,92%,1010.2 Hpa,280º (W ),10.8,8/8,7/8 CB,AC,,-,14.0,-,Overcast
+RASHT,24/12/2017,12Z,11.2,87%,1007.8 Hpa,280º (W ),7.2,8/8,6/8 ST,AC,,-,-,-,"Overcast, mist"
+RASHT,24/12/2017,09Z,12.0,89%,1007.6 Hpa,290º (W ),18.0,7/8,7/8 ST,-,-,-,-,-,Cloudy
+RASHT,24/12/2017,06Z,11.6,100%,1006.5 Hpa,010º (N),10.8,8/8,8/8 ST,,,-,-,-,"Overcast, mist"
+RASHT,24/12/2017,03Z,11.4,100%,1006.1 Hpa,050º (NE),7.2,8/8,8/8 ST,,,-,-,9.0,"Overcast, fog"
+RASHT,24/12/2017,00Z,12.0,94%,1006.8 Hpa,calm.,,6/8,6/8 ST,-,-,-,-,-,"Cloudy, mist"
+SABZEVAR,24/12/2017,21Z,10.3,42%,1011.4 Hpa,calm.,,7/8,2/8 SC,-,CS,-,-,-,Cloudy
+SABZEVAR,24/12/2017,18Z,11.9,41%,1012.9 Hpa,calm.,,8/8,2/8 SC,-,CS,-,-,-,Overcast
+SABZEVAR,24/12/2017,15Z,13.3,38%,1013.1 Hpa,calm.,,8/8,3/8 SC,-,CS,-,17.2,-,Overcast
+SABZEVAR,24/12/2017,12Z,16.5,32%,1012.4 Hpa,calm.,,8/8,3/8 SC,-,CS,-,-,-,Overcast
+SABZEVAR,24/12/2017,09Z,16.1,32%,1013.7 Hpa,calm.,,5/8,2/8 SC,-,CS,-,-,-,Cloudy
+SABZEVAR,24/12/2017,06Z,10.9,45%,1016.8 Hpa,100º (E ),10.8,7/8,1/8 SC,-,CS,-,-,-,Cloudy
+SABZEVAR,24/12/2017,03Z,8.0,54%,1016.1 Hpa,070º (E ),10.8,3/8,1/8 SC,-,CI,-,-,5.8,Scattered clouds
+SABZEVAR,24/12/2017,00Z,7.1,57%,1015.0 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SAFI-ABAD DEZFUL,24/12/2017,21Z,14.1,75%,1015.2 Hpa,080º (E ),14.4,0/8,-,-,-,-,-,-,Clear
+SAFI-ABAD DEZFUL,24/12/2017,18Z,14.5,81%,1015.7 Hpa,070º (E ),14.4,7/8,-,-,CI,-,-,-,Cloudy
+SAFI-ABAD DEZFUL,24/12/2017,15Z,17.7,67%,1015.5 Hpa,040º (NE),10.8,7/8,-,-,CI,-,24.9,-,Cloudy
+SAFI-ABAD DEZFUL,24/12/2017,12Z,24.1,42%,1015.1 Hpa,120º (SE),10.8,7/8,-,-,CI,-,-,-,Cloudy
+SAFI-ABAD DEZFUL,24/12/2017,09Z,23.2,47%,1017.3 Hpa,110º (E ),10.8,5/8,-,-,CI,-,-,-,Cloudy
+SAFI-ABAD DEZFUL,24/12/2017,06Z,16.0,84%,1019.3 Hpa,030º (NE),10.8,4/8,-,-,CI,-,-,-,"Scattered clouds, mist"
+SAFI-ABAD DEZFUL,24/12/2017,03Z,10.4,94%,1018.6 Hpa,020º (N),7.2,0/8,-,-,-,-,-,10.3,"Clear, mist"
+SAFI-ABAD DEZFUL,24/12/2017,00Z,11.0,94%,1018.2 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, mist"
+SAGHEZ,24/12/2017,21Z,11.9,36%,1008.4 Hpa,250º (W ),28.8,8/8,-,8/8 AC,,-,-,-,Overcast
+SAGHEZ,24/12/2017,18Z,12.9,27%,1008.4 Hpa,240º (SW),32.4,8/8,-,8/8 AC,,-,-,-,"Overcast, dust"
+SAGHEZ,24/12/2017,15Z,13.6,24%,1008.6 Hpa,240º (SW),32.4,7/8,-,7/8 AC,-,-,15.4,-,"Cloudy, dust"
+SAGHEZ,24/12/2017,12Z,14.6,23%,1008.3 Hpa,230º (SW),32.4,7/8,-,7/8 AC,-,-,-,-,"Cloudy, dust"
+SAGHEZ,24/12/2017,09Z,15.3,21%,1008.8 Hpa,250º (W ),28.8,7/8,-,5/8 AC,CI,-,-,-,"Cloudy, dust"
+SAGHEZ,24/12/2017,06Z,14.7,23%,1010.2 Hpa,240º (SW),32.4,4/8,-,1/8 AC,CI,-,-,-,"Scattered clouds, dust"
+SAGHEZ,24/12/2017,03Z,12.8,25%,1011.6 Hpa,250º (W ),25.2,0/8,-,-,-,-,-,7.4,Clear
+SAGHEZ,24/12/2017,00Z,12.4,26%,1010.9 Hpa,240º (SW),18.0,0/8,-,-,-,-,-,-,Clear
+SANANDAJ,24/12/2017,21Z,13.0,21%,1009.7 Hpa,170º (S ),10.8,8/8,-,5/8 AC,CI,-,-,-,Overcast
+SANANDAJ,24/12/2017,18Z,13.8,19%,1009.3 Hpa,180º (S ),21.6,7/8,1/8 SC,AC,CI,-,-,-,Cloudy
+SANANDAJ,24/12/2017,15Z,14.8,20%,1010.0 Hpa,190º (S ),18.0,7/8,1/8 SC,AC,CI,-,17.4,-,Cloudy
+SANANDAJ,24/12/2017,12Z,16.5,17%,1010.4 Hpa,190º (S ),21.6,8/8,2/8 SC,AC,CI,-,-,-,Overcast
+SANANDAJ,24/12/2017,09Z,17.0,17%,1011.3 Hpa,180º (S ),25.2,7/8,1/8 SC,AC,CI,-,-,-,Cloudy
+SANANDAJ,24/12/2017,06Z,14.8,17%,1012.7 Hpa,170º (S ),28.8,7/8,-,1/8 AC,CI,-,-,-,Cloudy
+SANANDAJ,24/12/2017,03Z,12.2,23%,1013.4 Hpa,190º (S ),21.6,4/8,-,-,CI,-,-,9.0,Scattered clouds
+SANANDAJ,24/12/2017,00Z,11.2,25%,1012.7 Hpa,200º (S ),10.8,0/8,-,-,-,-,-,-,Clear
+SARAB,24/12/2017,21Z,6.2,67%,1008.6 Hpa,270º (W ),50.4,8/8,5/8 CB,AC,,-,-,-,"Overcast, rain showers"
+SARAB,24/12/2017,18Z,6.6,58%,1009.5 Hpa,330º (NW),14.4,8/8,4/8 CB,AC,,-,-,-,Overcast
+SARAB,24/12/2017,15Z,10.4,36%,1007.6 Hpa,260º (W ),21.6,8/8,4/8 CB,AC,,-,11.8,-,"Overcast, dust"
+SARAB,24/12/2017,12Z,11.4,22%,1006.8 Hpa,270º (W ),28.8,8/8,4/8 CB,AC,,-,-,-,"Overcast, dust"
+SARAB,24/12/2017,09Z,11.8,17%,1008.5 Hpa,270º (W ),36.0,8/8,4/8 CB,AC,,-,-,-,"Overcast, dust"
+SARAB,24/12/2017,06Z,9.4,26%,1008.9 Hpa,260º (W ),18.0,8/8,3/8 SC,AC,,-,-,-,"Overcast, dust"
+SARAB,24/12/2017,03Z,10.2,22%,1008.5 Hpa,280º (W ),82.8,7/8,2/8 SC,AC,-,-,-,9.0,Cloudy
+SARAB,24/12/2017,00Z,10.0,26%,1009.8 Hpa,220º (SW),36.0,7/8,2/8 SC,AC,-,-,-,-,Cloudy
+SARAKHS,24/12/2017,21Z,19.4,25%,1006.9 Hpa,180º (S ),25.2,0/8,-,-,-,-,-,-,Clear
+SARAKHS,24/12/2017,18Z,22.4,21%,1006.6 Hpa,210º (SW),36.0,3/8,-,-,CI,-,-,-,"Scattered clouds, dust"
+SARAKHS,24/12/2017,15Z,20.9,28%,1007.0 Hpa,210º (SW),39.6,8/8,1/8 SC,-,CS,-,26.4,-,"Overcast, dust"
+SARAKHS,24/12/2017,12Z,24.2,23%,1006.7 Hpa,210º (SW),36.0,8/8,2/8 SC,-,CS,-,-,-,"Overcast, dust"
+SARAKHS,24/12/2017,09Z,25.7,24%,1007.9 Hpa,230º (SW),43.2,6/8,-,-,CI,-,-,-,"Cloudy, dust"
+SARAKHS,24/12/2017,06Z,21.3,32%,1009.9 Hpa,180º (S ),36.0,6/8,-,-,CI,-,-,-,"Cloudy, dust"
+SARAKHS,24/12/2017,03Z,14.7,46%,1011.0 Hpa,190º (S ),14.4,0/8,-,-,-,-,-,8.6,Clear
+SARAKHS,24/12/2017,00Z,13.8,48%,1012.5 Hpa,180º (S ),18.0,0/8,-,-,-,-,-,-,Clear
+SARAVAN,24/12/2017,21Z,9.3,35%,1019.4 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SARAVAN,24/12/2017,18Z,14.2,28%,1020.5 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SARAVAN,24/12/2017,15Z,19.2,22%,1020.8 Hpa,050º (NE),10.8,2/8,-,-,CI,-,25.2,-,Few clouds
+SARAVAN,24/12/2017,12Z,24.5,16%,1017.2 Hpa,calm.,,5/8,-,-,CI,-,-,-,Cloudy
+SARAVAN,24/12/2017,09Z,24.0,17%,1017.7 Hpa,200º (S ),10.8,5/8,-,-,CI,-,-,-,Cloudy
+SARAVAN,24/12/2017,06Z,16.7,30%,1021.9 Hpa,300º (NW),10.8,0/8,-,-,-,-,-,-,Clear
+SARAVAN,24/12/2017,03Z,5.4,53%,1021.8 Hpa,350º (N ),7.2,0/8,-,-,-,-,-,5.3,Clear
+SARAVAN,24/12/2017,00Z,6.8,50%,1018.9 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SEMNAN,24/12/2017,21Z,7.0,37%,1012.9 Hpa,040º (NE),3.6,0/8,-,-,-,-,-,-,Clear
+SEMNAN,24/12/2017,18Z,11.4,31%,1013.5 Hpa,330º (NW),7.2,0/8,-,-,-,-,-,-,Clear
+SEMNAN,24/12/2017,15Z,12.5,34%,1014.3 Hpa,calm.,,7/8,2/8 SC,AC,-,-,17.6,-,Cloudy
+SEMNAN,24/12/2017,12Z,17.0,30%,1012.9 Hpa,calm.,,7/8,2/8 SC,-,CI,-,-,-,Cloudy
+SEMNAN,24/12/2017,09Z,15.5,34%,1014.7 Hpa,120º (SE),7.2,7/8,3/8 SC,-,CI,-,-,-,Cloudy
+SEMNAN,24/12/2017,06Z,10.6,47%,1017.1 Hpa,calm.,,7/8,3/8 SC,AC,-,-,-,-,Cloudy
+SEMNAN,24/12/2017,03Z,7.8,53%,1016.3 Hpa,340º (N ),7.2,7/8,3/8 SC,AC,-,-,-,7.2,Cloudy
+SEMNAN,24/12/2017,00Z,7.4,53%,1017.3 Hpa,calm.,,4/8,1/8 SC,AC,-,-,-,-,Scattered clouds
+SHAHRE-KORD,24/12/2017,21Z,13.1,5%,1009.6 Hpa,240º (SW),25.2,1/8,-,-,CI,-,-,-,Few clouds
+SHAHRE-KORD,24/12/2017,18Z,5.5,15%,1016.5 Hpa,060º (NE),10.8,1/8,-,-,CI,-,-,-,Few clouds
+SHAHRE-KORD,24/12/2017,15Z,13.0,9%,1014.2 Hpa,200º (S ),14.4,3/8,-,-,CI,-,19.6,-,Scattered clouds
+SHAHRE-KORD,24/12/2017,12Z,19.2,8%,1011.4 Hpa,230º (SW),21.6,3/8,1/8 SC,-,CI,-,-,-,Scattered clouds
+SHAHRE-KORD,24/12/2017,09Z,17.8,11%,1012.6 Hpa,210º (SW),25.2,5/8,1/8 SC,-,CI,-,-,-,Cloudy
+SHAHRE-KORD,24/12/2017,06Z,12.0,20%,1019.4 Hpa,140º (SE),10.8,5/8,2/8 SC,AC,-,-,-,-,Cloudy
+SHAHRE-KORD,24/12/2017,03Z,11.1,18%,1017.0 Hpa,180º (S ),14.4,2/8,2/8 SC,-,-,-,-,3.5,Few clouds
+SHAHRE-KORD,24/12/2017,00Z,8.9,20%,1016.0 Hpa,210º (SW),18.0,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+SHAHRUD,24/12/2017,21Z,8.4,41%,1011.2 Hpa,300º (NW),7.2,7/8,4/8 SC,-,CI,-,-,-,Cloudy
+SHAHRUD,24/12/2017,18Z,8.4,46%,1013.2 Hpa,calm.,,8/8,2/8 SC,-,CI,-,-,-,Overcast
+SHAHRUD,24/12/2017,15Z,9.6,44%,1013.6 Hpa,290º (W ),10.8,8/8,4/8 SC,-,CS,-,10.8,-,Overcast
+SHAHRUD,24/12/2017,12Z,10.0,47%,1012.9 Hpa,210º (SW),14.4,8/8,5/8 SC,-,CS,-,-,-,Overcast
+SHAHRUD,24/12/2017,09Z,10.2,47%,1014.1 Hpa,calm.,,7/8,4/8 SC,-,CI,-,-,-,Cloudy
+SHAHRUD,24/12/2017,06Z,7.2,50%,1016.8 Hpa,060º (NE),7.2,7/8,4/8 SC,-,CI,-,-,-,Cloudy
+SHAHRUD,24/12/2017,03Z,4.6,61%,1016.9 Hpa,calm.,,7/8,2/8 SC,-,CI,-,-,4.6,Cloudy
+SHAHRUD,24/12/2017,00Z,5.2,57%,1015.5 Hpa,calm.,,7/8,1/8 SC,-,CI,-,-,-,Cloudy
+SHIRAZ,24/12/2017,21Z,6.8,50%,1019.1 Hpa,calm.,,2/8,-,-,CI,-,-,-,Few clouds
+SHIRAZ,24/12/2017,18Z,8.2,50%,1020.6 Hpa,calm.,,2/8,-,-,CI,-,-,-,Few clouds
+SHIRAZ,24/12/2017,15Z,13.4,36%,1020.1 Hpa,calm.,,4/8,-,-,CI,-,21.2,-,Scattered clouds
+SHIRAZ,24/12/2017,12Z,20.4,16%,1016.3 Hpa,090º (E ),7.2,7/8,-,-,CI,-,-,-,"Cloudy, haze"
+SHIRAZ,24/12/2017,09Z,17.2,31%,1018.8 Hpa,110º (E ),7.2,6/8,-,-,CI,-,-,-,Cloudy
+SHIRAZ,24/12/2017,06Z,12.2,51%,1022.5 Hpa,calm.,,6/8,-,-,CI,-,-,-,Cloudy
+SHIRAZ,24/12/2017,03Z,5.4,78%,1022.1 Hpa,calm.,,4/8,-,-,CI,-,-,4.2,Scattered clouds
+SHIRAZ,24/12/2017,00Z,6.8,70%,1018.7 Hpa,calm.,,6/8,-,-,CI,-,-,-,Cloudy
+SIRI ISLAND,24/12/2017,15Z,24.4,65%,1015.8 Hpa,290º (W ),14.4,0/8,-,-,-,-,26.4,-,"Clear, haze"
+SIRI ISLAND,24/12/2017,12Z,26.0,127%,1014.7 Hpa,280º (W ),36.0,0/8,-,-,-,-,-,-,"Clear, haze"
+SIRI ISLAND,24/12/2017,09Z,26.0,69%,1016.0 Hpa,270º (W ),25.2,2/8,-,-,CI,-,-,-,"Few clouds, haze"
+SIRI ISLAND,24/12/2017,06Z,24.8,135%,1018.5 Hpa,260º (W ),18.0,2/8,2/8 ST,-,-,-,-,-,"Few clouds, haze"
+SIRI ISLAND,24/12/2017,03Z,22.4,82%,1017.0 Hpa,290º (W ),7.2,0/8,-,-,-,-,-,21.8,"Clear, mist"
+SIRJAN,24/12/2017,21Z,4.3,43%,1018.2 Hpa,100º (E ),7.2,0/8,-,-,-,-,-,-,Clear
+SIRJAN,24/12/2017,18Z,7.2,37%,1019.6 Hpa,090º (E ),7.2,3/8,1/8 SC,-,CI,-,-,-,Scattered clouds
+SIRJAN,24/12/2017,15Z,11.6,32%,1020.2 Hpa,calm.,,5/8,2/8 SC,AC,CI,-,22.2,-,Cloudy
+SIRJAN,24/12/2017,12Z,21.8,14%,1015.4 Hpa,calm.,,7/8,3/8 SC,AC,CI,-,-,-,Cloudy
+SIRJAN,24/12/2017,09Z,19.0,23%,1017.3 Hpa,calm.,,7/8,3/8 SC,AC,CI,-,-,-,Cloudy
+SIRJAN,24/12/2017,06Z,13.6,34%,1020.6 Hpa,calm.,,5/8,-,-,CI,-,-,-,Cloudy
+SIRJAN,24/12/2017,03Z,3.3,60%,1022.7 Hpa,calm.,,0/8,-,-,-,-,-,3.1,Clear
+SIRJAN,24/12/2017,00Z,4.2,57%,1019.2 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+TABAS,24/12/2017,21Z,10.8,36%,1013.7 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+TABAS,24/12/2017,18Z,12.0,37%,1015.0 Hpa,calm.,,3/8,1/8 SC,AC,-,-,-,-,Scattered clouds
+TABAS,24/12/2017,15Z,14.4,31%,1015.5 Hpa,calm.,,7/8,2/8 SC,AC,-,-,18.1,-,Cloudy
+TABAS,24/12/2017,12Z,17.1,27%,1014.4 Hpa,calm.,,8/8,3/8 SC,AC,,-,-,-,Overcast
+TABAS,24/12/2017,09Z,16.9,28%,1015.4 Hpa,280º (W ),7.2,7/8,2/8 SC,AC,CI,-,-,-,Cloudy
+TABAS,24/12/2017,06Z,14.8,34%,1018.1 Hpa,calm.,,6/8,1/8 SC,AC,CI,-,-,-,Cloudy
+TABAS,24/12/2017,03Z,10.1,43%,1016.9 Hpa,calm.,,4/8,2/8 SC,AC,-,-,-,10.1,Scattered clouds
+TABAS,24/12/2017,00Z,10.3,41%,1015.9 Hpa,calm.,,3/8,-,-,CI,-,-,-,Scattered clouds
+TABRIZ,24/12/2017,21Z,6.4,80%,1010.0 Hpa,280º (W ),21.6,7/8,3/8 ST,AC,-,-,-,-,"Cloudy, mist"
+TABRIZ,24/12/2017,18Z,6.6,78%,1011.4 Hpa,200º (S ),7.2,8/8,3/8 ST,AC,,4.0(6h),-,-,"Overcast, rain"
+TABRIZ,24/12/2017,15Z,8.0,69%,1011.1 Hpa,270º (W ),18.0,8/8,4/8 CB,AC,,-,13.8,-,"Overcast, rain showers"
+TABRIZ,24/12/2017,12Z,12.2,39%,1007.2 Hpa,270º (W ),43.2,7/8,2/8 CB,AC,CI,-,-,-,"Cloudy, dust"
+TABRIZ,24/12/2017,09Z,13.8,28%,1007.3 Hpa,230º (SW),61.2,8/8,1/8 SC,AC,CS,-,-,-,"Overcast, dust"
+TABRIZ,24/12/2017,06Z,8.6,46%,1009.6 Hpa,350º (N ),25.2,7/8,1/8 SC,AC,CI,-,-,-,Cloudy
+TABRIZ,24/12/2017,03Z,10.4,35%,1008.5 Hpa,270º (W ),21.6,6/8,1/8 SC,-,CI,-,-,7.0,Cloudy
+TABRIZ,24/12/2017,00Z,8.6,49%,1011.0 Hpa,350º (N ),10.8,6/8,1/8 SC,AC,CI,-,-,-,Cloudy
+TEHRAN-MEHRABAD,24/12/2017,21Z,15.2,36%,1007.7 Hpa,calm.,,7/8,2/8 SC,AC,-,-,-,-,"Cloudy, haze"
+TEHRAN-MEHRABAD,24/12/2017,18Z,13.9,39%,1010.4 Hpa,calm.,,7/8,-,3/8 AC,CI,-,-,-,"Cloudy, haze"
+TEHRAN-MEHRABAD,24/12/2017,15Z,14.5,34%,1011.5 Hpa,calm.,,7/8,-,2/8 AC,CI,-,20.0,-,"Cloudy, haze"
+TEHRAN-MEHRABAD,24/12/2017,12Z,19.6,18%,1009.7 Hpa,150º (SE),10.8,7/8,1/8 SC,-,CI,-,-,-,Cloudy
+TEHRAN-MEHRABAD,24/12/2017,09Z,18.5,27%,1011.0 Hpa,170º (S ),10.8,7/8,1/8 SC,AC,CI,-,-,-,"Cloudy, haze"
+TEHRAN-MEHRABAD,24/12/2017,06Z,15.3,31%,1014.2 Hpa,calm.,,6/8,-,2/8 AC,CS,-,-,-,Cloudy
+TEHRAN-MEHRABAD,24/12/2017,03Z,10.4,41%,1014.1 Hpa,330º (NW),7.2,5/8,-,2/8 AC,CI,-,-,9.5,Cloudy
+TEHRAN-MEHRABAD,24/12/2017,00Z,10.4,45%,1013.7 Hpa,calm.,,4/8,-,3/8 AC,CI,-,-,-,Scattered clouds
+TORBAT-HEYDARIEH,24/12/2017,21Z,5.1,57%,1014.5 Hpa,calm.,,7/8,-,-,CI,-,-,-,Cloudy
+TORBAT-HEYDARIEH,24/12/2017,18Z,6.1,55%,1016.6 Hpa,310º (NW),7.2,7/8,-,-,CI,-,-,-,Cloudy
+TORBAT-HEYDARIEH,24/12/2017,15Z,8.0,49%,1017.8 Hpa,320º (NW),7.2,7/8,-,-,CI,-,14.7,-,Cloudy
+TORBAT-HEYDARIEH,24/12/2017,12Z,13.2,39%,1014.9 Hpa,150º (SE),10.8,7/8,-,5/8 AC,CI,-,-,-,Cloudy
+TORBAT-HEYDARIEH,24/12/2017,09Z,13.8,41%,1016.2 Hpa,150º (SE),10.8,7/8,-,-,CI,-,-,-,Cloudy
+TORBAT-HEYDARIEH,24/12/2017,06Z,8.9,55%,1018.9 Hpa,310º (NW),7.2,6/8,-,-,CI,-,-,-,Cloudy
+TORBAT-HEYDARIEH,24/12/2017,03Z,1.6,73%,1019.0 Hpa,310º (NW),10.8,4/8,-,-,CI,-,-,1.4,Scattered clouds
+TORBAT-HEYDARIEH,24/12/2017,00Z,3.5,67%,1016.3 Hpa,290º (W ),7.2,0/8,-,-,-,-,-,-,Clear
+YASOGE,24/12/2017,21Z,8.2,25%,1018.2 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+YASOGE,24/12/2017,18Z,9.0,25%,1022.7 Hpa,090º (E ),10.8,0/8,-,-,-,-,-,-,Clear
+YASOGE,24/12/2017,15Z,12.6,18%,1022.1 Hpa,080º (E ),14.4,0/8,-,-,-,-,21.6,-,Clear
+YASOGE,24/12/2017,12Z,20.6,5%,1016.5 Hpa,200º (S ),18.0,2/8,-,-,CI,-,-,-,Few clouds
+YASOGE,24/12/2017,09Z,17.2,15%,1020.0 Hpa,240º (SW),7.2,4/8,-,-,CI,-,-,-,Scattered clouds
+YASOGE,24/12/2017,06Z,6.0,52%,1025.1 Hpa,calm.,,6/8,-,3/8 AC,CI,-,-,-,Cloudy
+YASOGE,24/12/2017,03Z,2.6,58%,1024.6 Hpa,calm.,,2/8,-,-,CI,-,-,2.6,Few clouds
+YASOGE,24/12/2017,00Z,4.0,59%,1021.4 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+YAZD,24/12/2017,21Z,16.5,11%,1011.8 Hpa,140º (SE),10.8,5/8,-,-,CS,-,-,-,Cloudy
+YAZD,24/12/2017,18Z,18.3,9%,1013.8 Hpa,120º (SE),10.8,6/8,-,1/8 AC,CS,-,-,-,Cloudy
+YAZD,24/12/2017,15Z,18.8,13%,1013.9 Hpa,100º (E ),3.6,6/8,-,2/8 AC,CS,-,24.3,-,Cloudy
+YAZD,24/12/2017,12Z,23.5,7%,1011.6 Hpa,140º (SE),7.2,8/8,-,6/8 AC,CS,-,-,-,Overcast
+YAZD,24/12/2017,09Z,23.2,8%,1013.6 Hpa,130º (SE),14.4,7/8,-,2/8 AC,CS,-,-,-,Cloudy
+YAZD,24/12/2017,06Z,15.0,18%,1018.1 Hpa,130º (SE),14.4,7/8,-,3/8 AC,CS,-,-,-,Cloudy
+YAZD,24/12/2017,03Z,12.2,23%,1016.7 Hpa,140º (SE),10.8,6/8,-,-,CI,-,-,10.5,Cloudy
+YAZD,24/12/2017,00Z,12.6,26%,1014.8 Hpa,120º (SE),7.2,5/8,-,-,CI,-,-,-,Cloudy
+ZABOL,24/12/2017,21Z,8.3,50%,1016.8 Hpa,040º (NE),10.8,0/8,-,-,-,-,-,-,Clear
+ZABOL,24/12/2017,18Z,10.5,47%,1017.6 Hpa,360º (N ),7.2,2/8,-,-,CI,-,-,-,Few clouds
+ZABOL,24/12/2017,15Z,14.7,40%,1017.9 Hpa,340º (N ),7.2,4/8,-,1/8 AC,CS,-,24.8,-,Scattered clouds
+ZABOL,24/12/2017,09Z,21.9,22%,1015.7 Hpa,110º (E ),7.2,3/8,-,1/8 AC,CI,-,-,-,Scattered clouds
+ZABOL,24/12/2017,06Z,16.9,28%,1018.2 Hpa,120º (SE),7.2,3/8,-,-,CI,-,-,-,Scattered clouds
+ZABOL,24/12/2017,03Z,4.2,54%,1019.3 Hpa,040º (NE),7.2,3/8,-,-,CI,-,-,4.1,Scattered clouds
+ZABOL,24/12/2017,00Z,7.1,49%,1017.1 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+ZAHEDAN,24/12/2017,21Z,7.8,33%,1016.5 Hpa,250º (W ),10.8,5/8,-,-,CI,-,-,-,Cloudy
+ZAHEDAN,24/12/2017,18Z,12.8,33%,1017.2 Hpa,200º (S ),10.8,5/8,-,-,CI,-,-,-,Cloudy
+ZAHEDAN,24/12/2017,15Z,17.7,25%,1019.7 Hpa,120º (SE),25.2,5/8,-,-,CS,-,25.3,-,Cloudy
+ZAHEDAN,24/12/2017,12Z,23.2,12%,1015.5 Hpa,050º (NE),7.2,7/8,-,1/8 AC,CI,-,-,-,Cloudy
+ZAHEDAN,24/12/2017,09Z,23.8,14%,1015.3 Hpa,050º (NE),14.4,6/8,-,-,CI,-,-,-,Cloudy
+ZAHEDAN,24/12/2017,06Z,17.9,24%,1018.9 Hpa,090º (E ),7.2,3/8,-,-,CI,-,-,-,Scattered clouds
+ZAHEDAN,24/12/2017,03Z,2.3,45%,1020.9 Hpa,230º (SW),7.2,1/8,-,-,CI,-,-,2.1,Few clouds
+ZAHEDAN,24/12/2017,00Z,4.4,46%,1017.0 Hpa,170º (S ),7.2,0/8,-,-,-,-,-,-,Clear
+ZANJAN,24/12/2017,21Z,13.4,27%,1004.2 Hpa,220º (SW),21.6,8/8,4/8 CB,AC,CS,-,-,-,Overcast
+ZANJAN,24/12/2017,18Z,13.5,28%,1007.6 Hpa,210º (SW),10.8,8/8,2/8 SC,AC,CI,-,-,-,Overcast
+ZANJAN,24/12/2017,15Z,14.4,26%,1006.3 Hpa,220º (SW),21.6,7/8,5/8 CB,AC,CI,-,17.9,-,Cloudy
+ZANJAN,24/12/2017,12Z,17.0,22%,1004.1 Hpa,210º (SW),21.6,7/8,3/8 SC,AC,CI,-,-,-,Cloudy
+ZANJAN,24/12/2017,09Z,16.8,25%,1008.3 Hpa,220º (SW),10.8,7/8,3/8 SC,AC,CI,-,-,-,Cloudy
+ZANJAN,24/12/2017,06Z,12.1,30%,1012.1 Hpa,120º (SE),7.2,7/8,3/8 SC,AC,CI,-,-,-,Cloudy
+ZANJAN,24/12/2017,03Z,10.8,32%,1012.3 Hpa,140º (SE),14.4,5/8,-,-,CI,-,-,8.4,Cloudy
+ZANJAN,24/12/2017,00Z,10.5,36%,1012.0 Hpa,140º (SE),7.2,6/8,-,-,CI,-,-,-,Cloudy

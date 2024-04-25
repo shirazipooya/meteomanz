@@ -1,0 +1,616 @@
+Station ∆,Date,UTC time,Temp. (ºC),Rel. Hum. (%),Pressure/ Geopot.,Wind dir,Wins speed (Km/h),Clouds,Low clouds,Medium clouds,High clouds,Prec. (mm),Max temp. (ºC),Min temp. (ºC),Conditions
+ABADAN,11/02/2012,21Z,12.4,58%,1021.6 Hpa,290º (W ),14.4,0/8,-,-,-,-,-,-,Clear
+ABADAN,11/02/2012,18Z,14.8,45%,1021.4 Hpa,310º (NW),10.8,0/8,-,-,-,-,-,-,Clear
+ABADAN,11/02/2012,15Z,19.0,27%,1019.9 Hpa,330º (NW),25.2,1/8,-,-,CI,-,22.2,-,Few clouds
+ABADAN,11/02/2012,12Z,21.2,23%,1018.8 Hpa,330º (NW),36.0,6/8,-,-,CI,-,-,-,Cloudy
+ABADAN,11/02/2012,09Z,20.2,23%,1020.0 Hpa,320º (NW),39.6,3/8,-,2/8 AC,CI,-,-,-,Scattered clouds
+ABADAN,11/02/2012,06Z,12.4,67%,1020.1 Hpa,270º (W ),10.8,5/8,3/8 SC,-,CI,-,-,-,"Cloudy, haze"
+ABADAN,11/02/2012,03Z,12.6,58%,1018.2 Hpa,290º (W ),14.4,8/8,2/8 CB,AC,,-,-,12.6,Overcast
+ABADAN,11/02/2012,00Z,13.2,59%,1017.4 Hpa,300º (NW),10.8,7/8,2/8 SC,AC,-,-,-,-,"Cloudy, haze"
+ABADEH,11/02/2012,21Z,0.0,59%,1015.1 Hpa,320º (NW),7.2,0/8,-,-,-,-,-,-,Clear
+ABADEH,11/02/2012,18Z,3.6,48%,1014.1 Hpa,340º (N ),7.2,0/8,-,-,-,-,-,-,Clear
+ABADEH,11/02/2012,15Z,8.6,21%,1011.2 Hpa,290º (W ),21.6,2/8,-,-,CI,-,12.8,-,Few clouds
+ABADEH,11/02/2012,12Z,12.2,15%,1008.0 Hpa,280º (W ),28.8,3/8,-,-,CI,-,-,-,Scattered clouds
+ABADEH,11/02/2012,09Z,11.4,11%,1009.1 Hpa,240º (SW),32.4,2/8,-,-,CI,-,-,-,Few clouds
+ABADEH,11/02/2012,06Z,9.2,29%,1010.6 Hpa,230º (SW),32.4,3/8,-,-,CI,-,-,-,Scattered clouds
+ABADEH,11/02/2012,03Z,6.6,47%,1009.2 Hpa,250º (W ),18.0,2/8,-,-,CI,-,-,6.4,Few clouds
+ABADEH,11/02/2012,00Z,8.4,41%,1008.5 Hpa,200º (S ),10.8,2/8,-,-,CI,-,-,-,Few clouds
+ABU MUSA,11/02/2012,15Z,22.0,69%,1012.9 Hpa,240º (SW),7.2,2/8,-,-,CC,-,25.0,-,"Few clouds, haze"
+ABU MUSA,11/02/2012,12Z,24.0,142%,1012.9 Hpa,240º (SW),10.8,0/8,-,-,-,-,-,-,"Clear, haze"
+ABU MUSA,11/02/2012,09Z,24.6,52%,1014.7 Hpa,calm.,,1/8,-,-,CI,-,-,-,"Few clouds, haze"
+ABU MUSA,11/02/2012,06Z,22.6,270%,1014.9 Hpa,180º (S ),18.0,0/8,-,-,-,-,-,-,"Clear, haze"
+ABU MUSA,11/02/2012,03Z,19.0,66%,1013.4 Hpa,calm.,,2/8,-,-,CI,-,-,17.0,"Few clouds, haze"
+AHAR,11/02/2012,21Z,-4.2,74%,1030.9 Hpa,calm.,,6/8,7/8 ST,-,-,-,-,-,Cloudy
+AHAR,11/02/2012,18Z,-4.2,69%,1030.8 Hpa,120º (SE),7.2,6/8,6/8 ST,-,-,-,-,-,Cloudy
+AHAR,11/02/2012,15Z,-4.0,66%,1030.7 Hpa,120º (SE),7.2,4/8,4/8 CB,-,-,-,-2.4,-,Scattered clouds
+AHAR,11/02/2012,12Z,-3.2,61%,1029.4 Hpa,110º (E ),7.2,7/8,7/8 CB,-,-,-,-,-,"Cloudy, distant precipitation"
+AHAR,11/02/2012,09Z,-4.4,62%,1030.0 Hpa,080º (E ),14.4,3/8,3/8 CU,-,-,-,-,-,Scattered clouds
+AHAR,11/02/2012,06Z,-5.2,83%,1029.2 Hpa,100º (E ),7.2,3/8,1/8 ST,AC,-,1.0(24h),-,-,Scattered clouds
+AHAR,11/02/2012,03Z,-6.2,89%,1023.5 Hpa,140º (SE),14.4,6/8,2/8 ST,AC,-,-,-,-8.6,Cloudy
+AHAR,11/02/2012,00Z,-6.0,96%,1021.9 Hpa,120º (SE),7.2,6/8,2/8 ST,AC,-,1.0(6h),-,-,Cloudy
+AHWAZ,11/02/2012,21Z,13.0,46%,1019.8 Hpa,280º (W ),21.6,0/8,-,-,-,-,-,-,Clear
+AHWAZ,11/02/2012,18Z,15.0,40%,1019.8 Hpa,290º (W ),25.2,0/8,-,-,-,-,-,-,Clear
+AHWAZ,11/02/2012,15Z,18.2,53%,1018.3 Hpa,290º (W ),28.8,0/8,-,-,-,-,21.4,-,Clear
+AHWAZ,11/02/2012,12Z,21.2,31%,1017.1 Hpa,330º (NW),14.4,0/8,-,-,-,-,-,-,Clear
+AHWAZ,11/02/2012,09Z,18.4,46%,1018.9 Hpa,320º (NW),10.8,4/8,-,-,CI,-,-,-,"Scattered clouds, haze"
+AHWAZ,11/02/2012,06Z,11.0,67%,1018.5 Hpa,270º (W ),14.4,5/8,-,5/8 AC,-,-,-,-,"Cloudy, haze"
+AHWAZ,11/02/2012,03Z,11.6,66%,1016.6 Hpa,290º (W ),10.8,6/8,4/8 SC,AC,-,-,-,11.4,"Cloudy, haze"
+AHWAZ,11/02/2012,00Z,12.4,67%,1015.7 Hpa,300º (NW),14.4,2/8,-,-,CI,-,-,-,"Few clouds, haze"
+ALI-GOODARZ,11/02/2012,21Z,-3.6,60%,1021.7 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+ALI-GOODARZ,11/02/2012,18Z,-2.0,50%,1022.2 Hpa,040º (NE),7.2,0/8,-,-,-,-,-,-,Clear
+ALI-GOODARZ,11/02/2012,15Z,2.0,40%,1019.6 Hpa,300º (NW),14.4,1/8,1/8 SC,-,-,-,5.2,-,Few clouds
+ALI-GOODARZ,11/02/2012,12Z,5.0,37%,1015.5 Hpa,280º (W ),21.6,4/8,4/8 CU/SC,-,-,-,-,-,Scattered clouds
+ALI-GOODARZ,11/02/2012,09Z,4.4,42%,1015.1 Hpa,250º (W ),18.0,4/8,4/8 CU/SC,-,-,-,-,-,Scattered clouds
+ALI-GOODARZ,11/02/2012,06Z,0.6,60%,1016.2 Hpa,310º (NW),18.0,7/8,3/8 SC,AC,CI,-,-,-,Cloudy
+ALI-GOODARZ,11/02/2012,03Z,-0.2,72%,1014.3 Hpa,300º (NW),18.0,2/8,-,-,CI,-,-,-0.4,Few clouds
+ALI-GOODARZ,11/02/2012,00Z,2.4,56%,1010.7 Hpa,310º (NW),14.4,7/8,2/8 SC,-,CI,-,-,-,Cloudy
+ANZALI,11/02/2012,21Z,2.4,89%,1034.9 Hpa,320º (NW),25.2,8/8,6/8 SC,AC,,-,-,-,"Overcast, rain"
+ANZALI,11/02/2012,18Z,3.0,93%,1034.6 Hpa,330º (NW),28.8,8/8,6/8 SC,AC,,Tr(6h),-,-,"Overcast, rain"
+ANZALI,11/02/2012,15Z,3.0,93%,1034.2 Hpa,360º (N ),18.0,2/8,2/8 CU,-,-,-,4.6,-,Few clouds
+ANZALI,11/02/2012,12Z,4.2,525%,1032.9 Hpa,330º (NW),25.2,3/8,1/8 CU,AC,-,0.2(6h),-,-,Scattered clouds
+ANZALI,11/02/2012,09Z,3.4,86%,1032.3 Hpa,300º (NW),7.2,6/8,3/8 SC,AC,-,-,-,-,Cloudy
+ANZALI,11/02/2012,06Z,1.8,341%,1031.0 Hpa,300º (NW),7.2,8/8,4/8 ST,AC,,0.2(6h),-,-,"Overcast, snow"
+ANZALI,11/02/2012,03Z,1.4,95%,1028.2 Hpa,300º (NW),25.2,8/8,5/8 ST,AC,,-,-,1.0,"Overcast, snow"
+ANZALI,11/02/2012,00Z,1.8,96%,1025.9 Hpa,330º (NW),25.2,8/8,5/8 SC,AC,,1.0(6h),-,-,"Overcast, rain"
+ARAK,11/02/2012,21Z,-2.4,59%,1022.9 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+ARAK,11/02/2012,18Z,-0.4,47%,1022.8 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+ARAK,11/02/2012,15Z,3.2,37%,1020.9 Hpa,320º (NW),14.4,1/8,1/8 SC,-,-,-,8.4,-,Few clouds
+ARAK,11/02/2012,12Z,7.0,23%,1017.3 Hpa,300º (NW),18.0,2/8,2/8 CU,-,-,-,-,-,Few clouds
+ARAK,11/02/2012,09Z,6.2,28%,1016.1 Hpa,280º (W ),21.6,1/8,1/8 CU,-,-,-,-,-,Few clouds
+ARAK,11/02/2012,06Z,3.6,44%,1016.6 Hpa,310º (NW),7.2,1/8,1/8 CU,-,-,-,-,-,Few clouds
+ARAK,11/02/2012,03Z,-0.4,71%,1015.6 Hpa,calm.,,3/8,3/8 SC,-,-,-,-,-1.0,Scattered clouds
+ARAK,11/02/2012,00Z,1.4,86%,1012.1 Hpa,310º (NW),14.4,2/8,2/8 SC,-,-,-,-,-,Few clouds
+ARDEBIL,11/02/2012,21Z,-8.0,100%,1032.0 Hpa,calm.,,5/8,5/8 ST,-,-,-,-,-,Cloudy
+ARDEBIL,11/02/2012,18Z,-8.6,100%,1031.9 Hpa,calm.,,5/8,5/8 ST,-,-,-,-,-,"Cloudy, mist"
+ARDEBIL,11/02/2012,15Z,-7.6,98%,1031.2 Hpa,calm.,,5/8,4/8 ST,AC,-,-,-2.0,-,"Cloudy, mist"
+ARDEBIL,11/02/2012,12Z,-2.8,72%,1028.0 Hpa,060º (NE),21.6,6/8,6/8 CB,-,-,Tr(6h),-,-,"Cloudy, haze"
+ARDEBIL,11/02/2012,09Z,-2.4,79%,1028.4 Hpa,070º (E ),14.4,6/8,6/8 CB,-,-,-,-,-,"Cloudy, mist"
+ARDEBIL,11/02/2012,06Z,-3.6,67%,1027.6 Hpa,340º (N ),10.8,6/8,3/8 ST,-,CI,Tr(6h),-,-,"Cloudy, haze"
+ARDEBIL,11/02/2012,03Z,-4.6,97%,1022.9 Hpa,360º (N ),10.8,8/8,6/8 ST,AC,,-,-,-6.4,"Overcast, diamond dust"
+ARDEBIL,11/02/2012,00Z,-3.8,98%,1018.2 Hpa,030º (NE),14.4,8/8,6/8 ST,AC,,0.4(6h),-,-,"Overcast, snow"
+BABULSAR,11/02/2012,21Z,3.4,93%,1033.0 Hpa,calm.,,8/8,4/8 ST,AC,,-,-,-,"Overcast, rain"
+BABULSAR,11/02/2012,18Z,3.8,89%,1032.9 Hpa,320º (NW),7.2,8/8,6/8 CB,AC,,7.0(6h),-,-,"Overcast, rain"
+BABULSAR,11/02/2012,15Z,4.4,93%,1031.9 Hpa,280º (W ),18.0,8/8,6/8 CB,AC,,-,7.4,-,"Overcast, rain"
+BABULSAR,11/02/2012,12Z,6.0,75%,1030.4 Hpa,270º (W ),18.0,8/8,6/8 ST,AC,,2.0(6h),-,-,"Overcast, rain"
+BABULSAR,11/02/2012,09Z,5.4,,1029.3 Hpa,310º (NW),14.4,8/8,7/8 ST,AC,,-,-,-,"Overcast, rain"
+BABULSAR,11/02/2012,06Z,5.4,86%,1027.8 Hpa,290º (W ),25.2,8/8,7/8 ST,AC,,5.0(6h),-,-,"Overcast, rain"
+BABULSAR,11/02/2012,03Z,5.8,87%,1024.2 Hpa,260º (W ),18.0,8/8,4/8 ST,AC,,-,-,5.0,"Overcast, drizzle"
+BABULSAR,11/02/2012,00Z,5.2,86%,1022.1 Hpa,240º (SW),14.4,8/8,4/8 CB,AC,,6.0(6h),-,-,"Overcast, rain"
+BAFT,11/02/2012,21Z,5.2,54%,1011.6 Hpa,330º (NW),14.4,2/8,-,-,CI,-,-,-,Few clouds
+BAFT,11/02/2012,18Z,6.6,50%,1013.2 Hpa,300º (NW),10.8,2/8,1/8 SC,AC,-,-,-,-,Few clouds
+BAFT,11/02/2012,15Z,10.2,25%,1012.3 Hpa,270º (W ),18.0,6/8,2/8 SC,AC,-,-,14.2,-,Cloudy
+BAFT,11/02/2012,12Z,13.0,22%,1010.0 Hpa,240º (SW),32.4,6/8,1/8 CU,AC,CI,-,-,-,Cloudy
+BAFT,11/02/2012,09Z,12.0,34%,1011.8 Hpa,270º (W ),28.8,6/8,1/8 CU,AC,CI,-,-,-,Cloudy
+BAFT,11/02/2012,06Z,8.6,53%,1013.7 Hpa,calm.,,5/8,1/8 CU,AC,CI,-,-,-,Cloudy
+BAFT,11/02/2012,03Z,5.0,64%,1012.3 Hpa,calm.,,3/8,-,3/8 AC,-,-,-,3.0,Scattered clouds
+BAFT,11/02/2012,00Z,4.6,64%,1010.6 Hpa,calm.,,3/8,-,3/8 AC,-,-,-,-,Scattered clouds
+BAM,11/02/2012,21Z,13.2,36%,1009.3 Hpa,050º (NE),10.8,0/8,-,-,-,-,-,-,Clear
+BAM,11/02/2012,18Z,15.8,38%,1008.1 Hpa,220º (SW),7.2,0/8,-,-,-,-,-,-,"Clear, haze"
+BAM,11/02/2012,15Z,19.4,36%,1006.1 Hpa,270º (W ),7.2,2/8,-,-,CI,-,27.4,-,Few clouds
+BAM,11/02/2012,12Z,23.0,25%,1003.7 Hpa,060º (NE),18.0,5/8,-,-,CC,-,-,-,Cloudy
+BAM,11/02/2012,09Z,26.6,19%,1004.2 Hpa,290º (W ),14.4,5/8,-,-,CI,-,-,-,Cloudy
+BAM,11/02/2012,06Z,22.0,29%,1006.1 Hpa,280º (W ),14.4,4/8,-,-,CI,-,-,-,Scattered clouds
+BAM,11/02/2012,03Z,18.0,36%,1005.1 Hpa,280º (W ),10.8,7/8,-,-,CI,-,-,12.0,Cloudy
+BAM,11/02/2012,00Z,15.4,48%,1003.6 Hpa,130º (SE),7.2,0/8,-,-,-,-,-,-,Clear
+BANDAR LENGEH,11/02/2012,21Z,21.4,63%,1012.8 Hpa,290º (W ),18.0,6/8,-,6/8 AC,-,-,-,-,"Cloudy, haze"
+BANDAR LENGEH,11/02/2012,18Z,21.2,78%,1013.5 Hpa,260º (W ),14.4,7/8,2/8 SC,AC,-,-,-,-,"Cloudy, haze"
+BANDAR LENGEH,11/02/2012,15Z,22.0,67%,1013.1 Hpa,260º (W ),25.2,8/8,2/8 SC,AC,,-,26.2,-,"Overcast, haze"
+BANDAR LENGEH,11/02/2012,12Z,24.8,136%,1012.6 Hpa,260º (W ),18.0,6/8,-,6/8 AC,-,-,-,-,Cloudy
+BANDAR LENGEH,11/02/2012,09Z,25.2,46%,1014.4 Hpa,230º (SW),21.6,0/8,-,-,-,-,-,-,"Clear, haze"
+BANDAR LENGEH,11/02/2012,06Z,22.6,154%,1015.5 Hpa,calm.,,5/8,-,-,CI,-,-,-,"Cloudy, haze"
+BANDAR LENGEH,11/02/2012,03Z,15.8,79%,1013.3 Hpa,050º (NE),10.8,0/8,-,-,-,-,-,14.4,Clear
+BANDAR LENGEH,11/02/2012,00Z,16.4,65%,1013.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BANDAR-E-DAYYER,11/02/2012,21Z,17.6,47%,1015.4 Hpa,310º (NW),43.2,6/8,-,6/8 AC,-,-,-,-,"Cloudy, dust"
+BANDAR-E-DAYYER,11/02/2012,18Z,18.8,197%,1015.0 Hpa,310º (NW),43.2,6/8,-,6/8 AC,-,-,-,-,"Cloudy, dust"
+BANDAR-E-DAYYER,11/02/2012,15Z,20.8,50%,1014.3 Hpa,310º (NW),28.8,7/8,-,7/8 AC,-,-,26.0,-,"Cloudy, dust"
+BANDAR-E-DAYYER,11/02/2012,12Z,25.4,131%,1013.7 Hpa,310º (NW),21.6,6/8,-,6/8 AC,-,-,-,-,"Cloudy, haze"
+BANDAR-E-DAYYER,11/02/2012,09Z,23.4,59%,1014.6 Hpa,270º (W ),14.4,6/8,-,6/8 AC,-,-,-,-,Cloudy
+BANDAR-E-DAYYER,11/02/2012,06Z,21.8,,1030.1 Hpa,calm.,,6/8,2/8 SC,AC,-,-,-,-,"Cloudy, haze"
+BANDAR-E-DAYYER,11/02/2012,03Z,17.8,57%,1013.8 Hpa,calm.,,3/8,-,3/8 AC,-,-,-,17.6,Scattered clouds
+BANDAR-E-DAYYER,11/02/2012,00Z,19.8,184%,1013.3 Hpa,310º (NW),10.8,2/8,-,2/8 AC,-,-,-,-,Few clouds
+BANDARABBASS,11/02/2012,21Z,19.4,71%,1012.0 Hpa,calm.,,6/8,-,6/8 AC,-,-,-,-,"Cloudy, haze"
+BANDARABBASS,11/02/2012,18Z,19.8,72%,1013.1 Hpa,calm.,,5/8,-,5/8 AC,-,-,-,-,"Cloudy, haze"
+BANDARABBASS,11/02/2012,15Z,21.8,65%,1012.3 Hpa,230º (SW),7.2,7/8,-,7/8 AC,-,-,24.8,-,"Cloudy, haze"
+BANDARABBASS,11/02/2012,12Z,23.6,57%,1011.9 Hpa,160º (S ),18.0,7/8,2/8 SC,AC,-,-,-,-,"Cloudy, haze"
+BANDARABBASS,11/02/2012,09Z,23.4,56%,1014.2 Hpa,160º (S ),14.4,7/8,2/8 ST,AC,-,-,-,-,"Cloudy, haze"
+BANDARABBASS,11/02/2012,06Z,20.4,71%,1015.6 Hpa,360º (N ),7.2,6/8,-,2/8 AC,CI,-,-,-,"Cloudy, haze"
+BANDARABBASS,11/02/2012,03Z,13.4,90%,1014.1 Hpa,340º (N ),7.2,4/8,-,-,CI,-,-,13.3,"Scattered clouds, mist"
+BANDARABBASS,11/02/2012,00Z,14.6,88%,1013.2 Hpa,350º (N ),7.2,6/8,-,-,CI,-,-,-,"Cloudy, mist"
+BIRJAND,11/02/2012,21Z,2.4,70%,1014.7 Hpa,340º (N ),7.2,3/8,-,2/8 AC,CI,-,-,-,Scattered clouds
+BIRJAND,11/02/2012,18Z,4.8,42%,1014.6 Hpa,360º (N ),14.4,2/8,-,1/8 AC,CI,-,-,-,Few clouds
+BIRJAND,11/02/2012,15Z,7.0,36%,1015.2 Hpa,360º (N ),25.2,2/8,1/8 SC,-,-,-,14.8,-,Few clouds
+BIRJAND,11/02/2012,12Z,11.6,36%,1009.7 Hpa,370º (N ),28.8,6/8,4/8 CB,AC,CI,-,-,-,"Cloudy, dust"
+BIRJAND,11/02/2012,09Z,14.2,38%,1007.8 Hpa,320º (NW),25.2,5/8,3/8 CU,AC,CI,-,-,-,Cloudy
+BIRJAND,11/02/2012,06Z,12.0,64%,1008.9 Hpa,calm.,,5/8,3/8 SC,AC,CI,-,-,-,Cloudy
+BIRJAND,11/02/2012,03Z,4.4,91%,1009.1 Hpa,110º (E ),7.2,3/8,3/8 SC,-,-,-,-,4.0,Scattered clouds
+BIRJAND,11/02/2012,00Z,6.4,82%,1007.1 Hpa,120º (SE),7.2,5/8,5/8 CU,-,-,-,-,-,Cloudy
+BOJNOURD,11/02/2012,21Z,-5.4,94%,1031.2 Hpa,270º (W ),18.0,8/8,4/8 ST,AC,,-,-,-,"Overcast, snow"
+BOJNOURD,11/02/2012,18Z,-5.0,95%,1030.8 Hpa,270º (W ),14.4,8/8,5/8 ST,AC,,0.4(6h),-,-,"Overcast, snow"
+BOJNOURD,11/02/2012,15Z,-4.0,96%,1029.8 Hpa,300º (NW),25.2,8/8,5/8 ST,AC,,-,-1.8,-,"Overcast, snow"
+BOJNOURD,11/02/2012,12Z,-2.8,92%,1025.7 Hpa,300º (NW),21.6,8/8,5/8 ST,AC,,2.0(6h),-,-,"Overcast, snow"
+BOJNOURD,11/02/2012,09Z,-2.4,95%,1024.5 Hpa,330º (NW),14.4,8/8,5/8 ST,AC,,-,-,-,"Overcast, snow"
+BOJNOURD,11/02/2012,06Z,-3.0,97%,1022.8 Hpa,300º (NW),32.4,8/8,5/8 ST,AC,,0.5(6h),-,-,"Overcast, snow"
+BOJNOURD,11/02/2012,03Z,-1.8,94%,1019.5 Hpa,300º (NW),25.2,8/8,3/8 ST,AC,,-,-,-2.0,"Overcast, snow"
+BOJNOURD,11/02/2012,00Z,0.4,92%,1014.4 Hpa,300º (NW),28.8,8/8,2/8 ST,AC,,Tr(6h),-,-,"Overcast, snow"
+BUSHEHR,11/02/2012,21Z,16.6,56%,1019.2 Hpa,360º (N ),36.0,0/8,-,-,-,-,-,-,Clear
+BUSHEHR,11/02/2012,18Z,17.0,386%,1018.3 Hpa,350º (N ),18.0,3/8,-,3/8 AC,-,-,-,-,Scattered clouds
+BUSHEHR,11/02/2012,15Z,17.0,70%,1017.5 Hpa,350º (N ),21.6,7/8,1/8 SC,AC,-,-,18.0,-,Cloudy
+BUSHEHR,11/02/2012,12Z,16.8,388%,1016.8 Hpa,300º (NW),21.6,7/8,2/8 SC,AC,-,-,-,-,Cloudy
+BUSHEHR,11/02/2012,09Z,17.6,72%,1017.5 Hpa,350º (N ),21.6,7/8,2/8 SC,AC,-,-,-,-,Cloudy
+BUSHEHR,11/02/2012,06Z,17.0,384%,1017.8 Hpa,360º (N ),21.6,7/8,2/8 SC,AC,-,-,-,-,"Cloudy, mist"
+BUSHEHR,11/02/2012,03Z,16.8,91%,1014.8 Hpa,360º (N ),10.8,5/8,1/8 ST,AC,-,-,-,16.6,"Cloudy, mist"
+BUSHEHR,11/02/2012,00Z,17.4,30%,1014.6 Hpa,calm.,,5/8,-,5/8 AC,-,-,-,-,"Cloudy, mist"
+BUSHEHR (AIRPORT),11/02/2012,21Z,16.4,61%,1018.8 Hpa,340º (N ),28.8,0/8,-,-,-,-,-,-,Clear
+BUSHEHR (AIRPORT),11/02/2012,18Z,17.2,66%,1018.1 Hpa,340º (N ),18.0,0/8,-,-,-,-,-,-,Clear
+BUSHEHR (AIRPORT),11/02/2012,15Z,16.8,71%,1017.4 Hpa,340º (N ),21.6,7/8,1/8 SC,AC,-,-,18.0,-,Cloudy
+BUSHEHR (AIRPORT),11/02/2012,12Z,16.6,67%,1016.6 Hpa,350º (N ),25.2,7/8,1/8 SC,AC,-,-,-,-,Cloudy
+BUSHEHR (AIRPORT),11/02/2012,09Z,17.4,70%,1017.5 Hpa,350º (N ),21.6,7/8,1/8 SC,AC,-,-,-,-,"Cloudy, haze"
+BUSHEHR (AIRPORT),11/02/2012,06Z,17.0,85%,1017.4 Hpa,350º (N ),18.0,8/8,3/8 SC,AC,,-,-,-,"Overcast, mist"
+BUSHEHR (AIRPORT),11/02/2012,03Z,16.4,89%,1014.7 Hpa,340º (N ),18.0,7/8,3/8 SC,AC,-,-,-,15.0,"Cloudy, mist"
+BUSHEHR (AIRPORT),11/02/2012,00Z,17.0,83%,1014.7 Hpa,calm.,,3/8,-,3/8 AC,-,-,-,-,Scattered clouds
+CHAHBAHAR,11/02/2012,21Z,50.0,,1010.2 Hpa,270º (W ),18.0,0/8,-,-,-,-,-,-,Clear
+CHAHBAHAR,11/02/2012,18Z,40.0,,1011.5 Hpa,310º (NW),7.2,0/8,-,-,-,-,-,-,Clear
+CHAHBAHAR,11/02/2012,15Z,30.1,,1011.3 Hpa,250º (W ),25.2,0/8,-,-,-,-,24.1,-,Clear
+CHAHBAHAR,11/02/2012,12Z,40.0,,1010.7 Hpa,250º (W ),25.2,0/8,-,-,-,-,-,-,Clear
+CHAHBAHAR,11/02/2012,09Z,60.0,,1012.7 Hpa,250º (W ),10.8,2/8,2/8 CU,-,-,-,-,-,Few clouds
+CHAHBAHAR,11/02/2012,06Z,40.0,,1015.3 Hpa,320º (NW),7.2,5/8,-,-,CI,-,-,-,Cloudy
+CHAHBAHAR,11/02/2012,03Z,-10.0,,1014.3 Hpa,010º (N),7.2,3/8,2/8 ST,-,CI,-,-,18.0,Scattered clouds
+CHAHBAHAR,11/02/2012,00Z,18.5,81%,1012.8 Hpa,350º (N ),7.2,2/8,0/8 CU,AC,-,-,-10.0,-,Few clouds
+ESFAHAN,11/02/2012,21Z,4.2,36%,1017.6 Hpa,calm.,,2/8,2/8 SC,-,-,-,-,-,Few clouds
+ESFAHAN,11/02/2012,18Z,7.0,27%,1017.2 Hpa,calm.,,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+ESFAHAN,11/02/2012,15Z,10.0,23%,1013.7 Hpa,350º (N ),10.8,4/8,4/8 SC,-,-,-,12.8,-,Scattered clouds
+ESFAHAN,11/02/2012,12Z,12.6,24%,1009.4 Hpa,360º (N ),14.4,1/8,1/8 SC,-,-,-,-,-,Few clouds
+ESFAHAN,11/02/2012,09Z,10.6,34%,1010.6 Hpa,340º (N ),14.4,1/8,-,-,CI,-,-,-,Few clouds
+ESFAHAN,11/02/2012,06Z,7.6,45%,1012.4 Hpa,350º (N ),18.0,5/8,-,-,CI,-,-,-,Cloudy
+ESFAHAN,11/02/2012,03Z,7.2,44%,1009.6 Hpa,040º (NE),7.2,2/8,-,-,CI,-,-,6.0,Few clouds
+ESFAHAN,11/02/2012,00Z,10.8,31%,1006.3 Hpa,250º (W ),21.6,5/8,-,-,CI,-,-,-,Cloudy
+FASA,11/02/2012,21Z,4.8,56%,1011.8 Hpa,300º (NW),7.2,0/8,-,-,-,-,-,-,Clear
+FASA,11/02/2012,18Z,8.2,43%,1012.1 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+FASA,11/02/2012,15Z,17.2,13%,1011.9 Hpa,330º (NW),10.8,6/8,2/8 SC,AC,CI,-,21.0,-,"Cloudy, dust"
+FASA,11/02/2012,12Z,19.8,27%,1008.7 Hpa,220º (SW),25.2,4/8,-,1/8 AC,CI,-,-,-,"Scattered clouds, dust"
+FASA,11/02/2012,09Z,18.0,40%,1011.3 Hpa,210º (SW),10.8,3/8,-,-,CI,-,-,-,"Scattered clouds, dust"
+FASA,11/02/2012,06Z,12.8,59%,1013.4 Hpa,calm.,,4/8,-,-,CI,-,-,-,"Scattered clouds, haze"
+FASA,11/02/2012,03Z,4.6,91%,1012.8 Hpa,calm.,,4/8,-,-,CI,-,-,4.4,"Scattered clouds, mist"
+FASA,11/02/2012,00Z,6.0,85%,1011.2 Hpa,calm.,,3/8,-,-,CI,-,-,-,"Scattered clouds, mist"
+FERDOUS,11/02/2012,21Z,-1.0,72%,1019.5 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+FERDOUS,11/02/2012,18Z,1.2,76%,1018.7 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+FERDOUS,11/02/2012,15Z,4.4,67%,1017.3 Hpa,310º (NW),10.8,2/8,2/8 SC,-,-,-,10.2,-,Few clouds
+FERDOUS,11/02/2012,12Z,8.4,46%,1013.9 Hpa,290º (W ),21.6,6/8,2/8 SC,AC,-,-,-,-,Cloudy
+FERDOUS,11/02/2012,09Z,9.4,45%,1013.2 Hpa,290º (W ),18.0,6/8,3/8 SC,AC,-,-,-,-,Cloudy
+FERDOUS,11/02/2012,06Z,7.8,63%,1012.2 Hpa,260º (W ),7.2,2/8,-,1/8 AC,CI,2.1(24h),-,-,Few clouds
+FERDOUS,11/02/2012,03Z,4.4,70%,1010.0 Hpa,090º (E ),7.2,1/8,-,-,CI,-,-,4.2,Few clouds
+FERDOUS,11/02/2012,00Z,5.0,76%,1007.9 Hpa,110º (E ),7.2,2/8,2/8 SC,-,-,2.0(6h),-,-,Few clouds
+GACH SARAN DU GUNBADAN,11/02/2012,21Z,7.4,64%,1018.6 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, haze"
+GACH SARAN DU GUNBADAN,11/02/2012,18Z,10.2,70%,1018.7 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, haze"
+GACH SARAN DU GUNBADAN,11/02/2012,15Z,13.6,49%,1017.4 Hpa,290º (W ),7.2,3/8,1/8 SC,-,CI,-,17.0,-,"Scattered clouds, haze"
+GACH SARAN DU GUNBADAN,11/02/2012,12Z,16.2,72%,1015.9 Hpa,calm.,,5/8,2/8 CU,AC,-,-,-,-,"Cloudy, haze"
+GACH SARAN DU GUNBADAN,11/02/2012,09Z,16.2,68%,1016.8 Hpa,calm.,,6/8,2/8 CU,AC,-,-,-,-,"Cloudy, haze"
+GACH SARAN DU GUNBADAN,11/02/2012,06Z,12.2,90%,1017.4 Hpa,calm.,,8/8,3/8 CB,AC,,1.8(24h),-,-,"Overcast, mist"
+GACH SARAN DU GUNBADAN,11/02/2012,03Z,10.8,94%,1015.5 Hpa,calm.,,7/8,-,7/8 AC,-,-,-,10.4,Cloudy
+GACH SARAN DU GUNBADAN,11/02/2012,00Z,11.8,88%,1014.1 Hpa,calm.,,6/8,-,6/8 AC,-,-,-,-,Cloudy
+GHARAKHIL,11/02/2012,21Z,2.8,96%,1032.6 Hpa,290º (W ),18.0,8/8,6/8 CB,AC,,-,-,-,"Overcast, rain"
+GHARAKHIL,11/02/2012,18Z,3.4,93%,1033.4 Hpa,270º (W ),14.4,8/8,6/8 CB,AC,,1.0(6h),-,-,"Overcast, rain"
+GHARAKHIL,11/02/2012,15Z,3.8,93%,1032.6 Hpa,290º (W ),21.6,8/8,6/8 CB,AC,,-,6.4,-,"Overcast, rain"
+GHARAKHIL,11/02/2012,12Z,4.4,96%,1031.3 Hpa,270º (W ),18.0,8/8,6/8 CB,AC,,6.0(6h),-,-,"Overcast, rain"
+GHARAKHIL,11/02/2012,09Z,4.6,93%,1029.8 Hpa,270º (W ),18.0,8/8,6/8 ST,AC,,-,-,-,"Overcast, rain"
+GHARAKHIL,11/02/2012,06Z,4.2,96%,1028.7 Hpa,260º (W ),25.2,8/8,6/8 CB,AC,,4.0(6h),-,-,"Overcast, rain"
+GHARAKHIL,11/02/2012,03Z,3.4,95%,1025.8 Hpa,270º (W ),10.8,8/8,6/8 CB,AC,,-,-,2.6,"Overcast, rain"
+GHARAKHIL,11/02/2012,00Z,3.2,93%,1023.3 Hpa,250º (W ),18.0,8/8,6/8 CB,AC,,3.0(6h),-,-,"Overcast, rain"
+GHAZVIN,11/02/2012,21Z,-3.4,68%,1028.9 Hpa,300º (NW),7.2,0/8,-,-,-,-,-,-,Clear
+GHAZVIN,11/02/2012,18Z,-2.2,65%,1026.5 Hpa,330º (NW),10.8,0/8,-,-,-,-,-,-,Clear
+GHAZVIN,11/02/2012,15Z,-0.8,61%,1026.4 Hpa,330º (NW),14.4,0/8,-,-,-,-,5.2,-,Clear
+GHAZVIN,11/02/2012,12Z,4.6,48%,1022.5 Hpa,330º (NW),7.2,1/8,1/8 SC,-,-,-,-,-,Few clouds
+GHAZVIN,11/02/2012,09Z,5.1,52%,1021.7 Hpa,020º (N),21.6,2/8,2/8 CU,-,-,-,-,-,Few clouds
+GHAZVIN,11/02/2012,06Z,1.8,73%,1020.0 Hpa,280º (W ),18.0,2/8,2/8 CU,-,-,0.4(24h),-,-,Few clouds
+GHAZVIN,11/02/2012,03Z,-3.6,89%,1018.8 Hpa,calm.,,1/8,1/8 SC,-,-,-,-,-3.7,Few clouds
+GHAZVIN,11/02/2012,00Z,-0.2,81%,1015.2 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+GHUCHAN,11/02/2012,21Z,-6.2,94%,1025.9 Hpa,280º (W ),28.8,8/8,5/8 ST,AC,,-,-,-,"Overcast, snow"
+GHUCHAN,11/02/2012,18Z,-5.4,94%,1025.2 Hpa,280º (W ),28.8,8/8,5/8 ST,AC,,1.0(6h),-,-,"Overcast, snow"
+GHUCHAN,11/02/2012,15Z,-4.8,90%,1023.6 Hpa,270º (W ),28.8,8/8,4/8 ST,AC,,-,-0.4,-,"Overcast, snow"
+GHUCHAN,11/02/2012,12Z,-3.6,89%,1020.7 Hpa,270º (W ),39.6,8/8,4/8 ST,AC,,4.0(6h),-,-,"Overcast, snow"
+GHUCHAN,11/02/2012,09Z,-3.0,94%,1019.8 Hpa,270º (W ),36.0,8/8,6/8 ST,AC,,-,-,-,"Overcast, snow"
+GHUCHAN,11/02/2012,06Z,-2.8,95%,1018.4 Hpa,270º (W ),32.4,8/8,6/8 ST,AC,,7.0(6h),-,-,"Overcast, snow"
+GHUCHAN,11/02/2012,03Z,-0.4,97%,1013.5 Hpa,300º (NW),10.8,8/8,6/8 ST,AC,,-,-,-2.4,"Overcast, snow"
+GHUCHAN,11/02/2012,00Z,2.2,66%,1009.1 Hpa,070º (E ),18.0,8/8,6/8 ST,AC,,0.1(6h),-,-,"Overcast, rain"
+GORGAN,11/02/2012,21Z,0.2,100%,1036.0 Hpa,calm.,,8/8,6/8 ST,AC,,-,-,-,"Overcast, snow"
+GORGAN,11/02/2012,18Z,0.2,100%,1035.7 Hpa,calm.,,8/8,6/8 ST,AC,,6.0(6h),-,-,"Overcast, snow"
+GORGAN,11/02/2012,15Z,2.6,100%,1033.2 Hpa,070º (E ),10.8,7/8,6/8 ST,AC,,-,4.0,-,"Cloudy, rain"
+GORGAN,11/02/2012,12Z,3.0,100%,1032.2 Hpa,calm.,,8/8,6/8 ST,AC,,6.0(6h),-,-,"Overcast, rain"
+GORGAN,11/02/2012,09Z,3.2,100%,1030.7 Hpa,330º (NW),14.4,8/8,6/8 ST,AC,,-,-,-,"Overcast, rain"
+GORGAN,11/02/2012,06Z,2.4,100%,1029.2 Hpa,calm.,,8/8,6/8 ST,AC,,8.0(6h),-,-,"Overcast, rain"
+GORGAN,11/02/2012,03Z,0.4,97%,1026.8 Hpa,180º (S ),7.2,8/8,6/8 ST,AC,,-,-,-0.2,"Overcast, rain and snow"
+GORGAN,11/02/2012,00Z,1.0,95%,1023.8 Hpa,calm.,,8/8,6/8 ST,AC,,1.0(6h),-,-,"Overcast, rain and snow"
+HAMEDAN,11/02/2012,21Z,-6.3,81%,1026.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+HAMEDAN,11/02/2012,18Z,-3.5,69%,1025.2 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+HAMEDAN,11/02/2012,15Z,-0.2,51%,1023.9 Hpa,310º (NW),7.2,0/8,-,-,-,-,5.5,-,Clear
+HAMEDAN,11/02/2012,12Z,4.7,25%,1019.7 Hpa,280º (W ),21.6,1/8,1/8 CU,-,-,-,-,-,Few clouds
+HAMEDAN,11/02/2012,09Z,3.7,35%,1020.0 Hpa,290º (W ),21.6,1/8,1/8 CU,-,-,-,-,-,Few clouds
+HAMEDAN,11/02/2012,06Z,2.5,37%,1018.3 Hpa,290º (W ),21.6,1/8,1/8 CU,-,-,-,-,-,Few clouds
+HAMEDAN,11/02/2012,03Z,-0.8,52%,1017.2 Hpa,290º (W ),10.8,2/8,2/8 SC,-,-,-,-,-0.9,Few clouds
+HAMEDAN,11/02/2012,00Z,0.0,46%,1014.6 Hpa,300º (NW),14.4,4/8,4/8 SC,-,-,-,-,-,Scattered clouds
+ILAM,11/02/2012,21Z,-2.4,64%,1023.6 Hpa,090º (E ),7.2,0/8,-,-,-,-,-,-,Clear
+ILAM,11/02/2012,18Z,0.4,60%,1023.6 Hpa,300º (NW),7.2,0/8,-,-,-,-,-,-,Clear
+ILAM,11/02/2012,15Z,4.4,58%,1023.7 Hpa,290º (W ),14.4,0/8,-,-,-,-,9.4,-,Clear
+ILAM,11/02/2012,12Z,,,-,040º (NE),3.6,,-,-,-,-,-,-,-
+ILAM,11/02/2012,10Z,,,-,040º (NE),3.6,,-,-,-,-,-,-,-
+ILAM,11/02/2012,09Z,8.2,34%,1021.2 Hpa,270º (W ),21.6,2/8,2/8 CU,-,-,-,-,-,Few clouds
+ILAM,11/02/2012,06Z,5.4,57%,1020.9 Hpa,320º (NW),14.4,2/8,-,-,CI,-,-,-,Few clouds
+ILAM,11/02/2012,03Z,-0.8,83%,1020.3 Hpa,080º (E ),7.2,2/8,-,-,CI,-,-,-1.6,Few clouds
+ILAM,11/02/2012,00Z,-0.8,80%,1018.8 Hpa,080º (E ),7.2,0/8,-,-,-,-,-,-,Clear
+IRANSHAHR,11/02/2012,21Z,17.5,40%,1011.3 Hpa,220º (SW),7.2,5/8,-,1/8 AC,CI,-,-,-,"Cloudy, haze"
+IRANSHAHR,11/02/2012,18Z,19.5,32%,1012.2 Hpa,calm.,,4/8,-,1/8 AC,CI,-,-,-,"Scattered clouds, haze"
+IRANSHAHR,11/02/2012,15Z,21.5,27%,1011.6 Hpa,calm.,,5/8,-,2/8 AC,CI,-,24.7,-,"Cloudy, haze"
+IRANSHAHR,11/02/2012,12Z,24.2,24%,1010.8 Hpa,210º (SW),10.8,3/8,-,1/8 AC,CI,-,-,-,Scattered clouds
+IRANSHAHR,11/02/2012,09Z,23.5,28%,1012.3 Hpa,230º (SW),10.8,5/8,-,-,CI,-,-,-,Cloudy
+IRANSHAHR,11/02/2012,06Z,20.0,32%,1014.6 Hpa,calm.,,5/8,-,-,CS,-,-,-,"Cloudy, haze"
+IRANSHAHR,11/02/2012,03Z,13.1,46%,1013.9 Hpa,calm.,,5/8,-,-,CI,-,-,13.1,Cloudy
+IRANSHAHR,11/02/2012,00Z,14.1,42%,1012.5 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+JASK,11/02/2012,21Z,21.9,64%,1011.9 Hpa,360º (N ),7.2,4/8,-,-,CI,-,-,-,"Scattered clouds, haze"
+JASK,11/02/2012,18Z,23.1,260%,1012.6 Hpa,330º (NW),14.4,0/8,-,-,-,-,-,-,"Clear, haze"
+JASK,11/02/2012,15Z,23.2,70%,1012.2 Hpa,270º (W ),18.0,0/8,-,-,-,-,24.4,-,"Clear, haze"
+JASK,11/02/2012,12Z,24.0,414%,1012.2 Hpa,240º (SW),18.0,2/8,-,-,CI,-,-,-,"Few clouds, haze"
+JASK,11/02/2012,09Z,24.3,64%,1014.3 Hpa,calm.,,7/8,-,-,CI,-,-,-,"Cloudy, haze"
+JASK,11/02/2012,06Z,22.0,160%,1015.4 Hpa,110º (E ),7.2,4/8,-,-,CI,-,-,-,"Scattered clouds, haze"
+JASK,11/02/2012,03Z,18.6,71%,1014.3 Hpa,330º (NW),10.8,4/8,-,-,CS,-,-,18.6,"Scattered clouds, haze"
+JASK,11/02/2012,00Z,19.4,546%,1013.2 Hpa,330º (NW),14.4,0/8,-,-,-,-,-,-,"Clear, haze"
+KAHNUJ,11/02/2012,21Z,17.8,64%,1007.9 Hpa,210º (SW),21.6,0/8,-,-,-,-,-,-,Clear
+KAHNUJ,11/02/2012,18Z,18.0,57%,1008.1 Hpa,210º (SW),36.0,2/8,-,2/8 AC,-,-,-,-,Few clouds
+KAHNUJ,11/02/2012,15Z,20.2,50%,1007.7 Hpa,230º (SW),54.0,3/8,-,3/8 AC,-,-,24.0,-,Scattered clouds
+KAHNUJ,11/02/2012,12Z,24.0,41%,1006.5 Hpa,240º (SW),36.0,4/8,-,4/8 AC,-,-,-,-,Scattered clouds
+KAHNUJ,11/02/2012,09Z,21.0,54%,1008.7 Hpa,220º (SW),36.0,5/8,-,5/8 AC,-,-,-,-,Cloudy
+KAHNUJ,11/02/2012,06Z,19.0,60%,1010.8 Hpa,240º (SW),36.0,4/8,-,-,CI,-,-,-,Scattered clouds
+KAHNUJ,11/02/2012,03Z,13.6,73%,1009.4 Hpa,270º (W ),21.6,6/8,-,3/8 AC,CI,-,-,12.4,Cloudy
+KAHNUJ,11/02/2012,00Z,12.0,79%,1008.7 Hpa,240º (SW),28.8,4/8,-,-,CI,-,-,-,Scattered clouds
+KASHAN,11/02/2012,21Z,2.4,49%,1022.4 Hpa,090º (E ),10.8,0/8,-,-,-,-,-,-,Clear
+KASHAN,11/02/2012,18Z,5.0,41%,1022.8 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KASHAN,11/02/2012,15Z,8.8,31%,1020.6 Hpa,330º (NW),14.4,2/8,2/8 SC,-,-,-,13.8,-,Few clouds
+KASHAN,11/02/2012,12Z,12.2,22%,1017.2 Hpa,350º (N ),28.8,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+KASHAN,11/02/2012,09Z,12.2,36%,1017.5 Hpa,calm.,,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+KASHAN,11/02/2012,06Z,7.2,57%,1018.1 Hpa,calm.,,6/8,2/8 SC,AC,-,-,-,-,Cloudy
+KASHAN,11/02/2012,03Z,3.0,77%,1016.5 Hpa,calm.,,2/8,-,2/8 AC,-,-,-,2.4,Few clouds
+KASHAN,11/02/2012,00Z,3.4,68%,1015.2 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KASHMAR,11/02/2012,21Z,1.2,53%,1019.5 Hpa,030º (NE),32.4,4/8,2/8 SC,-,CI,-,-,-,Scattered clouds
+KASHMAR,11/02/2012,18Z,2.2,49%,1019.7 Hpa,360º (N ),18.0,1/8,1/8 SC,-,-,-,-,-,Few clouds
+KASHMAR,11/02/2012,15Z,2.6,51%,1018.4 Hpa,360º (N ),36.0,2/8,2/8 SC,-,-,-,10.2,-,Few clouds
+KASHMAR,11/02/2012,12Z,6.4,43%,1014.9 Hpa,360º (N ),32.4,6/8,6/8 CB,-,-,-,-,-,Cloudy
+KASHMAR,11/02/2012,09Z,9.2,60%,1012.5 Hpa,270º (W ),21.6,6/8,2/8 CU,-,CI,-,-,-,Cloudy
+KASHMAR,11/02/2012,06Z,8.6,62%,1012.9 Hpa,calm.,,4/8,1/8 SC,-,CI,0.1(6h),-,-,Scattered clouds
+KASHMAR,11/02/2012,03Z,3.2,84%,1011.6 Hpa,calm.,,4/8,4/8 SC,-,-,-,-,1.6,Scattered clouds
+KASHMAR,11/02/2012,00Z,5.4,73%,1009.3 Hpa,calm.,,8/8,4/8 ST,AC,,0.4(6h),-,-,"Overcast, rain"
+KERMAN,11/02/2012,21Z,4.0,64%,1012.5 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KERMAN,11/02/2012,18Z,8.4,54%,1012.8 Hpa,340º (N ),7.2,0/8,-,-,-,-,-,-,Clear
+KERMAN,11/02/2012,15Z,14.6,36%,1009.3 Hpa,260º (W ),32.4,2/8,2/8 SC,-,-,-,19.0,-,Few clouds
+KERMAN,11/02/2012,12Z,18.2,33%,1006.1 Hpa,280º (W ),43.2,4/8,3/8 CB,AC,-,-,-,-,Scattered clouds
+KERMAN,11/02/2012,09Z,17.6,36%,1007.9 Hpa,280º (W ),43.2,6/8,2/8 SC,AC,-,-,-,-,Cloudy
+KERMAN,11/02/2012,06Z,10.0,65%,1012.0 Hpa,calm.,,7/8,4/8 CB,AC,-,8.9(24h),-,-,Cloudy
+KERMAN,11/02/2012,03Z,6.6,81%,1011.4 Hpa,210º (SW),14.4,6/8,4/8 CB,AC,CI,-,-,6.4,"Cloudy, mist"
+KERMAN,11/02/2012,00Z,8.0,82%,1010.5 Hpa,210º (SW),18.0,6/8,4/8 CB,AC,-,-,-,-,Cloudy
+KERMANSHAH,11/02/2012,21Z,-1.5,75%,1023.8 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KERMANSHAH,11/02/2012,18Z,2.4,61%,1023.0 Hpa,320º (NW),10.8,0/8,-,-,-,-,-,-,Clear
+KERMANSHAH,11/02/2012,15Z,5.0,42%,1022.6 Hpa,290º (W ),21.6,0/8,-,-,-,-,9.5,-,Clear
+KERMANSHAH,11/02/2012,12Z,9.0,30%,1021.2 Hpa,290º (W ),25.2,3/8,3/8 CU,-,-,-,-,-,Scattered clouds
+KERMANSHAH,11/02/2012,09Z,7.9,40%,1021.7 Hpa,280º (W ),25.2,2/8,2/8 CU,-,-,-,-,-,Few clouds
+KERMANSHAH,11/02/2012,06Z,3.9,72%,1021.1 Hpa,270º (W ),14.4,0/8,-,-,-,-,-,-,Clear
+KERMANSHAH,11/02/2012,03Z,0.6,86%,1019.4 Hpa,310º (NW),10.8,0/8,-,-,-,-,-,-0.6,Clear
+KERMANSHAH,11/02/2012,00Z,0.4,84%,1017.7 Hpa,260º (W ),14.4,0/8,-,-,-,-,-,-,Clear
+KHARG,11/02/2012,15Z,16.8,71%,1017.1 Hpa,330º (NW),21.6,5/8,1/8 SC,AC,-,-,17.0,-,Cloudy
+KHARG,11/02/2012,12Z,16.4,67%,1017.0 Hpa,330º (NW),28.8,6/8,1/8 SC,AC,-,-,-,-,Cloudy
+KHARG,11/02/2012,09Z,16.0,61%,1017.4 Hpa,340º (N ),32.4,8/8,3/8 SC,AC,,-,-,-,Overcast
+KHARG,11/02/2012,06Z,16.2,75%,1017.1 Hpa,350º (N ),32.4,8/8,3/8 SC,AC,,-,-,-,"Overcast, dust"
+KHARG,11/02/2012,03Z,16.0,89%,1014.5 Hpa,350º (N ),36.0,6/8,-,6/8 AC,-,-,-,16.0,"Cloudy, mist"
+KHOR,11/02/2012,21Z,1.0,58%,1023.2 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KHOR,11/02/2012,18Z,3.8,56%,1022.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KHOR,11/02/2012,15Z,7.4,52%,1019.7 Hpa,040º (NE),10.8,2/8,-,1/8 AC,CI,-,14.2,-,Few clouds
+KHOR,11/02/2012,12Z,13.6,24%,1015.9 Hpa,030º (NE),7.2,5/8,3/8 SC,AC,-,-,-,-,"Cloudy, dust"
+KHOR,11/02/2012,09Z,13.0,22%,1015.6 Hpa,260º (W ),18.0,5/8,2/8 SC,AC,-,-,-,-,Cloudy
+KHOR,11/02/2012,06Z,11.6,40%,1015.0 Hpa,280º (W ),18.0,4/8,1/8 SC,AC,-,0.1(24h),-,-,Scattered clouds
+KHOR,11/02/2012,03Z,5.0,61%,1013.9 Hpa,calm.,,3/8,3/8 SC,-,-,-,-,4.4,Scattered clouds
+KHOR,11/02/2012,00Z,4.8,64%,1011.2 Hpa,calm.,,3/8,-,-,CI,-,-,-,Scattered clouds
+KHORRAM ABAD,11/02/2012,21Z,0.0,70%,1023.2 Hpa,160º (S ),7.2,0/8,-,-,-,-,-,-,Clear
+KHORRAM ABAD,11/02/2012,18Z,3.6,53%,1021.8 Hpa,calm.,,1/8,-,1/8 AC,-,-,-,-,Few clouds
+KHORRAM ABAD,11/02/2012,15Z,7.4,38%,1020.5 Hpa,210º (SW),7.2,1/8,1/8 SC,-,-,-,12.0,-,Few clouds
+KHORRAM ABAD,11/02/2012,12Z,11.4,23%,1018.4 Hpa,310º (NW),14.4,2/8,2/8 CU,-,-,-,-,-,Few clouds
+KHORRAM ABAD,11/02/2012,09Z,9.4,40%,1019.2 Hpa,160º (S ),7.2,1/8,1/8 CU,-,-,-,-,-,Few clouds
+KHORRAM ABAD,11/02/2012,06Z,6.8,46%,1018.9 Hpa,240º (SW),10.8,2/8,-,-,CI,-,-,-,Few clouds
+KHORRAM ABAD,11/02/2012,03Z,3.4,71%,1017.9 Hpa,250º (W ),7.2,1/8,1/8 SC,-,-,-,-,3.2,"Few clouds, dust"
+KHOY,11/02/2012,21Z,-6.2,64%,1033.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KHOY,11/02/2012,18Z,-5.2,62%,1032.6 Hpa,100º (E ),7.2,0/8,-,-,-,-,-,-,Clear
+KHOY,11/02/2012,15Z,-2.4,49%,1030.2 Hpa,060º (NE),18.0,2/8,2/8 SC,-,-,-,1.4,-,Few clouds
+KHOY,11/02/2012,12Z,1.0,44%,1028.1 Hpa,020º (N),14.4,1/8,1/8 SC,-,-,-,-,-,Few clouds
+KHOY,11/02/2012,09Z,-1.0,49%,1027.9 Hpa,030º (NE),18.0,0/8,-,-,-,-,-,-,Clear
+KHOY,11/02/2012,06Z,-4.4,64%,1027.5 Hpa,calm.,,2/8,2/8 SC,-,-,0.6(24h),-,-,Few clouds
+KHOY,11/02/2012,00Z,-2.8,88%,1020.1 Hpa,080º (E ),18.0,8/8,3/8 SC,AC,,0.6(6h),-,-,Overcast
+KISH ISLAND,11/02/2012,21Z,20.2,79%,1013.1 Hpa,280º (W ),28.8,3/8,1/8 CU,AC,CI,-,-,-,"Scattered clouds, mist"
+KISH ISLAND,11/02/2012,18Z,20.8,83%,1014.0 Hpa,290º (W ),14.4,8/8,3/8 CU,AC,,-,-,-,"Overcast, mist"
+KISH ISLAND,11/02/2012,15Z,21.0,81%,1013.4 Hpa,280º (W ),14.4,8/8,3/8 CU,AC,,-,25.2,-,"Overcast, mist"
+KISH ISLAND,11/02/2012,12Z,22.6,63%,1012.7 Hpa,250º (W ),18.0,7/8,1/8 CU,AC,-,-,-,-,"Cloudy, haze"
+KISH ISLAND,11/02/2012,09Z,24.6,38%,1014.5 Hpa,290º (W ),10.8,1/8,-,-,CI,-,-,-,"Few clouds, haze"
+KISH ISLAND,11/02/2012,06Z,23.0,51%,1015.7 Hpa,240º (SW),10.8,3/8,-,-,CI,-,-,-,"Scattered clouds, haze"
+KISH ISLAND,11/02/2012,03Z,17.4,89%,1013.6 Hpa,180º (S ),7.2,3/8,-,-,CI,-,-,17.0,"Scattered clouds, mist"
+KISH ISLAND,11/02/2012,00Z,18.2,74%,1013.4 Hpa,calm.,,3/8,-,-,CI,-,-,-,"Scattered clouds, haze"
+KONARAK,11/02/2012,21Z,19.4,79%,1010.4 Hpa,230º (SW),7.2,0/8,-,-,-,-,-,-,"Clear, haze"
+KONARAK,11/02/2012,18Z,20.2,76%,1011.9 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, haze"
+KONARAK,11/02/2012,12Z,24.4,61%,1010.8 Hpa,220º (SW),25.2,5/8,-,-,CI,-,-,-,Cloudy
+KONARAK,11/02/2012,06Z,22.8,65%,1015.8 Hpa,290º (W ),14.4,5/8,-,-,CI,-,-,-,Cloudy
+KONARAK,11/02/2012,03Z,14.0,82%,1014.7 Hpa,calm.,,3/8,-,-,CI,-,-,12.6,Scattered clouds
+KONARAK,11/02/2012,00Z,15.2,82%,1013.5 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+MAKKO,11/02/2012,21Z,-11.4,76%,1034.8 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+MAKKO,11/02/2012,18Z,-10.0,73%,1034.9 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+MAKKO,11/02/2012,15Z,-6.6,64%,1032.3 Hpa,calm.,,1/8,1/8 SC,-,-,-,-0.5,-,Few clouds
+MAKKO,11/02/2012,12Z,-1.2,39%,1028.8 Hpa,calm.,,2/8,2/8 SC,-,-,-,-,-,Few clouds
+MAKKO,11/02/2012,09Z,-4.0,49%,1029.3 Hpa,210º (SW),7.2,3/8,2/8 SC,-,CI,-,-,-,Scattered clouds
+MAKKO,11/02/2012,06Z,-6.8,63%,1028.9 Hpa,calm.,,3/8,2/8 SC,-,CI,3.4(24h),-,-,Scattered clouds
+MAKKO,11/02/2012,00Z,-5.0,50%,1022.1 Hpa,270º (W ),10.8,4/8,3/8 SC,AC,-,-,-,-,Scattered clouds
+MARAGHEH,11/02/2012,21Z,-3.4,71%,1027.8 Hpa,070º (E ),25.2,0/8,-,-,-,-,-,-,Clear
+MARAGHEH,11/02/2012,18Z,-2.0,66%,1026.6 Hpa,080º (E ),21.6,0/8,-,-,-,-,-,-,Clear
+MARAGHEH,11/02/2012,15Z,1.4,42%,1025.7 Hpa,calm.,,1/8,1/8 CU,-,-,-,5.8,-,Few clouds
+MARAGHEH,11/02/2012,12Z,5.4,36%,1021.7 Hpa,250º (W ),18.0,5/8,5/8 CB,AC,CI,-,-,-,Cloudy
+MARAGHEH,11/02/2012,09Z,2.2,63%,1023.0 Hpa,Vble.,,7/8,5/8 CB,AC,CI,-,-,-,Cloudy
+MARAGHEH,11/02/2012,06Z,0.2,64%,1022.0 Hpa,090º (E ),7.2,4/8,1/8 SC,AC,CI,-,-,-,Scattered clouds
+MARAGHEH,11/02/2012,03Z,-3.2,84%,1019.2 Hpa,060º (NE),10.8,1/8,1/8 SC,-,-,-,-,-3.2,Few clouds
+MARAGHEH,11/02/2012,00Z,0.6,72%,1015.0 Hpa,Vble.,,1/8,1/8 SC,-,-,-,-,-,Few clouds
+MARAVEH-TAPPEH,11/02/2012,21Z,-3.0,88%,1033.3 Hpa,280º (W ),14.4,8/8,4/8 ST,AC,,-,-,-,"Overcast, mist"
+MARAVEH-TAPPEH,11/02/2012,18Z,-2.8,88%,1032.9 Hpa,270º (W ),14.4,8/8,4/8 ST,AC,,0.6(6h),-,-,"Overcast, mist"
+MARAVEH-TAPPEH,11/02/2012,15Z,-1.6,90%,1032.4 Hpa,280º (W ),10.8,8/8,6/8 ST,AC,,-,0.8,-,"Overcast, snow"
+MARAVEH-TAPPEH,11/02/2012,12Z,0.2,84%,1029.9 Hpa,240º (SW),32.4,8/8,6/8 ST,AC,,2.0(6h),-,-,"Overcast, snow"
+MARAVEH-TAPPEH,11/02/2012,09Z,0.2,84%,1027.8 Hpa,240º (SW),21.6,8/8,6/8 ST,AC,,-,-,-,"Overcast, snow"
+MARAVEH-TAPPEH,11/02/2012,06Z,0.2,88%,1026.2 Hpa,230º (SW),25.2,8/8,6/8 ST,AC,,5.0(6h),-,-,"Overcast, snow"
+MARAVEH-TAPPEH,11/02/2012,03Z,-2.6,100%,1024.0 Hpa,270º (W ),10.8,8/8,6/8 ST,AC,,-,-,-2.6,"Overcast, snow"
+MARAVEH-TAPPEH,11/02/2012,00Z,-1.4,98%,1020.8 Hpa,310º (NW),10.8,8/8,6/8 ST,AC,,0.4(6h),-,-,"Overcast, snow"
+MASHHAD,11/02/2012,21Z,-1.4,61%,1025.8 Hpa,300º (NW),28.8,6/8,2/8 SC,AC,CI,-,-,-,Cloudy
+MASHHAD,11/02/2012,18Z,0.6,48%,1023.8 Hpa,310º (NW),46.8,6/8,4/8 SC,AC,-,Tr(6h),-,-,Cloudy
+MASHHAD,11/02/2012,15Z,1.4,53%,1022.0 Hpa,320º (NW),46.8,8/8,5/8 ST,AC,,-,4.8,-,Overcast
+MASHHAD,11/02/2012,12Z,1.4,64%,1019.5 Hpa,310º (NW),36.0,8/8,5/8 ST,AC,,5.0(6h),-,-,Overcast
+MASHHAD,11/02/2012,09Z,0.6,100%,1017.2 Hpa,300º (NW),32.4,8/8,5/8 CB,AC,,-,-,-,"Overcast, snow"
+MASHHAD,11/02/2012,06Z,3.6,97%,1015.4 Hpa,310º (NW),28.8,8/8,5/8 CB,AC,,9.0(6h),-,-,"Overcast, rain"
+MASHHAD,11/02/2012,03Z,4.8,100%,1012.5 Hpa,250º (W ),7.2,8/8,5/8 ST,AC,,-,-,4.1,"Overcast, rain"
+MASHHAD,11/02/2012,00Z,4.8,95%,1011.2 Hpa,300º (NW),7.2,8/8,4/8 ST,AC,,1.0(6h),-,-,"Overcast, rain"
+MASJED-SOLEYMAN,11/02/2012,21Z,10.4,56%,1018.3 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, haze"
+MASJED-SOLEYMAN,11/02/2012,18Z,13.2,43%,1018.4 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+MASJED-SOLEYMAN,11/02/2012,15Z,15.6,33%,1017.1 Hpa,calm.,,0/8,-,-,-,-,18.6,-,Clear
+MASJED-SOLEYMAN,11/02/2012,12Z,18.2,37%,1016.2 Hpa,270º (W ),21.6,3/8,3/8 CU,-,-,-,-,-,Scattered clouds
+MASJED-SOLEYMAN,11/02/2012,09Z,17.2,82%,1016.8 Hpa,calm.,,4/8,4/8 SC,-,-,-,-,-,"Scattered clouds, mist"
+MASJED-SOLEYMAN,11/02/2012,06Z,14.0,88%,1016.6 Hpa,calm.,,4/8,-,-,CI,-,-,-,"Scattered clouds, mist"
+MASJED-SOLEYMAN,11/02/2012,03Z,12.6,85%,1014.4 Hpa,calm.,,3/8,3/8 SC,-,-,-,-,12.0,Scattered clouds
+MASJED-SOLEYMAN,11/02/2012,00Z,13.4,86%,1013.9 Hpa,calm.,,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+MEYANEH,11/02/2012,21Z,-2.4,85%,1030.3 Hpa,calm.,,4/8,2/8 SC,AC,-,-,-,-,Scattered clouds
+MEYANEH,11/02/2012,18Z,-1.4,78%,1029.6 Hpa,030º (NE),7.2,5/8,2/8 SC,AC,-,-,-,-,Cloudy
+MEYANEH,11/02/2012,15Z,-1.0,75%,1028.2 Hpa,060º (NE),10.8,4/8,1/8 SC,AC,-,-,1.6,-,Scattered clouds
+MEYANEH,11/02/2012,12Z,1.0,69%,1026.3 Hpa,060º (NE),18.0,4/8,1/8 SC,AC,-,-,-,-,Scattered clouds
+MEYANEH,11/02/2012,09Z,1.0,62%,1026.6 Hpa,060º (NE),10.8,2/8,1/8 SC,AC,-,-,-,-,Few clouds
+MEYANEH,11/02/2012,06Z,-1.8,70%,1025.1 Hpa,060º (NE),14.4,3/8,1/8 SC,AC,-,0.2(24h),-,-,Scattered clouds
+MEYANEH,11/02/2012,03Z,-1.0,72%,1021.4 Hpa,360º (N ),18.0,6/8,2/8 SC,AC,-,-,-,-3.0,Cloudy
+MEYANEH,11/02/2012,00Z,-1.4,86%,1018.5 Hpa,calm.,,1/8,1/8 SC,-,-,-,-,-,Few clouds
+MOHABAD,11/02/2012,21Z,-0.6,66%,1026.9 Hpa,calm.,,4/8,4/8 SC,-,-,-,-,-,Scattered clouds
+MOHABAD,11/02/2012,18Z,0.0,66%,1025.9 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+MOHABAD,11/02/2012,15Z,1.8,61%,1024.7 Hpa,030º (NE),18.0,1/8,1/8 SC,-,-,-,5.4,-,Few clouds
+MOHABAD,11/02/2012,12Z,4.0,55%,1021.9 Hpa,270º (W ),7.2,5/8,4/8 CB,AC,-,-,-,-,Cloudy
+MOHABAD,11/02/2012,09Z,3.0,65%,1022.8 Hpa,050º (NE),10.8,5/8,4/8 CB,AC,-,-,-,-,Cloudy
+MOHABAD,11/02/2012,06Z,0.2,68%,1022.3 Hpa,060º (NE),10.8,6/8,4/8 CB,AC,-,2.1(24h),-,-,Cloudy
+MOHABAD,11/02/2012,00Z,1.6,64%,1014.8 Hpa,180º (S ),7.2,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+NEHBANDAN,11/02/2012,21Z,9.8,35%,1014.5 Hpa,360º (N ),18.0,1/8,-,-,CI,-,-,-,Few clouds
+NEHBANDAN,11/02/2012,18Z,10.0,53%,1015.6 Hpa,120º (SE),10.8,0/8,-,-,-,-,-,-,Clear
+NEHBANDAN,11/02/2012,15Z,14.2,44%,1013.9 Hpa,calm.,,0/8,-,-,-,-,20.2,-,Clear
+NEHBANDAN,11/02/2012,12Z,19.2,38%,1009.2 Hpa,280º (W ),21.6,6/8,3/8 CB,-,CI,-,-,-,Cloudy
+NEHBANDAN,11/02/2012,09Z,17.6,47%,1011.1 Hpa,210º (SW),21.6,6/8,1/8 CU,-,CI,-,-,-,Cloudy
+NEHBANDAN,11/02/2012,06Z,11.8,70%,1013.6 Hpa,calm.,,3/8,-,-,CI,Tr(24h),-,-,Scattered clouds
+NEHBANDAN,11/02/2012,03Z,6.0,85%,1013.8 Hpa,calm.,,5/8,-,1/8 AC,CI,-,-,6.0,Cloudy
+NEHBANDAN,11/02/2012,00Z,8.2,69%,1011.9 Hpa,calm.,,5/8,1/8 CU,AC,-,Tr(6h),-,-,Cloudy
+NOSHAHR,11/02/2012,21Z,3.6,93%,1033.7 Hpa,calm.,,8/8,6/8 CB,AC,,-,-,-,"Overcast, drizzle"
+NOSHAHR,11/02/2012,18Z,4.0,89%,1033.7 Hpa,calm.,,8/8,5/8 CB,AC,,0.7(6h),-,-,Overcast
+NOSHAHR,11/02/2012,15Z,4.2,86%,1033.1 Hpa,320º (NW),10.8,8/8,5/8 CB,AC,,-,5.2,-,Overcast
+NOSHAHR,11/02/2012,12Z,4.2,89%,1031.8 Hpa,280º (W ),21.6,8/8,6/8 CB,AC,,0.2(6h),-,-,"Overcast, drizzle"
+NOSHAHR,11/02/2012,09Z,5.0,80%,1030.6 Hpa,270º (W ),25.2,8/8,6/8 CB,AC,,-,-,-,Overcast
+NOSHAHR,11/02/2012,06Z,4.0,86%,1029.5 Hpa,290º (W ),25.2,8/8,6/8 CB,AC,,0.4(6h),-,-,"Overcast, drizzle"
+NOSHAHR,11/02/2012,03Z,3.2,89%,1026.5 Hpa,280º (W ),21.6,8/8,6/8 CB,AC,,-,-,2.8,"Overcast, rain"
+NOSHAHR,11/02/2012,00Z,3.2,89%,1023.3 Hpa,270º (W ),25.2,8/8,4/8 CB,AC,,0.5(6h),-,-,"Overcast, rain"
+OMIDYEH-AGHAJARI,11/02/2012,21Z,10.4,67%,1020.9 Hpa,310º (NW),18.0,0/8,-,-,-,-,-,-,Clear
+OMIDYEH-AGHAJARI,11/02/2012,18Z,12.8,56%,1020.5 Hpa,330º (NW),14.4,0/8,-,-,-,-,-,-,Clear
+OMIDYEH-AGHAJARI,11/02/2012,15Z,17.4,38%,1018.7 Hpa,320º (NW),18.0,2/8,-,-,CI,-,21.4,-,Few clouds
+OMIDYEH-AGHAJARI,11/02/2012,12Z,21.0,27%,1017.7 Hpa,320º (NW),28.8,4/8,-,-,CI,-,-,-,Scattered clouds
+OMIDYEH-AGHAJARI,11/02/2012,09Z,18.0,47%,1019.1 Hpa,310º (NW),18.0,2/8,-,2/8 AC,-,-,-,-,Few clouds
+OMIDYEH-AGHAJARI,11/02/2012,06Z,14.0,68%,1019.0 Hpa,330º (NW),14.4,6/8,-,6/8 AC,-,0.7(24h),-,-,"Cloudy, haze"
+OMIDYEH-AGHAJARI,11/02/2012,03Z,13.6,88%,1017.3 Hpa,310º (NW),21.6,8/8,3/8 SC,AC,,-,-,13.6,Overcast
+OMIDYEH-AGHAJARI,11/02/2012,00Z,14.0,88%,1016.3 Hpa,310º (NW),14.4,8/8,4/8 SC,AC,,-,-,-,Overcast
+ORUMIEH,11/02/2012,21Z,-4.4,82%,1029.5 Hpa,080º (E ),7.2,6/8,3/8 SC,AC,-,-,-,-,Cloudy
+ORUMIEH,11/02/2012,18Z,-4.0,66%,1028.8 Hpa,270º (W ),7.2,1/8,1/8 SC,-,-,-,-,-,Few clouds
+ORUMIEH,11/02/2012,15Z,-1.4,60%,1028.4 Hpa,060º (NE),7.2,1/8,1/8 SC,-,-,-,2.8,-,Few clouds
+ORUMIEH,11/02/2012,12Z,2.4,50%,1025.0 Hpa,080º (E ),7.2,4/8,4/8 CB,-,-,-,-,-,Scattered clouds
+ORUMIEH,11/02/2012,09Z,1.0,56%,1024.4 Hpa,160º (S ),7.2,7/8,4/8 CB,AC,-,-,-,-,Cloudy
+ORUMIEH,11/02/2012,06Z,-1.6,78%,1024.0 Hpa,250º (W ),7.2,5/8,5/8 CU,-,-,-,-,-,Cloudy
+ORUMIEH,11/02/2012,00Z,-4.2,82%,1018.0 Hpa,210º (SW),7.2,0/8,-,-,-,-,-,-,Clear
+PARS ABAD MOGHAN,11/02/2012,21Z,-1.2,90%,1035.4 Hpa,090º (E ),18.0,0/8,-,-,-,-,-,-,Clear
+PARS ABAD MOGHAN,11/02/2012,18Z,-0.6,90%,1035.4 Hpa,110º (E ),21.6,0/8,-,-,-,-,-,-,Clear
+PARS ABAD MOGHAN,11/02/2012,15Z,0.2,88%,1033.9 Hpa,130º (SE),21.6,5/8,5/8 SC,-,-,-,3.0,-,Cloudy
+PARS ABAD MOGHAN,11/02/2012,12Z,3.0,71%,1032.8 Hpa,110º (E ),18.0,1/8,1/8 SC,-,-,-,-,-,Few clouds
+PARS ABAD MOGHAN,11/02/2012,09Z,2.4,74%,1032.8 Hpa,220º (SW),7.2,4/8,4/8 SC,-,-,-,-,-,Scattered clouds
+PARS ABAD MOGHAN,11/02/2012,06Z,-1.4,85%,1031.5 Hpa,220º (SW),10.8,7/8,3/8 SC,AC,-,0.2(6h),-,-,Cloudy
+PARS ABAD MOGHAN,11/02/2012,03Z,-2.4,88%,1028.5 Hpa,200º (S ),7.2,7/8,4/8 SC,AC,-,-,-,-2.4,"Cloudy, snow"
+PARS ABAD MOGHAN,11/02/2012,00Z,-0.8,94%,1026.4 Hpa,240º (SW),10.8,8/8,5/8 SC,AC,,5.0(6h),-,-,"Overcast, snow"
+RAMSAR,11/02/2012,21Z,3.4,82%,1033.3 Hpa,calm.,,8/8,5/8 CB,AC,,-,-,-,Overcast
+RAMSAR,11/02/2012,18Z,3.6,82%,1033.3 Hpa,calm.,,8/8,5/8 CB,AC,,-,-,-,Overcast
+RAMSAR,11/02/2012,15Z,4.0,83%,1032.2 Hpa,330º (NW),7.2,8/8,5/8 CB,AC,,-,5.8,-,Overcast
+RAMSAR,11/02/2012,12Z,4.6,76%,1031.4 Hpa,320º (NW),14.4,8/8,5/8 CB,AC,,-,-,-,Overcast
+RAMSAR,11/02/2012,09Z,5.8,78%,1030.5 Hpa,330º (NW),25.2,8/8,4/8 CB,AC,,-,-,-,Overcast
+RAMSAR,11/02/2012,06Z,4.2,83%,1029.2 Hpa,210º (SW),7.2,8/8,4/8 CB,AC,,0.1(6h),-,-,Overcast
+RAMSAR,11/02/2012,03Z,3.4,75%,1026.2 Hpa,330º (NW),28.8,8/8,6/8 CB,AC,,-,-,3.0,Overcast
+RAMSAR,11/02/2012,00Z,4.2,69%,1023.2 Hpa,310º (NW),25.2,8/8,5/8 CB,AC,,0.2(6h),-,-,Overcast
+RASHT,11/02/2012,21Z,2.0,92%,1034.9 Hpa,320º (NW),10.8,8/8,5/8 SC,AC,,-,-,-,"Overcast, rain"
+RASHT,11/02/2012,18Z,1.0,95%,1034.8 Hpa,Vble.,,8/8,5/8 CB,AC,,3.0(6h),-,-,"Overcast, rain and snow"
+RASHT,11/02/2012,15Z,3.0,85%,1033.9 Hpa,010º (N),7.2,7/8,5/8 CB,AC,-,-,5.4,-,Cloudy
+RASHT,11/02/2012,12Z,4.0,79%,1032.5 Hpa,360º (N ),14.4,7/8,6/8 CB,AC,-,-,-,-,Cloudy
+RASHT,11/02/2012,09Z,4.6,73%,1031.8 Hpa,360º (N ),7.2,7/8,7/8 CU/SC,-,-,-,-,-,Cloudy
+RASHT,11/02/2012,06Z,1.2,92%,1031.0 Hpa,260º (W ),7.2,5/8,3/8 ST,AC,-,Tr(6h),-,-,"Cloudy, snow"
+RASHT,11/02/2012,03Z,0.8,95%,1028.6 Hpa,260º (W ),10.8,8/8,6/8 ST,AC,,-,-,0.0,"Overcast, drizzle"
+RASHT,11/02/2012,00Z,0.6,95%,1026.0 Hpa,270º (W ),10.8,8/8,7/8 ST,AC,,Tr(6h),-,-,"Overcast, drizzle"
+SABZEVAR,11/02/2012,21Z,0.2,56%,1024.8 Hpa,360º (N ),28.8,5/8,5/8 SC,-,-,-,-,-,Cloudy
+SABZEVAR,11/02/2012,18Z,1.0,55%,1023.8 Hpa,010º (N),28.8,3/8,3/8 SC,-,-,0.2(6h),-,-,Scattered clouds
+SABZEVAR,11/02/2012,15Z,1.8,61%,1021.9 Hpa,350º (N ),36.0,4/8,1/8 SC,AC,-,-,5.8,-,Scattered clouds
+SABZEVAR,11/02/2012,12Z,3.4,58%,1019.3 Hpa,310º (NW),28.8,8/8,3/8 ST,AC,-,2.0(6h),-,-,"Overcast, haze"
+SABZEVAR,11/02/2012,09Z,2.4,70%,1018.0 Hpa,340º (N ),18.0,8/8,4/8 ST,AC,,-,-,-,"Overcast, snow"
+SABZEVAR,11/02/2012,06Z,2.8,80%,1015.5 Hpa,350º (N ),28.8,8/8,7/8 CB,AC,,4.0(6h),-,-,"Overcast, rain"
+SABZEVAR,11/02/2012,03Z,5.6,82%,1012.0 Hpa,360º (N ),10.8,8/8,7/8 ST,AC,,-,-,5.2,"Overcast, mist"
+SABZEVAR,11/02/2012,00Z,5.8,82%,1010.6 Hpa,010º (N),10.8,8/8,6/8 ST,AC,,4.0(6h),-,-,"Overcast, rain"
+SAFI-ABAD DEZFUL,11/02/2012,21Z,8.4,67%,1019.7 Hpa,310º (NW),7.2,0/8,-,-,-,-,-,-,Clear
+SAFI-ABAD DEZFUL,11/02/2012,18Z,13.0,42%,1019.1 Hpa,290º (W ),14.4,0/8,-,-,-,-,-,-,Clear
+SAFI-ABAD DEZFUL,11/02/2012,15Z,16.2,39%,1018.2 Hpa,280º (W ),14.4,0/8,-,-,-,-,20.8,-,Clear
+SAFI-ABAD DEZFUL,11/02/2012,12Z,20.4,19%,1018.0 Hpa,310º (NW),18.0,1/8,1/8 CU,-,-,-,-,-,Few clouds
+SAFI-ABAD DEZFUL,11/02/2012,09Z,20.0,19%,1018.6 Hpa,300º (NW),25.2,2/8,1/8 CU,-,CI,-,-,-,Few clouds
+SAFI-ABAD DEZFUL,11/02/2012,06Z,12.8,144%,1018.6 Hpa,300º (NW),10.8,1/8,-,-,CI,-,-,-,Few clouds
+SAFI-ABAD DEZFUL,11/02/2012,03Z,9.2,89%,1016.4 Hpa,calm.,,1/8,-,-,CI,-,-,8.5,"Few clouds, mist"
+SAFI-ABAD DEZFUL,11/02/2012,00Z,10.8,92%,1015.7 Hpa,calm.,,3/8,-,-,CI,-,-,-,"Scattered clouds, mist"
+SAGHEZ,11/02/2012,21Z,-3.4,73%,1025.9 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SAGHEZ,11/02/2012,18Z,-2.8,80%,1025.1 Hpa,calm.,,1/8,1/8 SC,-,-,-,-,-,Few clouds
+SAGHEZ,11/02/2012,15Z,1.6,78%,1024.4 Hpa,330º (NW),18.0,3/8,3/8 CU,-,-,-,5.0,-,Scattered clouds
+SAGHEZ,11/02/2012,12Z,4.2,44%,1021.2 Hpa,250º (W ),18.0,4/8,4/8 CU,-,-,-,-,-,Scattered clouds
+SAGHEZ,11/02/2012,09Z,2.4,54%,1022.2 Hpa,280º (W ),18.0,4/8,4/8 CB,-,-,-,-,-,Scattered clouds
+SAGHEZ,11/02/2012,06Z,0.6,76%,1020.0 Hpa,calm.,,3/8,3/8 CU,-,-,2.0(24h),-,-,Scattered clouds
+SAGHEZ,11/02/2012,03Z,-3.0,80%,1019.5 Hpa,calm.,,2/8,2/8 SC,-,-,-,-,-3.0,Few clouds
+SAGHEZ,11/02/2012,00Z,-1.2,80%,1016.4 Hpa,calm.,,2/8,2/8 SC,-,-,-,-,-,Few clouds
+SANANDAJ,11/02/2012,21Z,-3.0,82%,1024.7 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SANANDAJ,11/02/2012,18Z,0.0,71%,1024.2 Hpa,070º (E ),3.6,0/8,-,-,-,-,-,-,Clear
+SANANDAJ,11/02/2012,15Z,3.6,48%,1022.3 Hpa,340º (N ),10.8,1/8,1/8 SC,-,-,-,7.6,-,Few clouds
+SANANDAJ,11/02/2012,12Z,7.3,33%,1020.0 Hpa,290º (W ),14.4,4/8,4/8 CU,-,-,-,-,-,Scattered clouds
+SANANDAJ,11/02/2012,09Z,6.7,36%,1020.5 Hpa,240º (SW),14.4,3/8,3/8 CU,-,-,-,-,-,Scattered clouds
+SANANDAJ,11/02/2012,06Z,2.5,69%,1020.6 Hpa,160º (S ),7.2,1/8,1/8 CU,-,-,0.1(6h),-,-,Few clouds
+SANANDAJ,11/02/2012,03Z,0.1,90%,1018.9 Hpa,180º (S ),7.2,6/8,6/8 CB,-,-,-,-,-0.4,"Cloudy, snow showers"
+SANANDAJ,11/02/2012,00Z,0.2,73%,1016.6 Hpa,360º (N ),3.6,1/8,1/8 SC,-,-,-,-,-,Few clouds
+SARAB,11/02/2012,21Z,-6.6,78%,1030.4 Hpa,Vble.,,6/8,4/8 CB,AC,-,-,-,-,"Cloudy, snow"
+SARAB,11/02/2012,18Z,-6.8,73%,1031.0 Hpa,110º (E ),10.8,7/8,4/8 CB,AC,-,-,-,-,Cloudy
+SARAB,11/02/2012,15Z,-5.0,65%,1029.5 Hpa,120º (SE),14.4,7/8,4/8 CB,AC,-,-,-1.8,-,Cloudy
+SARAB,11/02/2012,12Z,-2.4,56%,1025.9 Hpa,140º (SE),10.8,2/8,2/8 CU,-,-,-,-,-,Few clouds
+SARAB,11/02/2012,09Z,-3.4,57%,1025.4 Hpa,110º (E ),18.0,5/8,2/8 SC,AC,-,-,-,-,Cloudy
+SARAB,11/02/2012,06Z,-5.8,75%,1024.7 Hpa,100º (E ),18.0,7/8,3/8 CB,AC,-,0.2(6h),-,-,Cloudy
+SARAB,11/02/2012,03Z,-5.6,94%,1021.3 Hpa,280º (W ),7.2,7/8,4/8 CB,AC,-,-,-,-5.6,Cloudy
+SARAB,11/02/2012,00Z,-2.4,90%,1016.0 Hpa,320º (NW),7.2,7/8,4/8 CB,AC,-,Tr(6h),-,-,"Cloudy, snow"
+SARAKHS,11/02/2012,21Z,-0.6,99%,1029.2 Hpa,310º (NW),21.6,8/8,6/8 ST,AC,,-,-,-,"Overcast, mist"
+SARAKHS,11/02/2012,18Z,-0.2,100%,1028.1 Hpa,300º (NW),28.8,8/8,6/8 ST,AC,,3.0(6h),-,-,"Overcast, snow"
+SARAKHS,11/02/2012,15Z,0.2,100%,1025.6 Hpa,330º (NW),25.2,8/8,6/8 ST,AC,,-,3.0,-,"Overcast, snow"
+SARAKHS,11/02/2012,12Z,0.6,100%,1023.4 Hpa,310º (NW),25.2,8/8,6/8 ST,AC,,7.0(6h),-,-,"Overcast, snow"
+SARAKHS,11/02/2012,09Z,0.4,100%,1021.4 Hpa,290º (W ),21.6,8/8,6/8 ST,AC,,-,-,-,"Overcast, snow"
+SARAKHS,11/02/2012,06Z,2.8,99%,1019.2 Hpa,320º (NW),32.4,8/8,6/8 ST,AC,,3.0(6h),-,-,"Overcast, rain"
+SARAKHS,11/02/2012,03Z,2.8,99%,1016.3 Hpa,320º (NW),18.0,8/8,6/8 ST,AC,,-,-,1.4,"Overcast, rain"
+SARAKHS,11/02/2012,00Z,2.4,99%,1013.6 Hpa,300º (NW),7.2,8/8,8/8 ST,,,-,-,-,"Overcast, mist"
+SARAVAN,11/02/2012,21Z,11.9,45%,1010.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SARAVAN,11/02/2012,18Z,16.0,33%,1011.8 Hpa,300º (NW),14.4,0/8,-,-,-,-,-,-,Clear
+SARAVAN,11/02/2012,15Z,18.9,25%,1011.9 Hpa,280º (W ),7.2,3/8,-,1/8 AC,CI,-,24.1,-,Scattered clouds
+SARAVAN,11/02/2012,12Z,23.0,17%,1009.2 Hpa,280º (W ),21.6,3/8,-,1/8 AC,CS,-,-,-,Scattered clouds
+SARAVAN,11/02/2012,09Z,22.9,20%,1010.0 Hpa,220º (SW),7.2,5/8,-,-,CI,-,-,-,Cloudy
+SARAVAN,11/02/2012,06Z,18.0,35%,1013.6 Hpa,calm.,,4/8,-,-,CI,-,-,-,Scattered clouds
+SARAVAN,11/02/2012,03Z,10.6,67%,1013.2 Hpa,calm.,,6/8,-,-,CI,-,-,9.6,Cloudy
+SARAVAN,11/02/2012,00Z,11.0,56%,1011.9 Hpa,calm.,,3/8,-,-,CI,-,-,-,Scattered clouds
+SEMNAN,11/02/2012,21Z,2.2,34%,1021.9 Hpa,360º (N ),10.8,5/8,2/8 SC,AC,-,-,-,-,Cloudy
+SEMNAN,11/02/2012,18Z,2.0,36%,1021.9 Hpa,360º (N ),36.0,5/8,2/8 SC,AC,-,-,-,-,Cloudy
+SEMNAN,11/02/2012,15Z,3.0,28%,1021.4 Hpa,360º (N ),36.0,5/8,2/8 SC,AC,-,-,8.8,-,Cloudy
+SEMNAN,11/02/2012,12Z,7.0,25%,1017.6 Hpa,030º (NE),28.8,2/8,1/8 SC,AC,-,-,-,-,Few clouds
+SEMNAN,11/02/2012,09Z,7.4,31%,1016.6 Hpa,030º (NE),3.6,1/8,1/8 SC,-,-,-,-,-,Few clouds
+SEMNAN,11/02/2012,06Z,5.0,37%,1015.9 Hpa,360º (N ),36.0,1/8,1/8 SC,-,-,1.8(24h),-,-,Few clouds
+SEMNAN,11/02/2012,00Z,4.0,90%,1011.6 Hpa,calm.,,5/8,3/8 SC,AC,-,2.0(6h),-,-,"Cloudy, rain"
+SHAHRE-KORD,11/02/2012,21Z,-1.8,68%,1018.2 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SHAHRE-KORD,11/02/2012,18Z,-2.2,67%,1019.7 Hpa,calm.,,2/8,2/8 SC,-,-,-,-,-,Few clouds
+SHAHRE-KORD,11/02/2012,15Z,2.0,53%,1017.5 Hpa,260º (W ),7.2,3/8,3/8 SC,-,-,-,8.8,-,Scattered clouds
+SHAHRE-KORD,11/02/2012,12Z,8.0,32%,1012.1 Hpa,260º (W ),25.2,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+SHAHRE-KORD,11/02/2012,09Z,8.2,31%,1012.3 Hpa,230º (SW),21.6,4/8,2/8 SC,-,CI,-,-,-,Scattered clouds
+SHAHRE-KORD,11/02/2012,06Z,6.2,46%,1013.4 Hpa,210º (SW),21.6,6/8,2/8 SC,-,CI,-,-,-,Cloudy
+SHAHRE-KORD,11/02/2012,03Z,3.2,53%,1012.2 Hpa,320º (NW),14.4,5/8,2/8 SC,AC,-,-,-,2.8,Cloudy
+SHAHRE-KORD,11/02/2012,00Z,5.0,54%,1010.0 Hpa,220º (SW),32.4,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+SHAHRUD,11/02/2012,21Z,-4.0,57%,1024.2 Hpa,340º (N ),7.2,1/8,1/8 SC,-,-,-,-,-,Few clouds
+SHAHRUD,11/02/2012,18Z,-0.2,26%,1023.8 Hpa,280º (W ),18.0,0/8,-,-,-,-,-,-,Clear
+SHAHRUD,11/02/2012,15Z,0.8,59%,1022.1 Hpa,210º (SW),18.0,4/8,4/8 SC,-,-,-,5.6,-,Scattered clouds
+SHAHRUD,11/02/2012,12Z,4.0,41%,1018.2 Hpa,290º (W ),21.6,4/8,4/8 SC,-,-,-,-,-,Scattered clouds
+SHAHRUD,11/02/2012,09Z,4.6,39%,1017.2 Hpa,280º (W ),39.6,4/8,4/8 SC,-,-,-,-,-,Scattered clouds
+SHAHRUD,11/02/2012,06Z,1.0,69%,1017.6 Hpa,170º (S ),14.4,6/8,3/8 SC,AC,-,0.8(6h),-,-,Cloudy
+SHAHRUD,11/02/2012,03Z,-0.4,92%,1015.1 Hpa,060º (NE),7.2,5/8,3/8 SC,AC,-,-,-,-0.4,Cloudy
+SHAHRUD,11/02/2012,00Z,1.8,96%,1012.0 Hpa,360º (N ),7.2,8/8,4/8 ST,AC,,0.6(6h),-,-,"Overcast, rain"
+SHIRAZ,11/02/2012,21Z,7.2,44%,1013.0 Hpa,310º (NW),10.8,0/8,-,-,-,-,-,-,Clear
+SHIRAZ,11/02/2012,18Z,10.6,16%,1013.2 Hpa,310º (NW),10.8,2/8,-,-,CI,-,-,-,Few clouds
+SHIRAZ,11/02/2012,15Z,13.2,12%,1012.9 Hpa,280º (W ),10.8,3/8,-,1/8 AC,CI,-,18.0,-,Scattered clouds
+SHIRAZ,11/02/2012,12Z,17.2,7%,1010.5 Hpa,280º (W ),28.8,3/8,-,3/8 AC,-,-,-,-,Scattered clouds
+SHIRAZ,11/02/2012,09Z,16.4,15%,1011.9 Hpa,230º (SW),28.8,5/8,-,5/8 AC,-,-,-,-,Cloudy
+SHIRAZ,11/02/2012,06Z,14.2,40%,1013.2 Hpa,240º (SW),10.8,5/8,-,5/8 AC,-,-,-,-,"Cloudy, haze"
+SHIRAZ,11/02/2012,03Z,11.0,51%,1011.6 Hpa,280º (W ),14.4,4/8,3/8 SC,-,CI,-,-,9.2,"Scattered clouds, haze"
+SHIRAZ,11/02/2012,00Z,12.0,61%,1010.2 Hpa,240º (SW),7.2,3/8,1/8 SC,-,CI,-,-,-,Scattered clouds
+SIRI ISLAND,11/02/2012,15Z,21.8,75%,1014.1 Hpa,240º (SW),21.6,6/8,-,6/8 AC,-,-,25.0,-,Cloudy
+SIRI ISLAND,11/02/2012,12Z,24.0,248%,1012.8 Hpa,210º (SW),18.0,0/8,-,-,-,-,-,-,Clear
+SIRI ISLAND,11/02/2012,09Z,24.0,60%,1014.8 Hpa,270º (W ),18.0,1/8,-,-,CI,-,-,-,Few clouds
+SIRI ISLAND,11/02/2012,06Z,22.8,265%,1015.7 Hpa,180º (S ),18.0,1/8,-,-,CI,-,-,-,Few clouds
+SIRI ISLAND,11/02/2012,03Z,20.6,85%,1014.1 Hpa,160º (S ),10.8,0/8,-,-,-,-,-,18.6,Clear
+SIRJAN,11/02/2012,18Z,13.0,17%,1011.0 Hpa,calm.,,4/8,3/8 SC,-,-,-,-,-,Scattered clouds
+SIRJAN,11/02/2012,15Z,15.0,12%,1010.3 Hpa,280º (W ),21.6,6/8,3/8 SC,AC,-,-,18.0,-,Cloudy
+SIRJAN,11/02/2012,12Z,18.0,17%,1007.1 Hpa,270º (W ),28.8,6/8,3/8 SC,AC,-,-,-,-,Cloudy
+SIRJAN,11/02/2012,09Z,16.4,27%,1009.4 Hpa,210º (SW),25.2,6/8,3/8 SC,AC,-,-,-,-,Cloudy
+SIRJAN,11/02/2012,06Z,11.2,48%,1011.7 Hpa,120º (SE),14.4,6/8,3/8 SC,AC,-,-,-,-,Cloudy
+SIRJAN,11/02/2012,03Z,8.0,58%,1009.7 Hpa,110º (E ),14.4,7/8,1/8 SC,-,CI,-,-,7.0,Cloudy
+SIRJAN,11/02/2012,00Z,9.2,53%,1008.5 Hpa,120º (SE),14.4,5/8,1/8 SC,-,CI,-,-,-,Cloudy
+TABAS,11/02/2012,21Z,5.4,47%,1018.6 Hpa,300º (NW),10.8,3/8,-,3/8 AC,-,-,-,-,Scattered clouds
+TABAS,11/02/2012,18Z,8.2,41%,1018.4 Hpa,340º (N ),10.8,0/8,-,-,-,-,-,-,Clear
+TABAS,11/02/2012,15Z,10.0,44%,1016.8 Hpa,360º (N ),18.0,1/8,-,1/8 AC,-,-,15.6,-,Few clouds
+TABAS,11/02/2012,12Z,14.8,21%,1014.3 Hpa,300º (NW),28.8,1/8,-,1/8 AC,-,-,-,-,"Few clouds, dust"
+TABAS,11/02/2012,09Z,15.0,25%,1014.1 Hpa,320º (NW),21.6,1/8,1/8 CB,AC,-,-,-,-,"Few clouds, dust"
+TABAS,11/02/2012,06Z,10.6,44%,1014.0 Hpa,330º (NW),7.2,0/8,-,-,-,-,-,-,"Clear, haze"
+TABAS,11/02/2012,03Z,8.0,48%,1012.1 Hpa,300º (NW),7.2,4/8,-,2/8 AC,CI,-,-,6.4,"Scattered clouds, haze"
+TABAS,11/02/2012,00Z,7.4,49%,1009.2 Hpa,080º (E ),7.2,2/8,-,2/8 AC,-,-,-,-,"Few clouds, dust"
+TABRIZ,11/02/2012,21Z,-4.0,69%,1031.2 Hpa,040º (NE),10.8,7/8,3/8 SC,AC,-,-,-,-,Cloudy
+TABRIZ,11/02/2012,18Z,-3.6,68%,1030.3 Hpa,360º (N ),21.6,0/8,-,-,-,-,-,-,Clear
+TABRIZ,11/02/2012,15Z,-1.0,55%,1028.8 Hpa,060º (NE),10.8,4/8,3/8 SC,AC,-,-,2.0,-,Scattered clouds
+TABRIZ,11/02/2012,12Z,1.2,45%,1026.4 Hpa,020º (N),18.0,6/8,2/8 CU/SC,AC,-,-,-,-,Cloudy
+TABRIZ,11/02/2012,09Z,0.0,47%,1025.2 Hpa,020º (N),14.4,2/8,1/8 CU,AC,-,-,-,-,Few clouds
+TABRIZ,11/02/2012,06Z,-3.0,60%,1025.2 Hpa,040º (NE),14.4,2/8,1/8 SC,AC,CI,0.2(24h),-,-,Few clouds
+TABRIZ,11/02/2012,03Z,-4.2,69%,1022.3 Hpa,030º (NE),14.4,3/8,2/8 SC,AC,-,-,-,-4.2,"Scattered clouds, haze"
+TABRIZ,11/02/2012,00Z,-3.6,94%,1019.0 Hpa,040º (NE),14.4,7/8,4/8 CB,AC,-,0.2(6h),-,-,"Cloudy, snow"
+TEHRAN-MEHRABAD,11/02/2012,21Z,-2.0,71%,1022.4 Hpa,290º (W ),10.8,0/8,-,-,-,-,-,-,Clear
+TEHRAN-MEHRABAD,11/02/2012,18Z,-1.2,68%,1021.8 Hpa,290º (W ),18.0,0/8,-,-,-,-,-,-,Clear
+TEHRAN-MEHRABAD,11/02/2012,15Z,4.2,48%,1018.9 Hpa,270º (W ),32.4,2/8,2/8 SC,-,-,-,10.0,-,Few clouds
+TEHRAN-MEHRABAD,11/02/2012,12Z,9.0,31%,1015.2 Hpa,270º (W ),43.2,2/8,2/8 CU,-,-,-,-,-,Few clouds
+TEHRAN-MEHRABAD,11/02/2012,09Z,8.4,44%,1015.6 Hpa,270º (W ),36.0,1/8,1/8 CU,-,-,-,-,-,Few clouds
+TEHRAN-MEHRABAD,11/02/2012,06Z,6.0,41%,1015.3 Hpa,270º (W ),36.0,0/8,-,-,-,3.0(24h),-,-,Clear
+TEHRAN-MEHRABAD,11/02/2012,03Z,4.2,44%,1013.5 Hpa,270º (W ),28.8,1/8,-,1/8 AC,-,-,-,4.0,Few clouds
+TEHRAN-MEHRABAD,11/02/2012,00Z,6.6,41%,1011.5 Hpa,290º (W ),25.2,2/8,2/8 SC,-,-,Tr(6h),-,-,Few clouds
+TORBAT-HEYDARIEH,11/02/2012,21Z,-2.8,71%,1019.2 Hpa,320º (NW),25.2,4/8,3/8 SC,AC,-,-,-,-,Scattered clouds
+TORBAT-HEYDARIEH,11/02/2012,18Z,-2.0,70%,1018.3 Hpa,330º (NW),36.0,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+TORBAT-HEYDARIEH,11/02/2012,15Z,-0.9,77%,1018.0 Hpa,360º (N ),43.2,6/8,6/8 ST,-,-,-,9.0,-,Cloudy
+TORBAT-HEYDARIEH,11/02/2012,12Z,-0.1,83%,1015.6 Hpa,360º (N ),36.0,7/8,7/8 CB,-,-,6.0(6h),-,-,Cloudy
+TORBAT-HEYDARIEH,11/02/2012,09Z,6.4,71%,1011.6 Hpa,240º (SW),10.8,8/8,8/8 CB,-,-,-,-,-,"Overcast, rain showers"
+TORBAT-HEYDARIEH,11/02/2012,06Z,7.7,66%,1012.4 Hpa,180º (S ),7.2,6/8,6/8 ST,-,-,0.2(6h),-,-,Cloudy
+TORBAT-HEYDARIEH,11/02/2012,03Z,1.8,91%,1011.7 Hpa,calm.,,7/8,7/8 CB,-,-,-,-,1.0,"Cloudy, rain"
+TORBAT-HEYDARIEH,11/02/2012,00Z,3.3,70%,1009.5 Hpa,calm.,,7/8,7/8 ST,-,-,0.3(6h),-,-,"Cloudy, rain"
+YASOGE,11/02/2012,21Z,1.8,74%,1016.7 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+YASOGE,11/02/2012,18Z,3.8,70%,1017.0 Hpa,090º (E ),7.2,1/8,-,1/8 AC,-,-,-,-,Few clouds
+YASOGE,11/02/2012,15Z,6.8,58%,1016.1 Hpa,130º (SE),7.2,3/8,-,3/8 AC,-,-,11.4,-,Scattered clouds
+YASOGE,11/02/2012,12Z,10.6,41%,1014.3 Hpa,200º (S ),21.6,5/8,1/8 SC,AC,-,-,-,-,Cloudy
+YASOGE,11/02/2012,09Z,10.6,49%,1014.8 Hpa,200º (S ),21.6,4/8,1/8 SC,AC,-,-,-,-,Scattered clouds
+YASOGE,11/02/2012,06Z,8.0,63%,1016.8 Hpa,190º (S ),18.0,7/8,2/8 SC,AC,-,18.8(24h),-,-,"Cloudy, haze"
+YASOGE,11/02/2012,03Z,6.4,76%,1016.4 Hpa,180º (S ),18.0,7/8,2/8 SC,AC,-,-,-,5.0,"Cloudy, haze"
+YASOGE,11/02/2012,00Z,7.2,76%,1015.8 Hpa,130º (SE),10.8,7/8,3/8 SC,AC,-,-,-,-,"Cloudy, haze"
+YAZD,11/02/2012,21Z,6.2,34%,1019.9 Hpa,290º (W ),10.8,4/8,-,-,CI,-,-,-,Scattered clouds
+YAZD,11/02/2012,18Z,7.0,32%,1020.2 Hpa,280º (W ),14.4,3/8,-,-,CI,-,-,-,Scattered clouds
+YAZD,11/02/2012,15Z,10.2,30%,1017.5 Hpa,340º (N ),14.4,1/8,1/8 SC,-,-,-,13.8,-,Few clouds
+YAZD,11/02/2012,12Z,13.4,32%,1012.8 Hpa,320º (NW),21.6,3/8,1/8 SC,-,CS,-,-,-,"Scattered clouds, haze"
+YAZD,11/02/2012,09Z,11.6,39%,1013.8 Hpa,330º (NW),18.0,4/8,1/8 SC,-,CS,-,-,-,"Scattered clouds, haze"
+YAZD,11/02/2012,06Z,7.4,45%,1016.5 Hpa,290º (W ),21.6,4/8,-,-,CS,-,-,-,Scattered clouds
+YAZD,11/02/2012,03Z,4.8,54%,1013.2 Hpa,260º (W ),14.4,7/8,-,1/8 AC,CS,-,-,4.8,Cloudy
+YAZD,11/02/2012,00Z,11.0,46%,1007.1 Hpa,calm.,,3/8,-,1/8 AC,CI,-,-,-,Scattered clouds
+ZABOL,11/02/2012,21Z,7.9,55%,1014.2 Hpa,330º (NW),46.8,0/8,-,-,-,-,-,-,"Clear, dust"
+ZABOL,11/02/2012,18Z,13.3,55%,1012.2 Hpa,350º (N ),14.4,0/8,-,-,-,-,-,-,Clear
+ZABOL,11/02/2012,15Z,17.2,38%,1009.0 Hpa,calm.,,3/8,2/8 CU,-,CS,-,22.0,-,Scattered clouds
+ZABOL,11/02/2012,12Z,22.0,26%,1007.3 Hpa,030º (NE),7.2,5/8,-,-,CI,-,-,-,Cloudy
+ZABOL,11/02/2012,09Z,19.8,28%,1008.9 Hpa,060º (NE),18.0,4/8,-,3/8 AC,CI,-,-,-,Scattered clouds
+ZABOL,11/02/2012,06Z,14.6,42%,1011.4 Hpa,040º (NE),14.4,4/8,-,-,CI,1.1(24h),-,-,Scattered clouds
+ZABOL,11/02/2012,03Z,5.6,77%,1011.0 Hpa,040º (NE),7.2,6/8,2/8 SC,AC,CI,-,-,5.3,Cloudy
+ZABOL,11/02/2012,00Z,6.7,78%,1009.9 Hpa,calm.,,6/8,2/8 SC,AC,-,1.0(6h),-,-,"Cloudy, rain"
+ZAHEDAN,11/02/2012,21Z,7.6,57%,1009.1 Hpa,010º (N),25.2,0/8,-,-,-,-,-,-,Clear
+ZAHEDAN,11/02/2012,18Z,14.6,39%,1006.6 Hpa,230º (SW),18.0,0/8,-,-,-,-,-,-,Clear
+ZAHEDAN,11/02/2012,15Z,17.5,32%,1005.9 Hpa,230º (SW),28.8,5/8,1/8 SC,-,CS,-,22.9,-,Cloudy
+ZAHEDAN,11/02/2012,12Z,22.2,17%,1003.4 Hpa,260º (W ),28.8,6/8,3/8 SC,-,CI,-,-,-,"Cloudy, dust"
+ZAHEDAN,11/02/2012,09Z,22.4,20%,1004.7 Hpa,240º (SW),28.8,6/8,1/8 SC,AC,CI,-,-,-,"Cloudy, dust"
+ZAHEDAN,11/02/2012,06Z,19.3,26%,1006.4 Hpa,220º (SW),32.4,6/8,-,3/8 AC,CI,Tr(24h),-,-,"Cloudy, dust"
+ZAHEDAN,11/02/2012,03Z,14.2,38%,1005.8 Hpa,210º (SW),25.2,6/8,1/8 SC,AC,CI,-,-,8.9,"Cloudy, dust"
+ZAHEDAN,11/02/2012,00Z,13.1,40%,1005.8 Hpa,180º (S ),21.6,6/8,3/8 CB,AC,CI,-,-,-,Cloudy
+ZANJAN,11/02/2012,21Z,-4.4,85%,1027.0 Hpa,290º (W ),10.8,7/8,4/8 CB,AC,-,-,-,-,Cloudy
+ZANJAN,11/02/2012,18Z,-3.0,80%,1025.3 Hpa,290º (W ),10.8,2/8,2/8 SC,-,-,-,-,-,Few clouds
+ZANJAN,11/02/2012,15Z,-1.2,80%,1024.6 Hpa,280º (W ),18.0,7/8,7/8 CB,-,-,-,1.2,-,Cloudy
+ZANJAN,11/02/2012,12Z,0.0,61%,1022.5 Hpa,300º (NW),14.4,5/8,5/8 SC,-,-,-,-,-,Cloudy
+ZANJAN,11/02/2012,09Z,0.0,64%,1021.9 Hpa,280º (W ),14.4,6/8,6/8 CB,-,-,-,-,-,Cloudy
+ZANJAN,11/02/2012,06Z,0.4,66%,1020.1 Hpa,270º (W ),7.2,4/8,4/8 SC,-,-,Tr(6h),-,-,Scattered clouds
+ZANJAN,11/02/2012,03Z,-0.8,63%,1017.1 Hpa,210º (SW),10.8,5/8,5/8 CB,AC,-,-,-,-2.0,"Cloudy, snow showers"
+ZANJAN,11/02/2012,00Z,0.2,62%,1014.2 Hpa,240º (SW),10.8,5/8,5/8 SC,-,-,-,-,-,Cloudy

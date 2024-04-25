@@ -1,0 +1,598 @@
+Station ∆,Date,UTC time,Temp. (ºC),Rel. Hum. (%),Pressure/ Geopot.,Wind dir,Wins speed (Km/h),Clouds,Low clouds,Medium clouds,High clouds,Prec. (mm),Max temp. (ºC),Min temp. (ºC),Conditions
+ABADAN,08/11/2018,21Z,21.4,78%,1015.5 Hpa,360º (N ),7.2,4/8,2/8 SC,AC,-,-,-,-,Scattered clouds
+ABADAN,08/11/2018,18Z,21.8,73%,1015.1 Hpa,150º (SE),7.2,3/8,-,3/8 AC,-,-,-,-,Scattered clouds
+ABADAN,08/11/2018,15Z,24.6,59%,1014.7 Hpa,080º (E ),10.8,3/8,3/8 SC,-,-,-,27.9,-,Scattered clouds
+ABADAN,08/11/2018,12Z,27.6,52%,1015.1 Hpa,140º (SE),7.2,5/8,5/8 CU/SC,-,-,-,-,-,Cloudy
+ABADAN,08/11/2018,09Z,25.6,60%,1017.0 Hpa,270º (W ),7.2,3/8,-,3/8 AC,-,-,-,-,"Scattered clouds, haze"
+ABADAN,08/11/2018,06Z,21.7,81%,1017.8 Hpa,calm.,,7/8,4/8 CB,AC,-,-,-,-,"Cloudy, mist"
+ABADAN,08/11/2018,03Z,19.7,93%,1016.7 Hpa,300º (NW),3.6,6/8,2/8 SC,AC,-,-,-,19.1,"Cloudy, mist"
+ABADAN,08/11/2018,00Z,19.1,92%,1016.0 Hpa,220º (SW),3.6,6/8,-,-,CI,-,-,-,"Cloudy, mist"
+ABADEH,08/11/2018,21Z,5.7,73%,1016.2 Hpa,340º (N ),7.2,0/8,-,-,-,-,-,-,Clear
+ABADEH,08/11/2018,18Z,7.6,62%,1016.2 Hpa,300º (NW),7.2,3/8,-,3/8 AC,-,-,-,-,Scattered clouds
+ABADEH,08/11/2018,15Z,11.2,55%,1016.7 Hpa,120º (SE),7.2,4/8,1/8 SC,AC,-,-,16.0,-,Scattered clouds
+ABADEH,08/11/2018,12Z,13.8,44%,1014.4 Hpa,calm.,,7/8,3/8 SC,AC,-,-,-,-,Cloudy
+ABADEH,08/11/2018,09Z,14.5,40%,1014.8 Hpa,250º (W ),21.6,8/8,4/8 SC,AC,CI,-,-,-,Overcast
+ABADEH,08/11/2018,06Z,11.6,51%,1017.2 Hpa,300º (NW),7.2,3/8,-,3/8 AC,-,0.2(24h),-,-,Scattered clouds
+ABADEH,08/11/2018,03Z,5.3,70%,1018.9 Hpa,010º (N),3.6,0/8,-,-,-,-,-,4.8,Clear
+ABADEH,08/11/2018,00Z,7.6,65%,1016.0 Hpa,320º (NW),3.6,0/8,-,-,-,-,-,-,Clear
+ABU MUSA,08/11/2018,15Z,26.4,66%,1013.8 Hpa,300º (NW),7.2,0/8,-,-,-,-,30.6,-,Clear
+ABU MUSA,08/11/2018,12Z,28.8,107%,1013.2 Hpa,300º (NW),10.8,0/8,-,-,-,-,-,-,Clear
+ABU MUSA,08/11/2018,09Z,30.4,56%,1014.6 Hpa,280º (W ),10.8,0/8,-,-,-,-,-,-,Clear
+ABU MUSA,08/11/2018,06Z,28.8,186%,1015.9 Hpa,130º (SE),7.2,2/8,1/8 SC,AC,-,-,-,-,Few clouds
+ABU MUSA,08/11/2018,03Z,23.6,94%,1015.2 Hpa,100º (E ),7.2,3/8,2/8 SC,AC,-,-,-,23.6,Scattered clouds
+AHAR,08/11/2018,21Z,6.8,83%,1020.0 Hpa,calm.,,7/8,5/8 ST,AC,-,-,-,-,Cloudy
+AHAR,08/11/2018,18Z,7.0,86%,1021.2 Hpa,calm.,,7/8,5/8 ST,AC,-,-,-,-,Cloudy
+AHAR,08/11/2018,15Z,9.2,66%,1021.0 Hpa,090º (E ),7.2,7/8,4/8 SC,AC,CI,-,11.3,-,Cloudy
+AHAR,08/11/2018,12Z,10.8,59%,1020.4 Hpa,calm.,,7/8,4/8 SC,AC,CI,-,-,-,Cloudy
+AHAR,08/11/2018,09Z,10.2,67%,1022.1 Hpa,230º (SW),7.2,7/8,1/8 CU,AC,CI,-,-,-,Cloudy
+AHAR,08/11/2018,06Z,6.4,77%,1024.8 Hpa,calm.,,5/8,3/8 ST,AC,CI,-,-,-,Cloudy
+AHAR,08/11/2018,03Z,4.4,88%,1025.1 Hpa,calm.,,8/8,4/8 ST,AC,,-,-,4.2,"Overcast, mist"
+AHAR,08/11/2018,00Z,4.6,82%,1025.6 Hpa,calm.,,8/8,4/8 ST,AC,,-,-,-,"Overcast, mist"
+AHWAZ,08/11/2018,21Z,19.1,82%,1014.9 Hpa,350º (N ),7.2,2/8,2/8 SC,-,-,-,-,-,"Few clouds, haze"
+AHWAZ,08/11/2018,18Z,21.9,77%,1014.3 Hpa,130º (SE),3.6,3/8,-,-,CI,-,-,-,Scattered clouds
+AHWAZ,08/11/2018,15Z,24.6,59%,1014.7 Hpa,120º (SE),7.2,5/8,1/8 CU,AC,CI,-,28.5,-,Cloudy
+AHWAZ,08/11/2018,12Z,27.2,46%,1014.4 Hpa,160º (S ),7.2,2/8,2/8 CU,-,-,-,-,-,Few clouds
+AHWAZ,08/11/2018,09Z,25.6,57%,1016.1 Hpa,100º (E ),7.2,3/8,1/8 CU,AC,-,-,-,-,Scattered clouds
+AHWAZ,08/11/2018,06Z,20.1,78%,1016.9 Hpa,360º (N ),3.6,4/8,4/8 SC,-,-,-,-,-,"Scattered clouds, haze"
+AHWAZ,08/11/2018,03Z,18.4,87%,1015.9 Hpa,310º (NW),7.2,6/8,2/8 SC,AC,CI,-,-,17.0,"Cloudy, mist"
+AHWAZ,08/11/2018,00Z,17.2,89%,1015.5 Hpa,020º (N),3.6,0/8,-,-,-,-,-,-,"Clear, mist"
+ALI-GOODARZ,08/11/2018,21Z,5.4,86%,1015.6 Hpa,130º (SE),14.4,3/8,-,3/8 AC,-,-,-,-,Scattered clouds
+ALI-GOODARZ,08/11/2018,18Z,6.2,82%,1018.4 Hpa,110º (E ),7.2,3/8,-,3/8 AC,-,-,-,-,Scattered clouds
+ALI-GOODARZ,08/11/2018,15Z,9.0,70%,1018.4 Hpa,010º (N),10.8,5/8,2/8 SC,AC,-,-,13.6,-,Cloudy
+ALI-GOODARZ,08/11/2018,12Z,11.9,47%,1017.0 Hpa,290º (W ),18.0,6/8,3/8 SC,AC,-,-,-,-,Cloudy
+ALI-GOODARZ,08/11/2018,09Z,12.9,49%,1017.4 Hpa,250º (W ),10.8,4/8,-,2/8 AC,CI,-,-,-,Scattered clouds
+ALI-GOODARZ,08/11/2018,06Z,7.0,72%,1020.9 Hpa,150º (SE),14.4,4/8,-,4/8 AC,-,8.0(24h),-,-,Scattered clouds
+ALI-GOODARZ,08/11/2018,03Z,3.6,79%,1020.6 Hpa,120º (SE),32.4,0/8,-,-,-,-,-,2.9,Clear
+ALI-GOODARZ,08/11/2018,00Z,3.7,81%,1019.6 Hpa,120º (SE),21.6,0/8,-,-,-,-,-,-,Clear
+ANZALI,08/11/2018,21Z,14.6,86%,1021.5 Hpa,260º (W ),7.2,6/8,4/8 SC,AC,-,-,-,-,Cloudy
+ANZALI,08/11/2018,18Z,14.9,82%,1022.1 Hpa,calm.,,6/8,4/8 SC,AC,-,-,-,-,Cloudy
+ANZALI,08/11/2018,15Z,15.3,81%,1022.9 Hpa,calm.,,6/8,4/8 SC,AC,-,-,17.5,-,Cloudy
+ANZALI,08/11/2018,12Z,16.1,232%,1022.9 Hpa,calm.,,5/8,3/8 CU,AC,-,-,-,-,Cloudy
+ANZALI,08/11/2018,09Z,16.7,75%,1023.8 Hpa,080º (E ),7.2,5/8,3/8 CU,AC,-,-,-,-,Cloudy
+ANZALI,08/11/2018,06Z,15.6,240%,1025.3 Hpa,230º (SW),7.2,5/8,2/8 CU,AC,-,-,-,-,Cloudy
+ANZALI,08/11/2018,03Z,12.9,94%,1025.1 Hpa,Vble.,,6/8,6/8 CB,-,-,-,-,12.2,Cloudy
+ANZALI,08/11/2018,00Z,12.7,94%,1025.4 Hpa,calm.,,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+ARAK,08/11/2018,21Z,6.8,89%,1017.8 Hpa,calm.,,4/8,2/8 SC,AC,-,-,-,-,"Scattered clouds, mist"
+ARAK,08/11/2018,18Z,7.6,87%,1019.8 Hpa,calm.,,3/8,-,3/8 AC,-,-,-,-,"Scattered clouds, mist"
+ARAK,08/11/2018,15Z,9.6,81%,1018.4 Hpa,calm.,,3/8,1/8 SC,AC,-,-,12.8,-,"Scattered clouds, mist"
+ARAK,08/11/2018,12Z,12.0,69%,1017.6 Hpa,calm.,,7/8,3/8 CU/SC,AC,-,-,-,-,"Cloudy, haze"
+ARAK,08/11/2018,09Z,11.2,73%,1019.4 Hpa,090º (E ),7.2,5/8,2/8 ST,AC,-,-,-,-,"Cloudy, haze"
+ARAK,08/11/2018,06Z,8.0,81%,1022.0 Hpa,calm.,,6/8,4/8 ST,AC,-,2.3(24h),-,-,"Cloudy, mist"
+ARAK,08/11/2018,03Z,5.6,94%,1022.1 Hpa,calm.,,5/8,3/8 SC,AC,-,-,-,5.6,"Cloudy, mist"
+ARAK,08/11/2018,00Z,5.6,97%,1021.8 Hpa,calm.,,5/8,3/8 SC,AC,-,-,-,-,"Cloudy, fog"
+ARDEBIL,08/11/2018,21Z,4.7,100%,1020.4 Hpa,calm.,,8/8,8/8 ST,,,-,-,-,"Overcast, fog"
+ARDEBIL,08/11/2018,18Z,4.6,100%,1022.5 Hpa,calm.,,,-,-,-,-,-,-,fog
+ARDEBIL,08/11/2018,15Z,5.2,100%,1021.8 Hpa,calm.,,8/8,8/8 ST,,,-,10.9,-,"Overcast, fog"
+ARDEBIL,08/11/2018,12Z,7.8,92%,1020.2 Hpa,060º (NE),14.4,7/8,7/8 ST,-,-,-,-,-,"Cloudy, fog"
+ARDEBIL,08/11/2018,09Z,9.7,100%,1020.6 Hpa,330º (NW),7.2,6/8,5/8 ST,AC,-,-,-,-,Cloudy
+ARDEBIL,08/11/2018,06Z,2.5,100%,1025.9 Hpa,calm.,,8/8,8/8 ST,,,-,-,-,"Overcast, fog"
+ARDEBIL,08/11/2018,03Z,2.8,100%,1024.9 Hpa,calm.,,4/8,3/8 ST,AC,CC,-,-,2.8,"Scattered clouds, fog"
+ARDEBIL,08/11/2018,00Z,3.7,100%,1024.2 Hpa,calm.,,8/8,8/8 ST,,,-,-,-,"Overcast, mist"
+BABULSAR,08/11/2018,21Z,11.2,85%,1021.1 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BABULSAR,08/11/2018,18Z,12.0,80%,1022.2 Hpa,080º (E ),7.2,0/8,-,-,-,-,-,-,Clear
+BABULSAR,08/11/2018,15Z,14.4,73%,1022.8 Hpa,calm.,,4/8,-,4/8 AC,-,-,17.2,-,Scattered clouds
+BABULSAR,08/11/2018,12Z,15.8,66%,1023.1 Hpa,040º (NE),7.2,1/8,-,1/8 AC,-,-,-,-,Few clouds
+BABULSAR,08/11/2018,09Z,16.8,65%,1024.3 Hpa,030º (NE),10.8,1/8,-,-,CI,-,-,-,Few clouds
+BABULSAR,08/11/2018,06Z,13.0,72%,1025.2 Hpa,080º (E ),7.2,5/8,-,5/8 AC,-,-,-,-,Cloudy
+BABULSAR,08/11/2018,03Z,10.0,89%,1025.7 Hpa,150º (SE),7.2,6/8,-,6/8 AC,-,-,-,10.0,Cloudy
+BABULSAR,08/11/2018,00Z,10.2,89%,1025.8 Hpa,120º (SE),14.4,2/8,-,2/8 AC,-,-,-,-,Few clouds
+BAFT,08/11/2018,21Z,9.2,54%,1012.2 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BAFT,08/11/2018,18Z,10.4,54%,1013.8 Hpa,calm.,,2/8,2/8 SC,-,-,-,-,-,Few clouds
+BAFT,08/11/2018,15Z,14.0,35%,1014.8 Hpa,220º (SW),14.4,6/8,4/8 SC,AC,-,-,18.6,-,Cloudy
+BAFT,08/11/2018,12Z,17.4,23%,1012.3 Hpa,210º (SW),28.8,4/8,4/8 CU,-,-,-,-,-,Scattered clouds
+BAFT,08/11/2018,09Z,17.8,24%,1013.8 Hpa,210º (SW),18.0,3/8,3/8 CU,AC,-,-,-,-,Scattered clouds
+BAFT,08/11/2018,06Z,14.8,46%,1016.1 Hpa,calm.,,1/8,1/8 CU,-,CI,-,-,-,Few clouds
+BAFT,08/11/2018,03Z,8.2,53%,1017.6 Hpa,330º (NW),7.2,2/8,-,2/8 AC,-,-,-,6.0,Few clouds
+BAFT,08/11/2018,00Z,8.0,52%,1014.9 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BAM,08/11/2018,21Z,15.8,39%,1012.9 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BAM,08/11/2018,18Z,16.9,38%,1013.8 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BAM,08/11/2018,15Z,20.6,25%,1014.0 Hpa,calm.,,0/8,-,-,-,-,26.2,-,Clear
+BAM,08/11/2018,12Z,24.7,19%,1012.5 Hpa,060º (NE),10.8,2/8,2/8 CU,AC,-,-,-,-,Few clouds
+BAM,08/11/2018,09Z,25.0,17%,1013.8 Hpa,100º (E ),10.8,1/8,-,-,CC,-,-,-,Few clouds
+BAM,08/11/2018,06Z,22.6,22%,1016.9 Hpa,calm.,,4/8,-,2/8 AC,CI,-,-,-,Scattered clouds
+BAM,08/11/2018,03Z,16.5,31%,1016.8 Hpa,280º (W ),7.2,5/8,-,5/8 AC,-,-,-,14.9,Cloudy
+BAM,08/11/2018,00Z,15.5,29%,1014.8 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BANDAR LENGEH,08/11/2018,21Z,23.9,80%,1012.1 Hpa,330º (NW),7.2,0/8,-,-,-,-,-,-,"Clear, mist"
+BANDAR LENGEH,08/11/2018,18Z,25.3,83%,1013.4 Hpa,300º (NW),7.2,0/8,-,-,-,-,-,-,"Clear, mist"
+BANDAR LENGEH,08/11/2018,15Z,26.6,77%,1012.9 Hpa,270º (W ),10.8,0/8,-,-,-,-,29.7,-,"Clear, haze"
+BANDAR LENGEH,08/11/2018,12Z,29.0,64%,1012.9 Hpa,240º (SW),14.4,0/8,-,-,-,-,-,-,"Clear, haze"
+BANDAR LENGEH,08/11/2018,09Z,29.2,63%,1014.9 Hpa,170º (S ),10.8,1/8,1/8 SC,-,-,-,-,-,"Few clouds, haze"
+BANDAR LENGEH,08/11/2018,06Z,26.7,68%,1016.5 Hpa,100º (E ),7.2,0/8,-,-,-,-,-,-,"Clear, haze"
+BANDAR LENGEH,08/11/2018,03Z,21.2,80%,1014.8 Hpa,360º (N ),10.8,2/8,1/8 SC,AC,-,-,-,20.6,Few clouds
+BANDAR LENGEH,08/11/2018,00Z,23.1,74%,1014.1 Hpa,350º (N ),7.2,0/8,-,-,-,-,-,-,"Clear, haze"
+BANDAR-E-DAYYER,08/11/2018,21Z,26.3,45%,1013.2 Hpa,340º (N ),7.2,7/8,2/8 SC,AC,-,-,-,-,Cloudy
+BANDAR-E-DAYYER,08/11/2018,18Z,26.0,50%,1013.5 Hpa,320º (NW),7.2,5/8,-,5/8 AC,-,-,-,-,Cloudy
+BANDAR-E-DAYYER,08/11/2018,15Z,27.0,49%,1013.3 Hpa,300º (NW),7.2,5/8,-,5/8 AC,-,-,31.0,-,Cloudy
+BANDAR-E-DAYYER,08/11/2018,12Z,29.1,105%,1012.8 Hpa,330º (NW),7.2,6/8,2/8 SC,AC,-,-,-,-,Cloudy
+BANDAR-E-DAYYER,08/11/2018,09Z,27.8,49%,1015.0 Hpa,330º (NW),18.0,7/8,2/8 SC,AC,-,-,-,-,Cloudy
+BANDAR-E-DAYYER,08/11/2018,06Z,30.8,96%,1016.0 Hpa,320º (NW),7.2,4/8,-,4/8 AC,-,-,-,-,Scattered clouds
+BANDAR-E-DAYYER,08/11/2018,03Z,25.0,59%,1014.7 Hpa,320º (NW),10.8,7/8,3/8 SC,AC,-,-,-,23.6,Cloudy
+BANDAR-E-DAYYER,08/11/2018,00Z,24.8,63%,1015.2 Hpa,330º (NW),7.2,6/8,2/8 SC,AC,-,-,-,-,Cloudy
+BANDARABBASS,08/11/2018,21Z,21.9,84%,1013.1 Hpa,020º (N),7.2,0/8,-,-,-,-,-,-,"Clear, mist"
+BANDARABBASS,08/11/2018,18Z,25.5,77%,1013.3 Hpa,230º (SW),7.2,0/8,-,-,-,-,-,-,"Clear, haze"
+BANDARABBASS,08/11/2018,15Z,26.6,73%,1012.5 Hpa,220º (SW),10.8,0/8,-,-,-,-,30.3,-,"Clear, haze"
+BANDARABBASS,08/11/2018,12Z,28.8,62%,1012.3 Hpa,200º (S ),18.0,0/8,-,-,-,-,-,-,"Clear, haze"
+BANDARABBASS,08/11/2018,09Z,29.3,51%,1014.3 Hpa,200º (S ),18.0,1/8,-,-,CI,-,-,-,"Few clouds, haze"
+BANDARABBASS,08/11/2018,06Z,27.6,55%,1016.4 Hpa,060º (NE),7.2,0/8,-,-,-,-,-,-,"Clear, haze"
+BANDARABBASS,08/11/2018,03Z,20.4,91%,1015.6 Hpa,330º (NW),7.2,2/8,-,2/8 AC,-,-,-,19.4,"Few clouds, mist"
+BANDARABBASS,08/11/2018,00Z,20.3,88%,1014.8 Hpa,340º (N ),7.2,0/8,-,-,-,-,-,-,"Clear, mist"
+BIRJAND,08/11/2018,21Z,9.5,40%,1014.3 Hpa,090º (E ),10.8,1/8,-,-,CI,-,-,-,Few clouds
+BIRJAND,08/11/2018,18Z,11.9,34%,1015.2 Hpa,010º (N),7.2,2/8,-,-,CI,-,-,-,Few clouds
+BIRJAND,08/11/2018,15Z,15.8,27%,1017.1 Hpa,360º (N ),7.2,2/8,1/8 SC,AC,-,-,22.0,-,Few clouds
+BIRJAND,08/11/2018,12Z,20.4,21%,1014.6 Hpa,300º (NW),21.6,5/8,3/8 SC,AC,-,-,-,-,Cloudy
+BIRJAND,08/11/2018,09Z,21.1,18%,1016.0 Hpa,270º (W ),7.2,2/8,2/8 SC,AC,-,-,-,-,Few clouds
+BIRJAND,08/11/2018,06Z,17.6,22%,1018.5 Hpa,060º (NE),7.2,2/8,1/8 CU,AC,-,-,-,-,Few clouds
+BIRJAND,08/11/2018,03Z,6.0,48%,1020.0 Hpa,070º (E ),10.8,2/8,1/8 SC,AC,-,-,-,5.3,Few clouds
+BIRJAND,08/11/2018,00Z,7.6,47%,1017.0 Hpa,090º (E ),14.4,0/8,-,-,-,-,-,-,Clear
+BOJNOURD,08/11/2018,21Z,2.4,82%,1022.8 Hpa,210º (SW),3.6,0/8,-,-,-,-,-,-,Clear
+BOJNOURD,08/11/2018,18Z,4.4,81%,1024.1 Hpa,310º (NW),3.6,3/8,-,3/8 AC,-,-,-,-,Scattered clouds
+BOJNOURD,08/11/2018,15Z,8.0,68%,1023.9 Hpa,230º (SW),7.2,0/8,-,-,-,-,14.0,-,Clear
+BOJNOURD,08/11/2018,12Z,13.0,47%,1022.4 Hpa,360º (N ),3.6,1/8,1/8 SC,-,CI,-,-,-,Few clouds
+BOJNOURD,08/11/2018,09Z,10.8,60%,1024.9 Hpa,050º (NE),3.6,1/8,1/8 SC,-,-,-,-,-,Few clouds
+BOJNOURD,08/11/2018,06Z,6.2,77%,1028.4 Hpa,calm.,,6/8,6/8 ST,-,-,0.4(24h),-,-,"Cloudy, haze"
+BOJNOURD,08/11/2018,03Z,3.2,90%,1028.6 Hpa,330º (NW),14.4,8/8,4/8 ST,-,-,-,-,1.6,"Overcast, mist"
+BOJNOURD,08/11/2018,00Z,4.0,87%,1027.8 Hpa,310º (NW),7.2,7/8,7/8 SC,-,-,-,-,-,Cloudy
+BUSHEHR (AIRPORT),08/11/2018,21Z,19.7,87%,1014.1 Hpa,150º (SE),7.2,5/8,-,3/8 AC,CI,-,-,-,"Cloudy, mist"
+BUSHEHR (AIRPORT),08/11/2018,18Z,21.8,80%,1013.9 Hpa,calm.,,4/8,-,-,CI,-,-,-,"Scattered clouds, mist"
+BUSHEHR (AIRPORT),08/11/2018,15Z,22.9,72%,1013.9 Hpa,360º (N ),10.8,4/8,-,-,CI,-,25.0,-,Scattered clouds
+BUSHEHR (AIRPORT),08/11/2018,12Z,25.0,61%,1013.9 Hpa,090º (E ),10.8,0/8,-,-,-,6.0(6h),-,-,Clear
+BUSHEHR (AIRPORT),08/11/2018,09Z,21.2,76%,1018.0 Hpa,040º (NE),14.4,6/8,4/8 CB,AC,-,-,-,-,"Cloudy, rain"
+BUSHEHR (AIRPORT),08/11/2018,06Z,21.0,79%,1018.9 Hpa,260º (W ),10.8,8/8,6/8 CB,AC,,2.0(6h),-,-,"Overcast, thunderstorm"
+BUSHEHR (AIRPORT),08/11/2018,03Z,21.1,69%,1015.5 Hpa,090º (E ),10.8,6/8,3/8 SC,AC,-,-,-,20.4,Cloudy
+BUSHEHR (AIRPORT),08/11/2018,00Z,22.2,67%,1016.2 Hpa,030º (NE),14.4,8/8,6/8 CB,AC,,4.0(6h),-,-,"Overcast, rain"
+CHAHBAHAR,08/11/2018,18Z,26.0,76%,1012.1 Hpa,280º (W ),10.8,0/8,-,-,-,-,-,-,Clear
+CHAHBAHAR,08/11/2018,15Z,40.1,,1011.8 Hpa,290º (W ),14.4,1/8,-,-,CI,-,28.8,-,Few clouds
+CHAHBAHAR,08/11/2018,12Z,40.1,,1011.3 Hpa,270º (W ),14.4,1/8,-,-,CI,-,-,-,Few clouds
+CHAHBAHAR,08/11/2018,09Z,50.1,,1012.9 Hpa,270º (W ),10.8,2/8,-,-,CC,-,-,-,Few clouds
+CHAHBAHAR,08/11/2018,06Z,27.0,64%,1015.5 Hpa,300º (NW),14.4,2/8,-,-,CC,-,-,-,Few clouds
+CHAHBAHAR,08/11/2018,03Z,50.1,,1014.7 Hpa,320º (NW),10.8,1/8,-,1/8 AC,-,-,-,23.3,Few clouds
+CHAHBAHAR,08/11/2018,00Z,50.1,,1013.5 Hpa,320º (NW),7.2,0/8,-,-,-,-,-,-,"Clear, haze"
+ESFAHAN,08/11/2018,21Z,8.8,80%,1016.0 Hpa,040º (NE),7.2,2/8,-,-,CI,-,-,-,Few clouds
+ESFAHAN,08/11/2018,18Z,12.0,55%,1016.5 Hpa,190º (S ),7.2,3/8,-,-,CI,-,-,-,Scattered clouds
+ESFAHAN,08/11/2018,15Z,13.4,51%,1017.3 Hpa,120º (SE),7.2,3/8,-,3/8 AC,-,-,16.2,-,Scattered clouds
+ESFAHAN,08/11/2018,12Z,15.6,41%,1016.4 Hpa,030º (NE),7.2,7/8,2/8 SC,AC,-,-,-,-,Cloudy
+ESFAHAN,08/11/2018,09Z,14.2,43%,1018.3 Hpa,calm.,,7/8,2/8 SC,AC,-,-,-,-,"Cloudy, haze"
+ESFAHAN,08/11/2018,06Z,9.6,71%,1020.9 Hpa,calm.,,7/8,1/8 SC,-,CI,-,-,-,"Cloudy, haze"
+ESFAHAN,08/11/2018,03Z,6.0,67%,1020.6 Hpa,040º (NE),7.2,6/8,-,-,CI,-,-,5.8,Cloudy
+ESFAHAN,08/11/2018,00Z,7.4,74%,1018.1 Hpa,070º (E ),7.2,0/8,-,-,-,-,-,-,Clear
+FASA,08/11/2018,21Z,10.2,67%,1012.3 Hpa,340º (N ),7.2,2/8,-,-,CI,-,-,-,Few clouds
+FASA,08/11/2018,18Z,13.4,52%,1013.0 Hpa,040º (NE),7.2,5/8,2/8 SC,AC,CI,-,-,-,Cloudy
+FASA,08/11/2018,15Z,17.8,44%,1013.4 Hpa,260º (W ),7.2,3/8,2/8 SC,AC,-,-,23.4,-,Scattered clouds
+FASA,08/11/2018,12Z,21.6,36%,1012.2 Hpa,320º (NW),18.0,7/8,5/8 CB,AC,-,-,-,-,"Cloudy, haze"
+FASA,08/11/2018,09Z,23.0,29%,1012.4 Hpa,250º (W ),21.6,6/8,4/8 CU/SC,AC,-,-,-,-,Cloudy
+FASA,08/11/2018,06Z,19.4,45%,1013.8 Hpa,calm.,,4/8,1/8 SC,AC,-,-,-,-,"Scattered clouds, haze"
+FASA,08/11/2018,03Z,11.2,66%,1015.4 Hpa,calm.,,4/8,-,-,CI,-,-,10.0,"Scattered clouds, haze"
+FASA,08/11/2018,00Z,11.4,62%,1013.6 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, haze"
+FERDOUS,08/11/2018,21Z,9.8,47%,1016.2 Hpa,calm.,,3/8,2/8 SC,AC,-,-,-,-,Scattered clouds
+FERDOUS,08/11/2018,18Z,11.8,41%,1017.1 Hpa,calm.,,5/8,2/8 SC,AC,-,-,-,-,Cloudy
+FERDOUS,08/11/2018,15Z,13.8,36%,1018.9 Hpa,280º (W ),10.8,4/8,2/8 SC,AC,CI,-,18.4,-,Scattered clouds
+FERDOUS,08/11/2018,12Z,16.5,31%,1017.9 Hpa,280º (W ),21.6,7/8,4/8 SC,AC,CI,-,-,-,Cloudy
+FERDOUS,08/11/2018,09Z,17.1,30%,1018.1 Hpa,280º (W ),18.0,4/8,1/8 SC,AC,CI,-,-,-,Scattered clouds
+FERDOUS,08/11/2018,06Z,14.5,32%,1020.6 Hpa,280º (W ),10.8,4/8,2/8 SC,AC,CI,-,-,-,Scattered clouds
+FERDOUS,08/11/2018,03Z,6.3,37%,1020.8 Hpa,300º (NW),3.6,4/8,2/8 SC,AC,CI,-,-,6.3,Scattered clouds
+FERDOUS,08/11/2018,00Z,7.5,44%,1018.8 Hpa,080º (E ),7.2,0/8,-,-,-,-,-,-,Clear
+GACH SARAN DU GUNBADAN,08/11/2018,21Z,15.8,75%,1015.7 Hpa,120º (SE),7.2,0/8,-,-,-,-,-,-,Clear
+GACH SARAN DU GUNBADAN,08/11/2018,18Z,15.6,81%,1016.1 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+GACH SARAN DU GUNBADAN,08/11/2018,15Z,17.6,73%,1016.4 Hpa,calm.,,0/8,-,-,-,-,21.2,-,Clear
+GACH SARAN DU GUNBADAN,08/11/2018,12Z,20.5,60%,1015.8 Hpa,130º (SE),5.6,5/8,2/8 SC,AC,-,-,-,-,Cloudy
+GACH SARAN DU GUNBADAN,08/11/2018,09Z,19.8,64%,1017.9 Hpa,120º (SE),10.8,7/8,3/8 CB,AC,-,-,-,-,Cloudy
+GACH SARAN DU GUNBADAN,08/11/2018,06Z,18.4,71%,1019.4 Hpa,calm.,,6/8,2/8 SC,AC,-,0.6(6h),-,-,Cloudy
+GACH SARAN DU GUNBADAN,08/11/2018,03Z,16.0,81%,1017.6 Hpa,140º (SE),7.2,6/8,3/8 SC,AC,-,-,-,15.8,"Cloudy, rain showers"
+GACH SARAN DU GUNBADAN,08/11/2018,00Z,16.5,85%,1017.0 Hpa,calm.,,5/8,3/8 SC,AC,-,-,-,-,Cloudy
+GHARAKHIL,08/11/2018,21Z,7.4,94%,1020.9 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+GHARAKHIL,08/11/2018,18Z,9.8,92%,1021.5 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+GHARAKHIL,08/11/2018,15Z,13.2,85%,1022.2 Hpa,calm.,,0/8,-,-,-,-,18.6,-,Clear
+GHARAKHIL,08/11/2018,12Z,17.0,66%,1022.3 Hpa,060º (NE),7.2,2/8,2/8 SC,-,-,-,-,-,Few clouds
+GHARAKHIL,08/11/2018,09Z,17.4,62%,1023.5 Hpa,360º (N ),7.2,2/8,2/8 CU,-,-,-,-,-,Few clouds
+GHARAKHIL,08/11/2018,06Z,13.2,83%,1025.3 Hpa,calm.,,5/8,1/8 SC,AC,-,3.5(24h),-,-,Cloudy
+GHARAKHIL,08/11/2018,03Z,10.0,86%,1026.5 Hpa,calm.,,6/8,1/8 SC,AC,-,-,-,9.6,Cloudy
+GHARAKHIL,08/11/2018,00Z,9.6,86%,1026.4 Hpa,calm.,,6/8,1/8 SC,AC,CI,-,-,-,Cloudy
+GHAZVIN,08/11/2018,21Z,8.0,99%,1019.5 Hpa,250º (W ),3.6,8/8,1/8 SC,AC,,-,-,-,"Overcast, rain"
+GHAZVIN,08/11/2018,18Z,8.3,96%,1021.3 Hpa,260º (W ),10.8,8/8,2/8 SC,AC,,0.4(6h),-,-,"Overcast, rain"
+GHAZVIN,08/11/2018,15Z,9.6,83%,1020.8 Hpa,calm.,,8/8,1/8 SC,AC,CS,-,12.8,-,"Overcast, mist"
+GHAZVIN,08/11/2018,12Z,12.2,68%,1019.9 Hpa,150º (SE),7.2,7/8,2/8 CB,AC,-,-,-,-,"Cloudy, haze"
+GHAZVIN,08/11/2018,09Z,11.2,72%,1021.6 Hpa,120º (SE),10.8,7/8,1/8 SC,AC,-,-,-,-,"Cloudy, haze"
+GHAZVIN,08/11/2018,06Z,7.7,96%,1024.5 Hpa,060º (NE),3.6,8/8,1/8 SC,AC,,0.1(6h),-,-,"Overcast, mist"
+GHAZVIN,08/11/2018,03Z,5.5,98%,1023.8 Hpa,calm.,,8/8,1/8 CB,AC,,-,-,5.0,"Overcast, mist"
+GHAZVIN,08/11/2018,00Z,6.3,95%,1022.3 Hpa,030º (NE),3.6,7/8,-,7/8 AC,-,Tr(6h),-,-,"Cloudy, rain"
+GHUCHAN,08/11/2018,21Z,2.8,95%,1022.2 Hpa,070º (E ),10.8,6/8,6/8 ST,-,-,-,-,-,"Cloudy, mist"
+GHUCHAN,08/11/2018,18Z,3.9,92%,1023.5 Hpa,060º (NE),14.4,0/8,-,-,-,-,-,-,Clear
+GHUCHAN,08/11/2018,15Z,5.8,86%,1023.4 Hpa,110º (E ),18.0,2/8,1/8 SC,-,CI,-,10.3,-,Few clouds
+GHUCHAN,08/11/2018,12Z,10.2,69%,1021.6 Hpa,120º (SE),18.0,2/8,1/8 SC,-,CI,-,-,-,Few clouds
+GHUCHAN,08/11/2018,09Z,8.9,80%,1023.5 Hpa,120º (SE),18.0,5/8,5/8 SC,-,-,-,-,-,"Cloudy, mist"
+GHUCHAN,08/11/2018,06Z,5.2,97%,1026.3 Hpa,060º (NE),7.2,8/8,6/8 ST,AC,,2.7(24h),-,-,"Overcast, mist"
+GHUCHAN,08/11/2018,03Z,3.5,98%,1026.9 Hpa,270º (W ),7.2,8/8,6/8 ST,AC,,-,-,3.4,"Overcast, mist"
+GHUCHAN,08/11/2018,00Z,4.3,93%,1025.7 Hpa,270º (W ),7.2,8/8,6/8 ST,AC,,-,-,-,"Overcast, mist"
+GORGAN,08/11/2018,21Z,6.6,94%,1023.6 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+GORGAN,08/11/2018,18Z,9.3,90%,1024.4 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+GORGAN,08/11/2018,15Z,11.4,82%,1024.8 Hpa,calm.,,1/8,1/8 SC,-,-,-,17.4,-,Few clouds
+GORGAN,08/11/2018,12Z,16.6,58%,1024.9 Hpa,calm.,,4/8,1/8 CU,AC,-,-,-,-,Scattered clouds
+GORGAN,08/11/2018,09Z,15.3,60%,1025.9 Hpa,060º (NE),7.2,3/8,1/8 CU,AC,-,-,-,-,Scattered clouds
+GORGAN,08/11/2018,06Z,11.6,67%,1028.2 Hpa,calm.,,1/8,-,1/8 AC,-,0.1(24h),-,-,Few clouds
+GORGAN,08/11/2018,03Z,5.2,93%,1027.9 Hpa,calm.,,0/8,-,-,-,-,-,4.7,Clear
+GORGAN,08/11/2018,00Z,6.2,87%,1028.7 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+HAMEDAN,08/11/2018,21Z,6.3,97%,1017.4 Hpa,320º (NW),3.6,7/8,6/8 CB,AC,-,-,-,-,"Cloudy, mist"
+HAMEDAN,08/11/2018,18Z,6.4,95%,1018.7 Hpa,030º (NE),3.6,7/8,7/8 CB,-,-,0.6(6h),-,-,"Cloudy, rain showers"
+HAMEDAN,08/11/2018,15Z,8.2,93%,1018.3 Hpa,040º (NE),3.6,7/8,7/8 CB,-,-,-,9.7,-,Cloudy
+HAMEDAN,08/11/2018,12Z,9.2,85%,1017.6 Hpa,calm.,,7/8,7/8 CB,-,CI,1.0(6h),-,-,"Cloudy, rain"
+HAMEDAN,08/11/2018,09Z,8.9,84%,1019.4 Hpa,280º (W ),3.6,7/8,7/8 CB,-,-,-,-,-,"Cloudy, mist"
+HAMEDAN,08/11/2018,06Z,6.9,95%,1020.8 Hpa,350º (N ),3.6,8/8,8/8 ST,AC,,0.1(6h),-,-,"Overcast, mist"
+HAMEDAN,08/11/2018,03Z,4.8,100%,1020.9 Hpa,080º (E ),3.6,3/8,3/8 SC,-,-,-,-,4.7,"Scattered clouds, fog"
+HAMEDAN,08/11/2018,00Z,5.2,99%,1020.1 Hpa,200º (S ),3.6,5/8,5/8 CB,-,-,1.0(6h),-,-,"Cloudy, mist"
+ILAM,08/11/2018,18Z,11.4,76%,1018.2 Hpa,120º (SE),3.6,7/8,4/8 CB,AC,-,-,-,-,Cloudy
+ILAM,08/11/2018,15Z,12.6,79%,1018.5 Hpa,120º (SE),3.6,7/8,4/8 CB,AC,-,-,16.8,-,Cloudy
+ILAM,08/11/2018,12Z,14.8,57%,1018.4 Hpa,170º (S ),10.8,7/8,4/8 CB,AC,-,-,-,-,Cloudy
+ILAM,08/11/2018,09Z,14.7,64%,1019.7 Hpa,160º (S ),7.2,7/8,4/8 CB,AC,-,-,-,-,Cloudy
+ILAM,08/11/2018,06Z,11.6,79%,1021.3 Hpa,110º (E ),7.2,7/8,4/8 CB,AC,-,1.3(24h),-,-,Cloudy
+ILAM,08/11/2018,03Z,8.8,85%,1021.0 Hpa,120º (SE),3.6,5/8,3/8 CB,AC,-,-,-,7.2,Cloudy
+ILAM,08/11/2018,00Z,7.8,92%,1020.5 Hpa,100º (E ),7.2,4/8,-,4/8 AC,-,-,-,-,Scattered clouds
+IRANSHAHR,08/11/2018,21Z,18.3,18%,1012.2 Hpa,010º (N),10.8,0/8,-,-,-,-,-,-,Clear
+IRANSHAHR,08/11/2018,18Z,20.0,18%,1013.1 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+IRANSHAHR,08/11/2018,15Z,25.2,15%,1012.8 Hpa,240º (SW),7.2,1/8,-,1/8 AC,-,-,31.2,-,Few clouds
+IRANSHAHR,08/11/2018,12Z,30.5,13%,1011.3 Hpa,250º (W ),14.4,1/8,1/8 CU,AC,-,-,-,-,Few clouds
+IRANSHAHR,08/11/2018,09Z,29.6,11%,1013.5 Hpa,310º (NW),7.2,0/8,-,-,-,-,-,-,Clear
+IRANSHAHR,08/11/2018,06Z,25.4,10%,1017.2 Hpa,060º (NE),7.2,0/8,-,-,-,-,-,-,Clear
+IRANSHAHR,08/11/2018,03Z,15.8,17%,1017.0 Hpa,070º (E ),10.8,0/8,-,-,-,-,-,15.4,Clear
+IRANSHAHR,08/11/2018,00Z,17.0,16%,1014.6 Hpa,010º (N),10.8,0/8,-,-,-,-,-,-,Clear
+JASK,08/11/2018,21Z,26.4,57%,1011.5 Hpa,290º (W ),18.0,0/8,-,-,-,-,-,-,"Clear, haze"
+JASK,08/11/2018,18Z,26.8,55%,1012.2 Hpa,320º (NW),7.4,0/8,-,-,-,-,-,-,"Clear, haze"
+JASK,08/11/2018,15Z,27.1,64%,1011.5 Hpa,300º (NW),18.0,0/8,-,-,-,-,29.9,-,"Clear, haze"
+JASK,08/11/2018,12Z,29.0,105%,1011.1 Hpa,270º (W ),9.3,0/8,-,-,-,-,-,-,"Clear, haze"
+JASK,08/11/2018,09Z,29.7,56%,1013.2 Hpa,260º (W ),18.0,0/8,-,-,-,-,-,-,"Clear, haze"
+JASK,08/11/2018,06Z,27.1,118%,1015.3 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, haze"
+JASK,08/11/2018,03Z,23.5,77%,1014.3 Hpa,340º (N ),7.2,0/8,-,-,-,-,-,23.5,"Clear, haze"
+JASK,08/11/2018,00Z,24.3,99%,1013.8 Hpa,320º (NW),10.8,0/8,-,-,-,-,-,-,"Clear, mist"
+KAHNUJ,08/11/2018,21Z,20.9,48%,1008.5 Hpa,240º (SW),10.8,0/8,-,-,-,-,-,-,Clear
+KAHNUJ,08/11/2018,18Z,21.8,28%,1009.4 Hpa,240º (SW),7.2,0/8,-,-,-,-,-,-,Clear
+KAHNUJ,08/11/2018,15Z,25.7,22%,1009.2 Hpa,020º (N),7.2,0/8,-,-,-,-,31.9,-,Clear
+KAHNUJ,08/11/2018,12Z,31.6,17%,1007.9 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KAHNUJ,08/11/2018,09Z,29.7,20%,1010.4 Hpa,130º (SE),14.4,1/8,-,-,CI,-,-,-,Few clouds
+KAHNUJ,08/11/2018,06Z,25.8,35%,1012.9 Hpa,calm.,,2/8,-,2/8 AC,-,-,-,-,Few clouds
+KAHNUJ,08/11/2018,03Z,16.3,56%,1012.5 Hpa,310º (NW),10.8,3/8,-,3/8 AC,-,-,-,15.3,Scattered clouds
+KAHNUJ,08/11/2018,00Z,18.7,46%,1010.6 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KASHAN,08/11/2018,21Z,9.8,65%,1018.7 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KASHAN,08/11/2018,18Z,10.4,59%,1020.1 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KASHAN,08/11/2018,15Z,13.0,47%,1020.7 Hpa,calm.,,6/8,-,-,CI,-,18.4,-,Cloudy
+KASHAN,08/11/2018,12Z,16.8,41%,1019.8 Hpa,calm.,,4/8,-,4/8 AC,-,-,-,-,Scattered clouds
+KASHAN,08/11/2018,09Z,16.0,45%,1022.0 Hpa,calm.,,4/8,-,-,CI,-,-,-,Scattered clouds
+KASHAN,08/11/2018,06Z,12.0,57%,1024.1 Hpa,calm.,,6/8,-,-,CI,-,-,-,Cloudy
+KASHAN,08/11/2018,03Z,6.0,77%,1023.9 Hpa,calm.,,4/8,-,-,CI,-,-,5.4,Scattered clouds
+KASHAN,08/11/2018,00Z,7.0,75%,1023.2 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KASHMAR,08/11/2018,21Z,10.3,53%,1018.0 Hpa,calm.,,5/8,2/8 SC,-,CI,-,-,-,Cloudy
+KASHMAR,08/11/2018,18Z,12.5,46%,1019.1 Hpa,090º (E ),7.2,4/8,2/8 SC,-,CI,-,-,-,Scattered clouds
+KASHMAR,08/11/2018,15Z,13.6,42%,1020.0 Hpa,calm.,,3/8,1/8 SC,-,CI,-,17.6,-,Scattered clouds
+KASHMAR,08/11/2018,12Z,17.6,32%,1018.8 Hpa,calm.,,2/8,-,-,CI,-,-,-,Few clouds
+KASHMAR,08/11/2018,09Z,15.6,38%,1020.2 Hpa,180º (S ),7.2,1/8,-,-,CI,-,-,-,Few clouds
+KASHMAR,08/11/2018,06Z,11.9,50%,1022.5 Hpa,150º (SE),10.8,1/8,-,-,CI,-,-,-,Few clouds
+KASHMAR,08/11/2018,03Z,5.8,67%,1022.3 Hpa,calm.,,2/8,-,-,CI,-,-,5.8,Few clouds
+KASHMAR,08/11/2018,00Z,7.5,61%,1020.7 Hpa,calm.,,2/8,2/8 SC,-,-,-,-,-,Few clouds
+KERMAN,08/11/2018,21Z,12.5,39%,1012.0 Hpa,calm.,,5/8,-,-,CI,-,-,-,Cloudy
+KERMAN,08/11/2018,18Z,14.4,33%,1013.7 Hpa,350º (N ),14.4,5/8,2/8 SC,-,CI,-,-,-,Cloudy
+KERMAN,08/11/2018,15Z,16.8,28%,1015.6 Hpa,360º (N ),18.0,5/8,3/8 SC,-,CI,-,22.6,-,Cloudy
+KERMAN,08/11/2018,12Z,21.3,16%,1011.8 Hpa,280º (W ),7.2,5/8,3/8 SC,-,CI,-,-,-,Cloudy
+KERMAN,08/11/2018,09Z,21.0,19%,1013.3 Hpa,020º (N),3.6,3/8,1/8 CU,-,CI,-,-,-,Scattered clouds
+KERMAN,08/11/2018,06Z,16.3,28%,1018.2 Hpa,160º (S ),7.2,3/8,-,-,CI,-,-,-,Scattered clouds
+KERMAN,08/11/2018,03Z,5.9,60%,1020.4 Hpa,calm.,,2/8,-,-,CI,-,-,5.8,Few clouds
+KERMAN,08/11/2018,00Z,8.0,54%,1016.9 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KERMANSHAH,08/11/2018,21Z,9.7,86%,1016.8 Hpa,260º (W ),7.2,7/8,4/8 SC,AC,-,-,-,-,Cloudy
+KERMANSHAH,08/11/2018,18Z,11.5,73%,1017.1 Hpa,340º (N ),10.8,6/8,4/8 SC,AC,-,-,-,-,Cloudy
+KERMANSHAH,08/11/2018,15Z,13.5,59%,1017.4 Hpa,100º (E ),10.8,6/8,6/8 CB,AC,-,-,16.0,-,Cloudy
+KERMANSHAH,08/11/2018,12Z,15.3,52%,1016.9 Hpa,080º (E ),14.4,8/8,5/8 CB,AC,,-,-,-,Overcast
+KERMANSHAH,08/11/2018,09Z,14.5,57%,1018.0 Hpa,120º (SE),10.8,7/8,7/8 CB,AC,-,-,-,-,"Cloudy, rain showers"
+KERMANSHAH,08/11/2018,06Z,11.1,76%,1020.0 Hpa,160º (S ),7.2,5/8,3/8 SC,AC,-,-,-,-,Cloudy
+KERMANSHAH,08/11/2018,03Z,7.8,92%,1020.7 Hpa,calm.,,6/8,3/8 SC,AC,-,-,-,7.6,"Cloudy, mist"
+KERMANSHAH,08/11/2018,00Z,8.8,89%,1020.0 Hpa,090º (E ),7.2,7/8,4/8 SC,AC,-,-,-,-,"Cloudy, mist"
+KHARG,08/11/2018,15Z,24.7,69%,1014.5 Hpa,020º (N),18.0,1/8,1/8 SC,-,-,-,25.2,-,Few clouds
+KHARG,08/11/2018,12Z,23.8,80%,1014.8 Hpa,060º (NE),13.0,3/8,1/8 CU,-,CI,9.0(6h),-,-,Scattered clouds
+KHARG,08/11/2018,09Z,24.7,71%,1016.8 Hpa,080º (E ),10.8,4/8,4/8 SC,-,-,-,-,-,Scattered clouds
+KHARG,08/11/2018,06Z,21.9,92%,1019.8 Hpa,160º (S ),3.7,8/8,7/8 CB,AC,,8.0(18h),-,-,"Overcast, thunderstorm"
+KHARG,08/11/2018,03Z,23.0,80%,1016.3 Hpa,070º (E ),18.0,3/8,3/8 SC,-,-,-,-,20.0,Scattered clouds
+KHOR,08/11/2018,21Z,11.0,56%,1018.2 Hpa,270º (W ),7.2,0/8,-,-,-,-,-,-,Clear
+KHOR,08/11/2018,18Z,11.6,52%,1019.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KHOR,08/11/2018,15Z,14.6,47%,1019.2 Hpa,calm.,,2/8,-,2/8 AC,-,-,18.8,-,Few clouds
+KHOR,08/11/2018,12Z,17.2,42%,1018.9 Hpa,040º (NE),7.2,7/8,2/8 SC,AC,CI,-,-,-,Cloudy
+KHOR,08/11/2018,09Z,17.0,41%,1020.5 Hpa,calm.,,6/8,2/8 SC,AC,CI,-,-,-,Cloudy
+KHOR,08/11/2018,06Z,12.6,50%,1023.2 Hpa,calm.,,6/8,1/8 SC,AC,CI,-,-,-,Cloudy
+KHOR,08/11/2018,03Z,9.4,58%,1022.2 Hpa,calm.,,5/8,3/8 SC,AC,-,-,-,8.2,Cloudy
+KHOR,08/11/2018,00Z,9.4,60%,1021.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KHORRAM ABAD,08/11/2018,21Z,11.1,94%,1017.7 Hpa,calm.,,8/8,4/8 CB,AC,,-,-,-,"Overcast, mist"
+KHORRAM ABAD,08/11/2018,18Z,11.9,85%,1018.1 Hpa,110º (E ),7.2,6/8,2/8 SC,AC,-,-,-,-,Cloudy
+KHORRAM ABAD,08/11/2018,15Z,13.0,91%,1018.4 Hpa,160º (S ),3.6,8/8,2/8 SC,AC,,-,17.1,-,Overcast
+KHORRAM ABAD,08/11/2018,12Z,16.6,62%,1018.1 Hpa,070º (E ),3.6,6/8,4/8 CB,AC,-,Tr(6h),-,-,Cloudy
+KHORRAM ABAD,08/11/2018,09Z,13.0,85%,1020.0 Hpa,280º (W ),7.2,8/8,5/8 CB,AC,,-,-,-,"Overcast, rain showers"
+KHORRAM ABAD,08/11/2018,06Z,10.9,91%,1021.3 Hpa,calm.,,8/8,4/8 CB,AC,,1.0(6h),-,-,"Overcast, mist"
+KHORRAM ABAD,08/11/2018,03Z,8.5,97%,1021.0 Hpa,calm.,,4/8,3/8 CB,AC,-,-,-,8.2,"Scattered clouds, mist"
+KHORRAM ABAD,08/11/2018,00Z,8.3,96%,1020.2 Hpa,calm.,,2/8,-,2/8 AC,-,-,-,-,"Few clouds, mist"
+KHOY,08/11/2018,21Z,8.4,87%,1021.0 Hpa,calm.,,8/8,5/8 SC,AC,,-,-,-,Overcast
+KHOY,08/11/2018,18Z,8.4,89%,1021.2 Hpa,calm.,,8/8,5/8 SC,AC,,Tr(6h),-,-,Overcast
+KHOY,08/11/2018,15Z,9.0,87%,1021.2 Hpa,calm.,,8/8,5/8 SC,AC,,-,10.0,-,Overcast
+KHOY,08/11/2018,12Z,9.4,82%,1024.8 Hpa,calm.,,8/8,4/8 SC,AC,,0.4(6h),-,-,"Overcast, rain"
+KHOY,08/11/2018,09Z,8.4,71%,1024.9 Hpa,calm.,,8/8,4/8 SC,AC,,-,-,-,Overcast
+KHOY,08/11/2018,06Z,7.2,86%,1024.7 Hpa,calm.,,8/8,4/8 SC,AC,,0.7(24h),-,-,Overcast
+KHOY,08/11/2018,03Z,6.6,83%,1024.1 Hpa,calm.,,7/8,4/8 SC,AC,-,-,-,4.2,Cloudy
+KHOY,08/11/2018,00Z,4.2,93%,1024.7 Hpa,calm.,,8/8,4/8 SC,AC,,0.7(6h),-,-,Overcast
+KISH ISLAND,08/11/2018,21Z,25.4,70%,1012.8 Hpa,270º (W ),7.2,0/8,-,-,-,-,-,-,"Clear, haze"
+KISH ISLAND,08/11/2018,18Z,25.6,70%,1013.6 Hpa,280º (W ),3.7,0/8,-,-,-,-,-,-,"Clear, haze"
+KISH ISLAND,08/11/2018,15Z,27.0,68%,1013.0 Hpa,270º (W ),10.8,0/8,-,-,-,-,30.6,-,"Clear, haze"
+KISH ISLAND,08/11/2018,12Z,29.6,64%,1013.0 Hpa,270º (W ),5.6,0/8,-,-,-,-,-,-,"Clear, haze"
+KISH ISLAND,08/11/2018,09Z,30.0,63%,1014.6 Hpa,210º (SW),10.8,2/8,2/8 CU,-,-,-,-,-,"Few clouds, haze"
+KISH ISLAND,08/11/2018,06Z,28.6,70%,1016.2 Hpa,240º (SW),7.4,0/8,-,-,-,-,-,-,"Clear, haze"
+KISH ISLAND,08/11/2018,03Z,23.6,88%,1014.9 Hpa,330º (NW),7.2,2/8,-,-,CC,-,-,23.4,"Few clouds, mist"
+KISH ISLAND,08/11/2018,00Z,24.0,86%,1014.1 Hpa,310º (NW),7.2,2/8,-,-,CI,-,-,-,"Few clouds, mist"
+MAKKO,08/11/2018,21Z,5.4,93%,1021.4 Hpa,calm.,,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+MAKKO,08/11/2018,18Z,6.4,88%,1021.6 Hpa,calm.,,7/8,7/8 CB,-,-,-,-,-,Cloudy
+MAKKO,08/11/2018,15Z,6.4,88%,1021.7 Hpa,130º (SE),10.8,8/8,6/8 CB,AC,,-,7.4,-,Overcast
+MAKKO,08/11/2018,12Z,7.4,81%,1021.4 Hpa,160º (S ),10.8,7/8,7/8 CB,-,-,-,-,-,Cloudy
+MAKKO,08/11/2018,09Z,7.2,81%,1022.5 Hpa,calm.,,8/8,6/8 ST,AC,,-,-,-,Overcast
+MAKKO,08/11/2018,06Z,5.4,88%,1023.7 Hpa,calm.,,8/8,7/8 ST,AC,,1.2(24h),-,-,Overcast
+MAKKO,08/11/2018,03Z,4.8,88%,1023.3 Hpa,calm.,,8/8,6/8 ST,AC,,-,-,4.6,Overcast
+MAKKO,08/11/2018,00Z,4.6,91%,1023.3 Hpa,calm.,,8/8,6/8 ST,AC,,1.0(6h),-,-,"Overcast, rain"
+MARAGHEH,08/11/2018,21Z,5.6,95%,1020.9 Hpa,250º (W ),3.6,3/8,2/8 SC,-,CI,-,-,-,"Scattered clouds, mist"
+MARAGHEH,08/11/2018,18Z,6.8,88%,1021.1 Hpa,330º (NW),3.6,8/8,3/8 SC,AC,,1.0(6h),-,-,"Overcast, mist"
+MARAGHEH,08/11/2018,15Z,5.8,85%,1021.1 Hpa,100º (E ),10.8,4/8,3/8 ST,AC,-,-,9.9,-,Scattered clouds
+MARAGHEH,08/11/2018,12Z,6.9,90%,1021.7 Hpa,100º (E ),14.4,8/8,5/8 SC,AC,,3.0(6h),-,-,"Overcast, rain"
+MARAGHEH,08/11/2018,09Z,7.4,89%,1022.5 Hpa,260º (W ),14.4,8/8,4/8 SC,AC,,-,-,-,"Overcast, rain"
+MARAGHEH,08/11/2018,06Z,7.5,77%,1023.3 Hpa,120º (SE),14.4,8/8,6/8 ST,AC,,0.2(6h),-,-,"Overcast, rain"
+MARAGHEH,08/11/2018,03Z,5.6,93%,1022.6 Hpa,calm.,,8/8,3/8 SC,AC,,-,-,3.5,"Overcast, rain"
+MARAGHEH,08/11/2018,00Z,5.3,93%,1022.0 Hpa,calm.,,8/8,3/8 SC,AC,,-,-,-,"Overcast, mist"
+MARAVEH-TAPPEH,08/11/2018,21Z,9.0,84%,1022.7 Hpa,150º (SE),10.8,0/8,-,-,-,-,-,-,Clear
+MARAVEH-TAPPEH,08/11/2018,18Z,11.3,84%,1023.5 Hpa,calm.,,5/8,-,5/8 AC,-,-,-,-,Cloudy
+MARAVEH-TAPPEH,08/11/2018,15Z,11.4,84%,1024.2 Hpa,calm.,,0/8,-,-,-,-,15.4,-,Clear
+MARAVEH-TAPPEH,08/11/2018,12Z,15.0,68%,1023.4 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+MARAVEH-TAPPEH,08/11/2018,09Z,13.1,73%,1025.0 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+MARAVEH-TAPPEH,08/11/2018,06Z,10.8,78%,1026.8 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+MARAVEH-TAPPEH,08/11/2018,03Z,5.8,95%,1027.3 Hpa,160º (S ),7.2,0/8,-,-,-,-,-,5.2,Clear
+MARAVEH-TAPPEH,08/11/2018,00Z,7.0,88%,1026.6 Hpa,260º (W ),7.2,0/8,-,-,-,-,-,-,Clear
+MASHHAD,08/11/2018,21Z,5.4,93%,1021.8 Hpa,290º (W ),7.2,2/8,-,-,CI,-,-,-,"Few clouds, mist"
+MASHHAD,08/11/2018,18Z,7.2,81%,1024.0 Hpa,120º (SE),10.8,3/8,1/8 SC,-,CI,-,-,-,"Scattered clouds, mist"
+MASHHAD,08/11/2018,15Z,8.9,78%,1024.2 Hpa,060º (NE),7.2,2/8,1/8 SC,-,CI,-,13.3,-,"Few clouds, haze"
+MASHHAD,08/11/2018,12Z,11.2,62%,1023.5 Hpa,calm.,,5/8,2/8 CU,-,CI,-,-,-,"Cloudy, haze"
+MASHHAD,08/11/2018,09Z,12.3,56%,1024.9 Hpa,calm.,,3/8,3/8 ST,-,-,-,-,-,Scattered clouds
+MASHHAD,08/11/2018,06Z,7.2,88%,1027.8 Hpa,060º (NE),7.2,6/8,6/8 ST,-,-,0.3(24h),-,-,"Cloudy, mist"
+MASHHAD,08/11/2018,03Z,5.6,100%,1027.5 Hpa,100º (E ),14.4,8/8,8/8 ST,,,-,-,5.6,"Overcast, mist"
+MASHHAD,08/11/2018,00Z,6.3,100%,1026.2 Hpa,120º (SE),7.2,8/8,8/8 ST,,,0.1(6h),-,-,"Overcast, mist"
+MASJED-SOLEYMAN,08/11/2018,21Z,17.8,80%,1015.0 Hpa,010º (N),7.2,0/8,-,-,-,-,-,-,Clear
+MASJED-SOLEYMAN,08/11/2018,18Z,20.0,62%,1014.2 Hpa,120º (SE),3.7,0/8,-,-,-,-,-,-,Clear
+MASJED-SOLEYMAN,08/11/2018,15Z,21.5,55%,1015.0 Hpa,110º (E ),14.4,3/8,3/8 CU,-,-,-,25.8,-,Scattered clouds
+MASJED-SOLEYMAN,08/11/2018,12Z,25.2,53%,1014.4 Hpa,160º (S ),5.6,5/8,3/8 CU,AC,-,-,-,-,Cloudy
+MASJED-SOLEYMAN,08/11/2018,09Z,24.2,63%,1015.7 Hpa,150º (SE),14.4,2/8,-,-,CI,-,-,-,Few clouds
+MASJED-SOLEYMAN,08/11/2018,06Z,19.6,86%,1016.4 Hpa,350º (N ),1.9,4/8,-,-,CI,-,-,-,Scattered clouds
+MASJED-SOLEYMAN,08/11/2018,03Z,15.8,100%,1015.7 Hpa,350º (N ),3.6,5/8,-,-,CI,-,-,15.8,"Cloudy, mist"
+MASJED-SOLEYMAN,08/11/2018,00Z,16.9,98%,1015.9 Hpa,330º (NW),3.6,0/8,-,-,-,-,-,-,Clear
+MEYANEH,08/11/2018,21Z,10.0,87%,1020.2 Hpa,calm.,,5/8,2/8 SC,AC,-,-,-,-,Cloudy
+MEYANEH,08/11/2018,18Z,9.6,82%,1021.1 Hpa,calm.,,5/8,2/8 SC,-,CI,Tr(6h),-,-,Cloudy
+MEYANEH,08/11/2018,15Z,10.6,78%,1020.6 Hpa,calm.,,7/8,3/8 CB,AC,CI,-,13.0,-,Cloudy
+MEYANEH,08/11/2018,12Z,12.8,61%,1020.6 Hpa,calm.,,7/8,4/8 CB,AC,CI,-,-,-,Cloudy
+MEYANEH,08/11/2018,09Z,10.2,69%,1022.2 Hpa,calm.,,7/8,1/8 SC,AC,CI,-,-,-,Cloudy
+MEYANEH,08/11/2018,06Z,7.2,75%,1024.3 Hpa,calm.,,7/8,2/8 SC,AC,CI,-,-,-,Cloudy
+MEYANEH,08/11/2018,03Z,4.8,90%,1023.0 Hpa,calm.,,2/8,2/8 SC,-,-,-,-,4.6,Few clouds
+MEYANEH,08/11/2018,00Z,5.0,90%,1022.8 Hpa,calm.,,2/8,2/8 SC,-,-,-,-,-,Few clouds
+MOHABAD,08/11/2018,21Z,7.6,84%,1021.0 Hpa,calm.,,8/8,2/8 ST,AC,-,-,-,-,"Overcast, mist"
+MOHABAD,08/11/2018,18Z,7.4,84%,1021.3 Hpa,030º (NE),7.2,8/8,5/8 ST,AC,,-,-,-,"Overcast, mist"
+MOHABAD,08/11/2018,15Z,7.3,87%,1021.0 Hpa,030º (NE),10.8,6/8,4/8 ST,AC,-,-,7.6,-,"Cloudy, mist"
+MOHABAD,08/11/2018,12Z,7.4,92%,1021.0 Hpa,060º (NE),7.2,7/8,6/8 ST,AC,-,9.0(6h),-,-,"Cloudy, mist"
+MOHABAD,08/11/2018,09Z,6.8,95%,1022.2 Hpa,060º (NE),10.8,8/8,6/8 ST,AC,,-,-,-,"Overcast, rain"
+MOHABAD,08/11/2018,06Z,6.5,85%,1023.2 Hpa,calm.,,8/8,6/8 ST,AC,,1.5(24h),-,-,"Overcast, drizzle"
+MOHABAD,08/11/2018,03Z,6.0,88%,1022.9 Hpa,calm.,,8/8,6/8 ST,AC,,-,-,5.8,"Overcast, drizzle"
+MOHABAD,08/11/2018,00Z,6.2,85%,1022.9 Hpa,calm.,,8/8,4/8 SC,AC,,-,-,-,"Overcast, mist"
+NEHBANDAN,08/11/2018,21Z,12.2,19%,1013.8 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+NEHBANDAN,08/11/2018,18Z,13.9,14%,1015.5 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+NEHBANDAN,08/11/2018,15Z,16.7,10%,1017.2 Hpa,calm.,,0/8,-,-,-,-,24.4,-,Clear
+NEHBANDAN,08/11/2018,12Z,22.4,7%,1014.9 Hpa,110º (E ),10.8,1/8,-,-,CI,-,-,-,Few clouds
+NEHBANDAN,08/11/2018,09Z,23.7,8%,1015.4 Hpa,140º (SE),18.0,2/8,-,-,CI,-,-,-,Few clouds
+NEHBANDAN,08/11/2018,06Z,20.0,11%,1018.7 Hpa,calm.,,2/8,1/8 CU,AC,-,-,-,-,Few clouds
+NEHBANDAN,08/11/2018,03Z,9.4,23%,1019.2 Hpa,calm.,,0/8,-,-,-,-,-,7.9,Clear
+NEHBANDAN,08/11/2018,00Z,9.0,14%,1016.9 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+NOSHAHR,08/11/2018,21Z,12.0,89%,1021.6 Hpa,calm.,,2/8,2/8 SC,-,-,-,-,-,Few clouds
+NOSHAHR,08/11/2018,18Z,12.8,88%,1021.9 Hpa,180º (S ),3.6,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+NOSHAHR,08/11/2018,15Z,15.6,72%,1022.5 Hpa,calm.,,4/8,4/8 SC,-,-,-,18.2,-,Scattered clouds
+NOSHAHR,08/11/2018,12Z,17.2,64%,1023.0 Hpa,090º (E ),10.8,4/8,4/8 SC,-,-,-,-,-,Scattered clouds
+NOSHAHR,08/11/2018,09Z,17.8,57%,1023.1 Hpa,060º (NE),14.4,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+NOSHAHR,08/11/2018,06Z,15.2,60%,1025.1 Hpa,150º (SE),7.2,4/8,4/8 SC,-,-,36.3(24h),-,-,Scattered clouds
+NOSHAHR,08/11/2018,03Z,12.4,83%,1024.8 Hpa,150º (SE),7.2,6/8,6/8 SC,-,-,-,-,12.2,Cloudy
+NOSHAHR,08/11/2018,00Z,12.8,93%,1025.6 Hpa,150º (SE),7.2,8/8,8/8 ST,,,-,-,-,Overcast
+OMIDYEH-AGHAJARI,08/11/2018,21Z,18.7,89%,1014.6 Hpa,080º (E ),10.8,0/8,-,-,-,-,-,-,"Clear, mist"
+OMIDYEH-AGHAJARI,08/11/2018,18Z,21.2,79%,1014.7 Hpa,020º (N),3.7,0/8,-,-,-,-,-,-,Clear
+OMIDYEH-AGHAJARI,08/11/2018,15Z,23.2,74%,1015.3 Hpa,310º (NW),7.2,3/8,3/8 SC,-,-,-,26.4,-,Scattered clouds
+OMIDYEH-AGHAJARI,08/11/2018,12Z,26.4,61%,1015.9 Hpa,140º (SE),3.7,5/8,5/8 CB,-,-,-,-,-,Cloudy
+OMIDYEH-AGHAJARI,08/11/2018,09Z,23.6,79%,1017.6 Hpa,180º (S ),10.8,7/8,4/8 CB,AC,-,-,-,-,"Cloudy, mist"
+OMIDYEH-AGHAJARI,08/11/2018,06Z,22.1,80%,1017.8 Hpa,170º (S ),5.6,7/8,4/8 CB,AC,-,-,-,-,"Cloudy, mist"
+OMIDYEH-AGHAJARI,08/11/2018,03Z,18.4,88%,1016.6 Hpa,150º (SE),10.8,5/8,3/8 CU,-,CI,-,-,18.0,"Cloudy, mist"
+OMIDYEH-AGHAJARI,08/11/2018,00Z,18.5,89%,1016.0 Hpa,140º (SE),3.6,0/8,-,-,-,-,-,-,Clear
+ORUMIEH,08/11/2018,21Z,5.6,97%,1021.1 Hpa,140º (SE),3.6,7/8,7/8 CB,AC,-,-,-,-,"Cloudy, mist"
+ORUMIEH,08/11/2018,18Z,4.8,98%,1022.4 Hpa,calm.,,7/8,6/8 CB,AC,-,-,-,-,"Cloudy, mist"
+ORUMIEH,08/11/2018,15Z,6.0,94%,1021.7 Hpa,calm.,,7/8,7/8 CB,AC,-,-,8.4,-,"Cloudy, mist"
+ORUMIEH,08/11/2018,12Z,7.8,84%,1021.5 Hpa,110º (E ),7.2,7/8,6/8 CB,AC,-,1.0(6h),-,-,"Cloudy, rain"
+ORUMIEH,08/11/2018,09Z,7.6,79%,1022.7 Hpa,350º (N ),7.2,8/8,7/8 CB,AC,,-,-,-,"Overcast, haze"
+ORUMIEH,08/11/2018,06Z,6.0,94%,1023.7 Hpa,calm.,,8/8,8/8 CB,AC,,0.2(6h),-,-,"Overcast, rain"
+ORUMIEH,08/11/2018,03Z,5.3,98%,1023.2 Hpa,calm.,,8/8,8/8 CB,AC,,-,-,5.2,"Overcast, rain"
+ORUMIEH,08/11/2018,00Z,5.2,95%,1023.7 Hpa,320º (NW),3.6,8/8,6/8 ST,AC,,-,-,-,Overcast
+RAMSAR,08/11/2018,21Z,13.6,88%,1020.6 Hpa,220º (SW),3.6,4/8,4/8 SC,-,-,-,-,-,Scattered clouds
+RAMSAR,08/11/2018,18Z,13.6,88%,1021.2 Hpa,260º (W ),3.6,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+RAMSAR,08/11/2018,15Z,14.4,84%,1021.6 Hpa,210º (SW),3.6,5/8,5/8 CB,-,-,-,18.0,-,Cloudy
+RAMSAR,08/11/2018,12Z,17.0,64%,1022.0 Hpa,150º (SE),10.8,6/8,6/8 CB,-,CI,-,-,-,Cloudy
+RAMSAR,08/11/2018,09Z,17.0,67%,1023.0 Hpa,110º (E ),18.0,4/8,4/8 CU/SC,-,-,-,-,-,Scattered clouds
+RAMSAR,08/11/2018,06Z,15.0,75%,1024.8 Hpa,150º (SE),7.2,5/8,5/8 CB,-,-,17.8(24h),-,-,Cloudy
+RAMSAR,08/11/2018,03Z,14.0,90%,1024.6 Hpa,180º (S ),7.2,8/8,5/8 CB,AC,,-,-,12.4,Overcast
+RAMSAR,08/11/2018,00Z,13.4,95%,1025.5 Hpa,150º (SE),3.6,8/8,6/8 CB,AC,,5.0(6h),-,-,Overcast
+RASHT,08/11/2018,21Z,13.4,88%,1022.3 Hpa,calm.,,3/8,-,3/8 AC,-,-,-,-,Scattered clouds
+RASHT,08/11/2018,18Z,14.0,88%,1022.7 Hpa,calm.,,5/8,3/8 SC,AC,-,-,-,-,Cloudy
+RASHT,08/11/2018,15Z,14.0,88%,1023.0 Hpa,Vble.,,6/8,4/8 CB,AC,-,-,17.2,-,Cloudy
+RASHT,08/11/2018,12Z,17.0,67%,1023.2 Hpa,030º (NE),10.8,6/8,4/8 CB,AC,-,-,-,-,Cloudy
+RASHT,08/11/2018,09Z,16.0,72%,1024.0 Hpa,calm.,,6/8,4/8 CU,AC,-,-,-,-,Cloudy
+RASHT,08/11/2018,06Z,14.0,84%,1025.5 Hpa,calm.,,5/8,2/8 SC,-,CC,-,-,-,Cloudy
+RASHT,08/11/2018,03Z,11.6,94%,1026.0 Hpa,calm.,,7/8,4/8 SC,AC,-,-,-,10.0,"Cloudy, mist"
+RASHT,08/11/2018,00Z,11.8,97%,1025.9 Hpa,calm.,,7/8,4/8 SC,AC,-,-,-,-,"Cloudy, mist"
+SABZEVAR,08/11/2018,21Z,9.9,63%,1019.1 Hpa,080º (E ),18.0,0/8,-,-,-,-,-,-,Clear
+SABZEVAR,08/11/2018,18Z,10.8,61%,1020.4 Hpa,070º (E ),14.4,2/8,-,-,CI,-,-,-,Few clouds
+SABZEVAR,08/11/2018,15Z,12.5,54%,1020.3 Hpa,calm.,,3/8,-,-,CI,-,17.4,-,Scattered clouds
+SABZEVAR,08/11/2018,12Z,17.3,37%,1019.5 Hpa,calm.,,6/8,1/8 CU,-,CI,-,-,-,Cloudy
+SABZEVAR,08/11/2018,09Z,15.0,47%,1021.2 Hpa,100º (E ),14.4,5/8,1/8 CU,-,CI,-,-,-,Cloudy
+SABZEVAR,08/11/2018,06Z,11.3,67%,1024.5 Hpa,100º (E ),18.0,3/8,-,-,CI,Tr(24h),-,-,Scattered clouds
+SABZEVAR,08/11/2018,03Z,8.5,78%,1023.9 Hpa,090º (E ),18.0,0/8,-,-,-,-,-,7.8,Clear
+SABZEVAR,08/11/2018,00Z,8.8,80%,1023.1 Hpa,110º (E ),7.2,0/8,-,-,-,-,-,-,Clear
+SAFI-ABAD DEZFUL,08/11/2018,21Z,17.4,95%,1017.0 Hpa,150º (SE),21.6,0/8,-,-,-,-,-,-,Clear
+SAFI-ABAD DEZFUL,08/11/2018,18Z,18.3,91%,1015.7 Hpa,050º (NE),3.7,0/8,-,-,-,-,-,-,Clear
+SAFI-ABAD DEZFUL,08/11/2018,15Z,21.4,76%,1015.6 Hpa,140º (SE),10.8,3/8,-,-,CI,-,27.5,-,Scattered clouds
+SAFI-ABAD DEZFUL,08/11/2018,12Z,27.5,44%,1015.3 Hpa,070º (E ),3.7,3/8,-,-,CI,-,-,-,Scattered clouds
+SAFI-ABAD DEZFUL,08/11/2018,09Z,25.0,58%,1017.1 Hpa,140º (SE),10.8,6/8,1/8 CU,-,CI,-,-,-,Cloudy
+SAFI-ABAD DEZFUL,08/11/2018,06Z,21.7,72%,1017.6 Hpa,020º (N),7.4,3/8,-,-,CI,-,-,-,Scattered clouds
+SAFI-ABAD DEZFUL,08/11/2018,03Z,16.2,96%,1017.4 Hpa,290º (W ),7.2,6/8,2/8 SC,AC,-,-,-,15.9,Cloudy
+SAFI-ABAD DEZFUL,08/11/2018,00Z,16.4,98%,1016.9 Hpa,010º (N),10.8,1/8,1/8 SC,-,-,-,-,-,Few clouds
+SAGHEZ,08/11/2018,21Z,6.3,95%,1019.6 Hpa,170º (S ),3.6,7/8,5/8 ST,AC,-,-,-,-,"Cloudy, rain"
+SAGHEZ,08/11/2018,18Z,6.8,92%,1020.6 Hpa,180º (S ),3.6,8/8,4/8 SC,AC,,6.0(6h),-,-,"Overcast, rain"
+SAGHEZ,08/11/2018,15Z,7.2,94%,1020.3 Hpa,020º (N),7.2,8/8,4/8 SC,AC,,-,11.5,-,"Overcast, rain"
+SAGHEZ,08/11/2018,12Z,10.1,81%,1018.3 Hpa,340º (N ),14.4,7/8,3/8 SC,AC,-,0.4(6h),-,-,Cloudy
+SAGHEZ,08/11/2018,09Z,9.8,78%,1020.4 Hpa,110º (E ),3.6,6/8,4/8 SC,AC,-,-,-,-,Cloudy
+SAGHEZ,08/11/2018,06Z,7.0,92%,1022.1 Hpa,180º (S ),7.2,6/8,5/8 ST,AC,-,0.1(6h),-,-,"Cloudy, mist"
+SAGHEZ,08/11/2018,03Z,5.9,95%,1021.8 Hpa,calm.,,7/8,6/8 ST,AC,-,-,-,4.9,Cloudy
+SAGHEZ,08/11/2018,00Z,6.2,95%,1021.0 Hpa,calm.,,7/8,6/8 ST,AC,-,0.4(6h),-,-,Cloudy
+SANANDAJ,08/11/2018,21Z,9.3,89%,1016.7 Hpa,200º (S ),3.6,7/8,5/8 CB,AC,-,-,-,-,Cloudy
+SANANDAJ,08/11/2018,18Z,9.1,90%,1018.3 Hpa,190º (S ),3.6,7/8,4/8 CB,AC,CI,2.0(6h),-,-,Cloudy
+SANANDAJ,08/11/2018,15Z,9.2,87%,1018.9 Hpa,calm.,,7/8,4/8 CB,AC,CI,-,15.0,-,Cloudy
+SANANDAJ,08/11/2018,12Z,9.8,82%,1019.5 Hpa,170º (S ),10.8,8/8,7/8 CB,AC,-,0.8(6h),-,-,"Overcast, rain showers"
+SANANDAJ,08/11/2018,09Z,14.4,59%,1018.1 Hpa,220º (SW),10.8,4/8,3/8 CU/SC,AC,CI,-,-,-,Scattered clouds
+SANANDAJ,08/11/2018,06Z,10.3,74%,1021.0 Hpa,130º (SE),3.6,4/8,2/8 ST,-,CI,Tr(6h),-,-,"Scattered clouds, haze"
+SANANDAJ,08/11/2018,03Z,7.0,90%,1020.4 Hpa,calm.,,7/8,5/8 CB,AC,-,-,-,5.7,"Cloudy, mist"
+SANANDAJ,08/11/2018,00Z,6.4,90%,1020.2 Hpa,calm.,,5/8,4/8 CB,AC,-,Tr(6h),-,-,"Cloudy, rain showers"
+SARAB,08/11/2018,21Z,4.4,93%,1019.5 Hpa,calm.,,7/8,4/8 CB,AC,-,-,-,-,Cloudy
+SARAB,08/11/2018,18Z,5.4,88%,1021.5 Hpa,320º (NW),14.4,6/8,4/8 CB,AC,-,0.2(6h),-,-,Cloudy
+SARAB,08/11/2018,15Z,7.8,67%,1023.1 Hpa,300º (NW),14.4,6/8,4/8 CB,AC,-,-,11.6,-,Cloudy
+SARAB,08/11/2018,12Z,10.2,54%,1022.1 Hpa,300º (NW),14.4,7/8,5/8 CB,AC,-,-,-,-,Cloudy
+SARAB,08/11/2018,09Z,9.4,55%,1022.5 Hpa,240º (SW),10.8,5/8,3/8 SC,AC,CI,-,-,-,Cloudy
+SARAB,08/11/2018,06Z,3.6,78%,1025.7 Hpa,270º (W ),7.2,4/8,2/8 SC,AC,-,-,-,-,Scattered clouds
+SARAB,08/11/2018,03Z,-3.8,87%,1026.4 Hpa,calm.,,1/8,1/8 SC,-,-,-,-,-4.0,Few clouds
+SARAB,08/11/2018,00Z,-3.0,86%,1025.5 Hpa,calm.,,1/8,1/8 SC,-,-,-,-,-,Few clouds
+SARAKHS,08/11/2018,21Z,7.6,87%,1023.9 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SARAKHS,08/11/2018,18Z,10.0,75%,1023.9 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SARAKHS,08/11/2018,15Z,12.0,65%,1025.4 Hpa,070º (E ),7.2,0/8,-,-,-,-,14.9,-,Clear
+SARAKHS,08/11/2018,12Z,14.9,54%,1025.8 Hpa,110º (E ),7.2,0/8,-,-,-,-,-,-,Clear
+SARAKHS,08/11/2018,09Z,13.2,65%,1029.0 Hpa,120º (SE),7.2,2/8,2/8 CU,-,-,-,-,-,Few clouds
+SARAKHS,08/11/2018,06Z,9.1,84%,1030.3 Hpa,120º (SE),10.8,6/8,3/8 SC,AC,-,0.3(24h),-,-,Cloudy
+SARAKHS,08/11/2018,03Z,8.1,87%,1030.0 Hpa,calm.,,8/8,5/8 ST,AC,,-,-,7.6,Overcast
+SARAKHS,08/11/2018,00Z,7.8,85%,1029.7 Hpa,150º (SE),10.8,8/8,4/8 ST,AC,,-,-,-,Overcast
+SARAVAN,08/11/2018,21Z,12.4,16%,1015.0 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SARAVAN,08/11/2018,18Z,18.1,12%,1015.4 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SARAVAN,08/11/2018,15Z,21.0,9%,1016.4 Hpa,070º (E ),14.4,0/8,-,-,-,-,27.7,-,Clear
+SARAVAN,08/11/2018,12Z,26.0,7%,1014.6 Hpa,090º (E ),10.8,0/8,-,-,-,-,-,-,Clear
+SARAVAN,08/11/2018,09Z,26.8,6%,1016.0 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SARAVAN,08/11/2018,06Z,23.4,7%,1018.4 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SARAVAN,08/11/2018,03Z,12.1,15%,1019.2 Hpa,320º (NW),7.2,0/8,-,-,-,-,-,10.5,Clear
+SARAVAN,08/11/2018,00Z,11.4,16%,1015.8 Hpa,330º (NW),7.2,0/8,-,-,-,-,-,-,Clear
+SEMNAN,08/11/2018,21Z,9.8,61%,1018.7 Hpa,360º (N ),3.6,0/8,-,-,-,-,-,-,Clear
+SEMNAN,08/11/2018,18Z,10.6,56%,1019.8 Hpa,360º (N ),7.2,0/8,-,-,-,-,-,-,Clear
+SEMNAN,08/11/2018,15Z,12.8,51%,1020.0 Hpa,240º (SW),3.6,0/8,-,-,-,-,16.4,-,Clear
+SEMNAN,08/11/2018,12Z,16.0,44%,1019.2 Hpa,180º (S ),7.2,2/8,1/8 SC,-,CS,-,-,-,Few clouds
+SEMNAN,08/11/2018,09Z,15.4,48%,1019.9 Hpa,120º (SE),3.6,3/8,1/8 CU/SC,-,CI,-,-,-,Scattered clouds
+SEMNAN,08/11/2018,06Z,13.0,55%,1022.4 Hpa,170º (S ),3.6,6/8,1/8 SC,AC,-,-,-,-,Cloudy
+SEMNAN,08/11/2018,03Z,7.6,73%,1022.9 Hpa,calm.,,3/8,1/8 SC,AC,CI,-,-,7.4,Scattered clouds
+SEMNAN,08/11/2018,00Z,8.4,69%,1022.1 Hpa,calm.,,5/8,3/8 SC,AC,-,-,-,-,Cloudy
+SHAHRE-KORD,08/11/2018,21Z,2.7,90%,1018.1 Hpa,360º (N ),3.6,1/8,1/8 SC,-,-,-,-,-,Few clouds
+SHAHRE-KORD,08/11/2018,18Z,5.8,80%,1019.4 Hpa,310º (NW),3.6,1/8,1/8 SC,-,-,-,-,-,Few clouds
+SHAHRE-KORD,08/11/2018,15Z,9.2,66%,1020.5 Hpa,180º (S ),7.2,4/8,4/8 SC,-,-,-,13.1,-,Scattered clouds
+SHAHRE-KORD,08/11/2018,12Z,12.4,55%,1018.1 Hpa,200º (S ),18.0,6/8,4/8 CB,AC,-,0.1(6h),-,-,"Cloudy, rain showers"
+SHAHRE-KORD,08/11/2018,09Z,12.4,51%,1019.1 Hpa,040º (NE),7.2,5/8,3/8 SC,AC,-,-,-,-,Cloudy
+SHAHRE-KORD,08/11/2018,06Z,6.8,70%,1021.5 Hpa,250º (W ),3.6,6/8,3/8 SC,-,CI,-,-,-,Cloudy
+SHAHRE-KORD,08/11/2018,03Z,0.0,90%,1023.2 Hpa,270º (W ),3.6,2/8,2/8 SC,-,-,-,-,-0.1,Few clouds
+SHAHRE-KORD,08/11/2018,00Z,2.0,81%,1019.3 Hpa,320º (NW),7.2,1/8,1/8 SC,-,-,-,-,-,Few clouds
+SHAHRUD,08/11/2018,21Z,5.6,68%,1019.9 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SHAHRUD,08/11/2018,18Z,9.0,58%,1020.7 Hpa,350º (N ),7.2,0/8,-,-,-,-,-,-,Clear
+SHAHRUD,08/11/2018,15Z,9.8,57%,1021.5 Hpa,calm.,,1/8,1/8 SC,-,-,-,14.6,-,Few clouds
+SHAHRUD,08/11/2018,12Z,13.8,40%,1020.7 Hpa,calm.,,2/8,2/8 SC,-,-,-,-,-,Few clouds
+SHAHRUD,08/11/2018,09Z,13.4,41%,1022.6 Hpa,calm.,,2/8,2/8 SC,-,-,-,-,-,Few clouds
+SHAHRUD,08/11/2018,06Z,9.2,54%,1025.5 Hpa,360º (N ),10.8,6/8,4/8 SC,AC,-,-,-,-,Cloudy
+SHAHRUD,08/11/2018,03Z,5.4,68%,1025.2 Hpa,020º (N),7.2,6/8,3/8 SC,-,CI,-,-,5.4,Cloudy
+SHAHRUD,08/11/2018,00Z,5.6,60%,1023.9 Hpa,020º (N),7.2,3/8,1/8 SC,AC,-,-,-,-,Scattered clouds
+SHIRAZ,08/11/2018,21Z,8.0,97%,1016.3 Hpa,calm.,,1/8,1/8 SC,-,-,-,-,-,"Few clouds, mist"
+SHIRAZ,08/11/2018,18Z,9.2,94%,1017.2 Hpa,Vble.,,2/8,2/8 SC,-,-,-,-,-,Few clouds
+SHIRAZ,08/11/2018,15Z,11.4,81%,1017.7 Hpa,calm.,,5/8,5/8 CB,-,-,-,18.4,-,Cloudy
+SHIRAZ,08/11/2018,12Z,14.0,73%,1016.8 Hpa,030º (NE),7.2,8/8,4/8 CB,AC,,1.0(6h),-,-,Overcast
+SHIRAZ,08/11/2018,09Z,17.4,47%,1017.2 Hpa,200º (S ),10.8,8/8,4/8 CB,AC,,-,-,-,"Overcast, haze"
+SHIRAZ,08/11/2018,06Z,14.2,65%,1018.5 Hpa,calm.,,7/8,2/8 SC,AC,-,0.1(24h),-,-,"Cloudy, haze"
+SHIRAZ,08/11/2018,03Z,9.4,87%,1018.6 Hpa,calm.,,6/8,2/8 SC,AC,-,-,-,8.2,Cloudy
+SHIRAZ,08/11/2018,00Z,9.6,90%,1016.9 Hpa,calm.,,6/8,1/8 SC,-,CI,-,-,-,"Cloudy, mist"
+SIRI ISLAND,08/11/2018,15Z,28.0,70%,1013.2 Hpa,290º (W ),10.8,0/8,-,-,-,-,30.4,-,Clear
+SIRI ISLAND,08/11/2018,12Z,30.0,100%,1013.5 Hpa,240º (SW),9.3,0/8,-,-,-,-,-,-,Clear
+SIRI ISLAND,08/11/2018,09Z,30.2,59%,1015.2 Hpa,210º (SW),14.4,1/8,1/8 SC,-,-,-,-,-,Few clouds
+SIRI ISLAND,08/11/2018,06Z,29.2,15%,1017.0 Hpa,calm.,,4/8,4/8 CU,-,-,-,-,-,Scattered clouds
+SIRI ISLAND,08/11/2018,03Z,25.8,76%,1015.5 Hpa,calm.,,3/8,-,2/8 AC,CI,-,-,24.0,Scattered clouds
+SIRJAN,08/11/2018,21Z,9.9,68%,1013.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SIRJAN,08/11/2018,18Z,12.7,60%,1014.1 Hpa,030º (NE),10.8,0/8,-,-,-,-,-,-,Clear
+SIRJAN,08/11/2018,15Z,18.4,32%,1014.3 Hpa,240º (SW),14.4,7/8,5/8 CB,AC,-,-,22.0,-,Cloudy
+SIRJAN,08/11/2018,12Z,21.3,25%,1012.0 Hpa,240º (SW),25.2,6/8,6/8 CB,-,CI,-,-,-,Cloudy
+SIRJAN,08/11/2018,09Z,20.3,32%,1013.6 Hpa,210º (SW),14.4,3/8,1/8 CU,-,CI,-,-,-,Scattered clouds
+SIRJAN,08/11/2018,06Z,16.4,45%,1016.3 Hpa,120º (SE),10.8,3/8,-,-,CI,-,-,-,Scattered clouds
+SIRJAN,08/11/2018,03Z,6.6,75%,1018.2 Hpa,calm.,,4/8,1/8 SC,-,CI,-,-,6.4,Scattered clouds
+SIRJAN,08/11/2018,00Z,8.2,68%,1015.8 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+TABAS,08/11/2018,21Z,14.2,36%,1016.4 Hpa,calm.,,4/8,-,-,CI,-,-,-,Scattered clouds
+TABAS,08/11/2018,18Z,17.4,30%,1016.9 Hpa,calm.,,4/8,-,-,CI,-,-,-,Scattered clouds
+TABAS,08/11/2018,15Z,19.9,25%,1017.0 Hpa,360º (N ),7.2,4/8,2/8 SC,AC,-,-,25.6,-,Scattered clouds
+TABAS,08/11/2018,12Z,25.5,20%,1015.9 Hpa,calm.,,3/8,-,3/8 AC,-,-,-,-,Scattered clouds
+TABAS,08/11/2018,09Z,23.1,23%,1018.1 Hpa,calm.,,3/8,2/8 SC,AC,-,-,-,-,Scattered clouds
+TABAS,08/11/2018,06Z,17.8,30%,1020.6 Hpa,calm.,,2/8,-,2/8 AC,-,-,-,-,Few clouds
+TABAS,08/11/2018,03Z,12.5,37%,1020.4 Hpa,100º (E ),10.8,3/8,2/8 CU,AC,-,-,-,11.3,Scattered clouds
+TABAS,08/11/2018,00Z,12.6,37%,1019.1 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+TABRIZ,08/11/2018,21Z,7.0,92%,1021.5 Hpa,260º (W ),7.2,6/8,3/8 SC,AC,-,-,-,-,"Cloudy, mist"
+TABRIZ,08/11/2018,18Z,5.8,91%,1023.0 Hpa,020º (N),7.2,7/8,3/8 CB,AC,-,-,-,-,"Cloudy, mist"
+TABRIZ,08/11/2018,15Z,8.0,81%,1022.1 Hpa,calm.,,7/8,4/8 CB,AC,-,-,11.2,-,"Cloudy, mist"
+TABRIZ,08/11/2018,12Z,8.8,77%,1022.4 Hpa,220º (SW),10.8,7/8,4/8 CB,AC,CI,Tr(6h),-,-,"Cloudy, distant precipitation"
+TABRIZ,08/11/2018,09Z,9.4,63%,1022.6 Hpa,050º (NE),7.2,7/8,5/8 CB,AC,CI,-,-,-,"Cloudy, haze"
+TABRIZ,08/11/2018,06Z,6.4,85%,1024.3 Hpa,330º (NW),7.2,6/8,5/8 CB,AC,CI,Tr(6h),-,-,"Cloudy, drizzle"
+TABRIZ,08/11/2018,03Z,5.0,91%,1023.9 Hpa,calm.,,7/8,2/8 ST,AC,-,-,-,3.4,"Cloudy, mist"
+TABRIZ,08/11/2018,00Z,3.6,93%,1024.2 Hpa,040º (NE),7.2,5/8,2/8 ST,-,CI,-,-,-,"Cloudy, mist"
+TEHRAN-MEHRABAD,08/11/2018,21Z,10.6,80%,1018.4 Hpa,360º (N ),7.2,7/8,3/8 SC,AC,-,-,-,-,"Cloudy, rain"
+TEHRAN-MEHRABAD,08/11/2018,18Z,12.0,60%,1020.0 Hpa,250º (W ),10.8,7/8,3/8 SC,AC,-,-,-,-,Cloudy
+TEHRAN-MEHRABAD,08/11/2018,15Z,12.9,53%,1019.0 Hpa,220º (SW),7.2,6/8,3/8 SC,AC,-,-,14.4,-,Cloudy
+TEHRAN-MEHRABAD,08/11/2018,12Z,14.3,48%,1019.2 Hpa,120º (SE),7.2,6/8,3/8 CU,AC,-,-,-,-,Cloudy
+TEHRAN-MEHRABAD,08/11/2018,09Z,13.6,49%,1020.6 Hpa,160º (S ),14.4,4/8,2/8 CU,AC,CI,-,-,-,Scattered clouds
+TEHRAN-MEHRABAD,08/11/2018,06Z,10.7,65%,1023.3 Hpa,160º (S ),14.4,7/8,3/8 CB,AC,-,1.0(6h),-,-,Cloudy
+TEHRAN-MEHRABAD,08/11/2018,03Z,10.5,70%,1021.8 Hpa,060º (NE),10.8,7/8,5/8 CB,AC,,-,-,8.5,Cloudy
+TEHRAN-MEHRABAD,08/11/2018,00Z,9.7,78%,1021.7 Hpa,310º (NW),7.2,8/8,3/8 SC,AC,,0.4(6h),-,-,"Overcast, rain"
+TORBAT-HEYDARIEH,08/11/2018,21Z,6.0,68%,1018.3 Hpa,calm.,,2/8,1/8 SC,-,CI,-,-,-,Few clouds
+TORBAT-HEYDARIEH,08/11/2018,18Z,8.2,56%,1020.4 Hpa,050º (NE),7.2,4/8,1/8 SC,-,CI,-,-,-,Scattered clouds
+TORBAT-HEYDARIEH,08/11/2018,15Z,10.3,48%,1021.1 Hpa,calm.,,5/8,-,-,CI,-,15.8,-,Cloudy
+TORBAT-HEYDARIEH,08/11/2018,12Z,14.2,39%,1019.6 Hpa,180º (S ),7.2,7/8,-,2/8 AC,CI,-,-,-,Cloudy
+TORBAT-HEYDARIEH,08/11/2018,09Z,14.2,36%,1020.4 Hpa,130º (SE),7.2,5/8,-,-,CI,-,-,-,Cloudy
+TORBAT-HEYDARIEH,08/11/2018,06Z,8.0,62%,1024.2 Hpa,110º (E ),14.4,4/8,-,-,CI,-,-,-,Scattered clouds
+TORBAT-HEYDARIEH,08/11/2018,03Z,3.2,81%,1023.6 Hpa,090º (E ),18.0,1/8,-,-,CI,-,-,3.1,Few clouds
+TORBAT-HEYDARIEH,08/11/2018,00Z,3.8,78%,1021.4 Hpa,060º (NE),18.0,0/8,-,-,-,-,-,-,Clear
+YASOGE,08/11/2018,21Z,5.8,91%,1020.8 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+YASOGE,08/11/2018,18Z,7.4,87%,1019.7 Hpa,110º (E ),7.2,1/8,1/8 SC,-,-,-,-,-,Few clouds
+YASOGE,08/11/2018,15Z,10.0,76%,1019.1 Hpa,calm.,,3/8,3/8 SC,-,-,-,13.2,-,Scattered clouds
+YASOGE,08/11/2018,12Z,13.0,62%,1017.0 Hpa,calm.,,8/8,4/8 CB,AC,,0.4(6h),-,-,Overcast
+YASOGE,08/11/2018,09Z,10.0,87%,1020.1 Hpa,calm.,,8/8,5/8 CB,AC,,-,-,-,"Overcast, rain"
+YASOGE,08/11/2018,06Z,9.6,81%,1020.5 Hpa,calm.,,8/8,5/8 CB,AC,,1.0(6h),-,-,Overcast
+YASOGE,08/11/2018,03Z,8.2,97%,1020.2 Hpa,160º (S ),10.8,8/8,5/8 CB,AC,,-,-,7.6,"Overcast, rain"
+YASOGE,08/11/2018,00Z,7.8,92%,1018.7 Hpa,calm.,,4/8,1/8 SC,AC,-,-,-,-,Scattered clouds
+YAZD,08/11/2018,21Z,11.4,44%,1018.3 Hpa,250º (W ),7.2,0/8,-,-,-,-,-,-,Clear
+YAZD,08/11/2018,18Z,14.0,37%,1019.5 Hpa,280º (W ),3.6,1/8,-,1/8 AC,-,-,-,-,Few clouds
+YAZD,08/11/2018,15Z,16.0,34%,1019.6 Hpa,310º (NW),3.6,7/8,1/8 SC,AC,CI,-,18.5,-,Cloudy
+YAZD,08/11/2018,12Z,17.9,29%,1018.1 Hpa,290º (W ),3.6,8/8,1/8 CU,AC,CS,-,-,-,Overcast
+YAZD,08/11/2018,09Z,16.1,33%,1020.4 Hpa,300º (NW),3.6,5/8,-,3/8 AC,CC,-,-,-,Cloudy
+YAZD,08/11/2018,06Z,11.9,50%,1023.1 Hpa,290º (W ),7.2,2/8,-,1/8 AC,CI,-,-,-,Few clouds
+YAZD,08/11/2018,03Z,7.2,57%,1024.0 Hpa,220º (SW),3.6,2/8,-,-,CI,-,-,7.0,Few clouds
+YAZD,08/11/2018,00Z,9.5,50%,1021.3 Hpa,270º (W ),7.2,0/8,-,-,-,-,-,-,Clear
+ZABOL,08/11/2018,21Z,12.3,46%,1017.3 Hpa,350º (N ),14.4,0/8,-,-,-,-,-,-,Clear
+ZABOL,08/11/2018,18Z,14.5,42%,1018.7 Hpa,340º (N ),9.3,0/8,-,-,-,-,-,-,Clear
+ZABOL,08/11/2018,15Z,16.4,35%,1018.4 Hpa,320º (NW),10.8,1/8,-,-,CI,-,24.3,-,Few clouds
+ZABOL,08/11/2018,12Z,23.4,21%,1016.4 Hpa,350º (N ),11.1,3/8,-,1/8 AC,CI,-,-,-,Scattered clouds
+ZABOL,08/11/2018,09Z,23.0,24%,1018.2 Hpa,350º (N ),21.6,1/8,-,-,CI,-,-,-,Few clouds
+ZABOL,08/11/2018,06Z,17.8,35%,1021.6 Hpa,340º (N ),13.0,2/8,-,-,CI,-,-,-,Few clouds
+ZABOL,08/11/2018,03Z,12.1,46%,1021.8 Hpa,320º (NW),25.2,2/8,-,-,CI,-,-,11.7,Few clouds
+ZABOL,08/11/2018,00Z,13.2,40%,1018.9 Hpa,340º (N ),25.2,0/8,-,-,-,-,-,-,Clear
+ZAHEDAN,08/11/2018,21Z,7.2,29%,1015.3 Hpa,170º (S ),10.8,0/8,-,-,-,-,-,-,Clear
+ZAHEDAN,08/11/2018,18Z,9.4,27%,1017.4 Hpa,170º (S ),10.8,0/8,-,-,-,-,-,-,Clear
+ZAHEDAN,08/11/2018,15Z,15.0,25%,1018.0 Hpa,320º (NW),7.2,0/8,-,-,-,-,25.3,-,Clear
+ZAHEDAN,08/11/2018,12Z,21.2,16%,1015.0 Hpa,360º (N ),21.6,2/8,-,1/8 AC,CI,-,-,-,Few clouds
+ZAHEDAN,08/11/2018,09Z,24.2,13%,1014.8 Hpa,330º (NW),7.2,4/8,-,-,CI,-,-,-,Scattered clouds
+ZAHEDAN,08/11/2018,06Z,17.1,16%,1019.8 Hpa,360º (N ),7.2,2/8,-,1/8 AC,CI,-,-,-,Few clouds
+ZAHEDAN,08/11/2018,03Z,7.9,22%,1020.7 Hpa,160º (S ),7.2,2/8,-,-,CI,-,-,5.9,Few clouds
+ZAHEDAN,08/11/2018,00Z,7.4,20%,1017.5 Hpa,150º (SE),10.8,0/8,-,-,-,-,-,-,Clear
+ZANJAN,08/11/2018,21Z,5.9,93%,1019.1 Hpa,090º (E ),7.2,8/8,4/8 ST,AC,,-,-,-,"Overcast, mist"
+ZANJAN,08/11/2018,18Z,6.6,90%,1019.8 Hpa,100º (E ),3.6,8/8,4/8 ST,AC,,Tr(6h),-,-,"Overcast, rain"
+ZANJAN,08/11/2018,15Z,7.7,82%,1020.0 Hpa,110º (E ),7.2,7/8,5/8 CB,AC,-,-,10.5,-,Cloudy
+ZANJAN,08/11/2018,12Z,9.4,72%,1019.4 Hpa,100º (E ),7.2,7/8,4/8 CB,AC,-,Tr(6h),-,-,Cloudy
+ZANJAN,08/11/2018,09Z,8.9,72%,1021.8 Hpa,080º (E ),7.2,8/8,6/8 CB,AC,,-,-,-,Overcast
+ZANJAN,08/11/2018,06Z,6.5,77%,1023.6 Hpa,110º (E ),7.2,6/8,4/8 SC,AC,CI,-,-,-,Cloudy
+ZANJAN,08/11/2018,03Z,3.4,93%,1023.3 Hpa,080º (E ),3.6,6/8,4/8 SC,AC,-,-,-,1.7,"Cloudy, mist"
+ZANJAN,08/11/2018,00Z,3.4,95%,1021.7 Hpa,110º (E ),3.6,6/8,4/8 SC,AC,-,-,-,-,"Cloudy, mist"

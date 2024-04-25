@@ -1,0 +1,620 @@
+Station ∆,Date,UTC time,Temp. (ºC),Rel. Hum. (%),Pressure/ Geopot.,Wind dir,Wins speed (Km/h),Clouds,Low clouds,Medium clouds,High clouds,Prec. (mm),Max temp. (ºC),Min temp. (ºC),Conditions
+ABADAN,29/01/2013,21Z,12.2,87%,1016.0 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+ABADAN,29/01/2013,18Z,13.6,83%,1013.9 Hpa,280º (W ),7.2,2/8,-,2/8 AC,-,-,-,-,Few clouds
+ABADAN,29/01/2013,15Z,15.8,74%,1011.5 Hpa,270º (W ),25.2,4/8,1/8 SC,AC,-,-,20.8,-,Scattered clouds
+ABADAN,29/01/2013,12Z,18.4,65%,1008.1 Hpa,260º (W ),21.6,,-,-,-,0.8(6h),-,-,dust
+ABADAN,29/01/2013,09Z,16.4,89%,1009.0 Hpa,190º (S ),25.2,8/8,5/8 CB,AC,,-,-,-,"Overcast, mist"
+ABADAN,29/01/2013,06Z,16.8,81%,1009.4 Hpa,150º (SE),28.8,8/8,5/8 CB,AC,,2.0(6h),-,-,"Overcast, mist"
+ABADAN,29/01/2013,03Z,18.4,84%,1008.5 Hpa,130º (SE),10.8,8/8,6/8 CB,AC,,-,-,18.0,"Overcast, rain"
+ABADAN,29/01/2013,00Z,19.8,70%,1008.2 Hpa,150º (SE),21.6,8/8,6/8 CB,AC,,-,-,-,Overcast
+ABADEH,29/01/2013,21Z,4.0,46%,1006.1 Hpa,270º (W ),25.2,0/8,-,-,-,-,-,-,Clear
+ABADEH,29/01/2013,18Z,5.2,67%,1004.8 Hpa,260º (W ),43.2,7/8,4/8 CB,AC,-,1.0(6h),-,-,"Cloudy, rain"
+ABADEH,29/01/2013,15Z,5.6,65%,1002.8 Hpa,210º (SW),46.8,7/8,4/8 CB,AC,-,-,13.4,-,"Cloudy, rain showers"
+ABADEH,29/01/2013,12Z,10.2,43%,1002.0 Hpa,200º (S ),46.8,4/8,2/8 SC,AC,-,-,-,-,"Scattered clouds, dust"
+ABADEH,29/01/2013,09Z,12.4,33%,1005.2 Hpa,200º (S ),28.8,6/8,2/8 SC,-,CI,-,-,-,Cloudy
+ABADEH,29/01/2013,06Z,11.4,32%,1006.3 Hpa,calm.,,7/8,2/8 SC,-,CI,-,-,-,Cloudy
+ABADEH,29/01/2013,03Z,9.6,42%,1007.1 Hpa,200º (S ),7.2,6/8,4/8 SC,-,CI,-,-,7.2,Cloudy
+ABADEH,29/01/2013,00Z,10.6,40%,1006.8 Hpa,130º (SE),10.8,6/8,3/8 SC,-,CI,-,-,-,Cloudy
+ABU MUSA,29/01/2013,15Z,21.8,70%,1011.3 Hpa,calm.,,2/8,-,-,CI,-,25.2,-,"Few clouds, haze"
+ABU MUSA,29/01/2013,12Z,24.2,243%,1011.5 Hpa,calm.,,4/8,-,-,CI,-,-,-,"Scattered clouds, haze"
+ABU MUSA,29/01/2013,09Z,24.6,55%,1012.7 Hpa,calm.,,4/8,-,-,CI,-,-,-,"Scattered clouds, haze"
+ABU MUSA,29/01/2013,06Z,23.0,262%,1013.7 Hpa,090º (E ),10.8,4/8,-,-,CI,-,-,-,"Scattered clouds, mist"
+ABU MUSA,29/01/2013,03Z,19.4,88%,1012.7 Hpa,calm.,,1/8,-,-,CI,-,-,18.0,"Few clouds, mist"
+AHAR,29/01/2013,21Z,-1.0,94%,1008.0 Hpa,calm.,,8/8,4/8 ST,AC,,-,-,-,Overcast
+AHAR,29/01/2013,18Z,-0.8,95%,1007.8 Hpa,calm.,,8/8,4/8 ST,AC,,0.7(6h),-,-,Overcast
+AHAR,29/01/2013,15Z,-0.8,95%,1007.9 Hpa,120º (SE),7.2,8/8,4/8 ST,AC,,-,1.8,-,"Overcast, snow"
+AHAR,29/01/2013,12Z,0.2,96%,1007.4 Hpa,110º (E ),7.2,8/8,4/8 ST,AC,,5.0(6h),-,-,"Overcast, snow"
+AHAR,29/01/2013,09Z,0.6,92%,1007.2 Hpa,110º (E ),10.8,8/8,4/8 ST,AC,,-,-,-,"Overcast, snow"
+AHAR,29/01/2013,06Z,0.8,96%,1008.1 Hpa,calm.,,8/8,3/8 ST,AC,,13.0(6h),-,-,"Overcast, snow"
+AHAR,29/01/2013,03Z,0.0,100%,1008.6 Hpa,calm.,,8/8,3/8 ST,AC,,-,-,0.0,"Overcast, snow"
+AHAR,29/01/2013,00Z,0.6,96%,1009.4 Hpa,110º (E ),7.2,8/8,3/8 ST,AC,,9.0(6h),-,-,"Overcast, snow"
+AHWAZ,29/01/2013,21Z,13.0,93%,1015.1 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+AHWAZ,29/01/2013,18Z,14.0,86%,1012.6 Hpa,270º (W ),10.8,0/8,-,-,-,-,-,-,Clear
+AHWAZ,29/01/2013,15Z,16.2,77%,1009.8 Hpa,250º (W ),28.8,6/8,4/8 CB,AC,-,-,17.4,-,"Cloudy, haze"
+AHWAZ,29/01/2013,12Z,16.4,83%,1006.6 Hpa,210º (SW),14.4,5/8,5/8 ST,-,-,30.0(6h),-,-,"Cloudy, mist"
+AHWAZ,29/01/2013,09Z,15.6,98%,1007.8 Hpa,200º (S ),25.2,8/8,8/8 CB,AC,,-,-,-,"Overcast, rain"
+AHWAZ,29/01/2013,06Z,16.8,77%,1009.7 Hpa,170º (S ),18.0,8/8,7/8 CB,AC,,3.0(6h),-,-,"Overcast, rain"
+AHWAZ,29/01/2013,03Z,15.6,87%,1010.1 Hpa,060º (NE),3.6,8/8,6/8 CB,AC,,-,-,15.6,"Overcast, rain"
+AHWAZ,29/01/2013,00Z,19.6,45%,1008.8 Hpa,130º (SE),7.2,8/8,3/8 SC,AC,,-,-,-,Overcast
+ALI-GOODARZ,29/01/2013,21Z,-0.2,92%,1009.9 Hpa,calm.,,5/8,3/8 SC,AC,-,-,-,-,Cloudy
+ALI-GOODARZ,29/01/2013,18Z,1.4,84%,1008.3 Hpa,170º (S ),7.2,5/8,3/8 SC,AC,-,13.0(6h),-,-,Cloudy
+ALI-GOODARZ,29/01/2013,15Z,1.2,86%,1006.9 Hpa,090º (E ),18.0,7/8,6/8 CB,AC,-,-,5.6,-,Cloudy
+ALI-GOODARZ,29/01/2013,12Z,1.8,93%,1003.4 Hpa,170º (S ),10.8,,-,-,-,6.0(6h),-,-,snow
+ALI-GOODARZ,29/01/2013,09Z,5.4,75%,1003.8 Hpa,170º (S ),14.4,8/8,7/8 CB,AC,,-,-,-,"Overcast, rain"
+ALI-GOODARZ,29/01/2013,06Z,3.8,88%,1008.5 Hpa,160º (S ),10.8,8/8,5/8 CB,AC,,0.5(6h),-,-,"Overcast, rain"
+ALI-GOODARZ,29/01/2013,03Z,3.8,85%,1009.2 Hpa,160º (S ),28.8,8/8,5/8 CB,AC,,-,-,3.6,"Overcast, rain"
+ALI-GOODARZ,29/01/2013,00Z,5.2,75%,1007.7 Hpa,180º (S ),54.0,7/8,5/8 CB,AC,-,0.5(6h),-,-,"Cloudy, rain showers"
+ANZALI,29/01/2013,21Z,7.6,97%,1009.6 Hpa,330º (NW),32.4,8/8,8/8 ST,,,-,-,-,"Overcast, drizzle"
+ANZALI,29/01/2013,18Z,8.0,97%,1009.1 Hpa,330º (NW),28.8,8/8,5/8 SC,AC,,8.0(6h),-,-,"Overcast, rain"
+ANZALI,29/01/2013,15Z,8.4,94%,1009.1 Hpa,340º (N ),18.0,8/8,5/8 SC,AC,,-,9.4,-,"Overcast, rain"
+ANZALI,29/01/2013,12Z,8.8,94%,1008.8 Hpa,360º (N ),14.4,8/8,5/8 SC,AC,,3.0(6h),-,-,"Overcast, rain"
+ANZALI,29/01/2013,09Z,9.2,91%,1011.1 Hpa,040º (NE),7.2,8/8,5/8 CB,AC,,-,-,-,"Overcast, rain"
+ANZALI,29/01/2013,06Z,9.2,642%,1013.4 Hpa,070º (E ),10.8,8/8,5/8 SC,AC,,10.0(6h),-,-,"Overcast, rain"
+ANZALI,29/01/2013,03Z,9.2,91%,1013.9 Hpa,060º (NE),14.4,8/8,5/8 SC,AC,,-,-,9.2,"Overcast, rain"
+ANZALI,29/01/2013,00Z,9.6,94%,1015.0 Hpa,080º (E ),14.4,8/8,5/8 SC,AC,,5.0(6h),-,-,"Overcast, rain"
+ARAK,29/01/2013,21Z,5.0,60%,1004.5 Hpa,calm.,,1/8,1/8 SC,-,-,-,-,-,Few clouds
+ARAK,29/01/2013,18Z,5.0,69%,1004.5 Hpa,260º (W ),7.2,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+ARAK,29/01/2013,15Z,6.4,40%,1004.6 Hpa,280º (W ),10.8,5/8,2/8 CB,AC,-,-,14.4,-,Cloudy
+ARAK,29/01/2013,12Z,7.4,79%,1000.7 Hpa,160º (S ),18.0,8/8,2/8 CB,AC,,0.9(6h),-,-,"Overcast, rain"
+ARAK,29/01/2013,09Z,14.0,40%,1000.5 Hpa,180º (S ),21.6,5/8,2/8 CB,AC,-,-,-,-,Cloudy
+ARAK,29/01/2013,06Z,9.4,53%,1004.7 Hpa,180º (S ),25.2,8/8,3/8 CB,AC,,2.1(24h),-,-,Overcast
+ARAK,29/01/2013,03Z,4.8,85%,1007.4 Hpa,calm.,,8/8,4/8 SC,AC,,-,-,4.4,"Overcast, mist"
+ARAK,29/01/2013,00Z,4.8,85%,1009.1 Hpa,calm.,,8/8,5/8 ST,AC,,1.0(6h),-,-,"Overcast, mist"
+ARDEBIL,29/01/2013,21Z,-0.6,95%,1007.5 Hpa,calm.,,6/8,3/8 ST,AC,-,-,-,-,Cloudy
+ARDEBIL,29/01/2013,18Z,-1.4,98%,1008.0 Hpa,calm.,,8/8,4/8 ST,AC,,2.0(6h),-,-,Overcast
+ARDEBIL,29/01/2013,15Z,-1.4,98%,1007.0 Hpa,calm.,,8/8,4/8 ST,AC,,-,0.0,-,"Overcast, snow"
+ARDEBIL,29/01/2013,12Z,-1.0,94%,1006.3 Hpa,060º (NE),32.4,8/8,5/8 ST,AC,,3.0(6h),-,-,"Overcast, mist"
+ARDEBIL,29/01/2013,09Z,0.0,100%,1006.9 Hpa,060º (NE),32.4,8/8,4/8 ST,AC,,-,-,-,"Overcast, snow"
+ARDEBIL,29/01/2013,06Z,-0.6,99%,1009.1 Hpa,070º (E ),18.0,8/8,5/8 ST,AC,,1.0(6h),-,-,"Overcast, snow"
+ARDEBIL,29/01/2013,03Z,-0.8,99%,1007.5 Hpa,060º (NE),43.2,8/8,4/8 CB,AC,,-,-,-1.0,"Overcast, snow"
+ARDEBIL,29/01/2013,00Z,0.4,100%,1008.3 Hpa,040º (NE),25.2,8/8,5/8 CB,AC,,6.0(6h),-,-,"Overcast, rain showers"
+BABULSAR,29/01/2013,21Z,10.4,87%,1007.4 Hpa,260º (W ),18.0,8/8,7/8 ST,AC,,-,-,-,"Overcast, rain"
+BABULSAR,29/01/2013,18Z,10.4,94%,1006.1 Hpa,200º (S ),7.2,8/8,7/8 ST,AC,,0.2(6h),-,-,"Overcast, rain"
+BABULSAR,29/01/2013,15Z,11.0,87%,1006.8 Hpa,calm.,,8/8,7/8 ST,AC,,-,12.0,-,"Overcast, mist"
+BABULSAR,29/01/2013,12Z,11.4,85%,1006.5 Hpa,290º (W ),7.2,8/8,5/8 ST,AC,,-,-,-,Overcast
+BABULSAR,29/01/2013,09Z,11.8,87%,1009.1 Hpa,300º (NW),7.2,8/8,4/8 CB,AC,,-,-,-,Overcast
+BABULSAR,29/01/2013,06Z,11.2,92%,1011.0 Hpa,calm.,,8/8,3/8 ST,AC,,2.0(6h),-,-,"Overcast, mist"
+BABULSAR,29/01/2013,03Z,11.2,92%,1012.7 Hpa,calm.,,8/8,4/8 ST,AC,,-,-,10.6,"Overcast, drizzle"
+BABULSAR,29/01/2013,00Z,11.2,89%,1013.5 Hpa,calm.,,8/8,5/8 ST,AC,,Tr(6h),-,-,"Overcast, drizzle"
+BAFT,29/01/2013,21Z,6.4,69%,1009.4 Hpa,210º (SW),18.0,7/8,3/8 SC,AC,-,-,-,-,Cloudy
+BAFT,29/01/2013,18Z,7.0,57%,1010.9 Hpa,120º (SE),10.8,5/8,2/8 SC,AC,-,-,-,-,Cloudy
+BAFT,29/01/2013,15Z,8.2,53%,1012.8 Hpa,calm.,,5/8,2/8 SC,AC,CI,-,13.4,-,Cloudy
+BAFT,29/01/2013,12Z,12.0,31%,1011.5 Hpa,260º (W ),32.4,7/8,1/8 ST,AC,CI,-,-,-,Cloudy
+BAFT,29/01/2013,09Z,12.6,41%,1011.6 Hpa,150º (SE),18.0,7/8,-,2/8 AC,CS,-,-,-,Cloudy
+BAFT,29/01/2013,06Z,10.2,48%,1014.2 Hpa,120º (SE),21.6,6/8,1/8 SC,AC,CI,-,-,-,Cloudy
+BAFT,29/01/2013,03Z,5.6,66%,1015.1 Hpa,calm.,,6/8,1/8 CU,AC,CI,-,-,5.4,Cloudy
+BAFT,29/01/2013,00Z,5.4,62%,1013.4 Hpa,330º (NW),7.2,4/8,-,-,CI,-,-,-,Scattered clouds
+BAM,29/01/2013,21Z,18.2,31%,1001.3 Hpa,230º (SW),18.0,0/8,-,-,-,-,-,-,Clear
+BAM,29/01/2013,18Z,19.0,12%,1002.6 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BAM,29/01/2013,15Z,20.8,25%,1003.5 Hpa,310º (NW),7.2,3/8,-,3/8 AC,-,-,26.4,-,Scattered clouds
+BAM,29/01/2013,12Z,24.6,24%,1003.7 Hpa,360º (N ),7.2,6/8,1/8 CU,AC,CI,-,-,-,Cloudy
+BAM,29/01/2013,09Z,24.4,29%,1006.5 Hpa,calm.,,8/8,1/8 SC,AC,CS,-,-,-,Overcast
+BAM,29/01/2013,06Z,17.0,40%,1010.7 Hpa,280º (W ),7.2,8/8,-,8/8 AC,,-,-,-,Overcast
+BAM,29/01/2013,03Z,14.0,45%,1010.9 Hpa,calm.,,8/8,-,4/8 AC,CI,-,-,12.4,Overcast
+BAM,29/01/2013,00Z,13.2,46%,1009.9 Hpa,270º (W ),7.2,7/8,-,-,CI,-,-,-,Cloudy
+BANDAR LENGEH,29/01/2013,21Z,18.3,92%,1011.3 Hpa,330º (NW),7.2,0/8,-,-,-,-,-,-,"Clear, mist"
+BANDAR LENGEH,29/01/2013,18Z,19.6,90%,1011.3 Hpa,calm.,,1/8,-,1/8 AC,-,-,-,-,"Few clouds, mist"
+BANDAR LENGEH,29/01/2013,15Z,22.2,77%,1011.3 Hpa,130º (SE),7.2,2/8,-,-,CI,-,23.8,-,"Few clouds, haze"
+BANDAR LENGEH,29/01/2013,12Z,22.4,273%,1013.0 Hpa,110º (E ),18.0,6/8,-,-,CI,-,-,-,"Cloudy, haze"
+BANDAR LENGEH,29/01/2013,09Z,23.4,69%,1013.1 Hpa,080º (E ),21.6,0/8,-,-,-,-,-,-,"Clear, haze"
+BANDAR LENGEH,29/01/2013,06Z,21.4,485%,1014.6 Hpa,080º (E ),21.6,0/8,-,-,-,-,-,-,"Clear, mist"
+BANDAR LENGEH,29/01/2013,03Z,19.8,90%,1013.8 Hpa,070º (E ),14.4,0/8,-,-,-,-,-,18.0,"Clear, mist"
+BANDAR LENGEH,29/01/2013,00Z,18.8,93%,1013.4 Hpa,080º (E ),10.8,0/8,-,-,-,-,-,-,"Clear, mist"
+BANDAR-E-DAYYER,29/01/2013,21Z,18.8,64%,1013.9 Hpa,310º (NW),21.6,7/8,4/8 CB,AC,-,-,-,-,"Cloudy, haze"
+BANDAR-E-DAYYER,29/01/2013,18Z,20.4,71%,1013.6 Hpa,310º (NW),21.6,8/8,5/8 CB,AC,,0.7(6h),-,-,"Overcast, haze"
+BANDAR-E-DAYYER,29/01/2013,15Z,22.4,84%,1011.3 Hpa,140º (SE),21.6,8/8,4/8 CB,AC,,-,24.0,-,"Overcast, rain"
+BANDAR-E-DAYYER,29/01/2013,12Z,22.6,156%,1011.1 Hpa,130º (SE),28.8,7/8,3/8 SC,AC,-,-,-,-,"Cloudy, dust"
+BANDAR-E-DAYYER,29/01/2013,09Z,23.8,76%,1013.4 Hpa,140º (SE),32.4,6/8,2/8 SC,AC,-,-,-,-,"Cloudy, haze"
+BANDAR-E-DAYYER,29/01/2013,06Z,22.4,158%,1014.1 Hpa,140º (SE),21.6,7/8,3/8 SC,AC,-,-,-,-,"Cloudy, haze"
+BANDAR-E-DAYYER,29/01/2013,03Z,19.0,82%,1011.2 Hpa,090º (E ),14.4,7/8,3/8 SC,-,CI,-,-,17.0,"Cloudy, mist"
+BANDAR-E-DAYYER,29/01/2013,00Z,21.2,85%,1012.0 Hpa,120º (SE),21.6,7/8,-,-,CI,-,-,-,Cloudy
+BANDARABBASS,29/01/2013,21Z,20.0,90%,1012.9 Hpa,010º (N),7.2,6/8,2/8 SC,AC,-,-,-,-,"Cloudy, mist"
+BANDARABBASS,29/01/2013,18Z,19.2,90%,1013.2 Hpa,350º (N ),7.2,4/8,3/8 ST,AC,-,-,-,-,"Scattered clouds, mist"
+BANDARABBASS,29/01/2013,15Z,22.1,80%,1012.7 Hpa,030º (NE),10.8,4/8,-,3/8 AC,CI,-,24.9,-,"Scattered clouds, mist"
+BANDARABBASS,29/01/2013,12Z,23.9,71%,1012.5 Hpa,120º (SE),14.4,7/8,2/8 SC,AC,CS,-,-,-,"Cloudy, haze"
+BANDARABBASS,29/01/2013,09Z,24.4,67%,1014.3 Hpa,090º (E ),7.2,7/8,2/8 SC,AC,CI,-,-,-,"Cloudy, haze"
+BANDARABBASS,29/01/2013,06Z,22.4,72%,1015.5 Hpa,040º (NE),10.8,7/8,3/8 SC,AC,CI,-,-,-,"Cloudy, haze"
+BANDARABBASS,29/01/2013,03Z,16.4,92%,1014.9 Hpa,320º (NW),7.2,4/8,1/8 SC,-,CI,-,-,16.3,"Scattered clouds, mist"
+BANDARABBASS,29/01/2013,00Z,18.8,89%,1014.1 Hpa,350º (N ),7.2,3/8,-,-,CI,-,-,-,"Scattered clouds, mist"
+BIRJAND,29/01/2013,21Z,11.4,38%,1002.4 Hpa,140º (SE),28.8,7/8,4/8 CB,AC,-,-,-,-,"Cloudy, dust"
+BIRJAND,29/01/2013,18Z,11.0,37%,1004.6 Hpa,110º (E ),36.0,8/8,4/8 CB,AC,,-,-,-,"Overcast, dust"
+BIRJAND,29/01/2013,15Z,12.2,40%,1007.6 Hpa,110º (E ),32.4,8/8,4/8 CB,AC,,-,16.6,-,Overcast
+BIRJAND,29/01/2013,12Z,14.0,35%,1008.4 Hpa,110º (E ),36.0,7/8,1/8 SC,AC,CI,-,-,-,Cloudy
+BIRJAND,29/01/2013,09Z,16.2,32%,1010.4 Hpa,120º (SE),18.0,8/8,1/8 SC,AC,,-,-,-,Overcast
+BIRJAND,29/01/2013,06Z,11.9,42%,1014.1 Hpa,110º (E ),36.0,7/8,1/8 SC,AC,CI,-,-,-,Cloudy
+BIRJAND,29/01/2013,03Z,6.6,57%,1016.2 Hpa,090º (E ),21.6,6/8,1/8 SC,AC,CI,-,-,5.6,Cloudy
+BIRJAND,29/01/2013,00Z,6.6,57%,1015.0 Hpa,070º (E ),18.0,5/8,-,-,CI,-,-,-,Cloudy
+BOJNOURD,29/01/2013,21Z,8.4,87%,1003.2 Hpa,320º (NW),10.8,8/8,3/8 ST,AC,,-,-,-,"Overcast, rain"
+BOJNOURD,29/01/2013,18Z,9.2,77%,1005.3 Hpa,360º (N ),10.8,8/8,3/8 ST,AC,,0.1(6h),-,-,"Overcast, rain"
+BOJNOURD,29/01/2013,15Z,12.0,62%,1007.6 Hpa,160º (S ),7.2,8/8,3/8 SC,AC,,-,14.4,-,Overcast
+BOJNOURD,29/01/2013,12Z,12.6,61%,1009.2 Hpa,170º (S ),18.0,8/8,4/8 SC,AC,,-,-,-,Overcast
+BOJNOURD,29/01/2013,09Z,13.4,48%,1010.6 Hpa,130º (SE),7.2,8/8,3/8 SC,AC,,-,-,-,Overcast
+BOJNOURD,29/01/2013,06Z,9.0,62%,1013.6 Hpa,calm.,,8/8,2/8 SC,AC,CS,-,-,-,Overcast
+BOJNOURD,29/01/2013,03Z,4.6,82%,1013.9 Hpa,calm.,,7/8,-,4/8 AC,CI,-,-,4.0,Cloudy
+BOJNOURD,29/01/2013,00Z,4.4,75%,1013.8 Hpa,calm.,,4/8,-,-,CI,-,-,-,Scattered clouds
+BUSHEHR,29/01/2013,21Z,17.0,79%,1016.2 Hpa,330º (NW),25.2,6/8,-,-,CI,-,-,-,"Cloudy, mist"
+BUSHEHR,29/01/2013,18Z,19.0,64%,1015.3 Hpa,360º (N ),32.4,,-,-,-,3.0(6h),-,-,dust
+BUSHEHR,29/01/2013,15Z,18.8,82%,1012.8 Hpa,250º (W ),21.6,8/8,5/8 CB,AC,,-,22.0,-,"Overcast, rain"
+BUSHEHR,29/01/2013,12Z,18.6,349%,1011.6 Hpa,200º (S ),54.0,8/8,5/8 CB,AC,,8.0(6h),-,-,"Overcast, rain"
+BUSHEHR,29/01/2013,09Z,21.8,75%,1012.0 Hpa,140º (SE),32.4,8/8,5/8 CB,AC,,-,-,-,"Overcast, rain"
+BUSHEHR,29/01/2013,06Z,21.6,166%,1013.2 Hpa,170º (S ),32.4,8/8,4/8 SC,AC,,-,-,-,"Overcast, mist"
+BUSHEHR,29/01/2013,03Z,20.2,62%,1011.6 Hpa,calm.,,8/8,3/8 SC,AC,,-,-,20.0,Overcast
+BUSHEHR,29/01/2013,00Z,21.0,61%,1010.8 Hpa,160º (S ),7.2,6/8,-,3/8 AC,CI,-,-,-,Cloudy
+BUSHEHR (AIRPORT),29/01/2013,21Z,17.2,70%,1014.6 Hpa,320º (NW),18.0,,-,-,-,-,-,-,dust
+BUSHEHR (AIRPORT),29/01/2013,18Z,19.0,59%,1013.7 Hpa,320º (NW),28.8,,-,-,-,2.0(6h),-,-,dust
+BUSHEHR (AIRPORT),29/01/2013,15Z,17.8,80%,1011.1 Hpa,240º (SW),10.8,8/8,6/8 CB,AC,,-,22.8,-,"Overcast, rain"
+BUSHEHR (AIRPORT),29/01/2013,12Z,17.6,88%,1010.1 Hpa,210º (SW),36.0,8/8,6/8 CB,AC,,10.0(6h),-,-,"Overcast, rain"
+BUSHEHR (AIRPORT),29/01/2013,09Z,21.6,62%,1010.8 Hpa,140º (SE),21.6,8/8,5/8 CB,AC,,-,-,-,"Overcast, rain"
+BUSHEHR (AIRPORT),29/01/2013,06Z,21.4,66%,1012.4 Hpa,150º (SE),25.2,8/8,4/8 CB,AC,,-,-,-,"Overcast, dust"
+BUSHEHR (AIRPORT),29/01/2013,03Z,21.0,50%,1010.6 Hpa,090º (E ),7.2,8/8,2/8 SC,AC,,-,-,19.6,Overcast
+BUSHEHR (AIRPORT),29/01/2013,00Z,20.6,53%,1010.9 Hpa,120º (SE),14.4,7/8,-,-,CI,-,-,-,Cloudy
+CHAHBAHAR,29/01/2013,21Z,20.0,85%,1014.5 Hpa,050º (NE),7.2,2/8,2/8 ST,-,-,-,-,-,Few clouds
+CHAHBAHAR,29/01/2013,18Z,22.2,82%,1014.5 Hpa,130º (SE),7.2,0/8,-,-,-,-,-,-,Clear
+CHAHBAHAR,29/01/2013,15Z,22.4,2593%,1014.0 Hpa,150º (SE),14.4,3/8,2/8 ST,-,CI,-,23.8,-,Scattered clouds
+CHAHBAHAR,29/01/2013,12Z,23.2,2471%,1012.9 Hpa,140º (SE),14.4,5/8,2/8 ST,AC,CS,-,-,-,"Cloudy, haze"
+CHAHBAHAR,29/01/2013,09Z,22.7,2546%,1013.8 Hpa,120º (SE),21.6,8/8,2/8 ST,AC,CI,-,-,-,"Overcast, mist"
+CHAHBAHAR,29/01/2013,06Z,22.6,2562%,1016.7 Hpa,120º (SE),14.4,5/8,2/8 ST,-,CI,-,-,-,"Cloudy, mist"
+CHAHBAHAR,29/01/2013,03Z,18.0,3402%,1015.5 Hpa,050º (NE),7.2,5/8,2/8 ST,-,CI,-,-,17.7,"Cloudy, mist"
+CHAHBAHAR,29/01/2013,00Z,18.5,96%,1014.4 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, mist"
+ESFAHAN,29/01/2013,21Z,7.0,56%,1005.0 Hpa,170º (S ),21.6,0/8,-,-,-,-,-,-,Clear
+ESFAHAN,29/01/2013,18Z,9.4,51%,1003.0 Hpa,270º (W ),14.4,1/8,1/8 SC,-,-,0.6(6h),-,-,Few clouds
+ESFAHAN,29/01/2013,15Z,12.4,46%,1001.3 Hpa,180º (S ),21.6,8/8,3/8 CB,AC,,-,16.2,-,"Overcast, rain"
+ESFAHAN,29/01/2013,12Z,15.0,40%,999.9 Hpa,280º (W ),7.2,8/8,3/8 CB,AC,,0.4(6h),-,-,"Overcast, rain showers"
+ESFAHAN,29/01/2013,09Z,14.0,30%,1003.5 Hpa,180º (S ),43.2,7/8,3/8 SC,AC,-,-,-,-,Cloudy
+ESFAHAN,29/01/2013,06Z,13.2,40%,1006.3 Hpa,170º (S ),21.6,7/8,3/8 SC,AC,-,-,-,-,Cloudy
+ESFAHAN,29/01/2013,03Z,13.2,40%,1005.9 Hpa,250º (W ),18.0,7/8,3/8 SC,AC,-,-,-,7.8,Cloudy
+ESFAHAN,29/01/2013,00Z,8.2,58%,1007.9 Hpa,280º (W ),18.0,6/8,3/8 SC,-,CI,-,-,-,Cloudy
+FASA,29/01/2013,21Z,11.0,88%,1009.4 Hpa,140º (SE),18.0,8/8,6/8 CB,AC,,-,-,-,"Overcast, rain showers"
+FASA,29/01/2013,18Z,14.0,52%,1008.2 Hpa,210º (SW),32.4,6/8,5/8 CB,AC,-,-,-,-,"Cloudy, dust"
+FASA,29/01/2013,15Z,15.6,37%,1008.8 Hpa,240º (SW),18.0,7/8,6/8 ST,AC,-,-,19.4,-,"Cloudy, haze"
+FASA,29/01/2013,12Z,17.2,32%,1008.8 Hpa,210º (SW),28.8,7/8,4/8 CB,AC,-,-,-,-,Cloudy
+FASA,29/01/2013,09Z,18.6,29%,1010.7 Hpa,240º (SW),21.6,7/8,3/8 SC,AC,CI,-,-,-,Cloudy
+FASA,29/01/2013,06Z,15.0,41%,1011.2 Hpa,calm.,,7/8,2/8 SC,-,CI,-,-,-,Cloudy
+FASA,29/01/2013,03Z,7.8,63%,1011.8 Hpa,calm.,,6/8,2/8 SC,-,CI,-,-,7.0,Cloudy
+FASA,29/01/2013,00Z,10.0,57%,1010.5 Hpa,calm.,,8/8,2/8 SC,-,CS,-,-,-,Overcast
+FERDOUS,29/01/2013,21Z,13.4,40%,1002.0 Hpa,150º (SE),10.8,8/8,3/8 SC,AC,,-,-,-,Overcast
+FERDOUS,29/01/2013,18Z,14.2,43%,1001.1 Hpa,120º (SE),21.6,7/8,4/8 SC,AC,-,-,-,-,Cloudy
+FERDOUS,29/01/2013,15Z,12.8,50%,1005.8 Hpa,calm.,,8/8,3/8 SC,AC,,-,15.4,-,Overcast
+FERDOUS,29/01/2013,12Z,13.6,53%,1007.4 Hpa,110º (E ),7.2,8/8,4/8 SC,AC,,0.1(6h),-,-,Overcast
+FERDOUS,29/01/2013,09Z,12.4,59%,1010.5 Hpa,140º (SE),10.8,8/8,4/8 SC,AC,,-,-,-,"Overcast, rain"
+FERDOUS,29/01/2013,06Z,15.2,31%,1010.8 Hpa,120º (SE),18.0,8/8,2/8 SC,AC,,-,-,-,Overcast
+FERDOUS,29/01/2013,03Z,9.4,48%,1012.5 Hpa,060º (NE),10.8,7/8,4/8 SC,AC,CI,-,-,7.0,Cloudy
+FERDOUS,29/01/2013,00Z,7.6,51%,1013.1 Hpa,calm.,,6/8,2/8 SC,-,CI,-,-,-,Cloudy
+GACH SARAN DU GUNBADAN,29/01/2013,21Z,9.8,100%,1012.0 Hpa,140º (SE),7.2,2/8,2/8 SC,-,-,-,-,-,"Few clouds, mist"
+GACH SARAN DU GUNBADAN,29/01/2013,18Z,10.6,94%,1010.4 Hpa,calm.,,3/8,3/8 SC,-,-,25.0(6h),-,-,"Scattered clouds, mist"
+GACH SARAN DU GUNBADAN,29/01/2013,15Z,11.0,90%,1008.6 Hpa,320º (NW),18.0,8/8,4/8 CB,AC,,-,20.2,-,"Overcast, rain"
+GACH SARAN DU GUNBADAN,29/01/2013,12Z,11.8,90%,1006.3 Hpa,120º (SE),21.6,8/8,3/8 CB,AC,,9.0(6h),-,-,"Overcast, rain"
+GACH SARAN DU GUNBADAN,29/01/2013,09Z,13.4,67%,1009.7 Hpa,140º (SE),25.2,8/8,2/8 CB,AC,,-,-,-,"Overcast, rain"
+GACH SARAN DU GUNBADAN,29/01/2013,06Z,19.2,30%,1009.9 Hpa,100º (E ),10.8,8/8,1/8 CB,AC,,0.2(24h),-,-,Overcast
+GACH SARAN DU GUNBADAN,29/01/2013,03Z,17.0,44%,1010.5 Hpa,030º (NE),10.8,8/8,3/8 SC,AC,,-,-,16.2,Overcast
+GACH SARAN DU GUNBADAN,29/01/2013,00Z,16.8,51%,1008.4 Hpa,110º (E ),10.8,8/8,4/8 SC,AC,,-,-,-,Overcast
+GHARAKHIL,29/01/2013,21Z,9.4,94%,1008.0 Hpa,270º (W ),10.8,8/8,5/8 ST,AC,,-,-,-,"Overcast, rain"
+GHARAKHIL,29/01/2013,18Z,9.4,94%,1006.8 Hpa,280º (W ),7.2,8/8,5/8 ST,AC,,2.0(6h),-,-,"Overcast, rain"
+GHARAKHIL,29/01/2013,15Z,9.8,97%,1007.3 Hpa,calm.,,8/8,6/8 ST,AC,,-,11.4,-,"Overcast, drizzle"
+GHARAKHIL,29/01/2013,12Z,10.0,97%,1007.5 Hpa,310º (NW),14.4,8/8,6/8 ST,AC,,0.1(6h),-,-,"Overcast, drizzle"
+GHARAKHIL,29/01/2013,09Z,11.0,92%,1009.7 Hpa,250º (W ),7.2,8/8,6/8 CB,AC,,-,-,-,"Overcast, mist"
+GHARAKHIL,29/01/2013,06Z,10.4,94%,1011.1 Hpa,calm.,,8/8,5/8 ST,AC,,0.1(6h),-,-,"Overcast, mist"
+GHARAKHIL,29/01/2013,03Z,10.0,100%,1013.3 Hpa,230º (SW),7.2,8/8,5/8 ST,AC,,-,-,10.0,"Overcast, drizzle"
+GHARAKHIL,29/01/2013,00Z,10.2,98%,1013.9 Hpa,calm.,,8/8,5/8 ST,AC,,0.1(6h),-,-,Overcast
+GHAZVIN,29/01/2013,21Z,4.8,97%,1006.1 Hpa,calm.,,5/8,3/8 ST,AC,-,-,-,-,Cloudy
+GHAZVIN,29/01/2013,18Z,5.0,88%,1005.0 Hpa,090º (E ),10.8,8/8,6/8 CB,AC,,15.0(6h),-,-,Overcast
+GHAZVIN,29/01/2013,15Z,8.4,97%,1001.7 Hpa,150º (SE),28.8,8/8,6/8 CB,AC,,-,9.6,-,"Overcast, rain"
+GHAZVIN,29/01/2013,12Z,9.4,90%,1001.5 Hpa,130º (SE),21.6,8/8,6/8 CB,AC,,2.0(6h),-,-,"Overcast, rain"
+GHAZVIN,29/01/2013,09Z,8.0,92%,1004.8 Hpa,090º (E ),18.0,8/8,6/8 CB,AC,,-,-,-,"Overcast, rain"
+GHAZVIN,29/01/2013,06Z,7.6,92%,1007.6 Hpa,150º (SE),18.0,8/8,5/8 ST,AC,,4.0(6h),-,-,Overcast
+GHAZVIN,29/01/2013,03Z,7.8,86%,1008.2 Hpa,120º (SE),28.8,8/8,3/8 SC,AC,,-,-,6.4,"Overcast, rain"
+GHAZVIN,29/01/2013,00Z,7.2,97%,1009.6 Hpa,120º (SE),25.2,8/8,3/8 SC,AC,,8.0(6h),-,-,"Overcast, rain"
+GHUCHAN,29/01/2013,21Z,6.0,91%,1002.3 Hpa,100º (E ),18.0,8/8,4/8 ST,AC,,-,-,-,Overcast
+GHUCHAN,29/01/2013,18Z,7.2,82%,1004.2 Hpa,090º (E ),28.8,8/8,4/8 ST,AC,,-,-,-,Overcast
+GHUCHAN,29/01/2013,15Z,7.6,68%,1007.5 Hpa,130º (SE),18.0,8/8,3/8 SC,AC,,-,11.0,-,Overcast
+GHUCHAN,29/01/2013,12Z,9.8,72%,1008.0 Hpa,130º (SE),14.4,8/8,4/8 SC,AC,,-,-,-,Overcast
+GHUCHAN,29/01/2013,09Z,9.0,67%,1010.6 Hpa,120º (SE),7.2,8/8,4/8 SC,AC,,-,-,-,Overcast
+GHUCHAN,29/01/2013,06Z,7.6,68%,1012.4 Hpa,150º (SE),10.8,6/8,6/8 SC,-,-,-,-,-,Cloudy
+GHUCHAN,29/01/2013,03Z,3.2,84%,1013.6 Hpa,060º (NE),7.2,6/8,6/8 SC,-,-,-,-,2.0,Cloudy
+GHUCHAN,29/01/2013,00Z,2.0,86%,1013.0 Hpa,120º (SE),7.2,6/8,6/8 SC,-,-,-,-,-,Cloudy
+GORGAN,29/01/2013,21Z,9.4,100%,1007.7 Hpa,calm.,,8/8,5/8 CB,AC,,-,-,-,"Overcast, rain"
+GORGAN,29/01/2013,18Z,10.2,100%,1007.7 Hpa,calm.,,8/8,5/8 CB,AC,,2.0(6h),-,-,"Overcast, rain"
+GORGAN,29/01/2013,15Z,10.4,96%,1009.0 Hpa,260º (W ),10.8,8/8,7/8 ST,AC,,-,12.2,-,"Overcast, mist"
+GORGAN,29/01/2013,12Z,11.6,92%,1008.3 Hpa,260º (W ),18.0,8/8,6/8 SC,AC,,-,-,-,"Overcast, mist"
+GORGAN,29/01/2013,09Z,12.0,89%,1010.1 Hpa,270º (W ),18.0,8/8,7/8 SC,AC,,-,-,-,"Overcast, mist"
+GORGAN,29/01/2013,06Z,10.6,100%,1013.8 Hpa,calm.,,8/8,7/8 ST,AC,,0.8(6h),-,-,"Overcast, fog"
+GORGAN,29/01/2013,03Z,10.0,100%,1013.5 Hpa,calm.,,8/8,8/8 ST,,,-,-,10.0,"Overcast, drizzle"
+HAMEDAN,29/01/2013,21Z,2.2,70%,1009.0 Hpa,calm.,,5/8,5/8 CB,AC,-,-,-,-,Cloudy
+HAMEDAN,29/01/2013,18Z,2.7,86%,1007.2 Hpa,230º (SW),10.8,6/8,4/8 CB,AC,-,1.0(6h),-,-,Cloudy
+HAMEDAN,29/01/2013,15Z,1.9,91%,1005.0 Hpa,080º (E ),7.2,8/8,3/8 CB,-,CS,-,9.9,-,Overcast
+HAMEDAN,29/01/2013,12Z,5.5,72%,1001.9 Hpa,120º (SE),25.2,8/8,6/8 CB,AC,,Tr(6h),-,-,Overcast
+HAMEDAN,29/01/2013,09Z,8.1,59%,1000.9 Hpa,170º (S ),50.4,7/8,6/8 CB,AC,,-,-,-,"Cloudy, rain showers"
+HAMEDAN,29/01/2013,06Z,8.5,56%,1004.1 Hpa,170º (S ),21.6,8/8,5/8 CB,AC,,0.1(6h),-,-,Overcast
+HAMEDAN,29/01/2013,03Z,8.9,52%,1004.3 Hpa,260º (W ),14.4,8/8,6/8 CB,AC,,-,-,4.7,Overcast
+HAMEDAN,29/01/2013,00Z,5.0,82%,1008.0 Hpa,calm.,,8/8,3/8 CB,AC,,3.0(6h),-,-,"Overcast, mist"
+ILAM,29/01/2013,21Z,3.4,93%,1014.6 Hpa,310º (NW),7.2,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+ILAM,29/01/2013,18Z,5.0,97%,1010.8 Hpa,350º (N ),7.2,8/8,5/8 CB,AC,,4.0(6h),-,-,"Overcast, mist"
+ILAM,29/01/2013,12Z,4.8,88%,1005.2 Hpa,150º (SE),7.2,8/8,6/8 CB,AC,,34.0(6h),-,-,"Overcast, rain"
+ILAM,29/01/2013,09Z,5.0,97%,1005.8 Hpa,240º (SW),18.0,8/8,6/8 CB,AC,,-,-,-,"Overcast, thunderstorm"
+ILAM,29/01/2013,06Z,7.8,94%,1005.1 Hpa,190º (S ),18.0,8/8,6/8 CB,AC,,7.0(6h),-,-,"Overcast, thunderstorm"
+ILAM,29/01/2013,03Z,8.2,84%,1005.9 Hpa,120º (SE),21.6,8/8,6/8 CB,AC,,-,-,7.4,"Overcast, rain"
+ILAM,29/01/2013,00Z,7.6,92%,1008.5 Hpa,120º (SE),28.8,8/8,6/8 CB,AC,,10.0(6h),-,-,"Overcast, rain"
+IRANSHAHR,29/01/2013,21Z,15.0,47%,1012.7 Hpa,060º (NE),7.2,2/8,-,-,CI,-,-,-,"Few clouds, haze"
+IRANSHAHR,29/01/2013,18Z,17.1,41%,1013.5 Hpa,calm.,,5/8,-,2/8 AC,-,-,-,-,"Cloudy, haze"
+IRANSHAHR,29/01/2013,15Z,21.9,32%,1013.5 Hpa,260º (W ),10.8,8/8,-,4/8 AC,CI,-,25.8,-,Overcast
+IRANSHAHR,29/01/2013,12Z,25.2,26%,1012.2 Hpa,260º (W ),7.2,8/8,-,8/8 AC,-,-,-,-,Overcast
+IRANSHAHR,29/01/2013,09Z,25.2,27%,1013.2 Hpa,270º (W ),7.2,8/8,-,1/8 AC,CI,-,-,-,Overcast
+IRANSHAHR,29/01/2013,06Z,21.8,32%,1015.2 Hpa,080º (E ),10.8,7/8,-,1/8 AC,CI,-,-,-,Cloudy
+IRANSHAHR,29/01/2013,03Z,14.5,42%,1016.2 Hpa,350º (N ),10.8,4/8,-,-,CI,-,-,13.4,Scattered clouds
+IRANSHAHR,29/01/2013,00Z,14.3,40%,1015.4 Hpa,340º (N ),10.8,0/8,-,-,-,-,-,-,Clear
+JASK,29/01/2013,21Z,21.4,87%,1013.4 Hpa,090º (E ),25.2,4/8,-,-,CS,-,-,-,"Scattered clouds, mist"
+JASK,29/01/2013,18Z,22.2,466%,1013.2 Hpa,100º (E ),39.6,3/8,-,-,CS,-,-,-,"Scattered clouds, mist"
+JASK,29/01/2013,15Z,22.4,80%,1013.1 Hpa,120º (SE),28.8,7/8,-,-,CI,-,23.4,-,"Cloudy, mist"
+JASK,29/01/2013,12Z,23.2,261%,1012.8 Hpa,130º (SE),28.8,6/8,-,-,CI,-,-,-,"Cloudy, mist"
+JASK,29/01/2013,09Z,23.2,74%,1013.7 Hpa,130º (SE),28.8,6/8,-,-,CI,-,-,-,"Cloudy, dust"
+JASK,29/01/2013,06Z,21.8,471%,1015.9 Hpa,100º (E ),21.6,7/8,-,7/8 AC,-,-,-,-,"Cloudy, mist"
+JASK,29/01/2013,03Z,21.0,94%,1014.8 Hpa,090º (E ),21.6,6/8,-,3/8 AC,CS,-,-,20.8,"Cloudy, mist"
+JASK,29/01/2013,00Z,20.8,302%,1014.6 Hpa,110º (E ),14.4,5/8,-,-,CI,-,-,-,"Cloudy, mist"
+KAHNUJ,29/01/2013,21Z,16.2,58%,1008.0 Hpa,270º (W ),14.4,2/8,2/8 SC,-,-,-,-,-,Few clouds
+KAHNUJ,29/01/2013,18Z,17.0,58%,1008.7 Hpa,240º (SW),14.4,2/8,2/8 SC,-,-,-,-,-,Few clouds
+KAHNUJ,29/01/2013,15Z,20.4,47%,1009.0 Hpa,240º (SW),18.0,6/8,2/8 SC,AC,-,-,24.0,-,Cloudy
+KAHNUJ,29/01/2013,12Z,23.2,37%,1009.1 Hpa,240º (SW),28.8,7/8,2/8 SC,AC,-,-,-,-,Cloudy
+KAHNUJ,29/01/2013,09Z,22.4,42%,1010.3 Hpa,210º (SW),18.0,8/8,2/8 ST,AC,CS,-,-,-,Overcast
+KAHNUJ,29/01/2013,06Z,18.4,62%,1012.3 Hpa,210º (SW),18.0,8/8,2/8 ST,AC,CS,-,-,-,Overcast
+KAHNUJ,29/01/2013,03Z,16.6,63%,1010.7 Hpa,270º (W ),10.8,6/8,-,-,CI,-,-,15.8,Cloudy
+KAHNUJ,29/01/2013,00Z,16.8,62%,1010.2 Hpa,240º (SW),14.4,0/8,-,-,-,-,-,-,Clear
+KASHAN,29/01/2013,21Z,7.6,81%,1004.5 Hpa,calm.,,5/8,3/8 SC,AC,-,-,-,-,Cloudy
+KASHAN,29/01/2013,18Z,9.6,80%,1002.3 Hpa,calm.,,5/8,2/8 SC,AC,-,3.0(6h),-,-,Cloudy
+KASHAN,29/01/2013,15Z,11.8,62%,1001.3 Hpa,330º (NW),14.4,8/8,3/8 SC,AC,,-,14.0,-,Overcast
+KASHAN,29/01/2013,12Z,13.8,56%,1002.1 Hpa,240º (SW),18.0,8/8,3/8 SC,AC,,-,-,-,Overcast
+KASHAN,29/01/2013,09Z,12.6,65%,1005.0 Hpa,300º (NW),18.0,5/8,2/8 SC,AC,-,-,-,-,Cloudy
+KASHAN,29/01/2013,06Z,10.8,76%,1008.5 Hpa,330º (NW),14.4,7/8,3/8 SC,AC,-,0.1(24h),-,-,Cloudy
+KASHAN,29/01/2013,03Z,10.0,77%,1009.1 Hpa,270º (W ),10.8,7/8,4/8 SC,AC,-,-,-,8.4,Cloudy
+KASHAN,29/01/2013,00Z,8.8,79%,1009.5 Hpa,calm.,,8/8,4/8 SC,AC,,0.1(6h),-,-,Overcast
+KASHMAR,29/01/2013,21Z,10.0,66%,1004.3 Hpa,030º (NE),7.2,8/8,6/8 ST,AC,,-,-,-,"Overcast, rain"
+KASHMAR,29/01/2013,18Z,12.6,55%,1003.7 Hpa,150º (SE),10.8,6/8,4/8 SC,AC,-,Tr(6h),-,-,Cloudy
+KASHMAR,29/01/2013,15Z,10.6,71%,1008.3 Hpa,150º (SE),7.2,8/8,3/8 SC,AC,-,-,14.0,-,Overcast
+KASHMAR,29/01/2013,12Z,10.6,81%,1010.3 Hpa,090º (E ),10.8,8/8,4/8 ST,AC,,0.7(6h),-,-,"Overcast, rain"
+KASHMAR,29/01/2013,09Z,13.0,51%,1011.1 Hpa,120º (SE),7.2,8/8,4/8 ST,AC,,-,-,-,"Overcast, rain"
+KASHMAR,29/01/2013,06Z,13.8,40%,1013.3 Hpa,110º (E ),14.4,8/8,3/8 SC,-,CI,-,-,-,Overcast
+KASHMAR,29/01/2013,03Z,8.4,54%,1014.6 Hpa,calm.,,7/8,-,-,CI,-,-,8.2,Cloudy
+KASHMAR,29/01/2013,00Z,8.6,55%,1014.7 Hpa,calm.,,8/8,-,-,CS,-,-,-,Overcast
+KERMAN,29/01/2013,21Z,12.2,39%,1003.2 Hpa,170º (S ),32.4,6/8,2/8 SC,AC,-,-,-,-,Cloudy
+KERMAN,29/01/2013,18Z,13.0,31%,1005.9 Hpa,180º (S ),21.6,5/8,2/8 SC,AC,-,-,-,-,Cloudy
+KERMAN,29/01/2013,15Z,15.0,32%,1006.9 Hpa,210º (SW),57.6,3/8,2/8 SC,AC,-,-,20.6,-,Scattered clouds
+KERMAN,29/01/2013,12Z,19.0,25%,1006.3 Hpa,270º (W ),36.0,7/8,2/8 SC,AC,CI,-,-,-,Cloudy
+KERMAN,29/01/2013,09Z,19.8,26%,1008.3 Hpa,190º (S ),28.8,7/8,2/8 SC,AC,CI,-,-,-,Cloudy
+KERMAN,29/01/2013,06Z,12.0,53%,1012.4 Hpa,090º (E ),14.4,7/8,2/8 SC,AC,CI,-,-,-,Cloudy
+KERMAN,29/01/2013,03Z,8.0,58%,1013.0 Hpa,230º (SW),7.2,8/8,1/8 CU,AC,CS,-,-,4.8,Overcast
+KERMAN,29/01/2013,00Z,5.6,62%,1013.5 Hpa,110º (E ),7.2,3/8,-,-,CI,-,-,-,Scattered clouds
+KERMANSHAH,29/01/2013,21Z,2.9,91%,1013.1 Hpa,240º (SW),7.2,4/8,1/8 SC,AC,-,-,-,-,Scattered clouds
+KERMANSHAH,29/01/2013,18Z,3.9,92%,1010.7 Hpa,290º (W ),10.8,7/8,4/8 ST,AC,-,2.0(6h),-,-,Cloudy
+KERMANSHAH,29/01/2013,15Z,1.8,96%,1009.0 Hpa,210º (SW),7.2,8/8,4/8 CB,AC,,-,8.4,-,"Overcast, rain"
+KERMANSHAH,29/01/2013,12Z,0.7,97%,1006.6 Hpa,110º (E ),10.8,8/8,4/8 CB,AC,,31.0(6h),-,-,"Overcast, rain"
+KERMANSHAH,29/01/2013,09Z,6.4,90%,1004.1 Hpa,100º (E ),18.0,8/8,6/8 CB,AC,,-,-,-,"Overcast, rain"
+KERMANSHAH,29/01/2013,06Z,7.3,58%,1006.0 Hpa,150º (SE),144.0,1/8,-,-,CC,5.0(6h),-,-,Few clouds
+KERMANSHAH,29/01/2013,03Z,7.9,77%,1007.4 Hpa,090º (E ),36.0,8/8,5/8 CB,AC,,-,-,7.7,"Overcast, rain"
+KERMANSHAH,29/01/2013,00Z,8.0,84%,1009.4 Hpa,090º (E ),32.4,8/8,5/8 CB,AC,,7.0(6h),-,-,"Overcast, rain"
+KHARG,29/01/2013,15Z,18.6,86%,1011.6 Hpa,270º (W ),7.2,7/8,3/8 SC,AC,-,-,21.2,-,"Cloudy, mist"
+KHARG,29/01/2013,12Z,19.0,84%,1009.4 Hpa,210º (SW),36.0,8/8,5/8 CB,AC,,5.0(6h),-,-,"Overcast, mist"
+KHARG,29/01/2013,09Z,20.0,90%,1009.8 Hpa,180º (S ),21.6,8/8,6/8 CB,AC,,-,-,-,"Overcast, rain"
+KHARG,29/01/2013,06Z,20.4,83%,1011.9 Hpa,170º (S ),18.0,8/8,5/8 CB,AC,,-,-,-,"Overcast, mist"
+KHARG,29/01/2013,03Z,19.0,88%,1010.8 Hpa,120º (SE),14.4,8/8,2/8 SC,AC,,-,-,19.0,"Overcast, mist"
+KHOR,29/01/2013,21Z,13.0,65%,1001.1 Hpa,320º (NW),7.2,6/8,4/8 SC,AC,-,-,-,-,Cloudy
+KHOR,29/01/2013,18Z,14.4,46%,1000.7 Hpa,000º (N),0.0,0/8,2/8 SC,AC,-,Tr(6h),-,-,"Clear, dust"
+KHOR,29/01/2013,15Z,15.0,49%,1001.4 Hpa,calm.,,8/8,4/8 SC,AC,,-,17.8,-,"Overcast, rain"
+KHOR,29/01/2013,12Z,17.6,36%,1002.3 Hpa,calm.,,7/8,3/8 SC,AC,-,-,-,-,"Cloudy, haze"
+KHOR,29/01/2013,09Z,16.4,40%,1006.2 Hpa,calm.,,8/8,4/8 SC,AC,,-,-,-,Overcast
+KHOR,29/01/2013,06Z,12.8,50%,1009.0 Hpa,calm.,,8/8,4/8 SC,AC,,-,-,-,Overcast
+KHOR,29/01/2013,03Z,12.4,50%,1008.8 Hpa,calm.,,8/8,3/8 SC,AC,,-,-,12.0,Overcast
+KHOR,29/01/2013,00Z,13.0,47%,1009.6 Hpa,calm.,,8/8,2/8 SC,AC,,-,-,-,Overcast
+KHORRAM ABAD,29/01/2013,21Z,4.4,90%,1013.9 Hpa,calm.,,6/8,4/8 SC,AC,-,-,-,-,Cloudy
+KHORRAM ABAD,29/01/2013,18Z,4.4,90%,1012.2 Hpa,calm.,,7/8,4/8 CB,AC,-,6.0(6h),-,-,Cloudy
+KHORRAM ABAD,29/01/2013,15Z,4.6,90%,1009.9 Hpa,calm.,,6/8,5/8 CB,AC,-,-,9.6,-,"Cloudy, rain"
+KHORRAM ABAD,29/01/2013,12Z,5.0,88%,1006.9 Hpa,260º (W ),10.8,8/8,5/8 CB,AC,,12.0(6h),-,-,"Overcast, rain"
+KHORRAM ABAD,29/01/2013,09Z,9.2,70%,1003.6 Hpa,070º (E ),36.0,8/8,5/8 CB,AC,,-,-,-,"Overcast, rain"
+KHORRAM ABAD,29/01/2013,06Z,7.6,84%,1009.1 Hpa,080º (E ),10.8,8/8,5/8 CB,AC,,9.0(6h),-,-,"Overcast, rain"
+KHORRAM ABAD,29/01/2013,03Z,7.0,91%,1011.1 Hpa,calm.,,8/8,5/8 ST,AC,,-,-,7.0,"Overcast, rain"
+KHORRAM ABAD,29/01/2013,00Z,9.0,82%,1011.4 Hpa,310º (NW),7.2,8/8,5/8 CB,AC,,3.0(6h),-,-,"Overcast, rain"
+KHOY,29/01/2013,21Z,0.6,89%,1009.9 Hpa,calm.,,8/8,4/8 SC,AC,,-,-,-,Overcast
+KHOY,29/01/2013,18Z,0.8,93%,1008.7 Hpa,calm.,,8/8,5/8 SC,AC,,0.5(6h),-,-,Overcast
+KHOY,29/01/2013,15Z,0.8,96%,1007.3 Hpa,calm.,,8/8,5/8 ST,AC,,-,1.8,-,"Overcast, snow"
+KHOY,29/01/2013,12Z,1.0,96%,1006.8 Hpa,calm.,,8/8,6/8 ST,AC,,9.0(6h),-,-,"Overcast, snow"
+KHOY,29/01/2013,09Z,1.0,96%,1007.2 Hpa,calm.,,8/8,6/8 ST,AC,,-,-,-,"Overcast, snow"
+KHOY,29/01/2013,06Z,0.2,96%,1007.9 Hpa,calm.,,8/8,6/8 ST,AC,,11.0(6h),-,-,"Overcast, snow"
+KHOY,29/01/2013,03Z,0.2,96%,1008.4 Hpa,calm.,,8/8,6/8 ST,AC,,-,-,0.2,"Overcast, snow"
+KHOY,29/01/2013,00Z,0.6,96%,1010.4 Hpa,calm.,,8/8,5/8 ST,AC,,17.0(6h),-,-,"Overcast, snow"
+KISH ISLAND,29/01/2013,21Z,19.2,96%,1012.0 Hpa,040º (NE),7.2,3/8,2/8 CU,-,CI,-,-,-,"Scattered clouds, mist"
+KISH ISLAND,29/01/2013,18Z,19.8,93%,1012.4 Hpa,calm.,,3/8,2/8 CU,-,CI,-,-,-,"Scattered clouds, mist"
+KISH ISLAND,29/01/2013,15Z,21.0,87%,1011.3 Hpa,120º (SE),10.8,1/8,-,-,CI,-,23.4,-,"Few clouds, mist"
+KISH ISLAND,29/01/2013,12Z,23.2,68%,1011.9 Hpa,080º (E ),7.2,6/8,3/8 SC,AC,CI,-,-,-,"Cloudy, haze"
+KISH ISLAND,29/01/2013,09Z,22.6,74%,1013.6 Hpa,100º (E ),10.8,8/8,3/8 SC,AC,,-,-,-,"Overcast, haze"
+KISH ISLAND,29/01/2013,06Z,21.6,80%,1013.1 Hpa,090º (E ),21.6,7/8,3/8 SC,AC,CS,-,-,-,"Cloudy, mist"
+KISH ISLAND,29/01/2013,03Z,19.2,93%,1012.8 Hpa,070º (E ),10.8,4/8,-,-,CS,-,-,18.4,"Scattered clouds, mist"
+KISH ISLAND,29/01/2013,00Z,19.2,96%,1012.9 Hpa,090º (E ),7.2,5/8,-,-,CS,-,-,-,"Cloudy, mist"
+KONARAK,29/01/2013,18Z,18.4,87%,-,calm.,,0/8,-,-,-,-,-,-,"Clear, mist"
+KONARAK,29/01/2013,15Z,21.2,75%,1014.5 Hpa,130º (SE),7.2,5/8,1/8 SC,-,CI,-,24.0,-,"Cloudy, haze"
+KONARAK,29/01/2013,12Z,24.0,64%,1013.6 Hpa,140º (SE),14.4,5/8,2/8 SC,-,CI,-,-,-,"Cloudy, haze"
+KONARAK,29/01/2013,09Z,23.4,74%,1015.1 Hpa,160º (S ),7.2,7/8,3/8 SC,-,CI,-,-,-,"Cloudy, haze"
+KONARAK,29/01/2013,06Z,20.2,96%,1017.6 Hpa,calm.,,2/8,2/8 SC,-,-,-,-,-,"Few clouds, fog"
+KONARAK,29/01/2013,03Z,14.2,97%,1015.6 Hpa,calm.,,0/8,-,-,-,-,-,13.6,"Clear, fog"
+KONARAK,29/01/2013,00Z,14.8,97%,1014.8 Hpa,calm.,,,-,-,-,-,-,-,fog
+MAKKO,29/01/2013,21Z,-0.4,92%,1009.2 Hpa,calm.,,7/8,7/8 ST,-,-,-,-,-,"Cloudy, mist"
+MAKKO,29/01/2013,18Z,0.0,96%,1008.5 Hpa,calm.,,8/8,6/8 ST,AC,,0.4(6h),-,-,"Overcast, snow"
+MAKKO,29/01/2013,15Z,0.0,96%,1006.9 Hpa,calm.,,8/8,6/8 ST,AC,,-,2.4,-,"Overcast, snow"
+MAKKO,29/01/2013,12Z,1.4,93%,1005.2 Hpa,calm.,,8/8,5/8 CB,AC,,6.0(6h),-,-,"Overcast, snow"
+MAKKO,29/01/2013,09Z,1.4,96%,1006.5 Hpa,calm.,,8/8,5/8 CB,AC,,-,-,-,"Overcast, snow"
+MAKKO,29/01/2013,06Z,0.2,96%,1008.1 Hpa,calm.,,8/8,6/8 CB,AC,,10.0(6h),-,-,"Overcast, snow"
+MAKKO,29/01/2013,03Z,-0.4,95%,1010.3 Hpa,calm.,,8/8,6/8 CB,AC,,-,-,-0.4,"Overcast, snow"
+MAKKO,29/01/2013,00Z,0.6,96%,1010.1 Hpa,calm.,,8/8,6/8 CB,AC,,2.0(6h),-,-,"Overcast, rain and snow showers"
+MARAGHEH,29/01/2013,21Z,2.0,93%,1007.5 Hpa,140º (SE),7.2,5/8,2/8 SC,AC,CI,-,-,-,"Cloudy, mist"
+MARAGHEH,29/01/2013,18Z,4.4,91%,1004.8 Hpa,270º (W ),7.2,8/8,5/8 CB,AC,,Tr(6h),-,-,Overcast
+MARAGHEH,29/01/2013,15Z,5.4,88%,1002.5 Hpa,300º (NW),7.2,7/8,6/8 CB,AC,-,-,9.6,-,"Cloudy, hail showers"
+MARAGHEH,29/01/2013,12Z,7.6,76%,1000.4 Hpa,170º (S ),18.0,8/8,5/8 CB,AC,,3.0(6h),-,-,Overcast
+MARAGHEH,29/01/2013,09Z,5.8,97%,1001.9 Hpa,260º (W ),10.8,8/8,5/8 ST,AC,,-,-,-,"Overcast, rain"
+MARAGHEH,29/01/2013,06Z,6.8,81%,1001.6 Hpa,090º (E ),21.6,8/8,5/8 ST,AC,,2.0(6h),-,-,"Overcast, rain"
+MARAGHEH,29/01/2013,03Z,5.8,88%,1003.3 Hpa,090º (E ),21.6,8/8,3/8 SC,AC,,-,-,5.4,"Overcast, rain"
+MARAGHEH,29/01/2013,00Z,5.6,88%,1005.2 Hpa,080º (E ),21.6,8/8,4/8 SC,AC,,7.0(6h),-,-,"Overcast, rain"
+MARAVEH-TAPPEH,29/01/2013,21Z,7.2,100%,1006.1 Hpa,calm.,,8/8,6/8 ST,AC,,-,-,-,"Overcast, rain"
+MARAVEH-TAPPEH,29/01/2013,18Z,9.0,94%,1006.6 Hpa,calm.,,8/8,6/8 ST,AC,,Tr(6h),-,-,"Overcast, drizzle"
+MARAVEH-TAPPEH,29/01/2013,15Z,9.2,92%,1007.2 Hpa,300º (NW),10.8,8/8,4/8 ST,AC,,-,11.4,-,"Overcast, mist"
+MARAVEH-TAPPEH,29/01/2013,12Z,10.8,85%,1006.6 Hpa,300º (NW),10.8,7/8,2/8 ST,AC,-,-,-,-,"Cloudy, mist"
+MARAVEH-TAPPEH,29/01/2013,09Z,9.2,97%,1009.2 Hpa,310º (NW),10.8,7/8,3/8 ST,AC,-,-,-,-,"Cloudy, mist"
+MARAVEH-TAPPEH,29/01/2013,06Z,8.4,100%,1013.7 Hpa,260º (W ),7.2,8/8,6/8 ST,AC,,-,-,-,"Overcast, fog"
+MARAVEH-TAPPEH,29/01/2013,03Z,8.4,100%,1012.1 Hpa,270º (W ),7.2,8/8,8/8 ST,,,-,-,8.0,"Overcast, fog"
+MARAVEH-TAPPEH,29/01/2013,00Z,8.8,100%,1013.2 Hpa,020º (N),7.2,8/8,8/8 ST,,,-,-,-,"Overcast, fog"
+MASHHAD,29/01/2013,21Z,8.4,94%,1004.8 Hpa,020º (N),10.8,7/8,4/8 ST,AC,-,-,-,-,"Cloudy, rain"
+MASHHAD,29/01/2013,18Z,9.6,86%,1006.7 Hpa,280º (W ),7.2,8/8,4/8 SC,AC,,0.3(6h),-,-,"Overcast, rain"
+MASHHAD,29/01/2013,15Z,11.4,59%,1009.1 Hpa,140º (SE),7.2,7/8,3/8 SC,AC,-,-,-,-,"Cloudy, haze"
+MASHHAD,29/01/2013,12Z,13.2,43%,1009.4 Hpa,130º (SE),7.2,7/8,2/8 SC,AC,-,-,-,-,"Cloudy, haze"
+MASHHAD,29/01/2013,09Z,12.8,46%,1012.2 Hpa,300º (NW),7.2,7/8,1/8 SC,AC,-,-,-,-,"Cloudy, haze"
+MASHHAD,29/01/2013,06Z,9.6,56%,1014.0 Hpa,060º (NE),7.2,7/8,1/8 SC,AC,CI,-,-,-,"Cloudy, haze"
+MASHHAD,29/01/2013,03Z,5.8,71%,1015.2 Hpa,calm.,,8/8,1/8 SC,AC,CS,-,-,5.2,"Overcast, haze"
+MASHHAD,29/01/2013,00Z,6.4,68%,1014.4 Hpa,320º (NW),10.8,4/8,1/8 SC,AC,CI,-,-,-,Scattered clouds
+MASJED-SOLEYMAN,29/01/2013,21Z,11.8,90%,1013.1 Hpa,calm.,,7/8,3/8 SC,AC,-,-,-,-,Cloudy
+MASJED-SOLEYMAN,29/01/2013,18Z,12.0,90%,1010.3 Hpa,240º (SW),14.4,8/8,6/8 CB,AC,,25.0(6h),-,-,Overcast
+MASJED-SOLEYMAN,29/01/2013,15Z,12.8,90%,1007.9 Hpa,150º (SE),14.4,8/8,6/8 CB,AC,,-,18.0,-,Overcast
+MASJED-SOLEYMAN,29/01/2013,12Z,12.2,97%,1005.5 Hpa,150º (SE),36.0,8/8,5/8 CB,AC,,36.0(6h),-,-,"Overcast, rain"
+MASJED-SOLEYMAN,29/01/2013,09Z,12.4,97%,1007.8 Hpa,150º (SE),21.6,8/8,5/8 CB,AC,,-,-,-,"Overcast, rain"
+MASJED-SOLEYMAN,29/01/2013,06Z,13.4,88%,1009.9 Hpa,150º (SE),28.8,8/8,5/8 CB,AC,,12.0(6h),-,-,"Overcast, rain"
+MASJED-SOLEYMAN,29/01/2013,03Z,18.0,57%,1010.8 Hpa,030º (NE),10.8,8/8,5/8 CB,AC,,-,-,13.9,"Overcast, rain"
+MASJED-SOLEYMAN,29/01/2013,00Z,17.6,65%,1009.5 Hpa,calm.,,8/8,5/8 CB,AC,,-,-,-,Overcast
+MEYANEH,29/01/2013,21Z,6.0,94%,1004.2 Hpa,calm.,,7/8,2/8 SC,AC,CI,-,-,-,Cloudy
+MEYANEH,29/01/2013,18Z,6.2,94%,1003.1 Hpa,calm.,,8/8,3/8 CU,AC,,2.0(6h),-,-,Overcast
+MEYANEH,29/01/2013,15Z,7.0,86%,1003.1 Hpa,calm.,,7/8,3/8 CB,AC,-,-,12.4,-,Cloudy
+MEYANEH,29/01/2013,12Z,7.8,94%,1001.6 Hpa,230º (SW),18.0,8/8,5/8 CB,AC,,4.0(6h),-,-,"Overcast, rain"
+MEYANEH,29/01/2013,09Z,12.0,64%,1001.7 Hpa,130º (SE),14.4,7/8,5/8 CB,AC,-,-,-,-,Cloudy
+MEYANEH,29/01/2013,06Z,9.0,82%,1003.4 Hpa,350º (N ),7.2,7/8,5/8 CB,AC,-,4.0(6h),-,-,Cloudy
+MEYANEH,29/01/2013,03Z,6.4,100%,1004.9 Hpa,calm.,,8/8,7/8 ST,AC,,-,-,6.0,"Overcast, rain"
+MEYANEH,29/01/2013,00Z,6.0,97%,1006.9 Hpa,090º (E ),7.2,8/8,6/8 CB,AC,,6.0(6h),-,-,"Overcast, rain"
+MOHABAD,29/01/2013,21Z,5.0,71%,1007.2 Hpa,210º (SW),18.0,2/8,2/8 SC,-,-,-,-,-,Few clouds
+MOHABAD,29/01/2013,18Z,5.4,69%,1005.5 Hpa,180º (S ),21.6,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+MOHABAD,29/01/2013,15Z,6.2,67%,1002.7 Hpa,200º (S ),18.0,5/8,4/8 CB,AC,-,-,8.0,-,Cloudy
+MOHABAD,29/01/2013,12Z,7.6,69%,999.7 Hpa,210º (SW),25.2,7/8,5/8 CB,AC,-,3.0(6h),-,-,Cloudy
+MOHABAD,29/01/2013,09Z,5.8,77%,1001.7 Hpa,210º (SW),18.0,8/8,5/8 CB,AC,,-,-,-,"Overcast, rain"
+MOHABAD,29/01/2013,06Z,5.4,88%,1001.9 Hpa,calm.,,8/8,5/8 CB,-,-,2.0(6h),-,-,"Overcast, rain"
+MOHABAD,29/01/2013,03Z,5.4,88%,1003.2 Hpa,210º (SW),7.2,8/8,5/8 CB,AC,,-,-,5.4,"Overcast, rain"
+MOHABAD,29/01/2013,00Z,6.0,85%,1005.3 Hpa,220º (SW),7.2,8/8,5/8 CB,AC,,2.0(6h),-,-,"Overcast, rain"
+NEHBANDAN,29/01/2013,21Z,10.8,48%,1007.8 Hpa,120º (SE),10.8,2/8,-,2/8 AC,CI,-,-,-,Few clouds
+NEHBANDAN,29/01/2013,18Z,12.0,42%,1010.3 Hpa,120º (SE),7.2,4/8,-,3/8 AC,CI,-,-,-,Scattered clouds
+NEHBANDAN,29/01/2013,15Z,13.4,41%,1012.4 Hpa,calm.,,5/8,-,-,CI,-,16.4,-,Cloudy
+NEHBANDAN,29/01/2013,12Z,15.6,35%,1013.4 Hpa,120º (SE),21.6,7/8,1/8 CU,AC,-,-,-,-,Cloudy
+NEHBANDAN,29/01/2013,09Z,15.8,34%,1015.2 Hpa,120º (SE),14.4,7/8,1/8 CU,AC,-,-,-,-,Cloudy
+NEHBANDAN,29/01/2013,06Z,13.0,44%,1016.5 Hpa,120º (SE),14.4,7/8,1/8 CU,AC,-,-,-,-,Cloudy
+NEHBANDAN,29/01/2013,03Z,4.4,75%,1018.3 Hpa,calm.,,3/8,-,-,CI,-,-,2.2,Scattered clouds
+NEHBANDAN,29/01/2013,00Z,2.2,73%,1018.2 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+NOSHAHR,29/01/2013,21Z,8.0,100%,1008.1 Hpa,360º (N ),18.0,8/8,7/8 CB,AC,,-,-,-,"Overcast, rain"
+NOSHAHR,29/01/2013,18Z,8.8,100%,1007.3 Hpa,270º (W ),10.8,8/8,7/8 CB,AC,,3.0(6h),-,-,"Overcast, rain"
+NOSHAHR,29/01/2013,15Z,9.0,100%,1007.7 Hpa,calm.,,8/8,7/8 CB,AC,,-,22.0,-,"Overcast, drizzle"
+NOSHAHR,29/01/2013,12Z,9.8,97%,1006.9 Hpa,330º (NW),7.2,8/8,6/8 CB,AC,-,0.6(6h),-,-,"Overcast, drizzle"
+NOSHAHR,29/01/2013,09Z,10.2,97%,1009.5 Hpa,270º (W ),7.2,8/8,6/8 CB,AC,,-,-,-,"Overcast, mist"
+NOSHAHR,29/01/2013,06Z,10.0,97%,1012.1 Hpa,calm.,,8/8,6/8 CB,AC,,1.0(6h),-,-,"Overcast, drizzle"
+NOSHAHR,29/01/2013,03Z,10.0,100%,1013.2 Hpa,300º (NW),7.2,8/8,8/8 ST,,,-,-,9.8,"Overcast, drizzle"
+NOSHAHR,29/01/2013,00Z,10.0,100%,1014.5 Hpa,260º (W ),7.2,8/8,8/8 ST,,,1.0(6h),-,-,"Overcast, drizzle"
+OMIDYEH-AGHAJARI,29/01/2013,21Z,14.0,88%,1016.6 Hpa,calm.,,6/8,6/8 SC,-,-,-,-,-,Cloudy
+OMIDYEH-AGHAJARI,29/01/2013,18Z,15.2,86%,1014.3 Hpa,calm.,,7/8,7/8 SC,-,-,3.0(6h),-,-,"Cloudy, rain showers"
+OMIDYEH-AGHAJARI,29/01/2013,15Z,16.0,95%,1012.2 Hpa,130º (SE),10.8,7/8,7/8 CB,-,-,-,23.0,-,"Cloudy, mist"
+OMIDYEH-AGHAJARI,29/01/2013,12Z,15.4,97%,1009.8 Hpa,210º (SW),36.0,7/8,7/8 CB,-,-,25.0(6h),-,-,"Cloudy, rain showers"
+OMIDYEH-AGHAJARI,29/01/2013,09Z,16.0,89%,1011.4 Hpa,120º (SE),28.8,8/8,8/8 CB,,,-,-,-,"Overcast, rain showers"
+OMIDYEH-AGHAJARI,29/01/2013,06Z,21.6,38%,1014.0 Hpa,180º (S ),57.6,8/8,8/8 CB,,,0.2(6h),-,-,"Overcast, rain showers"
+OMIDYEH-AGHAJARI,29/01/2013,03Z,21.6,57%,1010.9 Hpa,150º (SE),21.6,8/8,8/8 CB,,,-,-,18.6,Overcast
+OMIDYEH-AGHAJARI,29/01/2013,00Z,22.0,37%,1011.8 Hpa,130º (SE),28.8,8/8,8/8 CB,,,-,-,-,Overcast
+ORUMIEH,29/01/2013,21Z,-0.4,95%,1008.7 Hpa,020º (N),7.2,5/8,5/8 CB,-,-,-,-,-,Cloudy
+ORUMIEH,29/01/2013,18Z,0.6,92%,1007.5 Hpa,270º (W ),10.8,3/8,3/8 CB,-,-,-,-,-,Scattered clouds
+ORUMIEH,29/01/2013,15Z,2.7,95%,1005.1 Hpa,040º (NE),7.2,5/8,5/8 CB,-,-,-,3.8,-,Cloudy
+ORUMIEH,29/01/2013,12Z,3.6,90%,1003.1 Hpa,070º (E ),7.2,8/8,5/8 CB,AC,,3.0(6h),-,-,"Overcast, mist"
+ORUMIEH,29/01/2013,09Z,2.2,96%,1003.0 Hpa,360º (N ),14.4,8/8,6/8 CB,AC,,-,-,-,"Overcast, mist"
+ORUMIEH,29/01/2013,06Z,1.2,100%,1004.7 Hpa,250º (W ),7.2,8/8,6/8 CB,AC,,9.0(6h),-,-,"Overcast, rain and snow"
+ORUMIEH,29/01/2013,03Z,2.0,96%,1005.6 Hpa,290º (W ),7.2,8/8,5/8 CB,AC,,-,-,0.8,"Overcast, rain"
+ORUMIEH,29/01/2013,00Z,2.6,96%,1007.4 Hpa,230º (SW),10.8,8/8,5/8 CB,AC,,10.0(6h),-,-,"Overcast, rain"
+PARS ABAD MOGHAN,29/01/2013,21Z,4.4,93%,1011.6 Hpa,090º (E ),7.2,8/8,5/8 SC,AC,,-,-,-,Overcast
+PARS ABAD MOGHAN,29/01/2013,18Z,4.4,93%,1011.2 Hpa,120º (SE),7.2,8/8,5/8 SC,AC,,0.1(6h),-,-,Overcast
+PARS ABAD MOGHAN,29/01/2013,15Z,4.6,89%,1011.4 Hpa,100º (E ),10.8,8/8,5/8 SC,AC,,-,6.4,-,Overcast
+PARS ABAD MOGHAN,29/01/2013,12Z,5.6,90%,1011.5 Hpa,090º (E ),21.6,8/8,5/8 SC,AC,,0.1(6h),-,-,Overcast
+PARS ABAD MOGHAN,29/01/2013,09Z,6.0,84%,1012.6 Hpa,100º (E ),25.2,8/8,5/8 SC,AC,,-,-,-,Overcast
+PARS ABAD MOGHAN,29/01/2013,06Z,5.6,90%,1014.0 Hpa,110º (E ),28.8,8/8,4/8 SC,AC,,7.0(6h),-,-,"Overcast, rain"
+PARS ABAD MOGHAN,29/01/2013,03Z,5.8,90%,1013.7 Hpa,100º (E ),25.2,8/8,5/8 SC,AC,,-,-,5.8,"Overcast, rain"
+PARS ABAD MOGHAN,29/01/2013,00Z,6.8,90%,1013.8 Hpa,110º (E ),28.8,8/8,4/8 SC,AC,,-,-,-,Overcast
+RAMSAR,29/01/2013,21Z,8.2,86%,1007.4 Hpa,320º (NW),14.4,8/8,5/8 ST,AC,,-,-,-,Overcast
+RAMSAR,29/01/2013,18Z,8.4,94%,1007.0 Hpa,330º (NW),7.2,8/8,5/8 ST,AC,,3.0(6h),-,-,"Overcast, drizzle"
+RAMSAR,29/01/2013,15Z,9.0,94%,1007.4 Hpa,Vble.,,8/8,7/8 CB,AC,,-,10.4,-,"Overcast, drizzle"
+RAMSAR,29/01/2013,12Z,9.4,97%,1007.0 Hpa,310º (NW),10.8,8/8,7/8 CB,AC,,2.0(6h),-,-,"Overcast, rain"
+RAMSAR,29/01/2013,09Z,9.6,97%,1009.6 Hpa,320º (NW),10.8,8/8,8/8 ST,,,-,-,-,"Overcast, drizzle"
+RAMSAR,29/01/2013,06Z,9.6,97%,1011.8 Hpa,310º (NW),7.2,8/8,8/8 ST,,,2.0(6h),-,-,"Overcast, drizzle"
+RAMSAR,29/01/2013,03Z,9.4,97%,1012.6 Hpa,calm.,,8/8,7/8 CB,AC,,-,-,9.4,"Overcast, rain"
+RAMSAR,29/01/2013,00Z,9.8,97%,1013.7 Hpa,350º (N ),7.2,8/8,8/8 ST,,,2.0(6h),-,-,"Overcast, drizzle"
+RASHT,29/01/2013,21Z,7.0,97%,1009.9 Hpa,300º (NW),7.2,8/8,7/8 CB,AC,,-,-,-,"Overcast, rain"
+RASHT,29/01/2013,18Z,7.0,93%,1009.4 Hpa,240º (SW),10.8,8/8,6/8 SC,AC,,9.0(6h),-,-,"Overcast, mist"
+RASHT,29/01/2013,15Z,7.8,97%,1009.1 Hpa,320º (NW),7.2,8/8,7/8 CB,AC,,-,9.8,-,"Overcast, drizzle"
+RASHT,29/01/2013,12Z,8.6,94%,1008.8 Hpa,310º (NW),10.8,8/8,7/8 CB,AC,,1.0(6h),-,-,"Overcast, rain"
+RASHT,29/01/2013,09Z,9.2,97%,1010.8 Hpa,calm.,,8/8,6/8 CB,AC,,-,-,-,"Overcast, rain"
+RASHT,29/01/2013,06Z,8.8,97%,1013.3 Hpa,calm.,,8/8,6/8 CB,AC,,8.0(6h),-,-,"Overcast, rain"
+RASHT,29/01/2013,03Z,8.4,94%,1014.0 Hpa,calm.,,8/8,6/8 CB,AC,,-,-,8.0,"Overcast, rain"
+RASHT,29/01/2013,00Z,9.0,97%,1014.5 Hpa,Vble.,,8/8,6/8 CB,AC,,1.0(6h),-,-,"Overcast, rain"
+SABZEVAR,29/01/2013,21Z,10.0,100%,1003.4 Hpa,100º (E ),7.2,8/8,5/8 ST,AC,,-,-,-,"Overcast, rain"
+SABZEVAR,29/01/2013,18Z,9.8,100%,1005.8 Hpa,080º (E ),18.0,8/8,4/8 ST,AC,,3.0(6h),-,-,"Overcast, rain"
+SABZEVAR,29/01/2013,15Z,10.4,92%,-,070º (E ),18.0,8/8,-,-,-,-,-,-,Overcast
+SABZEVAR,29/01/2013,12Z,11.6,83%,1009.2 Hpa,100º (E ),14.4,8/8,2/8 ST,AC,,0.4(6h),-,-,"Overcast, rain"
+SABZEVAR,29/01/2013,09Z,13.2,57%,1011.0 Hpa,070º (E ),10.8,8/8,1/8 SC,AC,,-,-,-,"Overcast, rain"
+SABZEVAR,29/01/2013,06Z,12.6,41%,1012.5 Hpa,060º (NE),18.0,8/8,1/8 SC,AC,,-,-,-,Overcast
+SABZEVAR,29/01/2013,03Z,10.0,45%,1013.5 Hpa,080º (E ),25.2,7/8,1/8 SC,AC,CI,-,-,8.0,Cloudy
+SABZEVAR,29/01/2013,00Z,12.0,39%,1012.9 Hpa,080º (E ),25.2,6/8,2/8 SC,AC,CI,-,-,-,Cloudy
+SAFI-ABAD DEZFUL,29/01/2013,21Z,11.0,92%,1014.7 Hpa,150º (SE),7.2,6/8,2/8 SC,AC,-,-,-,-,"Cloudy, mist"
+SAFI-ABAD DEZFUL,29/01/2013,18Z,12.0,92%,1012.1 Hpa,230º (SW),7.2,7/8,4/8 CB,AC,-,2.0(6h),-,-,Cloudy
+SAFI-ABAD DEZFUL,29/01/2013,15Z,12.0,92%,1008.9 Hpa,360º (N ),7.2,7/8,6/8 CB,AC,-,-,15.0,-,"Cloudy, lightning"
+SAFI-ABAD DEZFUL,29/01/2013,12Z,14.4,97%,1006.1 Hpa,150º (SE),7.2,8/8,5/8 CB,AC,,30.0(6h),-,-,"Overcast, mist"
+SAFI-ABAD DEZFUL,29/01/2013,09Z,13.6,95%,1007.1 Hpa,120º (SE),36.0,8/8,5/8 CB,AC,,-,-,-,"Overcast, rain"
+SAFI-ABAD DEZFUL,29/01/2013,06Z,14.4,88%,1009.5 Hpa,090º (E ),36.0,8/8,5/8 CB,AC,,12.0(6h),-,-,"Overcast, rain"
+SAFI-ABAD DEZFUL,29/01/2013,03Z,15.4,85%,1011.2 Hpa,060º (NE),18.0,8/8,3/8 CB,AC,,-,-,15.4,Overcast
+SAFI-ABAD DEZFUL,29/01/2013,00Z,17.8,67%,1010.6 Hpa,090º (E ),7.2,8/8,3/8 CB,AC,,Tr(6h),-,-,"Overcast, rain"
+SAGHEZ,29/01/2013,21Z,3.0,74%,1008.1 Hpa,210º (SW),14.4,5/8,5/8 CB,-,-,-,-,-,Cloudy
+SAGHEZ,29/01/2013,18Z,4.0,81%,1004.2 Hpa,270º (W ),18.0,6/8,4/8 CB,AC,-,-,-,-,Cloudy
+SAGHEZ,29/01/2013,15Z,4.8,79%,1002.5 Hpa,calm.,,7/8,5/8 CB,AC,-,-,9.0,-,Cloudy
+SAGHEZ,29/01/2013,12Z,6.4,75%,998.9 Hpa,calm.,,8/8,5/8 CB,AC,,7.0(6h),-,-,Overcast
+SAGHEZ,29/01/2013,09Z,2.6,93%,1002.9 Hpa,240º (SW),14.4,8/8,4/8 CB,AC,,-,-,-,"Overcast, rain"
+SAGHEZ,29/01/2013,06Z,9.0,73%,999.5 Hpa,140º (SE),10.8,7/8,5/8 CB,AC,-,2.0(6h),-,-,"Cloudy, rain"
+SAGHEZ,29/01/2013,03Z,6.0,80%,1001.5 Hpa,calm.,,8/8,5/8 CB,AC,,-,-,5.0,"Overcast, rain"
+SAGHEZ,29/01/2013,00Z,5.4,88%,1003.8 Hpa,110º (E ),18.0,8/8,5/8 CB,AC,,2.0(6h),-,-,"Overcast, rain"
+SANANDAJ,29/01/2013,21Z,3.9,80%,1009.7 Hpa,190º (S ),10.8,5/8,5/8 SC,-,-,-,-,-,Cloudy
+SANANDAJ,29/01/2013,18Z,4.0,88%,1007.1 Hpa,140º (SE),7.2,4/8,4/8 ST,-,-,-,-,-,Scattered clouds
+SANANDAJ,29/01/2013,15Z,3.8,88%,1004.9 Hpa,150º (SE),7.2,7/8,5/8 CB,AC,-,-,8.2,-,Cloudy
+SANANDAJ,29/01/2013,12Z,2.8,93%,1003.4 Hpa,calm.,,8/8,5/8 CB,AC,,12.0(6h),-,-,"Overcast, rain"
+SANANDAJ,29/01/2013,09Z,4.6,88%,1003.2 Hpa,220º (SW),21.6,8/8,5/8 CB,AC,,-,-,-,"Overcast, rain"
+SANANDAJ,29/01/2013,06Z,7.6,76%,1002.4 Hpa,190º (S ),14.4,7/8,5/8 CB,AC,-,2.0(6h),-,-,"Cloudy, haze"
+SANANDAJ,29/01/2013,03Z,6.9,85%,1004.2 Hpa,210º (SW),10.8,8/8,5/8 CB,AC,,-,-,6.7,"Overcast, rain"
+SARAB,29/01/2013,21Z,1.8,90%,1005.1 Hpa,330º (NW),14.4,8/8,5/8 SC,AC,,-,-,-,"Overcast, rain"
+SARAB,29/01/2013,18Z,4.0,79%,1003.2 Hpa,260º (W ),25.2,8/8,4/8 SC,AC,,3.0(6h),-,-,Overcast
+SARAB,29/01/2013,15Z,2.6,90%,1002.5 Hpa,190º (S ),14.4,8/8,5/8 SC,AC,,-,7.0,-,"Overcast, rain"
+SARAB,29/01/2013,12Z,7.0,71%,1000.2 Hpa,270º (W ),7.2,8/8,5/8 SC,AC,,2.0(6h),-,-,"Overcast, rain"
+SARAB,29/01/2013,09Z,6.2,75%,1001.6 Hpa,180º (S ),10.8,7/8,4/8 SC,AC,-,-,-,-,Cloudy
+SARAB,29/01/2013,06Z,4.6,76%,1004.4 Hpa,080º (E ),21.6,7/8,4/8 SC,AC,-,0.6(6h),-,-,Cloudy
+SARAB,29/01/2013,03Z,5.0,77%,1004.1 Hpa,090º (E ),18.0,8/8,5/8 SC,AC,,-,-,4.0,Overcast
+SARAB,29/01/2013,00Z,4.4,82%,1006.7 Hpa,090º (E ),18.0,8/8,5/8 SC,AC,,4.0(6h),-,-,"Overcast, rain"
+SARAKHS,29/01/2013,21Z,14.0,73%,1005.3 Hpa,120º (SE),28.8,8/8,5/8 ST,AC,,-,-,-,"Overcast, rain"
+SARAKHS,29/01/2013,18Z,14.4,70%,1007.8 Hpa,150º (SE),25.2,8/8,5/8 ST,AC,,0.2(6h),-,-,"Overcast, rain"
+SARAKHS,29/01/2013,15Z,12.7,70%,1009.4 Hpa,150º (SE),7.2,8/8,3/8 SC,-,CS,-,24.2,-,"Overcast, haze"
+SARAKHS,29/01/2013,12Z,15.0,62%,1009.7 Hpa,310º (NW),18.0,8/8,2/8 SC,-,CS,-,-,-,Overcast
+SARAKHS,29/01/2013,09Z,23.0,27%,1010.4 Hpa,180º (S ),10.8,7/8,2/8 SC,-,CI,-,-,-,Cloudy
+SARAKHS,29/01/2013,06Z,14.8,46%,1012.9 Hpa,170º (S ),18.0,8/8,2/8 SC,-,CS,-,-,-,Overcast
+SARAKHS,29/01/2013,03Z,13.4,46%,1013.1 Hpa,180º (S ),21.6,5/8,1/8 SC,-,CI,-,-,10.0,Cloudy
+SARAKHS,29/01/2013,00Z,11.8,54%,1012.8 Hpa,180º (S ),21.6,3/8,-,-,CI,-,-,-,Scattered clouds
+SARAVAN,29/01/2013,21Z,14.1,49%,1013.8 Hpa,170º (S ),10.8,1/8,-,1/8 AC,-,-,-,-,Few clouds
+SARAVAN,29/01/2013,18Z,15.7,41%,1014.5 Hpa,290º (W ),7.2,4/8,1/8 SC,AC,-,-,-,-,Scattered clouds
+SARAVAN,29/01/2013,15Z,17.7,32%,1016.6 Hpa,210º (SW),21.6,8/8,3/8 SC,AC,,-,21.5,-,Overcast
+SARAVAN,29/01/2013,12Z,20.2,25%,1014.3 Hpa,200º (S ),21.6,8/8,-,3/8 AC,CS,-,-,-,Overcast
+SARAVAN,29/01/2013,09Z,20.6,28%,1014.8 Hpa,120º (SE),18.0,8/8,-,3/8 AC,CS,-,-,-,Overcast
+SARAVAN,29/01/2013,06Z,16.0,26%,1019.9 Hpa,260º (W ),7.2,7/8,-,3/8 AC,CI,-,-,-,Cloudy
+SARAVAN,29/01/2013,03Z,6.1,45%,1020.0 Hpa,360º (N ),7.2,5/8,-,-,CI,-,-,6.1,Cloudy
+SARAVAN,29/01/2013,00Z,8.8,38%,1017.3 Hpa,360º (N ),7.2,0/8,-,-,-,-,-,-,Clear
+SEMNAN,29/01/2013,21Z,7.0,86%,1001.4 Hpa,030º (NE),18.0,8/8,3/8 SC,AC,,-,-,-,"Overcast, rain"
+SEMNAN,29/01/2013,18Z,9.2,92%,1002.9 Hpa,360º (N ),3.6,8/8,3/8 SC,AC,,7.0(6h),-,-,"Overcast, rain"
+SEMNAN,29/01/2013,15Z,11.8,77%,1004.3 Hpa,100º (E ),7.2,8/8,3/8 SC,AC,,-,14.4,-,"Overcast, rain"
+SEMNAN,29/01/2013,12Z,13.8,62%,1003.9 Hpa,060º (NE),3.6,7/8,3/8 CU,AC,CI,2.0(6h),-,-,Cloudy
+SEMNAN,29/01/2013,09Z,13.2,72%,995.9 Hpa,030º (NE),3.6,7/8,3/8 SC,AC,CI,-,-,-,Cloudy
+SEMNAN,29/01/2013,06Z,8.8,94%,1011.6 Hpa,350º (N ),10.8,8/8,5/8 SC,AC,,7.0(6h),-,-,"Overcast, rain"
+SEMNAN,29/01/2013,03Z,9.2,87%,1011.8 Hpa,360º (N ),10.8,8/8,3/8 SC,AC,,-,-,9.0,"Overcast, rain"
+SEMNAN,29/01/2013,00Z,11.6,57%,1011.5 Hpa,300º (NW),3.6,8/8,2/8 SC,AC,,Tr(6h),-,-,"Overcast, rain"
+SHAHRE-KORD,29/01/2013,21Z,0.0,85%,1009.2 Hpa,090º (E ),7.2,5/8,4/8 CB,AC,-,-,-,-,Cloudy
+SHAHRE-KORD,29/01/2013,18Z,1.0,86%,1008.0 Hpa,230º (SW),25.2,6/8,5/8 CB,AC,-,13.0(6h),-,-,"Cloudy, snow showers"
+SHAHRE-KORD,29/01/2013,15Z,0.2,96%,1007.9 Hpa,calm.,,8/8,5/8 CB,AC,,-,9.4,-,"Overcast, snow"
+SHAHRE-KORD,29/01/2013,12Z,5.2,75%,1003.0 Hpa,200º (S ),21.6,8/8,7/8 CB,AC,,0.2(6h),-,-,"Overcast, rain showers"
+SHAHRE-KORD,29/01/2013,09Z,8.6,57%,1005.1 Hpa,180º (S ),61.2,7/8,5/8 CB,AC,-,-,-,-,Cloudy
+SHAHRE-KORD,29/01/2013,06Z,6.6,64%,1011.0 Hpa,190º (S ),7.2,7/8,5/8 CB,AC,-,0.2(24h),-,-,Cloudy
+SHAHRE-KORD,29/01/2013,03Z,6.6,59%,1009.8 Hpa,220º (SW),25.2,7/8,6/8 CB,AC,-,-,-,6.2,Cloudy
+SHAHRE-KORD,29/01/2013,00Z,8.0,52%,1008.6 Hpa,230º (SW),14.4,8/8,6/8 CB,AC,,0.1(6h),-,-,Overcast
+SHAHRUD,29/01/2013,21Z,6.0,94%,1003.4 Hpa,010º (N),7.2,8/8,5/8 ST,AC,,-,-,-,"Overcast, rain"
+SHAHRUD,29/01/2013,18Z,5.6,94%,1006.0 Hpa,060º (NE),7.2,8/8,6/8 ST,AC,,2.0(6h),-,-,"Overcast, rain"
+SHAHRUD,29/01/2013,15Z,6.8,88%,1006.8 Hpa,040º (NE),10.8,8/8,6/8 SC,AC,,-,8.4,-,Overcast
+SHAHRUD,29/01/2013,12Z,7.0,92%,1007.8 Hpa,040º (NE),10.8,8/8,6/8 SC,AC,,2.0(6h),-,-,Overcast
+SHAHRUD,29/01/2013,09Z,7.2,92%,1010.2 Hpa,calm.,,8/8,6/8 SC,AC,,-,-,-,"Overcast, rain"
+SHAHRUD,29/01/2013,06Z,6.0,88%,1013.4 Hpa,calm.,,8/8,5/8 SC,AC,,2.0(6h),-,-,"Overcast, rain"
+SHAHRUD,29/01/2013,03Z,7.8,61%,1012.3 Hpa,030º (NE),7.2,7/8,3/8 SC,-,CS,-,-,7.0,Cloudy
+SHAHRUD,29/01/2013,00Z,7.8,61%,1011.6 Hpa,calm.,,7/8,1/8 SC,-,CI,-,-,-,Cloudy
+SHIRAZ,29/01/2013,21Z,8.0,69%,1010.6 Hpa,310º (NW),10.8,1/8,1/8 SC,-,-,-,-,-,"Few clouds, haze"
+SHIRAZ,29/01/2013,18Z,8.6,89%,1009.4 Hpa,calm.,,8/8,5/8 CB,AC,,5.0(6h),-,-,"Overcast, rain"
+SHIRAZ,29/01/2013,15Z,9.0,80%,1006.9 Hpa,150º (SE),18.0,8/8,5/8 CB,AC,,-,17.8,-,"Overcast, rain"
+SHIRAZ,29/01/2013,12Z,16.2,29%,1007.4 Hpa,240º (SW),18.0,7/8,4/8 CB,AC,-,-,-,-,"Cloudy, haze"
+SHIRAZ,29/01/2013,09Z,15.6,31%,1011.1 Hpa,260º (W ),18.0,7/8,2/8 SC,AC,-,-,-,-,Cloudy
+SHIRAZ,29/01/2013,06Z,16.4,30%,1011.6 Hpa,180º (S ),21.6,6/8,3/8 SC,AC,CI,-,-,-,Cloudy
+SHIRAZ,29/01/2013,03Z,13.8,37%,1009.5 Hpa,180º (S ),10.8,7/8,3/8 SC,AC,-,-,-,8.4,Cloudy
+SHIRAZ,29/01/2013,00Z,9.0,63%,1012.2 Hpa,330º (NW),18.0,5/8,2/8 SC,-,CI,-,-,-,Cloudy
+SIRI ISLAND,29/01/2013,15Z,22.4,74%,1012.1 Hpa,160º (S ),10.8,2/8,-,2/8 AC,-,-,24.8,-,"Few clouds, haze"
+SIRI ISLAND,29/01/2013,12Z,23.8,251%,1012.5 Hpa,200º (S ),10.8,8/8,2/8 CB,AC,,-,-,-,"Overcast, haze"
+SIRI ISLAND,29/01/2013,09Z,24.8,72%,1014.0 Hpa,110º (E ),10.8,5/8,-,-,CC,-,-,-,"Cloudy, haze"
+SIRI ISLAND,29/01/2013,06Z,22.8,152%,1014.8 Hpa,090º (E ),25.2,7/8,-,-,CC,-,-,-,"Cloudy, mist"
+SIRI ISLAND,29/01/2013,03Z,22.0,85%,1013.7 Hpa,090º (E ),21.6,8/8,-,2/8 AC,CS,-,-,20.8,"Overcast, mist"
+SIRJAN,29/01/2013,21Z,11.4,49%,1003.0 Hpa,150º (SE),21.6,3/8,1/8 SC,-,CI,-,-,-,Scattered clouds
+SIRJAN,29/01/2013,18Z,11.2,41%,1008.2 Hpa,calm.,,3/8,1/8 SC,-,CI,-,-,-,Scattered clouds
+SIRJAN,29/01/2013,15Z,13.8,31%,1007.4 Hpa,150º (SE),21.6,4/8,1/8 SC,AC,-,-,18.4,-,Scattered clouds
+SIRJAN,29/01/2013,12Z,18.4,22%,1006.2 Hpa,150º (SE),18.0,5/8,2/8 SC,AC,-,-,-,-,Cloudy
+SIRJAN,29/01/2013,09Z,17.8,27%,1008.4 Hpa,150º (SE),32.4,7/8,2/8 SC,-,CI,-,-,-,Cloudy
+SIRJAN,29/01/2013,06Z,13.4,43%,1012.4 Hpa,120º (SE),28.8,7/8,-,3/8 AC,CI,-,-,-,Cloudy
+SIRJAN,29/01/2013,03Z,10.2,55%,1011.2 Hpa,110º (E ),18.0,7/8,1/8 SC,AC,-,-,-,8.2,Cloudy
+SIRJAN,29/01/2013,00Z,11.6,49%,1010.0 Hpa,110º (E ),25.2,7/8,3/8 CB,AC,-,-,-,-,Cloudy
+TABAS,29/01/2013,21Z,16.4,42%,1002.9 Hpa,360º (N ),14.4,8/8,4/8 SC,AC,,-,-,-,"Overcast, haze"
+TABAS,29/01/2013,18Z,15.6,44%,1002.1 Hpa,calm.,,8/8,4/8 SC,AC,,-,-,-,"Overcast, haze"
+TABAS,29/01/2013,15Z,17.0,36%,1003.9 Hpa,140º (SE),7.2,8/8,4/8 SC,AC,,-,17.4,-,"Overcast, haze"
+TABAS,29/01/2013,12Z,17.0,40%,1005.9 Hpa,350º (N ),7.2,8/8,4/8 SC,AC,,-,-,-,"Overcast, haze"
+TABAS,29/01/2013,09Z,16.0,42%,1009.0 Hpa,calm.,,8/8,3/8 SC,AC,CI,-,-,-,"Overcast, haze"
+TABAS,29/01/2013,06Z,13.4,55%,1012.3 Hpa,calm.,,8/8,3/8 SC,AC,,-,-,-,Overcast
+TABAS,29/01/2013,03Z,11.2,49%,1011.9 Hpa,calm.,,8/8,1/8 SC,AC,,-,-,11.0,Overcast
+TABAS,29/01/2013,00Z,11.8,46%,1012.8 Hpa,calm.,,6/8,-,-,CI,-,-,-,Cloudy
+TABRIZ,29/01/2013,21Z,2.2,88%,1007.8 Hpa,270º (W ),7.2,8/8,6/8 CB,AC,,-,-,-,"Overcast, rain"
+TABRIZ,29/01/2013,18Z,2.0,91%,1006.5 Hpa,220º (SW),7.2,8/8,6/8 CB,AC,,2.0(6h),-,-,"Overcast, rain"
+TABRIZ,29/01/2013,15Z,4.0,90%,1004.6 Hpa,250º (W ),10.8,8/8,5/8 CB,AC,,-,7.0,-,"Overcast, rain"
+TABRIZ,29/01/2013,12Z,6.8,81%,1001.1 Hpa,290º (W ),14.4,8/8,6/8 CB,AC,,5.0(6h),-,-,Overcast
+TABRIZ,29/01/2013,09Z,6.4,81%,1001.6 Hpa,080º (E ),18.0,8/8,5/8 CB,AC,,-,-,-,"Overcast, rain"
+TABRIZ,29/01/2013,06Z,5.6,80%,1003.6 Hpa,090º (E ),18.0,8/8,5/8 ST,AC,,6.0(6h),-,-,"Overcast, rain"
+TABRIZ,29/01/2013,03Z,4.6,93%,1005.9 Hpa,100º (E ),14.4,8/8,5/8 ST,AC,,-,-,4.6,"Overcast, rain"
+TABRIZ,29/01/2013,00Z,6.2,91%,1006.7 Hpa,080º (E ),14.4,8/8,5/8 ST,AC,,6.0(6h),-,-,"Overcast, rain"
+TEHRAN-MEHRABAD,29/01/2013,21Z,7.3,77%,1002.9 Hpa,270º (W ),18.0,7/8,5/8 CB,AC,-,-,-,-,Cloudy
+TEHRAN-MEHRABAD,29/01/2013,18Z,7.9,77%,1002.1 Hpa,350º (N ),10.8,8/8,5/8 CB,AC,,13.0(6h),-,-,"Overcast, rain"
+TEHRAN-MEHRABAD,29/01/2013,15Z,10.1,71%,1002.1 Hpa,050º (NE),21.6,8/8,5/8 CB,AC,,-,13.4,-,"Overcast, rain"
+TEHRAN-MEHRABAD,29/01/2013,12Z,11.4,85%,1002.2 Hpa,130º (SE),14.4,8/8,5/8 CB,AC,,Tr(6h),-,-,"Overcast, rain"
+TEHRAN-MEHRABAD,29/01/2013,09Z,11.0,75%,1004.4 Hpa,150º (SE),10.8,8/8,2/8 CB,AC,,-,-,-,"Overcast, rain"
+TEHRAN-MEHRABAD,29/01/2013,06Z,10.8,64%,1006.9 Hpa,060º (NE),18.0,7/8,4/8 SC,AC,-,6.0(6h),-,-,Cloudy
+TEHRAN-MEHRABAD,29/01/2013,03Z,8.8,73%,1009.6 Hpa,080º (E ),18.0,8/8,4/8 CB,AC,,606.6(24h),7.6,7.0,"Overcast, rain"
+TEHRAN-MEHRABAD,29/01/2013,00Z,9.0,86%,1010.9 Hpa,310º (NW),7.2,8/8,3/8 CB,AC,,2.0(6h),-,-,"Overcast, rain"
+TORBAT-HEYDARIEH,29/01/2013,21Z,7.1,72%,1004.6 Hpa,calm.,,8/8,4/8 ST,AC,,-,-,-,"Overcast, rain"
+TORBAT-HEYDARIEH,29/01/2013,18Z,7.8,75%,1005.3 Hpa,calm.,,8/8,3/8 ST,AC,,1.0(6h),-,-,"Overcast, rain"
+TORBAT-HEYDARIEH,29/01/2013,15Z,7.3,81%,1010.6 Hpa,calm.,,8/8,3/8 ST,AC,,-,13.2,-,"Overcast, rain"
+TORBAT-HEYDARIEH,29/01/2013,12Z,8.7,67%,1011.6 Hpa,150º (SE),14.4,8/8,3/8 ST,AC,,0.2(6h),-,-,"Overcast, rain"
+TORBAT-HEYDARIEH,29/01/2013,09Z,11.8,45%,1012.8 Hpa,calm.,,7/8,3/8 ST,-,CI,-,-,-,Cloudy
+TORBAT-HEYDARIEH,29/01/2013,06Z,13.2,40%,1014.6 Hpa,calm.,,5/8,2/8 SC,-,CI,-,-,-,Cloudy
+TORBAT-HEYDARIEH,29/01/2013,03Z,3.4,73%,1016.8 Hpa,calm.,,2/8,2/8 SC,-,-,-,-,3.4,Few clouds
+TORBAT-HEYDARIEH,29/01/2013,00Z,4.2,68%,1015.5 Hpa,340º (N ),7.2,6/8,6/8 SC,-,-,-,-,-,Cloudy
+YASOGE,29/01/2013,21Z,1.8,93%,1016.2 Hpa,calm.,,1/8,1/8 SC,-,-,-,-,-,Few clouds
+YASOGE,29/01/2013,18Z,2.2,100%,1013.9 Hpa,Vble.,,8/8,1/8 CB,AC,,25.0(6h),-,-,"Overcast, rain"
+YASOGE,29/01/2013,15Z,2.6,100%,1009.1 Hpa,calm.,,8/8,4/8 CB,AC,,-,11.0,-,"Overcast, rain"
+YASOGE,29/01/2013,12Z,3.8,97%,1009.4 Hpa,190º (S ),10.8,8/8,5/8 CB,AC,,13.0(6h),-,-,"Overcast, rain"
+YASOGE,29/01/2013,09Z,6.2,81%,1013.6 Hpa,100º (E ),10.8,8/8,4/8 CB,AC,,-,-,-,"Overcast, rain"
+YASOGE,29/01/2013,06Z,7.6,74%,1015.4 Hpa,190º (S ),21.6,8/8,4/8 CB,AC,,0.5(6h),-,-,"Overcast, rain"
+YASOGE,29/01/2013,03Z,11.0,44%,1012.9 Hpa,200º (S ),18.0,7/8,3/8 SC,AC,-,-,-,8.2,Cloudy
+YASOGE,29/01/2013,00Z,11.0,44%,1012.3 Hpa,350º (N ),14.4,7/8,3/8 SC,AC,-,-,-,-,Cloudy
+YAZD,29/01/2013,21Z,14.0,34%,1003.1 Hpa,090º (E ),7.2,2/8,2/8 CU,-,-,-,-,-,Few clouds
+YAZD,29/01/2013,18Z,16.6,30%,1001.0 Hpa,190º (S ),25.2,2/8,2/8 SC,AC,-,-,-,-,Few clouds
+YAZD,29/01/2013,15Z,19.4,22%,998.2 Hpa,350º (N ),10.8,2/8,2/8 CU,-,-,-,24.0,-,"Few clouds, haze"
+YAZD,29/01/2013,12Z,22.2,16%,999.2 Hpa,110º (E ),7.2,4/8,2/8 CU,AC,CI,-,-,-,Scattered clouds
+YAZD,29/01/2013,09Z,21.8,17%,1004.2 Hpa,040º (NE),10.8,7/8,2/8 ST,AC,CS,-,-,-,Cloudy
+YAZD,29/01/2013,06Z,19.4,25%,1006.8 Hpa,150º (SE),18.0,7/8,1/8 SC,AC,CS,-,-,-,Cloudy
+YAZD,29/01/2013,03Z,17.4,32%,1006.8 Hpa,160º (S ),10.8,7/8,2/8 SC,AC,CI,-,-,14.8,Cloudy
+YAZD,29/01/2013,00Z,15.4,40%,1008.9 Hpa,110º (E ),7.2,7/8,3/8 SC,AC,-,-,-,-,Cloudy
+ZABOL,29/01/2013,21Z,11.0,50%,1006.9 Hpa,calm.,,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+ZABOL,29/01/2013,18Z,14.7,38%,1008.9 Hpa,090º (E ),10.8,6/8,-,-,CI,-,-,-,Cloudy
+ZABOL,29/01/2013,15Z,17.6,30%,1011.0 Hpa,040º (NE),7.2,6/8,2/8 SC,AC,-,-,21.3,-,Cloudy
+ZABOL,29/01/2013,12Z,21.2,23%,1011.9 Hpa,360º (N ),7.2,7/8,1/8 SC,AC,CI,-,-,-,Cloudy
+ZABOL,29/01/2013,09Z,19.3,28%,1014.2 Hpa,calm.,,6/8,1/8 CU,-,CI,-,-,-,Cloudy
+ZABOL,29/01/2013,06Z,11.9,41%,1017.9 Hpa,030º (NE),7.2,6/8,2/8 CU,-,CI,-,-,-,Cloudy
+ZABOL,29/01/2013,03Z,3.6,61%,1018.3 Hpa,010º (N),7.2,4/8,1/8 SC,-,CI,-,-,3.2,Scattered clouds
+ZABOL,29/01/2013,00Z,6.2,55%,1017.1 Hpa,calm.,,5/8,1/8 SC,AC,-,-,-,-,Cloudy
+ZAHEDAN,29/01/2013,21Z,13.4,43%,1005.7 Hpa,200º (S ),32.4,4/8,-,1/8 AC,CS,-,-,-,"Scattered clouds, dust"
+ZAHEDAN,29/01/2013,18Z,14.5,37%,1007.8 Hpa,190º (S ),25.2,7/8,2/8 SC,AC,CI,-,-,-,"Cloudy, dust"
+ZAHEDAN,29/01/2013,15Z,14.6,30%,1011.8 Hpa,110º (E ),25.2,7/8,2/8 SC,AC,CI,-,19.0,-,"Cloudy, dust"
+ZAHEDAN,29/01/2013,12Z,16.7,28%,1011.5 Hpa,120º (SE),25.2,8/8,1/8 SC,AC,CS,-,-,-,"Overcast, dust"
+ZAHEDAN,29/01/2013,09Z,18.4,25%,1011.1 Hpa,110º (E ),28.8,8/8,1/8 SC,AC,CS,-,-,-,Overcast
+ZAHEDAN,29/01/2013,06Z,15.5,28%,1015.3 Hpa,120º (SE),18.0,8/8,1/8 SC,AC,CS,-,-,-,Overcast
+ZAHEDAN,29/01/2013,03Z,4.0,63%,1017.2 Hpa,160º (S ),7.2,3/8,-,-,CI,-,-,3.0,Scattered clouds
+ZAHEDAN,29/01/2013,00Z,3.6,66%,1015.4 Hpa,180º (S ),7.2,3/8,-,-,CI,-,-,-,Scattered clouds
+ZANJAN,29/01/2013,21Z,3.6,72%,1005.1 Hpa,240º (SW),18.0,7/8,4/8 CB,AC,-,-,-,-,Cloudy
+ZANJAN,29/01/2013,18Z,3.6,81%,1003.9 Hpa,260º (W ),14.4,8/8,6/8 CB,AC,,6.0(6h),-,-,Overcast
+ZANJAN,29/01/2013,15Z,2.4,93%,1003.3 Hpa,090º (E ),14.4,8/8,6/8 CB,AC,,-,7.0,-,Overcast
+ZANJAN,29/01/2013,12Z,6.2,94%,1000.8 Hpa,090º (E ),7.2,8/8,6/8 CB,AC,,7.0(6h),-,-,"Overcast, rain"
+ZANJAN,29/01/2013,09Z,6.4,86%,1003.3 Hpa,150º (SE),21.6,8/8,5/8 CB,AC,,-,-,-,"Overcast, rain"
+ZANJAN,29/01/2013,06Z,5.6,91%,1006.0 Hpa,090º (E ),18.0,8/8,5/8 CB,AC,,5.0(6h),-,-,"Overcast, rain"
+ZANJAN,29/01/2013,03Z,5.2,97%,1006.9 Hpa,120º (SE),18.0,8/8,4/8 CB,AC,,-,-,4.2,"Overcast, rain"
+ZANJAN,29/01/2013,00Z,5.0,94%,1008.1 Hpa,090º (E ),25.2,8/8,4/8 CB,AC,,4.0(6h),-,-,"Overcast, rain"

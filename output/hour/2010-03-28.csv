@@ -1,0 +1,494 @@
+Station ∆,Date,UTC time,Temp. (ºC),Rel. Hum. (%),Pressure/ Geopot.,Wind dir,Wins speed (Km/h),Clouds,Low clouds,Medium clouds,High clouds,Prec. (mm),Max temp. (ºC),Min temp. (ºC),Conditions
+ABADAN,28/03/2010,21Z,19.2,63%,1015.5 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+ABADAN,28/03/2010,18Z,22.2,34%,1014.4 Hpa,180º (S ),7.2,0/8,-,-,-,-,-,-,Clear
+ABADAN,28/03/2010,15Z,27.8,20%,1012.7 Hpa,320º (NW),7.2,0/8,-,-,-,-,30.4,-,Clear
+ABADAN,28/03/2010,12Z,30.0,19%,1012.7 Hpa,280º (W ),10.8,2/8,2/8 CU,-,-,-,-,-,Few clouds
+ABADAN,28/03/2010,09Z,28.0,26%,1014.5 Hpa,calm.,,3/8,-,3/8 AC,-,-,-,-,"Scattered clouds, dust"
+ABADAN,28/03/2010,06Z,21.6,39%,1014.1 Hpa,calm.,,4/8,4/8 CB,-,-,-,-,-,"Scattered clouds, dust"
+ABADAN,28/03/2010,00Z,17.2,62%,1015.5 Hpa,330º (NW),7.2,0/8,-,-,-,-,-,-,Clear
+ABADEH,28/03/2010,21Z,6.6,54%,1013.0 Hpa,320º (NW),7.2,0/8,-,-,-,-,-,-,Clear
+ABADEH,28/03/2010,18Z,8.0,49%,1011.8 Hpa,280º (W ),10.8,0/8,-,-,-,-,-,-,Clear
+ABADEH,28/03/2010,15Z,10.8,40%,1010.7 Hpa,230º (SW),14.4,0/8,-,-,-,-,14.4,-,Clear
+ABADEH,28/03/2010,12Z,12.0,33%,1009.8 Hpa,240º (SW),28.8,5/8,5/8 CB,-,-,-,-,-,Cloudy
+ABADEH,28/03/2010,09Z,13.0,25%,1009.9 Hpa,270º (W ),21.6,5/8,5/8 CB,-,-,-,-,-,Cloudy
+ABADEH,28/03/2010,06Z,13.0,41%,1008.1 Hpa,220º (SW),14.4,3/8,3/8 CB,-,-,5.1(24h),-,-,Scattered clouds
+ABU MUSA,28/03/2010,15Z,26.2,90%,1009.2 Hpa,240º (SW),7.2,6/8,-,5/8 AC,CI,-,30.0,-,"Cloudy, mist"
+ABU MUSA,28/03/2010,12Z,27.2,118%,1008.5 Hpa,calm.,,5/8,-,5/8 AC,CI,-,-,-,"Cloudy, haze"
+ABU MUSA,28/03/2010,09Z,28.0,78%,1010.6 Hpa,270º (W ),14.4,6/8,-,4/8 AC,CI,-,-,-,"Cloudy, haze"
+ABU MUSA,28/03/2010,06Z,26.6,122%,1010.3 Hpa,280º (W ),14.4,6/8,-,4/8 AC,CI,-,-,-,"Cloudy, mist"
+AHAR,28/03/2010,21Z,6.4,78%,1013.6 Hpa,190º (S ),18.0,8/8,3/8 SC,AC,,-,-,-,Overcast
+AHAR,28/03/2010,18Z,5.0,88%,1015.6 Hpa,calm.,,8/8,5/8 SC,AC,,0.4(6h),-,-,Overcast
+AHAR,28/03/2010,15Z,5.4,85%,1015.1 Hpa,120º (SE),7.2,8/8,2/8 SC,AC,,-,8.8,-,"Overcast, rain"
+AHAR,28/03/2010,12Z,7.6,74%,1014.5 Hpa,calm.,,8/8,1/8 SC,AC,,-,-,-,Overcast
+AHAR,28/03/2010,09Z,4.6,70%,1017.6 Hpa,220º (SW),7.2,7/8,3/8 ST,AC,CI,-,-,-,Cloudy
+AHAR,28/03/2010,06Z,,0%,1021.3 Hpa,calm.,,8/8,8/8 ST,,,Tr(6h),-,-,"Overcast, drizzle"
+AHWAZ,28/03/2010,21Z,18.8,62%,1015.0 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+AHWAZ,28/03/2010,18Z,21.0,49%,1014.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+AHWAZ,28/03/2010,15Z,24.4,38%,1012.5 Hpa,020º (N),7.2,0/8,-,-,-,-,27.2,-,Clear
+AHWAZ,28/03/2010,12Z,26.0,30%,1012.7 Hpa,040º (NE),7.2,4/8,4/8 SC,-,-,-,-,-,"Scattered clouds, haze"
+AHWAZ,28/03/2010,09Z,25.2,34%,1014.4 Hpa,050º (NE),14.4,6/8,2/8 CU,AC,CI,-,-,-,"Cloudy, haze"
+AHWAZ,28/03/2010,06Z,20.8,42%,1014.0 Hpa,270º (W ),21.6,7/8,6/8 CB,AC,-,1.0(24h),-,-,"Cloudy, dust"
+AHWAZ,28/03/2010,03Z,16.8,75%,1011.0 Hpa,270º (W ),7.2,1/8,1/8 CU,-,-,-,-,16.4,"Few clouds, dust"
+AHWAZ,28/03/2010,00Z,17.4,75%,1009.2 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, dust"
+ALI-GOODARZ,28/03/2010,21Z,5.4,75%,1018.6 Hpa,060º (NE),14.4,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+ALI-GOODARZ,28/03/2010,18Z,7.0,59%,1016.8 Hpa,200º (S ),21.6,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+ALI-GOODARZ,28/03/2010,15Z,7.8,54%,1014.6 Hpa,200º (S ),21.6,4/8,4/8 SC,-,-,-,10.2,-,Scattered clouds
+ALI-GOODARZ,28/03/2010,12Z,8.6,55%,1013.8 Hpa,210º (SW),14.4,5/8,4/8 CB,AC,-,0.9(6h),-,-,Cloudy
+ALI-GOODARZ,28/03/2010,09Z,8.0,59%,1013.8 Hpa,210º (SW),21.6,8/8,5/8 CB,AC,,-,-,-,Overcast
+ALI-GOODARZ,28/03/2010,06Z,7.8,60%,1012.4 Hpa,140º (SE),21.6,5/8,2/8 CU,AC,CI,15.6(24h),-,-,Cloudy
+ANZALI,28/03/2010,21Z,9.4,86%,1015.5 Hpa,calm.,,8/8,6/8 SC,AC,,-,-,-,Overcast
+ANZALI,28/03/2010,18Z,9.4,81%,1016.7 Hpa,140º (SE),7.2,8/8,6/8 SC,AC,,-,-,-,Overcast
+ANZALI,28/03/2010,15Z,9.4,83%,1017.3 Hpa,Vble.,,7/8,7/8 SC,-,-,-,10.0,-,Cloudy
+ANZALI,28/03/2010,12Z,9.6,1044%,1017.5 Hpa,020º (N),10.8,5/8,5/8 SC,-,-,-,-,-,Cloudy
+ANZALI,28/03/2010,09Z,9.6,83%,1019.9 Hpa,350º (N ),10.8,7/8,7/8 CU/SC,-,-,-,-,-,Cloudy
+ANZALI,28/03/2010,06Z,8.6,214%,1021.5 Hpa,350º (N ),21.6,8/8,7/8 CB,AC,,0.6(6h),-,-,"Overcast, rain"
+ANZALI,28/03/2010,03Z,7.2,82%,1022.5 Hpa,270º (W ),10.8,8/8,5/8 SC,AC,,-,-,6.0,Overcast
+ANZALI,28/03/2010,00Z,6.2,90%,1023.5 Hpa,230º (SW),14.4,8/8,5/8 SC,AC,,0.2(6h),-,-,Overcast
+ARAK,28/03/2010,21Z,9.6,45%,1013.5 Hpa,240º (SW),25.2,2/8,2/8 SC,-,-,-,-,-,Few clouds
+ARAK,28/03/2010,18Z,8.8,52%,1014.6 Hpa,240º (SW),10.8,4/8,4/8 SC,-,-,-,-,-,Scattered clouds
+ARAK,28/03/2010,15Z,10.6,45%,1013.0 Hpa,calm.,,4/8,4/8 SC,-,CI,-,14.0,-,Scattered clouds
+ARAK,28/03/2010,12Z,12.8,41%,1011.6 Hpa,240º (SW),28.8,5/8,5/8 CB,-,-,2.0(6h),-,-,Cloudy
+ARAK,28/03/2010,09Z,8.2,79%,1013.9 Hpa,210º (SW),18.0,8/8,5/8 CB,AC,,-,-,-,"Overcast, thunderstorm"
+ARAK,28/03/2010,06Z,7.2,87%,1015.1 Hpa,calm.,,7/8,4/8 SC,AC,-,10.0(24h),-,-,"Cloudy, mist"
+ARDEBIL,28/03/2010,21Z,4.0,90%,1013.5 Hpa,300º (NW),10.8,6/8,3/8 ST,AC,-,-,-,-,Cloudy
+ARDEBIL,28/03/2010,18Z,5.8,85%,1014.2 Hpa,calm.,,8/8,5/8 ST,AC,,Tr(6h),-,-,"Overcast, mist"
+ARDEBIL,28/03/2010,15Z,4.0,90%,1015.3 Hpa,calm.,,8/8,4/8 ST,-,CI,-,6.6,-,"Overcast, mist"
+ARDEBIL,28/03/2010,12Z,6.0,83%,1014.3 Hpa,360º (N ),18.0,6/8,3/8 ST,AC,CI,-,-,-,"Cloudy, mist"
+ARDEBIL,28/03/2010,09Z,3.4,87%,1017.7 Hpa,calm.,,5/8,4/8 ST,AC,-,-,-,-,"Cloudy, mist"
+ARDEBIL,28/03/2010,06Z,0.4,100%,1020.0 Hpa,calm.,,8/8,8/8 ST,,,8.4(24h),-,-,"Overcast, mist"
+BABULSAR,28/03/2010,21Z,9.4,89%,1016.6 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BABULSAR,28/03/2010,18Z,10.2,81%,1016.6 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BABULSAR,28/03/2010,15Z,10.8,81%,1017.0 Hpa,calm.,,5/8,1/8 CU,AC,-,-,13.2,-,Cloudy
+BABULSAR,28/03/2010,12Z,12.6,65%,1017.8 Hpa,330º (NW),7.2,6/8,3/8 CU,AC,-,-,-,-,Cloudy
+BABULSAR,28/03/2010,09Z,12.4,67%,1019.5 Hpa,calm.,,7/8,3/8 CU,AC,-,-,-,-,Cloudy
+BABULSAR,28/03/2010,06Z,10.4,76%,1021.5 Hpa,calm.,,8/8,3/8 SC,AC,,2.5(24h),-,-,Overcast
+BABULSAR,28/03/2010,03Z,8.6,89%,1021.9 Hpa,210º (SW),7.2,8/8,5/8 ST,AC,,-,-,8.6,Overcast
+BABULSAR,28/03/2010,00Z,9.0,89%,1022.6 Hpa,270º (W ),7.2,8/8,5/8 CB,AC,,-,-,-,"Overcast, mist"
+BAFT,28/03/2010,21Z,7.4,60%,1012.7 Hpa,360º (N ),7.2,2/8,2/8 SC,-,-,-,-,-,Few clouds
+BAFT,28/03/2010,18Z,8.8,56%,1012.3 Hpa,calm.,,3/8,2/8 SC,AC,-,-,-,-,Scattered clouds
+BAFT,28/03/2010,15Z,10.2,54%,1011.4 Hpa,240º (SW),21.6,3/8,2/8 SC,AC,-,-,19.4,-,Scattered clouds
+BAFT,28/03/2010,12Z,12.0,43%,1012.3 Hpa,210º (SW),43.2,7/8,6/8 CB,AC,-,-,-,-,Cloudy
+BAFT,28/03/2010,09Z,16.4,30%,1008.8 Hpa,210º (SW),36.0,7/8,5/8 CB,AC,-,-,-,-,Cloudy
+BAFT,28/03/2010,06Z,17.0,32%,1008.6 Hpa,150º (SE),36.0,7/8,5/8 CB,AC,-,-,-,-,Cloudy
+BAM,28/03/2010,21Z,21.4,31%,1006.3 Hpa,290º (W ),10.8,0/8,-,-,-,-,-,-,Clear
+BAM,28/03/2010,18Z,22.4,28%,1007.9 Hpa,260º (W ),7.2,0/8,-,-,-,-,-,-,"Clear, haze"
+BAM,28/03/2010,15Z,20.6,39%,1010.1 Hpa,250º (W ),25.2,5/8,1/8 SC,AC,-,-,31.8,-,"Cloudy, dust"
+BAM,28/03/2010,12Z,26.6,22%,1005.2 Hpa,230º (SW),28.8,5/8,2/8 SC,AC,CI,-,-,-,"Cloudy, dust"
+BAM,28/03/2010,09Z,31.0,13%,1003.7 Hpa,230º (SW),28.8,3/8,3/8 SC,-,-,-,-,-,"Scattered clouds, dust"
+BAM,28/03/2010,06Z,24.4,26%,1007.4 Hpa,030º (NE),7.2,0/8,-,-,-,-,-,-,Clear
+BANDAR LENGEH,28/03/2010,21Z,22.8,73%,1009.3 Hpa,270º (W ),10.8,2/8,-,2/8 AC,-,-,-,-,"Few clouds, haze"
+BANDAR LENGEH,28/03/2010,18Z,26.8,66%,1009.3 Hpa,270º (W ),10.8,2/8,-,2/8 AC,-,-,-,-,"Few clouds, haze"
+BANDAR LENGEH,28/03/2010,15Z,27.2,64%,1009.0 Hpa,250º (W ),10.8,4/8,1/8 SC,AC,-,-,31.0,-,"Scattered clouds, haze"
+BANDAR LENGEH,28/03/2010,12Z,29.6,298%,1008.1 Hpa,180º (S ),18.0,7/8,2/8 SC,AC,-,-,-,-,"Cloudy, haze"
+BANDAR LENGEH,28/03/2010,09Z,29.6,42%,1008.4 Hpa,110º (E ),18.0,7/8,2/8 SC,AC,-,-,-,-,"Cloudy, haze"
+BANDAR LENGEH,28/03/2010,06Z,30.0,41%,1009.5 Hpa,150º (SE),7.2,7/8,2/8 CB,AC,-,-,-,-,"Cloudy, haze"
+BANDAR-E-DAYYER,28/03/2010,21Z,25.8,16%,1012.7 Hpa,310º (NW),18.0,0/8,-,-,-,-,-,-,"Clear, dust"
+BANDAR-E-DAYYER,28/03/2010,18Z,28.2,111%,1011.8 Hpa,320º (NW),10.8,0/8,-,-,-,-,-,-,"Clear, dust"
+BANDAR-E-DAYYER,28/03/2010,15Z,25.6,68%,1010.2 Hpa,calm.,,0/8,-,-,-,-,33.0,-,"Clear, dust"
+BANDAR-E-DAYYER,28/03/2010,12Z,26.0,221%,1010.0 Hpa,120º (SE),14.4,1/8,-,1/8 AC,-,-,-,-,"Few clouds, dust"
+BANDAR-E-DAYYER,28/03/2010,09Z,27.8,64%,1011.9 Hpa,200º (S ),14.4,2/8,-,2/8 AC,-,-,-,-,"Few clouds, dust"
+BANDAR-E-DAYYER,28/03/2010,06Z,30.6,168%,1010.5 Hpa,300º (NW),10.8,0/8,-,-,-,-,-,-,"Clear, dust"
+BANDARABBASS,28/03/2010,21Z,22.8,79%,1010.8 Hpa,360º (N ),7.2,2/8,2/8 SC,-,-,-,-,-,"Few clouds, haze"
+BANDARABBASS,28/03/2010,18Z,26.6,61%,1010.4 Hpa,350º (N ),10.8,1/8,-,1/8 AC,-,-,-,-,"Few clouds, haze"
+BANDARABBASS,28/03/2010,15Z,28.4,57%,1009.5 Hpa,190º (S ),10.8,6/8,2/8 SC,AC,-,-,32.2,-,"Cloudy, haze"
+BANDARABBASS,28/03/2010,12Z,28.4,63%,1009.3 Hpa,180º (S ),10.8,7/8,2/8 SC,AC,-,-,-,-,"Cloudy, haze"
+BANDARABBASS,28/03/2010,09Z,30.2,46%,1010.5 Hpa,180º (S ),18.0,8/8,2/8 SC,AC,,-,-,-,"Overcast, haze"
+BANDARABBASS,28/03/2010,06Z,32.4,23%,1011.3 Hpa,160º (S ),7.2,7/8,2/8 SC,AC,-,-,-,-,"Cloudy, haze"
+BIRJAND,28/03/2010,21Z,9.8,76%,1010.7 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BIRJAND,28/03/2010,18Z,12.2,0%,1011.6 Hpa,calm.,,5/8,2/8 SC,-,CS,-,-,-,Cloudy
+BIRJAND,28/03/2010,15Z,22.2,29%,1003.7 Hpa,180º (S ),18.0,4/8,3/8 CU,-,CI,-,25.4,-,"Scattered clouds, dust"
+BIRJAND,28/03/2010,12Z,24.2,25%,1003.5 Hpa,170º (S ),21.6,3/8,2/8 CU,-,CI,-,-,-,Scattered clouds
+BIRJAND,28/03/2010,09Z,21.4,40%,1008.6 Hpa,060º (NE),10.8,5/8,3/8 CB,-,CI,-,-,-,Cloudy
+BIRJAND,28/03/2010,06Z,16.8,56%,1012.9 Hpa,090º (E ),18.0,5/8,3/8 CB,-,CI,3.8(24h),-,-,Cloudy
+BOJNOURD,28/03/2010,21Z,5.6,93%,1014.5 Hpa,calm.,,8/8,4/8 ST,AC,,-,-,-,"Overcast, drizzle"
+BOJNOURD,28/03/2010,18Z,6.4,91%,1015.0 Hpa,300º (NW),18.0,8/8,4/8 ST,AC,,-,-,-,Overcast
+BOJNOURD,28/03/2010,15Z,9.4,77%,1014.2 Hpa,280º (W ),32.4,6/8,4/8 SC,-,CI,-,14.0,-,Cloudy
+BOJNOURD,28/03/2010,12Z,13.6,56%,1013.1 Hpa,100º (E ),14.4,6/8,3/8 SC,AC,-,-,-,-,Cloudy
+BOJNOURD,28/03/2010,09Z,10.4,62%,1016.4 Hpa,120º (SE),18.0,6/8,3/8 SC,AC,-,-,-,-,Cloudy
+BOJNOURD,28/03/2010,06Z,6.0,77%,1019.9 Hpa,120º (SE),10.8,7/8,3/8 SC,AC,-,0.5(24h),-,-,Cloudy
+BUSHEHR,28/03/2010,21Z,22.0,56%,1013.8 Hpa,060º (NE),10.8,0/8,-,-,-,-,-,-,Clear
+BUSHEHR,28/03/2010,18Z,22.2,276%,1013.4 Hpa,340º (N ),7.2,0/8,-,-,-,-,-,-,Clear
+BUSHEHR,28/03/2010,15Z,23.6,56%,1012.2 Hpa,350º (N ),10.8,0/8,-,-,-,-,26.0,-,"Clear, dust"
+BUSHEHR,28/03/2010,12Z,25.0,233%,1011.6 Hpa,320º (NW),21.6,0/8,-,-,-,-,-,-,"Clear, dust"
+BUSHEHR,28/03/2010,09Z,24.0,64%,1013.0 Hpa,350º (N ),32.4,0/8,-,-,-,-,-,-,"Clear, dust"
+BUSHEHR,28/03/2010,06Z,23.0,263%,1011.4 Hpa,330º (NW),18.0,0/8,-,-,-,-,-,-,"Clear, dust"
+BUSHEHR (AIRPORT),28/03/2010,21Z,23.0,57%,1013.5 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, dust"
+BUSHEHR (AIRPORT),28/03/2010,18Z,23.0,66%,1012.9 Hpa,340º (N ),14.4,0/8,-,-,-,-,-,-,"Clear, dust"
+BUSHEHR (AIRPORT),28/03/2010,15Z,23.8,64%,1011.9 Hpa,350º (N ),18.0,0/8,-,-,-,-,26.0,-,"Clear, dust"
+BUSHEHR (AIRPORT),28/03/2010,12Z,25.4,64%,1011.9 Hpa,310º (NW),18.0,0/8,-,-,-,-,-,-,"Clear, dust"
+BUSHEHR (AIRPORT),28/03/2010,09Z,24.0,67%,1012.7 Hpa,300º (NW),36.0,0/8,-,-,-,-,-,-,"Clear, dust"
+BUSHEHR (AIRPORT),28/03/2010,06Z,23.4,68%,1010.9 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, dust"
+CHAHBAHAR,28/03/2010,21Z,25.0,80%,1011.3 Hpa,calm.,,0/8,0/8 CU,AC,CI,-,70.0,-,"Clear, mist"
+CHAHBAHAR,28/03/2010,18Z,25.8,80%,1012.1 Hpa,calm.,,4/8,4/8 ST,-,-,-,-,-,"Scattered clouds, mist"
+CHAHBAHAR,28/03/2010,15Z,26.5,81%,1010.6 Hpa,calm.,,0/8,0/8 CU,AC,CI,-,60.0,-,"Clear, mist"
+CHAHBAHAR,28/03/2010,12Z,29.0,76%,1009.3 Hpa,180º (S ),7.2,0/8,0/8 CU,AC,CC,-,70.0,-,"Clear, haze"
+CHAHBAHAR,28/03/2010,09Z,29.3,74%,1011.3 Hpa,160º (S ),10.8,0/8,0/8 CU,AC,CI,-,80.1,-,"Clear, haze"
+CHAHBAHAR,28/03/2010,06Z,27.9,73%,1012.6 Hpa,calm.,,0/8,0/8 CU,AC,-,-,-10.0,-,"Clear, haze"
+ESFAHAN,28/03/2010,21Z,9.6,53%,1012.1 Hpa,280º (W ),7.2,0/8,-,-,-,-,-,-,Clear
+ESFAHAN,28/03/2010,18Z,12.0,39%,1012.5 Hpa,250º (W ),7.2,0/8,-,-,-,-,-,-,Clear
+ESFAHAN,28/03/2010,15Z,14.0,24%,1011.6 Hpa,250º (W ),18.0,0/8,-,-,-,-,18.0,-,Clear
+ESFAHAN,28/03/2010,12Z,13.2,43%,1011.1 Hpa,240º (SW),25.2,2/8,2/8 CB,-,-,2.0(6h),-,-,"Few clouds, rain showers"
+ESFAHAN,28/03/2010,09Z,16.2,39%,1009.3 Hpa,180º (S ),18.0,2/8,2/8 SC,-,-,-,-,-,Few clouds
+ESFAHAN,28/03/2010,06Z,10.6,88%,1012.4 Hpa,calm.,,1/8,1/8 SC,-,-,11.8(24h),-,-,"Few clouds, mist"
+ESFAHAN,28/03/2010,03Z,5.8,94%,1012.3 Hpa,calm.,,1/8,1/8 CU,-,-,-,-,5.6,"Few clouds, mist"
+ESFAHAN,28/03/2010,00Z,7.6,92%,1010.6 Hpa,180º (S ),7.2,2/8,2/8 SC,-,-,1.0(6h),-,-,"Few clouds, mist"
+FASA,28/03/2010,21Z,8.4,48%,1010.8 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+FASA,28/03/2010,18Z,12.0,42%,1010.2 Hpa,280º (W ),10.8,0/8,-,-,-,-,-,-,"Clear, haze"
+FASA,28/03/2010,15Z,18.4,30%,1009.2 Hpa,240º (SW),18.0,0/8,-,-,-,-,25.2,-,"Clear, haze"
+FASA,28/03/2010,12Z,24.0,20%,1007.2 Hpa,240º (SW),28.8,3/8,3/8 SC,-,-,-,-,-,"Scattered clouds, haze"
+FASA,28/03/2010,09Z,24.0,22%,1008.4 Hpa,240º (SW),32.4,2/8,2/8 SC,-,-,-,-,-,"Few clouds, haze"
+FASA,28/03/2010,06Z,21.2,35%,1007.8 Hpa,220º (SW),21.6,0/8,-,-,-,1.7(24h),-,-,"Clear, haze"
+FERDOUS,28/03/2010,21Z,9.2,84%,1010.8 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+FERDOUS,28/03/2010,18Z,6.6,,1010.9 Hpa,320º (NW),10.8,2/8,2/8 SC,-,-,5.0(6h),-,-,Few clouds
+FERDOUS,28/03/2010,15Z,11.6,81%,1011.8 Hpa,300º (NW),28.8,8/8,5/8 CB,AC,,-,21.2,-,"Overcast, rain, previous thunderstorm"
+FERDOUS,28/03/2010,12Z,17.6,58%,1005.3 Hpa,calm.,,8/8,5/8 CB,AC,,0.9(6h),-,-,"Overcast, thunderstorms"
+FERDOUS,28/03/2010,09Z,18.0,46%,1009.1 Hpa,290º (W ),10.8,3/8,2/8 SC,AC,-,-,-,-,Scattered clouds
+FERDOUS,28/03/2010,06Z,11.0,79%,1013.2 Hpa,260º (W ),7.2,6/8,5/8 CB,-,CI,0.4(24h),-,-,Cloudy
+GACH SARAN DU GUNBADAN,28/03/2010,21Z,16.4,35%,1010.9 Hpa,290º (W ),7.2,0/8,-,-,-,-,-,-,Clear
+GACH SARAN DU GUNBADAN,28/03/2010,18Z,18.4,31%,1010.5 Hpa,290º (W ),7.2,0/8,-,-,-,-,-,-,Clear
+GACH SARAN DU GUNBADAN,28/03/2010,15Z,21.6,22%,1010.3 Hpa,280º (W ),7.2,0/8,-,-,-,-,25.8,-,Clear
+GACH SARAN DU GUNBADAN,28/03/2010,12Z,25.4,14%,1009.0 Hpa,280º (W ),14.4,1/8,1/8 CU,-,-,-,-,-,"Few clouds, haze"
+GACH SARAN DU GUNBADAN,28/03/2010,09Z,22.8,33%,1010.2 Hpa,300º (NW),18.0,2/8,-,2/8 AC,-,-,-,-,"Few clouds, dust"
+GACH SARAN DU GUNBADAN,28/03/2010,06Z,22.0,52%,1009.0 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, dust"
+GHARAKHIL,28/03/2010,21Z,7.8,97%,1016.5 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+GHARAKHIL,28/03/2010,18Z,,0%,1016.8 Hpa,030º (NE),10.8,0/8,-,-,-,-,-,-,Clear
+GHARAKHIL,28/03/2010,15Z,10.8,84%,1017.1 Hpa,040º (NE),18.0,8/8,5/8 CB,AC,,-,13.4,-,Overcast
+GHARAKHIL,28/03/2010,12Z,12.8,76%,1017.3 Hpa,060º (NE),21.6,8/8,5/8 CB,AC,,-,-,-,Overcast
+GHARAKHIL,28/03/2010,09Z,12.4,69%,1019.1 Hpa,030º (NE),10.8,7/8,3/8 SC,AC,-,-,-,-,Cloudy
+GHARAKHIL,28/03/2010,06Z,9.6,78%,1021.9 Hpa,250º (W ),7.2,7/8,4/8 SC,AC,-,0.3(6h),-,-,Cloudy
+GHAZVIN,28/03/2010,21Z,7.7,81%,1013.9 Hpa,calm.,,5/8,2/8 SC,AC,-,-,-,-,"Cloudy, rain showers"
+GHAZVIN,28/03/2010,18Z,7.4,80%,1015.5 Hpa,calm.,,5/8,2/8 SC,AC,-,0.4(6h),-,-,Cloudy
+GHAZVIN,28/03/2010,15Z,7.8,77%,1014.6 Hpa,080º (E ),7.2,7/8,5/8 CB,AC,-,-,14.0,-,Cloudy
+GHAZVIN,28/03/2010,12Z,13.0,57%,1012.1 Hpa,130º (SE),10.8,6/8,6/8 CB,-,-,-,-,-,Cloudy
+GHAZVIN,28/03/2010,09Z,10.8,94%,1016.3 Hpa,160º (S ),18.0,7/8,5/8 CB,AC,-,-,-,-,"Cloudy, mist"
+GHAZVIN,28/03/2010,06Z,5.2,100%,1018.9 Hpa,calm.,,8/8,5/8 ST,AC,,0.2(6h),-,-,"Overcast, fog"
+GHUCHAN,28/03/2010,21Z,6.2,97%,1010.4 Hpa,070º (E ),7.2,8/8,5/8 ST,AC,,-,-,-,"Overcast, rain"
+GHUCHAN,28/03/2010,18Z,5.2,93%,1012.2 Hpa,080º (E ),21.6,8/8,5/8 ST,AC,,4.0(6h),-,-,"Overcast, rain"
+GHUCHAN,28/03/2010,15Z,8.4,74%,1011.5 Hpa,120º (SE),21.6,7/8,1/8 SC,-,CI,-,11.0,-,Cloudy
+GHUCHAN,28/03/2010,12Z,10.4,62%,1012.1 Hpa,120º (SE),43.2,5/8,2/8 SC,-,CI,0.1(6h),-,-,Cloudy
+GHUCHAN,28/03/2010,09Z,7.2,65%,1016.2 Hpa,120º (SE),54.0,8/8,4/8 SC,AC,,-,-,-,Overcast
+GHUCHAN,28/03/2010,06Z,4.2,69%,1018.2 Hpa,090º (E ),32.4,8/8,4/8 SC,AC,,-,-,-,Overcast
+HAMEDAN,28/03/2010,21Z,8.0,60%,1013.9 Hpa,210º (SW),14.4,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+HAMEDAN,28/03/2010,18Z,8.1,64%,1015.1 Hpa,230º (SW),18.0,4/8,3/8 SC,AC,-,-,-,-,Scattered clouds
+HAMEDAN,28/03/2010,15Z,9.4,55%,1014.3 Hpa,240º (SW),32.4,7/8,7/8 CB,-,CI,-,13.1,-,Cloudy
+HAMEDAN,28/03/2010,12Z,12.5,39%,1012.3 Hpa,200º (S ),21.6,6/8,5/8 SC,-,CI,-,-,-,Cloudy
+HAMEDAN,28/03/2010,09Z,12.5,41%,1012.2 Hpa,250º (W ),18.0,5/8,5/8 CB,-,-,-,-,-,Cloudy
+HAMEDAN,28/03/2010,06Z,6.2,85%,1015.4 Hpa,calm.,,4/8,4/8 CU,-,-,0.9(24h),-,-,Scattered clouds
+HAMEDAN,28/03/2010,03Z,1.7,93%,1015.6 Hpa,350º (N ),7.2,1/8,1/8 SC,-,-,-,-,1.7,Few clouds
+HAMEDAN,28/03/2010,00Z,2.1,94%,1015.5 Hpa,140º (SE),18.0,3/8,1/8 SC,-,CI,-,-,-,Scattered clouds
+ILAM,28/03/2010,21Z,7.4,81%,1015.5 Hpa,calm.,,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+ILAM,28/03/2010,18Z,9.6,78%,1014.3 Hpa,110º (E ),7.2,5/8,3/8 SC,AC,-,-,-,-,Cloudy
+ILAM,28/03/2010,15Z,10.6,67%,1014.2 Hpa,140º (SE),18.0,5/8,3/8 SC,AC,-,-,12.8,-,Cloudy
+ILAM,28/03/2010,12Z,11.0,59%,1013.7 Hpa,140º (SE),18.0,8/8,6/8 CB,AC,,Tr(6h),-,-,"Overcast, haze"
+ILAM,28/03/2010,09Z,11.4,55%,1012.8 Hpa,160º (S ),21.6,8/8,5/8 CB,AC,,-,-,-,"Overcast, dust"
+ILAM,28/03/2010,06Z,11.0,57%,1012.1 Hpa,130º (SE),14.4,8/8,3/8 SC,AC,,0.9(24h),-,-,"Overcast, dust"
+IRANSHAHR,28/03/2010,21Z,26.1,22%,1009.6 Hpa,calm.,,3/8,-,1/8 AC,CI,-,-,-,"Scattered clouds, haze"
+IRANSHAHR,28/03/2010,18Z,29.7,17%,1010.5 Hpa,250º (W ),14.4,2/8,-,-,CI,-,-,-,"Few clouds, haze"
+IRANSHAHR,28/03/2010,15Z,33.2,11%,1008.5 Hpa,240º (SW),18.0,5/8,-,4/8 AC,CI,-,38.4,-,"Cloudy, haze"
+IRANSHAHR,28/03/2010,12Z,36.8,9%,1005.2 Hpa,240º (SW),18.0,3/8,-,2/8 AC,CI,-,-,-,"Scattered clouds, haze"
+IRANSHAHR,28/03/2010,09Z,36.7,10%,1007.8 Hpa,280º (W ),14.4,0/8,-,-,-,-,-,-,"Clear, haze"
+IRANSHAHR,28/03/2010,06Z,32.5,12%,1011.2 Hpa,060º (NE),10.8,1/8,-,-,CI,-,-,-,"Few clouds, haze"
+JASK,28/03/2010,21Z,25.8,90%,1010.9 Hpa,110º (E ),10.8,0/8,-,-,-,-,-,-,"Clear, mist"
+JASK,28/03/2010,18Z,26.6,213%,1010.8 Hpa,130º (SE),18.0,1/8,-,-,CI,-,-,-,"Few clouds, haze"
+JASK,28/03/2010,15Z,26.8,87%,1009.4 Hpa,060º (NE),7.2,7/8,-,4/8 AC,CI,-,28.8,-,"Cloudy, mist"
+JASK,28/03/2010,12Z,27.6,200%,1008.9 Hpa,090º (E ),21.6,2/8,-,-,CC,-,-,-,"Few clouds, mist"
+JASK,28/03/2010,09Z,28.2,63%,1010.5 Hpa,110º (E ),25.2,1/8,-,-,CI,-,-,-,"Few clouds, dust"
+JASK,28/03/2010,06Z,27.6,336%,1010.7 Hpa,080º (E ),18.0,0/8,-,-,-,-,-,-,Clear
+KAHNUJ,28/03/2010,21Z,23.4,50%,1007.0 Hpa,120º (SE),14.4,0/8,-,-,-,-,-,-,Clear
+KAHNUJ,28/03/2010,18Z,24.2,48%,1007.3 Hpa,120º (SE),14.4,0/8,-,-,-,-,-,-,Clear
+KAHNUJ,28/03/2010,15Z,26.4,42%,1007.9 Hpa,320º (NW),54.0,2/8,2/8 SC,-,-,-,35.0,-,Few clouds
+KAHNUJ,28/03/2010,12Z,34.8,28%,1004.5 Hpa,240º (SW),43.2,2/8,2/8 SC,-,-,-,-,-,Few clouds
+KAHNUJ,28/03/2010,09Z,33.4,29%,1006.1 Hpa,240º (SW),28.8,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+KAHNUJ,28/03/2010,06Z,29.8,33%,1007.2 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KASHAN,28/03/2010,21Z,9.6,94%,1015.9 Hpa,calm.,,1/8,-,1/8 AC,-,-,-,-,Few clouds
+KASHAN,28/03/2010,18Z,11.2,90%,1016.3 Hpa,calm.,,0/8,-,-,-,1.0(6h),-,-,"Clear, rain"
+KASHAN,28/03/2010,15Z,12.6,84%,1015.6 Hpa,calm.,,5/8,5/8 CB,-,-,-,16.6,-,"Cloudy, rain"
+KASHAN,28/03/2010,12Z,15.8,59%,1013.7 Hpa,330º (NW),7.2,6/8,3/8 SC,AC,-,-,-,-,Cloudy
+KASHAN,28/03/2010,09Z,13.8,68%,1015.6 Hpa,calm.,,4/8,4/8 SC,-,-,-,-,-,Scattered clouds
+KASHAN,28/03/2010,06Z,10.4,88%,1018.0 Hpa,calm.,,8/8,3/8 SC,AC,,10.5(24h),-,-,Overcast
+KASHMAR,28/03/2010,21Z,9.6,94%,1011.9 Hpa,calm.,,6/8,2/8 SC,-,CI,-,-,-,Cloudy
+KASHMAR,28/03/2010,18Z,10.8,88%,1011.3 Hpa,180º (S ),7.2,8/8,3/8 ST,AC,,8.0(6h),-,-,Overcast
+KASHMAR,28/03/2010,15Z,12.8,76%,1011.8 Hpa,120º (SE),7.2,8/8,3/8 CB,-,CS,-,18.2,-,Overcast
+KASHMAR,28/03/2010,12Z,18.0,53%,1009.1 Hpa,130º (SE),28.8,3/8,1/8 CU,-,CI,0.2(6h),-,-,Scattered clouds
+KASHMAR,28/03/2010,09Z,14.8,59%,1013.7 Hpa,130º (SE),21.6,5/8,5/8 SC,-,-,-,-,-,Cloudy
+KASHMAR,28/03/2010,06Z,10.6,74%,1017.0 Hpa,120º (SE),21.6,7/8,4/8 CB,AC,-,2.0(6h),-,-,"Cloudy, rain showers"
+KERMAN,28/03/2010,21Z,12.0,40%,1009.5 Hpa,150º (SE),7.2,0/8,-,-,-,-,-,-,Clear
+KERMAN,28/03/2010,18Z,14.4,34%,1008.4 Hpa,240º (SW),18.0,1/8,1/8 SC,-,-,-,-,-,Few clouds
+KERMAN,28/03/2010,15Z,17.6,30%,1007.7 Hpa,200º (S ),28.8,1/8,1/8 SC,-,-,-,25.4,-,Few clouds
+KERMAN,28/03/2010,12Z,22.4,18%,1004.2 Hpa,220º (SW),50.4,6/8,3/8 CB,AC,-,-,-,-,"Cloudy, haze"
+KERMAN,28/03/2010,09Z,24.0,20%,1004.4 Hpa,200º (S ),54.0,3/8,3/8 CB,-,-,-,-,-,"Scattered clouds, dust"
+KERMAN,28/03/2010,06Z,21.6,27%,1007.3 Hpa,190º (S ),36.0,2/8,1/8 CU,AC,-,-,-,-,Few clouds
+KERMAN,28/03/2010,00Z,15.7,,-,150º (SE),10.8,7/8,-,-,-,-,-,-,Cloudy
+KERMANSHAH,28/03/2010,21Z,10.8,62%,1015.0 Hpa,170º (S ),14.4,7/8,4/8 CB,AC,-,-,-,-,Cloudy
+KERMANSHAH,28/03/2010,18Z,11.2,61%,1013.6 Hpa,160º (S ),108.0,6/8,4/8 CB,AC,-,Tr(6h),-,-,Cloudy
+KERMANSHAH,28/03/2010,15Z,11.7,60%,1013.2 Hpa,180º (S ),18.0,5/8,5/8 CB,AC,-,-,14.8,-,"Cloudy, dust"
+KERMANSHAH,28/03/2010,12Z,12.5,58%,1011.7 Hpa,160º (S ),25.2,7/8,5/8 CB,AC,-,-,-,-,"Cloudy, dust"
+KERMANSHAH,28/03/2010,09Z,13.6,53%,1011.2 Hpa,150º (SE),18.0,7/8,6/8 CB,-,CI,-,-,-,"Cloudy, dust"
+KERMANSHAH,28/03/2010,06Z,12.4,49%,1011.6 Hpa,110º (E ),14.4,6/8,6/8 CB,-,CI,-,-,-,"Cloudy, dust"
+KERMANSHAH,28/03/2010,03Z,8.4,65%,1010.3 Hpa,120º (SE),21.6,3/8,3/8 SC,-,-,-,-,7.4,"Scattered clouds, dust"
+KERMANSHAH,28/03/2010,00Z,9.6,59%,1009.4 Hpa,100º (E ),21.6,4/8,2/8 SC,AC,-,-,-,-,"Scattered clouds, dust"
+KHARG,28/03/2010,15Z,22.6,69%,1012.2 Hpa,330º (NW),10.8,0/8,-,-,-,-,24.2,-,"Clear, dust"
+KHARG,28/03/2010,12Z,23.8,64%,1012.2 Hpa,340º (N ),21.6,0/8,-,-,-,-,-,-,"Clear, dust"
+KHARG,28/03/2010,09Z,22.8,68%,1013.4 Hpa,360º (N ),28.8,0/8,-,-,-,-,-,-,"Clear, dust"
+KHARG,28/03/2010,06Z,22.6,69%,1012.1 Hpa,300º (NW),14.4,0/8,-,-,-,-,-,-,"Clear, dust"
+KHOR,28/03/2010,21Z,10.8,90%,1013.8 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KHOR,28/03/2010,18Z,12.0,83%,1013.8 Hpa,calm.,,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+KHOR,28/03/2010,15Z,13.2,80%,1013.9 Hpa,calm.,,5/8,5/8 SC,-,-,-,17.2,-,Cloudy
+KHOR,28/03/2010,12Z,13.2,86%,1012.3 Hpa,calm.,,8/8,6/8 SC,AC,,2.0(6h),-,-,Overcast
+KHOR,28/03/2010,09Z,15.6,67%,1011.9 Hpa,calm.,,6/8,5/8 SC,AC,-,-,-,-,Cloudy
+KHOR,28/03/2010,06Z,12.8,71%,1014.9 Hpa,calm.,,2/8,2/8 CU,-,-,11.8(24h),-,-,Few clouds
+KHORRAM ABAD,28/03/2010,21Z,9.8,73%,1016.9 Hpa,140º (SE),7.2,6/8,3/8 SC,AC,-,-,-,-,Cloudy
+KHORRAM ABAD,28/03/2010,18Z,11.0,72%,1016.5 Hpa,360º (N ),10.8,8/8,5/8 CB,AC,,-,-,-,Overcast
+KHORRAM ABAD,28/03/2010,15Z,12.8,57%,1015.8 Hpa,080º (E ),7.2,6/8,5/8 CB,AC,-,-,17.0,-,Cloudy
+KHORRAM ABAD,28/03/2010,12Z,14.4,46%,1014.3 Hpa,180º (S ),10.8,7/8,5/8 CB,AC,-,0.1(6h),-,-,Cloudy
+KHORRAM ABAD,28/03/2010,09Z,13.8,56%,1015.1 Hpa,080º (E ),10.8,5/8,3/8 SC,AC,-,-,-,-,Cloudy
+KHORRAM ABAD,28/03/2010,06Z,11.0,63%,1014.7 Hpa,080º (E ),7.2,7/8,5/8 CB,AC,-,-,-,-,"Cloudy, dust"
+KHOY,28/03/2010,21Z,5.8,77%,1014.9 Hpa,Vble.,,0/8,-,-,-,-,-,-,Clear
+KHOY,28/03/2010,18Z,7.2,70%,1015.2 Hpa,220º (SW),18.0,4/8,4/8 SC,-,-,-,-,-,Scattered clouds
+KHOY,28/03/2010,15Z,8.6,64%,1013.9 Hpa,190º (S ),10.8,8/8,3/8 SC,AC,,-,9.4,-,Overcast
+KHOY,28/03/2010,12Z,8.8,65%,1013.9 Hpa,180º (S ),7.2,8/8,2/8 SC,AC,,-,-,-,Overcast
+KHOY,28/03/2010,09Z,7.2,68%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+KHOY,28/03/2010,06Z,3.4,80%,1017.8 Hpa,calm.,,8/8,5/8 CB,AC,,0.1(6h),-,-,Overcast
+KHOY,28/03/2010,03Z,2.8,70%,1017.1 Hpa,calm.,,8/8,5/8 CB,AC,,-,-,2.6,Overcast
+KHOY,28/03/2010,00Z,2.6,73%,1017.6 Hpa,calm.,,7/8,5/8 CB,AC,-,-,-,-,Cloudy
+KISH ISLAND,28/03/2010,21Z,23.2,73%,1011.4 Hpa,300º (NW),10.8,2/8,-,2/8 AC,-,-,-,-,"Few clouds, haze"
+KISH ISLAND,28/03/2010,18Z,23.0,84%,1011.4 Hpa,270º (W ),10.8,2/8,-,2/8 AC,-,-,-,-,"Few clouds, mist"
+KISH ISLAND,28/03/2010,15Z,25.4,80%,1009.7 Hpa,250º (W ),14.4,4/8,2/8 CU,AC,-,-,-,-,"Scattered clouds, mist"
+KISH ISLAND,28/03/2010,12Z,30.6,45%,1008.9 Hpa,270º (W ),10.8,5/8,3/8 CU,AC,-,-,-,-,"Cloudy, haze"
+KISH ISLAND,28/03/2010,09Z,30.4,30%,1010.4 Hpa,330º (NW),18.0,7/8,4/8 CB,AC,-,-,-,-,"Cloudy, haze"
+KISH ISLAND,28/03/2010,06Z,26.0,74%,1010.2 Hpa,290º (W ),25.2,7/8,4/8 CB,AC,-,-,-,-,"Cloudy, dust"
+MAKKO,28/03/2010,21Z,4.4,76%,1013.6 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+MAKKO,28/03/2010,18Z,5.0,71%,1014.4 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+MAKKO,28/03/2010,15Z,8.4,51%,1012.7 Hpa,110º (E ),18.0,5/8,3/8 CU/SC,-,CS,-,9.8,-,Cloudy
+MAKKO,28/03/2010,12Z,9.0,45%,1012.5 Hpa,090º (E ),18.0,6/8,4/8 CU/SC,-,CI,-,-,-,Cloudy
+MAKKO,28/03/2010,09Z,7.2,45%,1015.4 Hpa,080º (E ),10.8,3/8,2/8 SC,-,CS,-,-,-,Scattered clouds
+MAKKO,28/03/2010,06Z,3.4,60%,1017.3 Hpa,100º (E ),7.2,7/8,5/8 ST,AC,-,-,-,-,Cloudy
+MARAGHEH,28/03/2010,21Z,3.6,96%,1017.0 Hpa,calm.,,7/8,4/8 ST,AC,-,-,-,-,"Cloudy, mist"
+MARAGHEH,28/03/2010,18Z,4.0,93%,1016.4 Hpa,Vble.,,8/8,3/8 SC,AC,,5.0(6h),-,-,"Overcast, rain"
+MARAGHEH,28/03/2010,15Z,4.4,93%,1014.8 Hpa,260º (W ),7.2,8/8,3/8 SC,AC,,-,7.8,-,"Overcast, rain"
+MARAGHEH,28/03/2010,12Z,6.0,91%,1014.4 Hpa,270º (W ),10.8,8/8,3/8 SC,AC,,2.0(6h),-,-,"Overcast, rain"
+MARAGHEH,28/03/2010,09Z,5.6,88%,1015.0 Hpa,090º (E ),25.2,8/8,3/8 SC,AC,,-,-,-,"Overcast, rain"
+MARAGHEH,28/03/2010,06Z,2.0,87%,1015.5 Hpa,090º (E ),14.4,8/8,3/8 SC,AC,,0.1(6h),-,-,"Overcast, haze"
+MARAVEH-TAPPEH,28/03/2010,21Z,7.4,94%,1017.7 Hpa,230º (SW),10.8,8/8,2/8 SC,AC,,-,-,-,"Overcast, drizzle"
+MARAVEH-TAPPEH,28/03/2010,18Z,7.6,97%,1018.9 Hpa,280º (W ),7.2,8/8,5/8 ST,AC,,Tr(6h),-,-,"Overcast, drizzle"
+MARAVEH-TAPPEH,28/03/2010,15Z,8.0,91%,1017.8 Hpa,calm.,,8/8,3/8 ST,AC,,-,8.4,-,Overcast
+MARAVEH-TAPPEH,28/03/2010,12Z,7.6,97%,1018.8 Hpa,240º (SW),7.2,8/8,4/8 ST,AC,,0.2(6h),-,-,"Overcast, mist"
+MARAVEH-TAPPEH,28/03/2010,09Z,7.2,100%,1020.4 Hpa,270º (W ),7.2,8/8,6/8 ST,AC,,-,-,-,"Overcast, drizzle"
+MARAVEH-TAPPEH,28/03/2010,06Z,6.8,100%,1022.0 Hpa,300º (NW),14.4,8/8,8/8 ST,,,0.7(6h),-,-,"Overcast, drizzle"
+MASHHAD,28/03/2010,21Z,6.8,92%,1014.5 Hpa,calm.,,8/8,6/8 CB,AC,,-,-,-,"Overcast, drizzle"
+MASHHAD,28/03/2010,18Z,7.2,92%,1014.9 Hpa,120º (SE),7.2,8/8,6/8 CB,AC,,2.0(6h),-,-,"Overcast, rain"
+MASHHAD,28/03/2010,15Z,9.0,69%,1015.9 Hpa,160º (S ),10.8,8/8,6/8 CB,AC,,-,12.8,-,"Overcast, haze"
+MASHHAD,28/03/2010,12Z,11.6,59%,1016.4 Hpa,calm.,,3/8,2/8 SC,-,CI,1.0(6h),-,-,"Scattered clouds, haze"
+MASHHAD,28/03/2010,09Z,8.0,69%,1020.7 Hpa,080º (E ),7.2,6/8,4/8 CB,-,CI,-,-,-,"Cloudy, haze"
+MASHHAD,28/03/2010,06Z,7.5,54%,1023.4 Hpa,350º (N ),7.2,5/8,2/8 SC,-,CI,0.1(6h),-,-,"Cloudy, rain"
+MASHHAD,28/03/2010,03Z,3.4,60%,1025.4 Hpa,calm.,,7/8,3/8 SC,AC,CI,-,-,0.7,Cloudy
+MASHHAD,28/03/2010,00Z,1.2,78%,1027.7 Hpa,270º (W ),7.2,8/8,3/8 SC,AC,,Tr(6h),-,-,"Overcast, snow"
+MASJED-SOLEYMAN,28/03/2010,21Z,16.8,62%,1014.5 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, dust"
+MASJED-SOLEYMAN,28/03/2010,18Z,18.8,54%,1013.7 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, dust"
+MASJED-SOLEYMAN,28/03/2010,15Z,21.8,40%,1012.4 Hpa,calm.,,5/8,-,5/8 AC,-,-,23.6,-,"Cloudy, dust"
+MASJED-SOLEYMAN,28/03/2010,12Z,22.6,39%,1012.8 Hpa,calm.,,8/8,6/8 CB,AC,,-,-,-,"Overcast, dust"
+MASJED-SOLEYMAN,28/03/2010,09Z,20.6,46%,1014.2 Hpa,calm.,,5/8,5/8 SC,-,-,-,-,-,"Cloudy, dust"
+MASJED-SOLEYMAN,28/03/2010,06Z,17.8,56%,1013.1 Hpa,270º (W ),10.8,7/8,7/8 CB,-,-,3.7(24h),-,-,"Cloudy, dust"
+MASJED-SOLEYMAN,28/03/2010,00Z,15.6,67%,1014.4 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, dust"
+MEYANEH,28/03/2010,21Z,7.6,92%,1014.5 Hpa,calm.,,8/8,4/8 ST,AC,,-,-,-,"Overcast, rain"
+MEYANEH,28/03/2010,18Z,8.0,86%,1014.5 Hpa,calm.,,8/8,3/8 SC,AC,,0.2(6h),-,-,Overcast
+MEYANEH,28/03/2010,15Z,8.8,79%,1014.1 Hpa,calm.,,8/8,3/8 SC,AC,,-,9.8,-,"Overcast, rain"
+MEYANEH,28/03/2010,12Z,,0%,1014.9 Hpa,calm.,,7/8,3/8 SC,AC,-,-,-,-,Cloudy
+MEYANEH,28/03/2010,09Z,7.4,70%,1017.4 Hpa,calm.,,7/8,3/8 SC,AC,-,-,-,-,Cloudy
+MEYANEH,28/03/2010,06Z,3.4,80%,1019.1 Hpa,calm.,,8/8,2/8 SC,AC,,14.3(24h),-,-,Overcast
+MOHABAD,28/03/2010,21Z,2.2,93%,1018.2 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+MOHABAD,28/03/2010,18Z,2.8,90%,1018.0 Hpa,calm.,,5/8,5/8 CB,-,-,3.0(6h),-,-,Cloudy
+MOHABAD,28/03/2010,15Z,2.8,93%,1017.1 Hpa,calm.,,8/8,4/8 CB,AC,,-,3.4,-,"Overcast, rain"
+MOHABAD,28/03/2010,12Z,2.8,93%,1016.6 Hpa,calm.,,8/8,4/8 CB,AC,,5.0(6h),-,-,"Overcast, rain"
+MOHABAD,28/03/2010,09Z,2.6,93%,1016.8 Hpa,calm.,,8/8,4/8 CB,AC,,-,-,-,"Overcast, rain"
+MOHABAD,28/03/2010,06Z,1.2,96%,1017.4 Hpa,calm.,,8/8,4/8 CB,AC,,3.0(6h),-,-,"Overcast, snow"
+NEHBANDAN,28/03/2010,21Z,20.6,27%,1009.7 Hpa,270º (W ),18.0,0/8,-,-,-,-,-,-,"Clear, dust"
+NEHBANDAN,28/03/2010,18Z,21.6,27%,1010.4 Hpa,230º (SW),25.2,5/8,-,-,CI,-,-,-,"Cloudy, dust"
+NEHBANDAN,28/03/2010,15Z,20.4,33%,1011.4 Hpa,calm.,,8/8,1/8 CB,AC,,-,25.0,-,Overcast
+NEHBANDAN,28/03/2010,12Z,23.4,27%,1010.7 Hpa,130º (SE),21.6,7/8,-,7/8 AC,-,-,-,-,Cloudy
+NEHBANDAN,28/03/2010,09Z,22.8,29%,1014.1 Hpa,110º (E ),21.6,3/8,1/8 CU,AC,CI,-,-,-,Scattered clouds
+NEHBANDAN,28/03/2010,06Z,18.2,41%,1018.1 Hpa,060º (NE),14.4,7/8,2/8 CU,AC,-,-,-,-,Cloudy
+NOSHAHR,28/03/2010,21Z,9.6,81%,1016.0 Hpa,180º (S ),7.2,7/8,5/8 CU/SC,AC,-,-,-,-,Cloudy
+NOSHAHR,28/03/2010,18Z,9.6,81%,1016.6 Hpa,120º (SE),14.4,7/8,5/8 CU/SC,AC,-,-,-,-,Cloudy
+NOSHAHR,28/03/2010,15Z,9.8,73%,1016.8 Hpa,100º (E ),10.8,7/8,5/8 CU/SC,AC,-,-,11.4,-,Cloudy
+NOSHAHR,28/03/2010,12Z,10.2,76%,1017.8 Hpa,040º (NE),7.2,5/8,3/8 CU/SC,AC,-,-,-,-,Cloudy
+NOSHAHR,28/03/2010,09Z,10.8,74%,1019.1 Hpa,040º (NE),14.4,4/8,4/8 CU/SC,-,-,-,-,-,Scattered clouds
+NOSHAHR,28/03/2010,06Z,10.2,76%,1021.1 Hpa,020º (N),7.2,4/8,4/8 CU/SC,AC,-,4.0(24h),-,-,Scattered clouds
+OMIDYEH-AGHAJARI,28/03/2010,21Z,19.4,48%,1015.5 Hpa,330º (NW),10.8,0/8,-,-,-,-,-,-,Clear
+OMIDYEH-AGHAJARI,28/03/2010,18Z,22.6,51%,1014.7 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+OMIDYEH-AGHAJARI,28/03/2010,15Z,25.8,31%,1013.4 Hpa,330º (NW),14.4,2/8,2/8 SC,-,-,-,28.4,-,Few clouds
+OMIDYEH-AGHAJARI,28/03/2010,12Z,27.8,21%,1013.6 Hpa,310º (NW),18.0,0/8,-,-,-,-,-,-,Clear
+OMIDYEH-AGHAJARI,28/03/2010,09Z,23.6,37%,1015.0 Hpa,020º (N),36.0,1/8,1/8 SC,-,-,-,-,-,"Few clouds, dust"
+OMIDYEH-AGHAJARI,28/03/2010,06Z,21.4,55%,1014.8 Hpa,320º (NW),32.4,6/8,-,3/8 AC,CI,24.2(24h),-,-,"Cloudy, dust"
+OMIDYEH-AGHAJARI,28/03/2010,00Z,16.6,63%,1015.5 Hpa,330º (NW),7.2,0/8,-,-,-,-,-,-,Clear
+ORUMIEH,28/03/2010,21Z,0.6,100%,1017.7 Hpa,210º (SW),7.2,5/8,3/8 SC,-,CI,-,-,-,Cloudy
+ORUMIEH,28/03/2010,18Z,2.6,100%,1016.8 Hpa,130º (SE),7.2,7/8,3/8 CB,-,CI,0.4(6h),-,-,Cloudy
+ORUMIEH,28/03/2010,15Z,5.0,92%,1015.5 Hpa,110º (E ),7.2,7/8,4/8 CB,AC,-,-,5.4,-,Cloudy
+ORUMIEH,28/03/2010,12Z,3.0,95%,1016.4 Hpa,260º (W ),7.2,8/8,6/8 CB,AC,,6.0(6h),-,-,"Overcast, rain"
+ORUMIEH,28/03/2010,09Z,4.6,88%,1016.0 Hpa,310º (NW),7.2,8/8,6/8 CB,AC,,-,-,-,"Overcast, rain"
+ORUMIEH,28/03/2010,06Z,3.2,90%,1016.5 Hpa,270º (W ),7.2,8/8,6/8 CB,AC,,4.0(6h),-,-,"Overcast, rain"
+ORUMIEH,28/03/2010,03Z,1.4,96%,1016.4 Hpa,300º (NW),7.2,8/8,5/8 CB,AC,,-,-,1.2,"Overcast, rain"
+ORUMIEH,28/03/2010,00Z,1.4,93%,1016.6 Hpa,270º (W ),7.2,8/8,4/8 CB,AC,,2.0(6h),-,-,"Overcast, rain"
+PARS ABAD MOGHAN,28/03/2010,21Z,9.0,91%,1015.2 Hpa,calm.,,6/8,4/8 SC,AC,-,-,-,-,Cloudy
+PARS ABAD MOGHAN,28/03/2010,18Z,9.8,76%,1015.9 Hpa,calm.,,8/8,5/8 SC,AC,,-,-,-,Overcast
+PARS ABAD MOGHAN,28/03/2010,15Z,10.4,69%,1015.9 Hpa,calm.,,8/8,5/8 SC,AC,,-,12.0,-,Overcast
+PARS ABAD MOGHAN,28/03/2010,12Z,11.4,61%,1017.1 Hpa,330º (NW),7.2,6/8,6/8 SC,-,-,-,-,-,Cloudy
+PARS ABAD MOGHAN,28/03/2010,09Z,10.2,67%,1019.7 Hpa,calm.,,6/8,6/8 SC,-,-,-,-,-,Cloudy
+PARS ABAD MOGHAN,28/03/2010,06Z,7.2,82%,1022.0 Hpa,calm.,,7/8,5/8 SC,AC,-,5.0(24h),-,-,Cloudy
+RAMSAR,28/03/2010,21Z,9.2,86%,1014.8 Hpa,140º (SE),7.2,8/8,3/8 SC,AC,,-,-,-,Overcast
+RAMSAR,28/03/2010,18Z,9.2,91%,1016.2 Hpa,calm.,,8/8,4/8 ST,AC,,Tr(6h),-,-,Overcast
+RAMSAR,28/03/2010,15Z,9.2,94%,1016.1 Hpa,Vble.,,8/8,5/8 ST,AC,,-,11.6,-,"Overcast, drizzle"
+RAMSAR,28/03/2010,12Z,9.4,89%,1017.0 Hpa,040º (NE),7.2,8/8,4/8 ST,AC,,-,-,-,Overcast
+RAMSAR,28/03/2010,09Z,10.2,84%,1018.9 Hpa,330º (NW),18.0,7/8,4/8 ST,AC,-,-,-,-,Cloudy
+RAMSAR,28/03/2010,06Z,10.0,74%,1020.4 Hpa,040º (NE),7.2,3/8,2/8 CU,-,CI,4.6(24h),-,-,Scattered clouds
+RAMSAR,28/03/2010,03Z,5.8,96%,1020.7 Hpa,240º (SW),7.2,3/8,3/8 SC,-,-,-,-,5.8,Scattered clouds
+RAMSAR,28/03/2010,00Z,6.8,90%,1021.4 Hpa,calm.,,8/8,4/8 SC,AC,-,-,-,-,Overcast
+RASHT,28/03/2010,21Z,8.8,86%,1015.4 Hpa,080º (E ),7.2,8/8,6/8 ST,AC,,-,-,-,"Overcast, drizzle"
+RASHT,28/03/2010,18Z,8.8,86%,1017.0 Hpa,calm.,,8/8,6/8 ST,AC,,-,-,-,"Overcast, drizzle"
+RASHT,28/03/2010,15Z,9.0,80%,1017.2 Hpa,020º (N),7.2,8/8,6/8 CB,AC,,-,10.5,-,Overcast
+RASHT,28/03/2010,12Z,10.0,79%,1017.5 Hpa,030º (NE),10.8,8/8,7/8 CB,AC,,0.2(6h),-,-,Overcast
+RASHT,28/03/2010,09Z,9.0,86%,1020.0 Hpa,Vble.,,7/8,7/8 CU/SC,AC,-,-,-,-,"Cloudy, mist"
+RASHT,28/03/2010,06Z,7.8,83%,1021.8 Hpa,250º (W ),7.2,8/8,7/8 ST,AC,,Tr(6h),-,-,"Overcast, drizzle"
+SABZEVAR,28/03/2010,21Z,10.4,94%,1013.1 Hpa,290º (W ),7.2,6/8,3/8 SC,AC,CS,-,-,-,Cloudy
+SABZEVAR,28/03/2010,18Z,11.2,92%,1013.6 Hpa,calm.,,8/8,6/8 CB,AC,,21.0(6h),-,-,"Overcast, mist"
+SABZEVAR,28/03/2010,15Z,11.4,92%,1014.0 Hpa,240º (SW),7.2,8/8,8/8 CB,-,-,-,16.8,-,"Overcast, thunderstorm"
+SABZEVAR,28/03/2010,12Z,16.4,63%,1011.8 Hpa,080º (E ),10.8,7/8,4/8 CB,AC,CI,0.4(6h),-,-,Cloudy
+SABZEVAR,28/03/2010,09Z,11.6,85%,1015.8 Hpa,090º (E ),21.6,7/8,4/8 CB,AC,-,-,-,-,"Cloudy, rain showers"
+SABZEVAR,28/03/2010,06Z,6.0,88%,1020.5 Hpa,080º (E ),21.6,8/8,3/8 SC,AC,,2.0(6h),-,-,"Overcast, rain"
+SABZEVAR,28/03/2010,03Z,5.4,68%,1020.2 Hpa,100º (E ),21.6,8/8,5/8 CB,AC,,-,-,5.2,Overcast
+SABZEVAR,28/03/2010,00Z,5.4,65%,1019.7 Hpa,100º (E ),43.2,8/8,5/8 CB,AC,,0.1(6h),-,-,"Overcast, dust"
+SAFI-ABAD DEZFUL,28/03/2010,21Z,15.2,76%,1015.6 Hpa,360º (N ),7.2,1/8,-,-,CI,-,-,-,Few clouds
+SAFI-ABAD DEZFUL,28/03/2010,18Z,17.0,75%,1015.1 Hpa,310º (NW),7.2,1/8,-,1/8 AC,-,-,-,-,Few clouds
+SAFI-ABAD DEZFUL,28/03/2010,15Z,20.2,72%,1013.8 Hpa,calm.,,6/8,2/8 SC,AC,-,-,24.2,-,Cloudy
+SAFI-ABAD DEZFUL,28/03/2010,12Z,22.0,53%,1004.3 Hpa,360º (N ),10.8,6/8,2/8 SC,AC,-,0.7(6h),-,-,Cloudy
+SAFI-ABAD DEZFUL,28/03/2010,09Z,21.2,55%,1015.1 Hpa,020º (N),28.8,4/8,2/8 CB,AC,-,-,-,-,Scattered clouds
+SAFI-ABAD DEZFUL,28/03/2010,06Z,18.0,56%,1014.8 Hpa,300º (NW),25.2,8/8,4/8 CB,AC,,0.1(6h),-,-,Overcast
+SAFI-ABAD DEZFUL,28/03/2010,00Z,14.4,70%,1015.6 Hpa,calm.,,1/8,-,-,CI,-,-,-,Few clouds
+SAGHEZ,28/03/2010,21Z,3.8,97%,1016.3 Hpa,calm.,,8/8,5/8 ST,AC,,-,-,-,"Overcast, rain"
+SAGHEZ,28/03/2010,18Z,5.0,97%,1015.8 Hpa,350º (N ),18.0,8/8,5/8 ST,AC,,2.0(6h),-,-,"Overcast, rain"
+SAGHEZ,28/03/2010,15Z,6.0,91%,1012.7 Hpa,360º (N ),10.8,8/8,5/8 ST,AC,,-,7.0,-,Overcast
+SAGHEZ,28/03/2010,12Z,6.8,84%,1011.7 Hpa,340º (N ),14.4,7/8,7/8 CB,-,-,-,-,-,Cloudy
+SAGHEZ,28/03/2010,09Z,6.8,81%,1012.6 Hpa,340º (N ),18.0,6/8,5/8 CB,AC,-,-,-,-,Cloudy
+SAGHEZ,28/03/2010,06Z,4.4,91%,1013.4 Hpa,340º (N ),21.6,7/8,5/8 CB,AC,-,2.4(24h),-,-,Cloudy
+SANANDAJ,28/03/2010,21Z,8.4,74%,1013.0 Hpa,170º (S ),3.6,7/8,3/8 SC,AC,-,-,-,-,Cloudy
+SANANDAJ,28/03/2010,18Z,10.0,62%,1012.2 Hpa,190º (S ),21.6,7/8,5/8 CB,AC,-,0.1(6h),-,-,"Cloudy, dust"
+SANANDAJ,28/03/2010,15Z,9.4,75%,1011.8 Hpa,210º (SW),10.8,7/8,5/8 CB,AC,-,-,15.0,-,"Cloudy, rain showers"
+SANANDAJ,28/03/2010,12Z,11.4,55%,1010.2 Hpa,180º (S ),25.2,7/8,5/8 CB,AC,-,-,-,-,"Cloudy, dust"
+SANANDAJ,28/03/2010,09Z,14.2,36%,1009.1 Hpa,190º (S ),32.4,7/8,5/8 CU,AC,-,-,-,-,"Cloudy, dust"
+SANANDAJ,28/03/2010,06Z,11.0,57%,1009.8 Hpa,360º (N ),7.2,5/8,4/8 SC,AC,-,0.2(24h),-,-,"Cloudy, dust"
+SARAB,28/03/2010,21Z,4.0,81%,1012.6 Hpa,260º (W ),25.2,7/8,3/8 SC,AC,-,-,-,-,Cloudy
+SARAB,28/03/2010,18Z,4.8,85%,1014.0 Hpa,310º (NW),7.2,8/8,5/8 SC,AC,,0.2(6h),-,-,Overcast
+SARAB,28/03/2010,15Z,5.4,80%,1014.8 Hpa,030º (NE),10.8,8/8,5/8 ST,AC,,-,10.4,-,"Overcast, rain"
+SARAB,28/03/2010,12Z,8.0,53%,1013.7 Hpa,300º (NW),18.0,8/8,3/8 SC,AC,,-,-,-,Overcast
+SARAB,28/03/2010,09Z,9.6,53%,1013.8 Hpa,Vble.,,7/8,3/8 SC,AC,-,-,-,-,Cloudy
+SARAB,28/03/2010,06Z,3.0,66%,1017.7 Hpa,Vble.,,6/8,3/8 SC,AC,-,0.1(24h),-,-,Cloudy
+SARAKHS,28/03/2010,21Z,7.2,83%,-,calm.,,8/8,3/8 ST,AC,,-,-,-,"Overcast, mist"
+SARAKHS,28/03/2010,18Z,9.0,73%,1017.7 Hpa,330º (NW),7.2,8/8,3/8 SC,AC,,6.0(6h),-,-,"Overcast, rain showers"
+SARAKHS,28/03/2010,15Z,13.4,34%,1017.6 Hpa,010º (N),10.8,8/8,4/8 CB,AC,,-,15.0,-,Overcast
+SARAKHS,28/03/2010,12Z,14.8,30%,1019.0 Hpa,150º (SE),10.8,4/8,-,2/8 AC,CI,-,-,-,Scattered clouds
+SARAKHS,28/03/2010,09Z,13.0,33%,1022.9 Hpa,calm.,,5/8,-,-,CI,-,-,-,Cloudy
+SARAKHS,28/03/2010,06Z,10.0,45%,1026.9 Hpa,calm.,,4/8,2/8 SC,-,CI,-,-,-,Scattered clouds
+SARAVAN,28/03/2010,21Z,24.6,22%,1010.3 Hpa,240º (SW),10.8,0/8,-,-,-,-,-,-,"Clear, haze"
+SARAVAN,28/03/2010,18Z,26.2,16%,1010.8 Hpa,290º (W ),7.2,0/8,-,-,-,-,-,-,"Clear, haze"
+SARAVAN,28/03/2010,15Z,28.6,15%,1010.7 Hpa,170º (S ),21.6,3/8,3/8 SC,AC,-,-,32.6,-,"Scattered clouds, haze"
+SARAVAN,28/03/2010,12Z,32.2,14%,1008.4 Hpa,140º (SE),10.8,2/8,2/8 CU,-,-,-,-,-,"Few clouds, haze"
+SARAVAN,28/03/2010,09Z,30.7,14%,1010.8 Hpa,050º (NE),7.2,1/8,-,-,CI,-,-,-,"Few clouds, haze"
+SARAVAN,28/03/2010,06Z,26.0,20%,1013.5 Hpa,110º (E ),10.8,0/8,-,-,-,-,-,-,Clear
+SEMNAN,28/03/2010,21Z,9.6,92%,1014.8 Hpa,calm.,,5/8,4/8 SC,AC,-,-,-,-,Cloudy
+SEMNAN,28/03/2010,18Z,10.4,90%,1014.0 Hpa,calm.,,4/8,4/8 SC,-,-,-,-,-,Scattered clouds
+SEMNAN,28/03/2010,15Z,11.6,86%,1012.1 Hpa,120º (SE),7.2,3/8,2/8 CB,-,CI,-,14.0,-,Scattered clouds
+SEMNAN,28/03/2010,12Z,12.6,78%,1012.6 Hpa,calm.,,7/8,4/8 SC,AC,-,-,-,-,Cloudy
+SEMNAN,28/03/2010,09Z,11.8,74%,1014.4 Hpa,calm.,,7/8,4/8 SC,AC,-,-,-,-,Cloudy
+SEMNAN,28/03/2010,06Z,11.4,76%,1015.5 Hpa,200º (S ),10.8,8/8,4/8 SC,AC,,0.4(6h),-,-,Overcast
+SHAHRE-KORD,28/03/2010,21Z,3.4,70%,1014.8 Hpa,060º (NE),10.8,1/8,1/8 SC,-,-,-,-,-,Few clouds
+SHAHRE-KORD,28/03/2010,18Z,5.6,62%,1014.0 Hpa,calm.,,2/8,2/8 SC,-,-,-,-,-,Few clouds
+SHAHRE-KORD,28/03/2010,15Z,7.8,51%,1014.8 Hpa,260º (W ),18.0,3/8,3/8 SC,-,-,-,11.8,-,Scattered clouds
+SHAHRE-KORD,28/03/2010,12Z,10.8,37%,1013.3 Hpa,250º (W ),36.0,5/8,4/8 SC,AC,-,0.1(6h),-,-,Cloudy
+SHAHRE-KORD,28/03/2010,09Z,11.2,41%,1011.6 Hpa,200º (S ),14.4,6/8,3/8 SC,AC,-,-,-,-,Cloudy
+SHAHRE-KORD,28/03/2010,06Z,10.0,39%,1012.4 Hpa,250º (W ),18.0,1/8,1/8 CU,-,CI,16.6(24h),-,-,Few clouds
+SHAHRUD,28/03/2010,21Z,7.2,88%,1013.7 Hpa,calm.,,6/8,-,-,CI,-,-,-,Cloudy
+SHAHRUD,28/03/2010,18Z,7.0,88%,1014.4 Hpa,calm.,,4/8,-,-,CI,-,-,-,Scattered clouds
+SHAHRUD,28/03/2010,15Z,9.0,82%,1013.8 Hpa,240º (SW),7.2,4/8,1/8 SC,-,CI,-,10.8,-,Scattered clouds
+SHAHRUD,28/03/2010,12Z,9.8,76%,1014.7 Hpa,220º (SW),10.8,8/8,5/8 SC,AC,,-,-,-,Overcast
+SHAHRUD,28/03/2010,09Z,9.0,80%,1015.4 Hpa,120º (SE),7.2,8/8,2/8 SC,AC,CI,-,-,-,Overcast
+SHAHRUD,28/03/2010,06Z,7.2,81%,1017.0 Hpa,080º (E ),10.8,7/8,3/8 SC,AC,CI,5.3(24h),-,-,Cloudy
+SHAHRUD,28/03/2010,03Z,5.0,76%,1018.1 Hpa,090º (E ),21.6,8/8,4/8 ST,AC,,-,-,4.4,"Overcast, haze"
+SHAHRUD,28/03/2010,00Z,5.6,79%,1018.6 Hpa,040º (NE),21.6,7/8,3/8 SC,AC,-,4.0(6h),-,-,Cloudy
+SHIRAZ,28/03/2010,21Z,12.0,43%,1012.4 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SHIRAZ,28/03/2010,18Z,14.0,32%,1012.5 Hpa,300º (NW),7.2,0/8,-,-,-,-,-,-,Clear
+SHIRAZ,28/03/2010,15Z,17.4,20%,1012.3 Hpa,300º (NW),14.4,0/8,-,-,-,-,21.0,-,Clear
+SHIRAZ,28/03/2010,12Z,20.4,11%,1011.7 Hpa,280º (W ),28.8,2/8,2/8 CU,-,-,-,-,-,Few clouds
+SHIRAZ,28/03/2010,09Z,19.8,14%,1012.0 Hpa,270º (W ),21.6,1/8,1/8 CU,-,-,-,-,-,Few clouds
+SHIRAZ,28/03/2010,06Z,17.0,43%,1011.4 Hpa,calm.,,0/8,-,-,-,2.0(24h),-,-,"Clear, haze"
+SIRI ISLAND,28/03/2010,15Z,26.2,84%,1009.7 Hpa,210º (SW),7.2,3/8,-,2/8 AC,CI,-,29.6,-,"Scattered clouds, mist"
+SIRI ISLAND,28/03/2010,12Z,27.8,16%,1009.3 Hpa,120º (SE),7.2,4/8,-,3/8 AC,CI,-,-,-,"Scattered clouds, haze"
+SIRI ISLAND,28/03/2010,09Z,28.0,69%,1011.3 Hpa,150º (SE),7.2,5/8,-,2/8 AC,CI,-,-,-,"Cloudy, haze"
+SIRI ISLAND,28/03/2010,06Z,26.8,349%,1010.7 Hpa,360º (N ),14.4,3/8,-,3/8 AC,-,-,-,-,"Scattered clouds, haze"
+SIRJAN,28/03/2010,21Z,12.0,51%,1009.5 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SIRJAN,28/03/2010,18Z,14.8,40%,1009.4 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SIRJAN,28/03/2010,15Z,18.2,20%,1007.6 Hpa,180º (S ),18.0,0/8,-,-,-,-,23.0,-,Clear
+SIRJAN,28/03/2010,12Z,20.8,14%,1007.7 Hpa,210º (SW),36.0,2/8,2/8 SC,-,-,-,-,-,Few clouds
+SIRJAN,28/03/2010,09Z,22.6,15%,1005.4 Hpa,200º (S ),43.2,4/8,4/8 SC,-,-,-,-,-,Scattered clouds
+SIRJAN,28/03/2010,06Z,20.0,36%,1006.7 Hpa,130º (SE),28.8,1/8,1/8 SC,-,-,0.6(6h),-,-,Few clouds
+TABAS,28/03/2010,21Z,12.4,90%,1012.6 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+TABAS,28/03/2010,18Z,14.6,79%,1011.7 Hpa,calm.,,0/8,-,-,-,4.0(6h),-,-,Clear
+TABAS,28/03/2010,15Z,16.4,65%,1009.8 Hpa,030º (NE),7.2,7/8,1/8 SC,AC,CI,-,24.5,-,"Cloudy, dust"
+TABAS,28/03/2010,12Z,22.5,43%,1001.9 Hpa,360º (N ),7.2,7/8,4/8 CB,AC,CI,0.2(6h),-,-,"Cloudy, rain"
+TABAS,28/03/2010,09Z,22.2,46%,1007.9 Hpa,010º (N),7.2,8/8,1/8 CU,AC,CS,-,-,-,"Overcast, dust"
+TABAS,28/03/2010,06Z,16.9,66%,1011.9 Hpa,170º (S ),7.2,8/8,1/8 CU,AC,CS,Tr(6h),-,-,"Overcast, dust"
+TABRIZ,28/03/2010,21Z,4.4,90%,1017.1 Hpa,250º (W ),14.4,8/8,5/8 ST,AC,,-,-,-,"Overcast, mist"
+TABRIZ,28/03/2010,18Z,4.4,93%,1016.1 Hpa,260º (W ),14.4,8/8,5/8 ST,AC,,3.0(6h),-,-,"Overcast, rain"
+TABRIZ,28/03/2010,15Z,6.2,93%,1014.7 Hpa,270º (W ),10.8,8/8,5/8 ST,AC,,-,9.4,-,"Overcast, rain"
+TABRIZ,28/03/2010,12Z,6.8,93%,1014.9 Hpa,270º (W ),7.2,8/8,5/8 ST,AC,,2.0(6h),-,-,"Overcast, rain"
+TABRIZ,28/03/2010,09Z,6.4,80%,1016.0 Hpa,250º (W ),18.0,8/8,5/8 ST,AC,,-,-,-,"Overcast, rain"
+TABRIZ,28/03/2010,06Z,6.6,64%,1015.8 Hpa,110º (E ),10.8,7/8,3/8 CB,AC,CI,Tr(6h),-,-,"Cloudy, haze"
+TABRIZ,28/03/2010,03Z,4.8,65%,1016.0 Hpa,100º (E ),7.2,7/8,4/8 CB,AC,CI,-,-,3.4,"Cloudy, distant precipitation"
+TABRIZ,28/03/2010,00Z,4.2,69%,1016.2 Hpa,100º (E ),14.4,5/8,3/8 CB,AC,CI,-,-,-,Cloudy
+TEHRAN-MEHRABAD,28/03/2010,21Z,10.4,83%,1013.4 Hpa,calm.,,6/8,3/8 CB,AC,-,-,-,-,Cloudy
+TEHRAN-MEHRABAD,28/03/2010,18Z,11.0,81%,1013.4 Hpa,180º (S ),10.8,4/8,2/8 SC,AC,-,0.1(6h),-,-,Scattered clouds
+TEHRAN-MEHRABAD,28/03/2010,15Z,12.2,71%,1012.6 Hpa,220º (SW),10.8,7/8,4/8 CB,AC,-,-,14.0,-,Cloudy
+TEHRAN-MEHRABAD,28/03/2010,12Z,13.6,60%,1011.4 Hpa,100º (E ),7.2,6/8,5/8 CU,AC,-,-,-,-,Cloudy
+TEHRAN-MEHRABAD,28/03/2010,09Z,12.6,65%,1013.6 Hpa,250º (W ),10.8,7/8,6/8 CB,AC,-,-,-,-,"Cloudy, haze"
+TEHRAN-MEHRABAD,28/03/2010,06Z,9.6,78%,1015.6 Hpa,150º (SE),7.2,8/8,6/8 CB,AC,,0.1(6h),-,-,"Overcast, haze"
+TEHRAN-MEHRABAD,28/03/2010,03Z,8.4,87%,1016.3 Hpa,250º (W ),7.2,8/8,3/8 CB,AC,,-,-,7.4,"Overcast, mist"
+TEHRAN-MEHRABAD,28/03/2010,00Z,9.0,79%,1015.5 Hpa,070º (E ),10.8,7/8,3/8 CB,AC,-,0.6(6h),-,-,Cloudy
+TORBAT-HEYDARIEH,28/03/2010,21Z,6.8,100%,1012.0 Hpa,calm.,,7/8,7/8 ST,-,-,-,-,-,"Cloudy, fog"
+TORBAT-HEYDARIEH,28/03/2010,18Z,8.2,94%,1012.3 Hpa,340º (N ),14.4,7/8,7/8 CB,-,-,8.0(6h),-,-,"Cloudy, rain showers"
+TORBAT-HEYDARIEH,28/03/2010,15Z,12.0,73%,1010.7 Hpa,100º (E ),18.0,7/8,7/8 CB,-,-,-,14.6,-,Cloudy
+TORBAT-HEYDARIEH,28/03/2010,12Z,14.4,65%,1010.8 Hpa,090º (E ),21.6,4/8,4/8 SC,-,-,1.0(6h),-,-,Scattered clouds
+TORBAT-HEYDARIEH,28/03/2010,09Z,11.0,86%,1015.2 Hpa,070º (E ),18.0,6/8,6/8 CB,-,-,-,-,-,Cloudy
+TORBAT-HEYDARIEH,28/03/2010,06Z,6.6,83%,1018.4 Hpa,080º (E ),28.8,7/8,7/8 CB,-,-,2.0(6h),-,-,"Cloudy, rain showers"
+TORBAT-HEYDARIEH,28/03/2010,03Z,3.6,81%,1019.0 Hpa,090º (E ),21.6,6/8,6/8 SC,-,-,-,-,2.2,Cloudy
+TORBAT-HEYDARIEH,28/03/2010,00Z,4.0,75%,1019.1 Hpa,070º (E ),36.0,6/8,6/8 CB,-,-,1.0(6h),-,-,Cloudy
+YASOGE,28/03/2010,21Z,6.0,70%,1018.6 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+YASOGE,28/03/2010,18Z,7.4,69%,1017.7 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+YASOGE,28/03/2010,15Z,12.4,54%,1015.8 Hpa,200º (S ),7.2,2/8,2/8 CU,-,-,-,14.6,-,Few clouds
+YASOGE,28/03/2010,12Z,11.0,56%,1015.6 Hpa,080º (E ),10.8,7/8,7/8 CB,-,-,-,-,-,"Cloudy, rain showers"
+YASOGE,28/03/2010,09Z,11.4,53%,1014.6 Hpa,360º (N ),21.6,6/8,6/8 CB,-,-,-,-,-,"Cloudy, thunderstorm"
+YASOGE,28/03/2010,06Z,13.4,50%,1012.9 Hpa,150º (SE),7.2,4/8,4/8 SC,-,-,4.2(24h),-,-,"Scattered clouds, haze"
+YAZD,28/03/2010,21Z,10.2,66%,1015.3 Hpa,200º (S ),14.4,0/8,-,-,-,-,-,-,Clear
+YAZD,28/03/2010,18Z,12.2,67%,1014.9 Hpa,240º (SW),10.8,0/8,-,-,-,-,-,-,Clear
+YAZD,28/03/2010,15Z,15.7,58%,1013.0 Hpa,330º (NW),14.4,2/8,2/8 SC,-,-,-,16.8,-,Few clouds
+YAZD,28/03/2010,12Z,15.2,60%,1011.7 Hpa,290º (W ),14.4,4/8,-,-,-,Tr(6h),-,-,Scattered clouds
+YAZD,28/03/2010,09Z,13.1,72%,1012.5 Hpa,350º (N ),10.8,7/8,6/8 CB,AC,-,-,-,-,"Cloudy, rain showers"
+YAZD,28/03/2010,06Z,10.7,83%,1015.5 Hpa,300º (NW),7.2,8/8,5/8 SC,AC,,2.9(24h),-,-,"Overcast, mist"
+ZABOL,28/03/2010,21Z,25.4,29%,1006.7 Hpa,190º (S ),18.0,5/8,3/8 CB,AC,-,-,-,-,"Cloudy, dust"
+ZABOL,28/03/2010,18Z,22.4,37%,1008.3 Hpa,130º (SE),28.8,7/8,3/8 CB,AC,-,-,-,-,"Cloudy, dust"
+ZABOL,28/03/2010,15Z,22.4,40%,1011.6 Hpa,250º (W ),7.2,7/8,2/8 SC,AC,-,-,26.5,-,Cloudy
+ZABOL,28/03/2010,12Z,26.2,29%,1009.7 Hpa,030º (NE),7.2,3/8,-,-,CI,-,-,-,Scattered clouds
+ZABOL,28/03/2010,09Z,22.6,32%,1014.4 Hpa,330º (NW),10.8,2/8,-,1/8 AC,CI,-,-,-,Few clouds
+ZABOL,28/03/2010,06Z,16.8,36%,1018.3 Hpa,320º (NW),28.8,1/8,-,-,CI,-,-,-,"Few clouds, dust"
+ZAHEDAN,28/03/2010,21Z,20.4,29%,1006.8 Hpa,190º (S ),28.8,0/8,-,-,-,-,-,-,Clear
+ZAHEDAN,28/03/2010,18Z,20.9,30%,1011.0 Hpa,280º (W ),18.0,6/8,4/8 CB,AC,-,-,-,-,"Cloudy, haze"
+ZAHEDAN,28/03/2010,15Z,24.8,19%,1009.4 Hpa,280º (W ),28.8,6/8,3/8 SC,AC,-,-,-,-,"Cloudy, dust"
+ZAHEDAN,28/03/2010,12Z,27.5,18%,1006.3 Hpa,340º (N ),14.4,4/8,4/8 CU,-,-,-,-,-,"Scattered clouds, haze"
+ZAHEDAN,28/03/2010,09Z,26.9,18%,1008.8 Hpa,080º (E ),25.2,2/8,2/8 CU,-,-,-,-,-,"Few clouds, haze"
+ZAHEDAN,28/03/2010,06Z,18.5,31%,1014.3 Hpa,160º (S ),7.2,1/8,-,-,CI,-,-,-,"Few clouds, haze"
+ZANJAN,28/03/2010,21Z,7.6,72%,1012.8 Hpa,220º (SW),10.8,7/8,6/8 SC,-,CI,-,-,-,"Cloudy, rain"
+ZANJAN,28/03/2010,18Z,7.0,78%,1014.1 Hpa,080º (E ),7.2,6/8,5/8 SC,AC,-,0.7(6h),-,-,Cloudy
+ZANJAN,28/03/2010,15Z,8.0,82%,1013.3 Hpa,240º (SW),14.4,7/8,6/8 CB,AC,-,-,11.6,-,Cloudy
+ZANJAN,28/03/2010,12Z,10.8,60%,1011.5 Hpa,calm.,,6/8,6/8 CB,AC,-,-,-,-,Cloudy
+ZANJAN,28/03/2010,09Z,9.0,66%,1014.1 Hpa,120º (SE),21.6,4/8,4/8 SC,AC,-,-,-,-,Scattered clouds
+ZANJAN,28/03/2010,06Z,4.6,85%,1016.1 Hpa,070º (E ),14.4,7/8,5/8 ST,AC,-,4.5(24h),-,-,Cloudy
+ZANJAN,28/03/2010,03Z,2.4,93%,1017.6 Hpa,080º (E ),7.2,8/8,4/8 CB,AC,,-,-,1.2,"Overcast, mist"
+ZANJAN,28/03/2010,00Z,2.2,93%,1017.8 Hpa,120º (SE),7.2,8/8,3/8 SC,AC,,-,-,-,Overcast

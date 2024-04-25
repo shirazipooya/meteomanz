@@ -1,0 +1,610 @@
+Station ∆,Date,UTC time,Temp. (ºC),Rel. Hum. (%),Pressure/ Geopot.,Wind dir,Wins speed (Km/h),Clouds,Low clouds,Medium clouds,High clouds,Prec. (mm),Max temp. (ºC),Min temp. (ºC),Conditions
+ABADAN,15/02/2008,21Z,12.8,61%,1021.7 Hpa,330º (NW),18.0,0/8,-,-,-,-,-,-,Clear
+ABADAN,15/02/2008,18Z,14.0,58%,1020.1 Hpa,310º (NW),10.8,0/8,-,-,-,-,-,-,"Clear, dust"
+ABADAN,15/02/2008,15Z,17.0,46%,1016.6 Hpa,290º (W ),18.0,6/8,-,-,CI,-,21.0,-,"Cloudy, dust"
+ABADAN,15/02/2008,12Z,19.2,38%,1013.2 Hpa,290º (W ),43.2,,-,-,-,-,-,-,dust
+ABADAN,15/02/2008,09Z,19.0,31%,-,270º (W ),39.6,,-,-,-,-,-,-,-
+ABADAN,15/02/2008,06Z,14.8,70%,1012.2 Hpa,180º (S ),18.0,6/8,-,-,CI,-,-,-,Cloudy
+ABADAN,15/02/2008,03Z,13.4,77%,1011.2 Hpa,calm.,,3/8,3/8 SC,-,-,-,-,13.4,Scattered clouds
+ABADAN,15/02/2008,00Z,15.8,76%,1012.6 Hpa,calm.,,8/8,3/8 CB,AC,,-,-,-,Overcast
+ABADEH,15/02/2008,21Z,5.0,29%,1011.4 Hpa,220º (SW),36.0,0/8,-,-,-,-,-,-,Clear
+ABADEH,15/02/2008,18Z,6.4,30%,1012.1 Hpa,240º (SW),54.0,3/8,-,-,CI,-,-,-,Scattered clouds
+ABADEH,15/02/2008,15Z,8.4,35%,1008.8 Hpa,220º (SW),36.0,5/8,1/8 SC,AC,CI,-,11.0,-,Cloudy
+ABADEH,15/02/2008,12Z,10.2,49%,1006.5 Hpa,210º (SW),46.8,7/8,4/8 CB,AC,-,Tr(6h),-,-,Cloudy
+ABADEH,15/02/2008,09Z,9.8,57%,1007.4 Hpa,180º (S ),32.4,7/8,5/8 CB,AC,-,-,-,-,Cloudy
+ABADEH,15/02/2008,06Z,5.2,70%,1012.3 Hpa,calm.,,8/8,4/8 CB,AC,,-,-,-,Overcast
+ABADEH,15/02/2008,03Z,4.0,57%,1012.0 Hpa,240º (SW),21.6,3/8,3/8 SC,-,-,-,-,3.4,Scattered clouds
+ABADEH,15/02/2008,00Z,4.8,50%,1011.0 Hpa,230º (SW),25.2,4/8,1/8 SC,-,CI,-,-,-,Scattered clouds
+ABU MUSA,15/02/2008,15Z,22.0,80%,1014.7 Hpa,020º (N),14.4,0/8,-,-,-,-,25.6,-,Clear
+ABU MUSA,15/02/2008,12Z,24.8,74%,1014.6 Hpa,020º (N),10.8,0/8,-,-,-,-,-,-,Clear
+ABU MUSA,15/02/2008,09Z,24.6,62%,1016.0 Hpa,070º (E ),14.4,0/8,-,-,-,-,-,-,"Clear, haze"
+ABU MUSA,15/02/2008,06Z,22.6,451%,1017.1 Hpa,090º (E ),18.0,0/8,-,-,-,-,-,-,"Clear, haze"
+ABU MUSA,15/02/2008,03Z,18.6,88%,1014.8 Hpa,060º (NE),10.8,0/8,-,-,-,-,-,18.4,"Clear, mist"
+AHAR,15/02/2008,21Z,-9.6,56%,1014.8 Hpa,270º (W ),32.4,1/8,-,-,CI,-,-,-,Few clouds
+AHAR,15/02/2008,18Z,-8.0,66%,1014.2 Hpa,260º (W ),21.6,2/8,-,-,CI,-,-,-,Few clouds
+AHAR,15/02/2008,15Z,-5.4,63%,1019.0 Hpa,260º (W ),36.0,5/8,3/8 SC,AC,-,-,-0.2,-,Cloudy
+AHAR,15/02/2008,12Z,-4.2,80%,1016.7 Hpa,080º (E ),7.2,7/8,2/8 ST,AC,-,0.8(6h),-,-,"Cloudy, snow"
+AHAR,15/02/2008,09Z,-3.0,88%,1014.5 Hpa,120º (SE),10.8,8/8,2/8 ST,AC,,-,-,-,"Overcast, snow"
+AHAR,15/02/2008,06Z,-3.0,74%,1014.7 Hpa,calm.,,8/8,1/8 SC,AC,,-,-,-,Overcast
+AHAR,15/02/2008,03Z,-3.4,72%,1014.6 Hpa,300º (NW),25.2,4/8,4/8 SC,-,-,-,-,-6.0,Scattered clouds
+AHAR,15/02/2008,00Z,-3.0,84%,1015.4 Hpa,300º (NW),14.4,2/8,2/8 SC,-,-,-,-,-,Few clouds
+AHWAZ,15/02/2008,21Z,12.4,62%,1020.7 Hpa,270º (W ),7.2,0/8,-,-,-,-,-,-,Clear
+AHWAZ,15/02/2008,18Z,14.2,56%,1018.3 Hpa,270º (W ),10.8,0/8,-,-,-,-,-,-,"Clear, haze"
+AHWAZ,15/02/2008,15Z,17.4,43%,1014.7 Hpa,290º (W ),36.0,0/8,-,-,-,-,22.0,-,"Clear, dust"
+AHWAZ,15/02/2008,12Z,20.6,29%,1010.8 Hpa,250º (W ),18.0,7/8,-,-,CI,-,-,-,"Cloudy, dust"
+AHWAZ,15/02/2008,09Z,20.8,36%,1011.4 Hpa,210º (SW),28.8,6/8,-,-,CI,-,-,-,Cloudy
+AHWAZ,15/02/2008,06Z,18.2,38%,1010.9 Hpa,170º (S ),32.4,2/8,-,-,CI,Tr(24h),-,-,Few clouds
+AHWAZ,15/02/2008,03Z,15.0,50%,1010.6 Hpa,090º (E ),7.2,6/8,4/8 CB,AC,-,-,-,13.8,Cloudy
+ALI-GOODARZ,15/02/2008,21Z,1.2,65%,1015.6 Hpa,360º (N ),14.4,3/8,3/8 ST,-,-,-,-,-,Scattered clouds
+ALI-GOODARZ,15/02/2008,18Z,1.0,83%,1015.4 Hpa,calm.,,4/8,3/8 ST,AC,-,0.2(6h),-,-,"Scattered clouds, snow"
+ALI-GOODARZ,15/02/2008,15Z,2.0,74%,1012.3 Hpa,300º (NW),14.4,6/8,5/8 ST,AC,-,-,6.0,-,Cloudy
+ALI-GOODARZ,15/02/2008,12Z,4.8,61%,1007.8 Hpa,100º (E ),10.8,5/8,4/8 ST,-,-,1.0(6h),-,-,Cloudy
+ALI-GOODARZ,15/02/2008,09Z,3.6,73%,1008.9 Hpa,150º (SE),21.6,6/8,3/8 ST,AC,-,-,-,-,"Cloudy, rain and snow"
+ALI-GOODARZ,15/02/2008,06Z,-0.2,92%,1012.1 Hpa,090º (E ),36.0,8/8,3/8 CB,AC,,1.0(6h),-,-,"Overcast, snow"
+ALI-GOODARZ,15/02/2008,03Z,-0.4,92%,1014.8 Hpa,120º (SE),18.0,8/8,4/8 ST,AC,,-,-,-1.0,"Overcast, snow"
+ALI-GOODARZ,15/02/2008,00Z,1.6,66%,1014.7 Hpa,130º (SE),28.8,5/8,3/8 SC,AC,-,-,-,-,Cloudy
+ANZALI,15/02/2008,21Z,4.0,76%,1019.7 Hpa,210º (SW),7.2,1/8,-,1/8 AC,-,-,-,-,Few clouds
+ANZALI,15/02/2008,18Z,4.2,80%,1020.0 Hpa,180º (S ),21.6,7/8,4/8 SC,AC,-,0.1(6h),-,-,Cloudy
+ANZALI,15/02/2008,15Z,4.2,80%,1019.0 Hpa,270º (W ),7.2,8/8,4/8 SC,AC,-,-,5.0,-,"Overcast, rain"
+ANZALI,15/02/2008,12Z,4.6,276%,1017.0 Hpa,330º (NW),28.8,8/8,6/8 ST,AC,,1.0(6h),-,-,"Overcast, rain"
+ANZALI,15/02/2008,09Z,4.0,96%,1016.0 Hpa,280º (W ),7.2,8/8,7/8 ST,AC,,-,-,-,"Overcast, drizzle"
+ANZALI,15/02/2008,06Z,3.6,297%,1017.2 Hpa,300º (NW),7.2,8/8,5/8 SC,AC,,0.1(24h),-,-,Overcast
+ANZALI,15/02/2008,03Z,3.4,93%,1016.8 Hpa,290º (W ),14.4,8/8,5/8 SC,AC,,-,-,2.6,Overcast
+ANZALI,15/02/2008,00Z,3.4,93%,1016.8 Hpa,300º (NW),14.4,8/8,5/8 SC,AC,,-,-,-,Overcast
+ARAK,15/02/2008,21Z,0.0,92%,1017.7 Hpa,250º (W ),7.2,8/8,3/8 ST,AC,,-,-,-,"Overcast, snow"
+ARAK,15/02/2008,18Z,0.4,92%,1016.8 Hpa,calm.,,7/8,4/8 CB,AC,-,-,-,-,"Cloudy, snow showers"
+ARAK,15/02/2008,15Z,4.0,70%,1011.8 Hpa,240º (SW),7.2,8/8,4/8 CB,AC,,-,5.4,-,"Overcast, mist"
+ARAK,15/02/2008,12Z,2.4,87%,1009.5 Hpa,300º (NW),7.2,7/8,5/8 CB,AC,-,-,-,-,"Cloudy, mist"
+ARAK,15/02/2008,09Z,3.6,84%,1010.0 Hpa,140º (SE),21.6,7/8,5/8 CB,AC,-,-,-,-,"Cloudy, mist"
+ARAK,15/02/2008,06Z,1.2,93%,1013.5 Hpa,100º (E ),18.0,8/8,4/8 CB,AC,,0.2(6h),-,-,"Overcast, snow"
+ARAK,15/02/2008,03Z,0.8,73%,1012.5 Hpa,calm.,,3/8,2/8 SC,-,CI,-,-,0.2,Scattered clouds
+ARAK,15/02/2008,00Z,3.4,52%,1012.3 Hpa,240º (SW),21.6,0/8,-,-,-,-,-,-,Clear
+ARDEBIL,15/02/2008,21Z,-12.0,88%,1022.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+ARDEBIL,15/02/2008,18Z,-5.2,94%,1019.4 Hpa,calm.,,8/8,5/8 ST,AC,,-,-,-,Overcast
+ARDEBIL,15/02/2008,15Z,-5.2,94%,1017.9 Hpa,100º (E ),10.8,8/8,5/8 ST,AC,,-,0.2,-,Overcast
+ARDEBIL,15/02/2008,12Z,-4.6,94%,1015.5 Hpa,020º (N),21.6,8/8,5/8 ST,AC,,4.0(6h),-,-,"Overcast, snow"
+ARDEBIL,15/02/2008,09Z,-3.4,97%,1013.7 Hpa,100º (E ),25.2,8/8,4/8 ST,AC,,-,-,-,"Overcast, snow"
+ARDEBIL,15/02/2008,06Z,-3.8,91%,1014.0 Hpa,070º (E ),14.4,8/8,1/8 SC,AC,CS,-,-,-,Overcast
+ARDEBIL,15/02/2008,03Z,-7.0,83%,1019.2 Hpa,calm.,,0/8,-,-,-,-,-,-8.4,Clear
+ARDEBIL,15/02/2008,00Z,-7.0,82%,1016.0 Hpa,300º (NW),14.4,0/8,-,-,-,-,-,-,Clear
+BABULSAR,15/02/2008,21Z,5.6,90%,1021.0 Hpa,210º (SW),10.8,8/8,3/8 ST,AC,,-,-,-,Overcast
+BABULSAR,15/02/2008,18Z,6.6,90%,1019.3 Hpa,280º (W ),18.0,8/8,6/8 CB,AC,,6.0(6h),-,-,"Overcast, rain"
+BABULSAR,15/02/2008,15Z,6.6,93%,1016.5 Hpa,240º (SW),10.8,8/8,6/8 CB,AC,,-,8.4,-,"Overcast, drizzle"
+BABULSAR,15/02/2008,12Z,7.6,80%,1013.7 Hpa,270º (W ),10.8,8/8,5/8 ST,AC,,-,-,-,"Overcast, mist"
+BABULSAR,15/02/2008,09Z,8.0,74%,1013.5 Hpa,090º (E ),7.2,8/8,4/8 ST,AC,,-,-,-,Overcast
+BABULSAR,15/02/2008,06Z,7.2,76%,1015.4 Hpa,060º (NE),7.2,8/8,8/8 ST,,,-,-,-,Overcast
+BABULSAR,15/02/2008,03Z,6.4,87%,1015.5 Hpa,Vble.,,8/8,8/8 ST,,,-,-,6.4,Overcast
+BABULSAR,15/02/2008,00Z,6.6,85%,1015.8 Hpa,Vble.,,8/8,8/8 ST,,,-,-,-,Overcast
+BAFT,15/02/2008,21Z,6.6,57%,1013.4 Hpa,120º (SE),10.8,0/8,-,-,-,-,-,-,Clear
+BAFT,15/02/2008,18Z,9.0,52%,1014.3 Hpa,150º (SE),10.8,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+BAFT,15/02/2008,15Z,9.6,45%,1014.7 Hpa,210º (SW),18.0,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+BAFT,15/02/2008,12Z,13.8,27%,1012.1 Hpa,240º (SW),54.0,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+BAFT,15/02/2008,09Z,12.0,34%,1013.7 Hpa,240º (SW),28.8,6/8,3/8 SC,AC,-,-,-,-,Cloudy
+BAFT,15/02/2008,06Z,8.6,51%,1017.3 Hpa,calm.,,4/8,4/8 SC,-,-,-,-,-,Scattered clouds
+BAFT,15/02/2008,03Z,5.6,65%,1016.0 Hpa,calm.,,6/8,5/8 SC,AC,-,-,-,4.0,Cloudy
+BAFT,15/02/2008,00Z,5.0,59%,1016.3 Hpa,340º (N ),7.2,5/8,-,5/8 AC,-,-,-,-,Cloudy
+BAM,15/02/2008,21Z,17.8,32%,1005.1 Hpa,calm.,,2/8,-,-,CI,-,-,-,Few clouds
+BAM,15/02/2008,18Z,19.0,29%,1005.8 Hpa,170º (S ),14.4,0/8,-,-,-,-,-,-,Clear
+BAM,15/02/2008,15Z,22.2,22%,1005.7 Hpa,calm.,,0/8,-,-,-,-,28.0,-,Clear
+BAM,15/02/2008,12Z,27.2,12%,1003.8 Hpa,300º (NW),36.0,0/8,-,-,-,-,-,-,Clear
+BAM,15/02/2008,09Z,27.0,12%,1005.8 Hpa,120º (SE),21.6,3/8,2/8 SC,-,CI,-,-,-,Scattered clouds
+BAM,15/02/2008,06Z,22.2,26%,1009.9 Hpa,240º (SW),10.8,4/8,-,-,CI,-,-,-,Scattered clouds
+BAM,15/02/2008,03Z,14.6,41%,1008.9 Hpa,300º (NW),14.4,0/8,-,-,-,-,-,12.6,Clear
+BANDAR LENGEH,15/02/2008,21Z,19.2,54%,1015.4 Hpa,260º (W ),10.8,0/8,-,-,-,-,-,-,"Clear, haze"
+BANDAR LENGEH,15/02/2008,18Z,20.2,57%,1015.7 Hpa,030º (NE),14.4,0/8,-,-,-,-,-,-,"Clear, haze"
+BANDAR LENGEH,15/02/2008,15Z,22.2,67%,1015.0 Hpa,calm.,,0/8,-,-,-,-,26.6,-,"Clear, haze"
+BANDAR LENGEH,15/02/2008,12Z,26.4,32%,1014.8 Hpa,180º (S ),7.2,0/8,-,-,-,-,-,-,"Clear, haze"
+BANDAR LENGEH,15/02/2008,09Z,23.2,52%,1016.7 Hpa,110º (E ),18.0,0/8,-,-,-,-,-,-,"Clear, haze"
+BANDAR LENGEH,15/02/2008,06Z,21.0,61%,1017.3 Hpa,100º (E ),21.6,0/8,-,-,-,-,-,-,"Clear, haze"
+BANDAR LENGEH,15/02/2008,03Z,15.6,76%,1015.0 Hpa,070º (E ),14.4,0/8,-,-,-,-,-,15.0,"Clear, haze"
+BANDAR LENGEH,15/02/2008,00Z,16.8,70%,1014.6 Hpa,010º (N),10.8,0/8,-,-,-,-,-,-,"Clear, haze"
+BANDAR-E-DAYYER,15/02/2008,21Z,17.6,48%,-,320º (NW),32.4,0/8,-,-,-,-,-,-,Clear
+BANDAR-E-DAYYER,15/02/2008,18Z,20.0,64%,-,320º (NW),21.6,0/8,-,-,-,-,-,-,Clear
+BANDAR-E-DAYYER,15/02/2008,15Z,21.2,85%,-,calm.,,5/8,-,-,-,-,-,-,Cloudy
+BANDAR-E-DAYYER,15/02/2008,12Z,22.8,66%,-,150º (SE),32.4,6/8,-,-,-,-,-,-,Cloudy
+BANDAR-E-DAYYER,15/02/2008,09Z,23.0,68%,-,140º (SE),25.2,7/8,-,-,-,-,-,-,Cloudy
+BANDAR-E-DAYYER,15/02/2008,06Z,22.4,53%,-,140º (SE),32.4,2/8,-,-,-,-,-,-,Few clouds
+BANDAR-E-DAYYER,15/02/2008,03Z,17.0,66%,-,calm.,,4/8,-,-,-,-,-,-,Scattered clouds
+BANDAR-E-DAYYER,15/02/2008,00Z,16.4,57%,-,320º (NW),36.0,0/8,-,-,-,-,-,-,Clear
+BANDARABBASS,15/02/2008,21Z,17.4,76%,1015.7 Hpa,340º (N ),10.8,0/8,-,-,-,-,-,-,Clear
+BANDARABBASS,15/02/2008,18Z,19.2,80%,1015.8 Hpa,190º (S ),7.2,0/8,-,-,-,-,-,-,Clear
+BANDARABBASS,15/02/2008,15Z,22.2,64%,1014.6 Hpa,180º (S ),10.8,1/8,-,-,CI,-,27.0,-,"Few clouds, haze"
+BANDARABBASS,15/02/2008,12Z,26.4,37%,1014.0 Hpa,140º (SE),18.0,0/8,-,-,-,-,-,-,Clear
+BANDARABBASS,15/02/2008,09Z,26.6,39%,1016.4 Hpa,120º (SE),10.8,0/8,-,-,-,-,-,-,"Clear, haze"
+BANDARABBASS,15/02/2008,06Z,21.8,75%,1017.6 Hpa,020º (N),7.2,0/8,-,-,-,-,-,-,"Clear, haze"
+BANDARABBASS,15/02/2008,03Z,15.0,91%,1016.1 Hpa,310º (NW),7.2,1/8,-,-,CI,-,-,14.8,"Few clouds, mist"
+BANDARABBASS,15/02/2008,00Z,15.4,86%,1015.4 Hpa,320º (NW),7.2,2/8,1/8 SC,-,CI,-,-,-,"Few clouds, mist"
+BIRJAND,15/02/2008,21Z,15.8,28%,1006.0 Hpa,230º (SW),36.0,6/8,4/8 CB,AC,-,-,-,-,Cloudy
+BIRJAND,15/02/2008,18Z,10.6,51%,1009.1 Hpa,050º (NE),18.0,8/8,3/8 SC,AC,,-,-,-,Overcast
+BIRJAND,15/02/2008,15Z,11.6,56%,1010.6 Hpa,120º (SE),14.4,8/8,3/8 SC,AC,,-,13.2,-,Overcast
+BIRJAND,15/02/2008,12Z,12.2,51%,1012.9 Hpa,030º (NE),7.2,4/8,3/8 SC,AC,CI,Tr(6h),-,-,Scattered clouds
+BIRJAND,15/02/2008,09Z,10.4,54%,1016.5 Hpa,Vble.,,8/8,5/8 CB,AC,,-,-,-,"Overcast, rain"
+BIRJAND,15/02/2008,06Z,8.2,59%,1017.5 Hpa,calm.,,8/8,5/8 CB,AC,,-,-,-,Overcast
+BIRJAND,15/02/2008,03Z,5.2,70%,1014.5 Hpa,calm.,,6/8,6/8 CB,-,-,-,-,2.0,Cloudy
+BIRJAND,15/02/2008,00Z,2.8,68%,1012.9 Hpa,050º (NE),7.2,0/8,-,-,-,-,-,-,Clear
+BOJNOURD,15/02/2008,21Z,0.2,100%,1013.8 Hpa,270º (W ),36.0,8/8,4/8 ST,AC,,-,-,-,"Overcast, mist"
+BOJNOURD,15/02/2008,18Z,3.2,71%,1013.8 Hpa,calm.,,8/8,-,8/8 AC,,-,-,-,Overcast
+BOJNOURD,15/02/2008,15Z,6.0,54%,1014.0 Hpa,110º (E ),14.4,8/8,2/8 ST,AC,,-,9.2,-,Overcast
+BOJNOURD,15/02/2008,12Z,8.0,49%,1013.1 Hpa,110º (E ),10.8,7/8,1/8 CU,-,CI,-,-,-,Cloudy
+BOJNOURD,15/02/2008,09Z,7.4,55%,1015.6 Hpa,360º (N ),14.4,5/8,2/8 SC,AC,CI,-,-,-,Cloudy
+BOJNOURD,15/02/2008,06Z,1.4,80%,1019.2 Hpa,calm.,,1/8,1/8 ST,-,-,-,-,-,"Few clouds, mist"
+BOJNOURD,15/02/2008,03Z,-2.2,84%,1019.5 Hpa,calm.,,4/8,-,4/8 AC,-,-,-,-3.0,Scattered clouds
+BOJNOURD,15/02/2008,00Z,-6.6,88%,1030.5 Hpa,290º (W ),18.0,6/8,3/8 ST,AC,-,-,-,-,Cloudy
+BUSHEHR,15/02/2008,21Z,16.4,71%,1020.0 Hpa,340º (N ),18.0,0/8,-,-,-,-,-,-,"Clear, dust"
+BUSHEHR,15/02/2008,18Z,17.2,218%,1019.5 Hpa,300º (NW),18.0,4/8,-,6/8 AC,-,-,-,-,"Scattered clouds, dust"
+BUSHEHR,15/02/2008,15Z,17.6,75%,1017.9 Hpa,280º (W ),10.8,7/8,4/8 SC,AC,-,-,21.0,-,"Cloudy, dust"
+BUSHEHR,15/02/2008,12Z,18.4,353%,1015.3 Hpa,220º (SW),28.8,8/8,5/8 CB,AC,,-,-,-,"Overcast, mist"
+BUSHEHR,15/02/2008,09Z,20.0,70%,1013.6 Hpa,180º (S ),46.8,8/8,4/8 ST,AC,,-,-,-,"Overcast, dust"
+BUSHEHR,15/02/2008,06Z,19.4,330%,1013.2 Hpa,180º (S ),43.2,8/8,4/8 SC,AC,,-,-,-,Overcast
+BUSHEHR,15/02/2008,03Z,18.4,71%,1012.4 Hpa,230º (SW),7.2,6/8,6/8 SC,-,-,-,-,15.4,Cloudy
+BUSHEHR,15/02/2008,00Z,15.4,34%,1013.5 Hpa,calm.,,6/8,6/8 SC,-,-,-,-,-,Cloudy
+BUSHEHR (AIRPORT),15/02/2008,21Z,16.6,73%,-,340º (N ),25.2,6/8,-,-,-,-,-,-,Cloudy
+BUSHEHR (AIRPORT),15/02/2008,18Z,17.2,71%,1019.1 Hpa,330º (NW),21.6,7/8,2/8 SC,AC,-,-,-,-,"Cloudy, dust"
+BUSHEHR (AIRPORT),15/02/2008,15Z,17.8,63%,-,300º (NW),7.2,7/8,-,-,-,-,-,-,Cloudy
+BUSHEHR (AIRPORT),15/02/2008,12Z,19.2,79%,-,220º (SW),25.2,8/8,-,-,-,-,-,-,Overcast
+BUSHEHR (AIRPORT),15/02/2008,09Z,22.4,58%,-,190º (S ),36.0,7/8,-,-,-,-,-,-,Cloudy
+BUSHEHR (AIRPORT),15/02/2008,06Z,21.2,49%,-,180º (S ),36.0,8/8,-,-,-,-,-,-,Overcast
+BUSHEHR (AIRPORT),15/02/2008,03Z,18.4,60%,-,160º (S ),7.2,6/8,-,-,-,-,-,-,Cloudy
+BUSHEHR (AIRPORT),15/02/2008,00Z,15.6,72%,1019.6 Hpa,340º (N ),25.2,6/8,1/8 SC,AC,-,-,-,-,"Cloudy, dust"
+CHAHBAHAR,15/02/2008,21Z,20.7,88%,1017.0 Hpa,calm.,,4/8,4/8 ST,-,-,-,-,-,"Scattered clouds, mist"
+CHAHBAHAR,15/02/2008,18Z,21.5,91%,1017.1 Hpa,calm.,,6/8,6/8 ST,-,-,-,-,-,"Cloudy, mist"
+CHAHBAHAR,15/02/2008,15Z,22.4,90%,1016.1 Hpa,calm.,,4/8,0/8 CU,AC,-,-,80.1,-,Scattered clouds
+CHAHBAHAR,15/02/2008,09Z,24.4,77%,1016.3 Hpa,180º (S ),7.2,0/8,0/8 CU,-,CI,-,70.1,-,Clear
+CHAHBAHAR,15/02/2008,03Z,18.5,92%,1016.6 Hpa,calm.,,0/8,0/8 CU,AC,CS,-,70.1,-,"Clear, mist"
+CHAHBAHAR,15/02/2008,00Z,19.7,91%,1015.6 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+ESFAHAN,15/02/2008,21Z,7.8,36%,1011.0 Hpa,300º (NW),25.2,0/8,-,-,-,-,-,-,Clear
+ESFAHAN,15/02/2008,18Z,10.0,33%,1010.3 Hpa,240º (SW),18.0,0/8,-,-,-,-,-,-,Clear
+ESFAHAN,15/02/2008,15Z,11.2,40%,1006.8 Hpa,180º (S ),21.6,3/8,3/8 CU,-,-,-,13.8,-,Scattered clouds
+ESFAHAN,15/02/2008,12Z,13.8,43%,1003.0 Hpa,280º (W ),25.2,5/8,2/8 CU,AC,-,Tr(6h),-,-,Cloudy
+ESFAHAN,15/02/2008,09Z,10.8,55%,1006.9 Hpa,120º (SE),14.4,7/8,3/8 CB,AC,CI,-,-,-,"Cloudy, rain"
+ESFAHAN,15/02/2008,06Z,4.4,70%,1013.5 Hpa,calm.,,4/8,2/8 CB,AC,-,0.4(6h),-,-,"Scattered clouds, rain and snow"
+ESFAHAN,15/02/2008,03Z,5.2,61%,1012.7 Hpa,calm.,,8/8,2/8 SC,AC,-,-,-,4.0,Overcast
+ESFAHAN,15/02/2008,00Z,5.6,43%,1011.2 Hpa,280º (W ),7.2,0/8,-,-,-,-,-,-,Clear
+FASA,15/02/2008,21Z,11.4,64%,1012.0 Hpa,210º (SW),10.8,0/8,-,-,-,-,-,-,Clear
+FASA,15/02/2008,18Z,13.6,51%,1013.0 Hpa,190º (S ),10.8,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+FASA,15/02/2008,15Z,15.8,44%,1012.2 Hpa,220º (SW),7.2,3/8,2/8 SC,-,CI,-,20.0,-,Scattered clouds
+FASA,15/02/2008,12Z,18.0,41%,1010.1 Hpa,220º (SW),32.4,5/8,4/8 CB,-,CI,-,-,-,Cloudy
+FASA,15/02/2008,09Z,20.0,34%,1010.8 Hpa,230º (SW),43.2,3/8,3/8 CB,-,-,-,-,-,Scattered clouds
+FASA,15/02/2008,06Z,16.0,42%,1013.4 Hpa,140º (SE),14.4,5/8,2/8 SC,-,CI,-,-,-,Cloudy
+FASA,15/02/2008,03Z,8.6,67%,1013.4 Hpa,150º (SE),10.8,5/8,2/8 SC,-,CI,-,-,8.4,Cloudy
+FASA,15/02/2008,00Z,10.8,58%,1010.9 Hpa,080º (E ),10.8,0/8,-,-,-,-,-,-,Clear
+FERDOUS,15/02/2008,21Z,3.0,78%,1012.3 Hpa,calm.,,1/8,1/8 SC,-,-,-,-,-,Few clouds
+FERDOUS,15/02/2008,18Z,6.0,81%,1012.3 Hpa,270º (W ),7.2,5/8,3/8 SC,AC,-,0.9(6h),-,-,Cloudy
+FERDOUS,15/02/2008,15Z,7.2,73%,1014.9 Hpa,calm.,,6/8,3/8 SC,AC,-,-,11.6,-,Cloudy
+FERDOUS,15/02/2008,12Z,10.4,58%,1015.4 Hpa,190º (S ),21.6,8/8,3/8 SC,AC,,Tr(6h),-,-,"Overcast, rain"
+FERDOUS,15/02/2008,09Z,10.2,37%,1017.2 Hpa,100º (E ),10.8,6/8,2/8 SC,AC,-,-,-,-,Cloudy
+FERDOUS,15/02/2008,06Z,6.6,57%,1018.9 Hpa,calm.,,5/8,-,1/8 AC,CI,-,-,-,Cloudy
+FERDOUS,15/02/2008,03Z,0.0,77%,1018.4 Hpa,calm.,,2/8,-,-,CI,-,-,0.0,Few clouds
+FERDOUS,15/02/2008,00Z,3.0,76%,1014.6 Hpa,030º (NE),7.2,0/8,-,-,-,-,-,-,Clear
+GACH SARAN DU GUNBADAN,15/02/2008,21Z,11.2,71%,1015.6 Hpa,calm.,,6/8,-,6/8 AC,-,-,-,-,"Cloudy, haze"
+GACH SARAN DU GUNBADAN,15/02/2008,18Z,11.8,69%,1015.1 Hpa,270º (W ),7.2,7/8,3/8 CU,AC,-,-,-,-,"Cloudy, haze"
+GACH SARAN DU GUNBADAN,15/02/2008,15Z,13.8,78%,1012.4 Hpa,180º (S ),10.8,6/8,3/8 SC,AC,-,-,17.6,-,Cloudy
+GACH SARAN DU GUNBADAN,15/02/2008,12Z,16.2,70%,1011.2 Hpa,180º (S ),28.8,8/8,5/8 CB,AC,,-,-,-,Overcast
+GACH SARAN DU GUNBADAN,15/02/2008,09Z,17.2,55%,1012.1 Hpa,090º (E ),7.2,8/8,5/8 CB,AC,,-,-,-,Overcast
+GACH SARAN DU GUNBADAN,15/02/2008,06Z,14.0,46%,1011.9 Hpa,120º (SE),14.4,8/8,5/8 CB,AC,,-,-,-,Overcast
+GACH SARAN DU GUNBADAN,15/02/2008,03Z,13.0,56%,1010.5 Hpa,100º (E ),10.8,8/8,4/8 CB,AC,,-,-,13.0,Overcast
+GACH SARAN DU GUNBADAN,15/02/2008,00Z,13.4,57%,1010.8 Hpa,120º (SE),7.2,8/8,4/8 CB,AC,,-,-,-,Overcast
+GHARAKHIL,15/02/2008,21Z,5.0,94%,1021.5 Hpa,180º (S ),10.8,8/8,5/8 ST,AC,,-,-,-,"Overcast, rain"
+GHARAKHIL,15/02/2008,18Z,5.4,93%,1019.7 Hpa,260º (W ),28.8,8/8,5/8 ST,AC,,0.8(6h),-,-,"Overcast, rain"
+GHARAKHIL,15/02/2008,15Z,5.8,96%,1017.1 Hpa,260º (W ),10.8,8/8,6/8 ST,AC,,-,7.0,-,"Overcast, drizzle"
+GHARAKHIL,15/02/2008,12Z,7.0,79%,1012.9 Hpa,210º (SW),3.6,8/8,4/8 ST,AC,,-,-,-,"Overcast, mist"
+GHARAKHIL,15/02/2008,09Z,7.0,76%,1013.5 Hpa,calm.,,8/8,4/8 ST,AC,CI,-,-,-,"Overcast, haze"
+GHARAKHIL,15/02/2008,06Z,6.2,90%,1015.0 Hpa,calm.,,8/8,4/8 ST,AC,,-,-,-,"Overcast, mist"
+GHARAKHIL,15/02/2008,03Z,5.4,93%,1015.5 Hpa,calm.,,8/8,4/8 ST,AC,,-,-,5.0,Overcast
+GHARAKHIL,15/02/2008,00Z,5.4,93%,1015.6 Hpa,250º (W ),7.2,8/8,3/8 SC,AC,,-,-,-,Overcast
+GHAZVIN,15/02/2008,21Z,0.2,90%,1019.0 Hpa,calm.,,8/8,5/8 ST,AC,,-,-,-,"Overcast, mist"
+GHAZVIN,15/02/2008,18Z,0.2,92%,1018.8 Hpa,calm.,,8/8,5/8 ST,AC,,3.0(6h),-,-,"Overcast, mist"
+GHAZVIN,15/02/2008,15Z,0.2,92%,1016.9 Hpa,calm.,,8/8,5/8 ST,AC,,-,1.8,-,"Overcast, snow"
+GHAZVIN,15/02/2008,12Z,0.4,95%,1014.7 Hpa,130º (SE),21.6,8/8,5/8 ST,AC,,2.0(6h),-,-,"Overcast, rain and snow"
+GHAZVIN,15/02/2008,09Z,1.2,93%,1015.3 Hpa,120º (SE),21.6,8/8,4/8 ST,AC,,-,-,-,"Overcast, rain"
+GHAZVIN,15/02/2008,06Z,-2.2,94%,1017.9 Hpa,calm.,,8/8,4/8 ST,AC,,-,-,-,"Overcast, mist"
+GHAZVIN,15/02/2008,03Z,-4.8,97%,1017.7 Hpa,calm.,,8/8,8/8 ST,,,-,-,-5.0,"Overcast, drizzle"
+GHAZVIN,15/02/2008,00Z,-3.0,94%,1017.6 Hpa,calm.,,6/8,2/8 SC,AC,-,-,-,-,"Cloudy, mist"
+GHUCHAN,15/02/2008,21Z,0.0,87%,1009.9 Hpa,calm.,,6/8,6/8 SC,-,-,-,-,-,Cloudy
+GHUCHAN,15/02/2008,18Z,1.8,85%,1012.4 Hpa,calm.,,7/8,5/8 SC,AC,-,-,-,-,Cloudy
+GHUCHAN,15/02/2008,15Z,2.6,70%,1012.0 Hpa,090º (E ),14.4,6/8,3/8 ST,AC,-,-,8.6,-,Cloudy
+GHUCHAN,15/02/2008,12Z,5.0,61%,1012.8 Hpa,150º (SE),18.0,4/8,2/8 ST,AC,-,-,-,-,Scattered clouds
+GHUCHAN,15/02/2008,09Z,6.0,59%,1013.7 Hpa,120º (SE),10.8,0/8,-,-,-,-,-,-,Clear
+GHUCHAN,15/02/2008,06Z,-2.4,92%,1016.7 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+GHUCHAN,15/02/2008,03Z,-3.4,94%,1016.6 Hpa,calm.,,4/8,4/8 SC,-,-,-,-,-5.0,Scattered clouds
+GHUCHAN,15/02/2008,00Z,-3.4,94%,1016.5 Hpa,090º (E ),7.2,0/8,-,-,-,-,-,-,Clear
+HAMEDAN,15/02/2008,21Z,-5.1,76%,1021.1 Hpa,090º (E ),14.4,2/8,2/8 SC,-,-,-,-,-,Few clouds
+HAMEDAN,15/02/2008,18Z,-3.1,83%,1020.5 Hpa,calm.,,4/8,4/8 SC,-,-,0.6(6h),-,-,Scattered clouds
+HAMEDAN,15/02/2008,15Z,-0.8,94%,1017.2 Hpa,300º (NW),10.8,6/8,6/8 CB,-,-,-,5.1,-,Cloudy
+HAMEDAN,15/02/2008,12Z,2.1,91%,1011.4 Hpa,360º (N ),18.0,8/8,5/8 CB,AC,,4.0(6h),-,-,"Overcast, snow"
+HAMEDAN,15/02/2008,09Z,2.1,84%,1010.8 Hpa,120º (SE),7.2,8/8,4/8 CB,AC,,-,-,-,"Overcast, snow"
+HAMEDAN,15/02/2008,06Z,-1.7,88%,1014.4 Hpa,calm.,,8/8,6/8 CB,AC,,0.4(6h),-,-,"Overcast, snow"
+HAMEDAN,15/02/2008,03Z,-2.6,86%,1014.9 Hpa,270º (W ),10.8,7/8,4/8 SC,AC,-,-,-,-3.0,Cloudy
+HAMEDAN,15/02/2008,00Z,2.3,57%,1013.3 Hpa,270º (W ),18.0,4/8,4/8 SC,-,-,Tr(6h),-,-,Scattered clouds
+ILAM,15/02/2008,21Z,1.0,89%,1019.8 Hpa,calm.,,6/8,3/8 SC,AC,-,-,-,-,"Cloudy, mist"
+ILAM,15/02/2008,18Z,2.0,89%,1017.4 Hpa,calm.,,7/8,3/8 ST,AC,-,1.0(6h),-,-,"Cloudy, mist"
+ILAM,15/02/2008,15Z,2.8,87%,1016.5 Hpa,240º (SW),10.8,8/8,5/8 CB,AC,,-,1.8,-,"Overcast, rain"
+ILAM,15/02/2008,12Z,3.6,90%,1013.8 Hpa,calm.,,8/8,5/8 CB,AC,,4.0(6h),-,-,"Overcast, rain"
+ILAM,15/02/2008,09Z,1.8,93%,1014.4 Hpa,360º (N ),7.2,8/8,5/8 CB,AC,,-,-,-,"Overcast, rain and snow"
+ILAM,15/02/2008,06Z,4.8,73%,1012.8 Hpa,180º (S ),14.4,8/8,5/8 CB,AC,,4.0(6h),-,-,"Overcast, rain"
+ILAM,15/02/2008,03Z,2.6,94%,1012.3 Hpa,calm.,,8/8,5/8 CB,AC,,-,-,0.8,"Overcast, rain showers"
+ILAM,15/02/2008,00Z,4.2,79%,1023.7 Hpa,110º (E ),14.4,8/8,5/8 CB,AC,,1.0(6h),-,-,Overcast
+IRANSHAHR,15/02/2008,21Z,16.0,43%,1016.7 Hpa,030º (NE),10.8,0/8,-,-,-,-,-,-,"Clear, haze"
+IRANSHAHR,15/02/2008,18Z,17.6,41%,1016.8 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, haze"
+IRANSHAHR,15/02/2008,15Z,22.7,25%,1014.1 Hpa,calm.,,0/8,-,-,-,-,27.9,-,"Clear, haze"
+IRANSHAHR,15/02/2008,12Z,27.5,20%,1012.2 Hpa,280º (W ),14.4,0/8,-,-,-,-,-,-,"Clear, haze"
+IRANSHAHR,15/02/2008,09Z,26.2,24%,1014.6 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, haze"
+IRANSHAHR,15/02/2008,06Z,20.8,35%,1018.0 Hpa,060º (NE),7.2,0/8,-,-,-,-,-,-,"Clear, haze"
+IRANSHAHR,15/02/2008,03Z,13.0,59%,1017.3 Hpa,calm.,,0/8,-,-,-,-,-,13.0,"Clear, haze"
+IRANSHAHR,15/02/2008,00Z,14.2,55%,1016.7 Hpa,030º (NE),7.2,0/8,-,-,-,-,-,-,"Clear, haze"
+JASK,15/02/2008,21Z,21.6,88%,1016.0 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, mist"
+JASK,15/02/2008,18Z,22.4,454%,1016.3 Hpa,220º (SW),14.4,0/8,-,-,-,-,-,-,Clear
+JASK,15/02/2008,15Z,23.4,74%,1014.7 Hpa,calm.,,0/8,-,-,-,-,27.0,-,Clear
+JASK,15/02/2008,12Z,25.2,620%,1014.5 Hpa,210º (SW),10.8,0/8,-,-,-,-,-,-,Clear
+JASK,15/02/2008,09Z,26.2,36%,1016.3 Hpa,260º (W ),10.8,0/8,-,-,-,-,-,-,Clear
+JASK,15/02/2008,06Z,22.4,733%,1017.3 Hpa,220º (SW),7.2,0/8,-,-,-,-,-,-,Clear
+JASK,15/02/2008,03Z,18.8,86%,1015.4 Hpa,280º (W ),7.2,0/8,-,-,-,-,-,17.8,Clear
+JASK,15/02/2008,00Z,20.4,308%,1015.0 Hpa,310º (NW),14.4,0/8,-,-,-,-,-,-,"Clear, mist"
+KAHNUJ,15/02/2008,21Z,18.2,44%,1011.5 Hpa,240º (SW),28.8,0/8,-,-,-,-,-,-,Clear
+KAHNUJ,15/02/2008,18Z,20.6,37%,1012.4 Hpa,240º (SW),28.8,0/8,-,-,-,-,-,-,Clear
+KAHNUJ,15/02/2008,15Z,23.4,30%,1011.5 Hpa,240º (SW),28.8,0/8,-,-,-,-,27.0,-,Clear
+KAHNUJ,15/02/2008,12Z,27.0,22%,1010.4 Hpa,210º (SW),28.8,0/8,-,-,-,-,-,-,Clear
+KAHNUJ,15/02/2008,09Z,25.2,30%,1012.0 Hpa,210º (SW),21.6,0/8,-,-,-,-,-,-,Clear
+KAHNUJ,15/02/2008,06Z,20.0,50%,1014.7 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KAHNUJ,15/02/2008,03Z,13.4,73%,1012.7 Hpa,calm.,,0/8,-,-,-,-,-,13.4,Clear
+KAHNUJ,15/02/2008,00Z,14.6,64%,1011.0 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KASHAN,15/02/2008,21Z,4.4,90%,1018.3 Hpa,180º (S ),10.8,5/8,5/8 SC,-,-,-,-,-,Cloudy
+KASHAN,15/02/2008,18Z,4.6,90%,1016.9 Hpa,calm.,,6/8,3/8 SC,AC,-,2.0(6h),-,-,Cloudy
+KASHAN,15/02/2008,15Z,5.8,91%,1015.1 Hpa,270º (W ),10.8,8/8,4/8 SC,AC,,-,11.0,-,"Overcast, rain"
+KASHAN,15/02/2008,12Z,5.2,91%,1013.9 Hpa,calm.,,8/8,4/8 SC,AC,,0.1(6h),-,-,"Overcast, rain"
+KASHAN,15/02/2008,09Z,8.2,71%,1013.9 Hpa,calm.,,8/8,3/8 SC,AC,,-,-,-,Overcast
+KASHAN,15/02/2008,06Z,3.4,83%,1017.6 Hpa,calm.,,7/8,3/8 SC,AC,-,-,-,-,Cloudy
+KASHAN,15/02/2008,03Z,0.8,85%,1016.9 Hpa,calm.,,3/8,-,3/8 AC,-,-,-,0.0,Scattered clouds
+KASHAN,15/02/2008,00Z,1.4,82%,1016.9 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KASHMAR,15/02/2008,21Z,6.0,91%,1009.5 Hpa,calm.,,7/8,3/8 CB,AC,CI,-,-,-,"Cloudy, thunderstorms"
+KASHMAR,15/02/2008,18Z,6.0,91%,1011.8 Hpa,calm.,,8/8,4/8 ST,AC,,6.0(6h),-,-,"Overcast, rain"
+KASHMAR,15/02/2008,15Z,6.4,85%,1014.9 Hpa,120º (SE),10.8,8/8,4/8 SC,AC,,-,11.4,-,"Overcast, rain"
+KASHMAR,15/02/2008,12Z,9.4,68%,1014.7 Hpa,110º (E ),7.2,5/8,3/8 SC,-,CI,-,-,-,Cloudy
+KASHMAR,15/02/2008,09Z,11.2,46%,1015.3 Hpa,calm.,,4/8,1/8 SC,-,CI,801.0(6h),-,-,Scattered clouds
+KASHMAR,15/02/2008,06Z,9.8,47%,1017.1 Hpa,calm.,,3/8,1/8 ST,AC,CI,-,-,-,Scattered clouds
+KASHMAR,15/02/2008,03Z,2.6,79%,1017.7 Hpa,calm.,,4/8,1/8 SC,-,CI,-,-,1.6,Scattered clouds
+KASHMAR,15/02/2008,00Z,2.8,77%,1016.7 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KERMAN,15/02/2008,21Z,12.2,31%,1008.6 Hpa,250º (W ),28.8,1/8,-,1/8 AC,-,-,-,-,Few clouds
+KERMAN,15/02/2008,18Z,13.4,32%,1009.8 Hpa,260º (W ),28.8,2/8,-,-,CI,-,-,-,Few clouds
+KERMAN,15/02/2008,15Z,15.4,28%,1010.6 Hpa,240º (SW),36.0,3/8,-,1/8 AC,CI,-,19.6,-,Scattered clouds
+KERMAN,15/02/2008,12Z,18.4,19%,1008.4 Hpa,240º (SW),54.0,6/8,2/8 SC,AC,CI,-,-,-,"Cloudy, dust"
+KERMAN,15/02/2008,09Z,19.2,21%,1009.8 Hpa,240º (SW),43.2,6/8,-,2/8 AC,CI,-,-,-,Cloudy
+KERMAN,15/02/2008,06Z,14.4,32%,1013.7 Hpa,220º (SW),14.4,6/8,-,1/8 AC,CI,-,-,-,Cloudy
+KERMAN,15/02/2008,03Z,7.6,50%,1012.8 Hpa,calm.,,4/8,-,4/8 AC,CI,-,-,5.4,Scattered clouds
+KERMAN,15/02/2008,00Z,6.8,41%,1011.7 Hpa,calm.,,3/8,-,3/8 AC,-,-,-,-,Scattered clouds
+KERMANSHAH,15/02/2008,21Z,0.2,92%,1019.2 Hpa,310º (NW),7.2,0/8,-,-,-,-,-,-,Clear
+KERMANSHAH,15/02/2008,18Z,1.3,99%,1017.1 Hpa,290º (W ),18.0,2/8,2/8 SC,-,-,1.0(6h),-,-,Few clouds
+KERMANSHAH,15/02/2008,15Z,3.7,84%,1014.9 Hpa,calm.,,7/8,4/8 CB,AC,-,-,7.1,-,Cloudy
+KERMANSHAH,15/02/2008,12Z,3.9,86%,1013.2 Hpa,290º (W ),10.8,8/8,4/8 CB,AC,,3.0(6h),-,-,Overcast
+KERMANSHAH,15/02/2008,09Z,7.0,67%,1012.2 Hpa,220º (SW),32.4,7/8,3/8 SC,AC,-,-,-,-,Cloudy
+KERMANSHAH,15/02/2008,06Z,3.0,99%,1013.6 Hpa,090º (E ),10.8,8/8,4/8 CB,AC,,4.0(6h),-,-,"Overcast, rain"
+KERMANSHAH,15/02/2008,03Z,3.2,89%,1013.2 Hpa,120º (SE),14.4,8/8,4/8 CB,AC,,-,-,3.2,"Overcast, rain"
+KERMANSHAH,15/02/2008,00Z,4.5,65%,1012.8 Hpa,100º (E ),21.6,4/8,4/8 CU,-,-,-,-,-,Scattered clouds
+KHARG,15/02/2008,15Z,17.6,61%,1016.5 Hpa,320º (NW),14.4,,-,-,-,-,20.4,-,dust
+KHARG,15/02/2008,12Z,18.8,55%,1013.9 Hpa,270º (W ),14.4,7/8,1/8 SC,AC,-,-,-,-,Cloudy
+KHARG,15/02/2008,09Z,20.0,75%,1013.4 Hpa,210º (SW),36.0,8/8,3/8 SC,AC,,-,-,-,"Overcast, dust"
+KHARG,15/02/2008,06Z,18.6,80%,1012.4 Hpa,170º (S ),14.4,7/8,3/8 SC,AC,-,-,-,-,Cloudy
+KHARG,15/02/2008,03Z,16.2,71%,1012.0 Hpa,150º (SE),14.4,6/8,1/8 SC,AC,-,-,-,15.0,Cloudy
+KHOR,15/02/2008,21Z,6.6,85%,1013.0 Hpa,310º (NW),21.6,1/8,1/8 SC,-,-,-,-,-,Few clouds
+KHOR,15/02/2008,18Z,9.2,67%,1010.7 Hpa,290º (W ),7.2,2/8,2/8 SC,-,-,0.2(6h),-,-,Few clouds
+KHOR,15/02/2008,15Z,11.0,69%,1009.3 Hpa,calm.,,7/8,6/8 CB,AC,-,-,14.6,-,"Cloudy, rain showers"
+KHOR,15/02/2008,12Z,14.0,58%,1008.4 Hpa,calm.,,7/8,5/8 CB,AC,-,-,-,-,Cloudy
+KHOR,15/02/2008,09Z,13.0,37%,1012.8 Hpa,170º (S ),7.2,8/8,4/8 CB,AC,,-,-,-,Overcast
+KHOR,15/02/2008,06Z,7.0,64%,1016.7 Hpa,calm.,,6/8,2/8 SC,-,CI,-,-,-,Cloudy
+KHOR,15/02/2008,03Z,4.2,70%,1014.8 Hpa,calm.,,4/8,1/8 CU,-,CI,-,-,1.8,Scattered clouds
+KHOR,15/02/2008,00Z,4.4,69%,1014.0 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KHORRAM ABAD,15/02/2008,21Z,5.2,76%,1017.8 Hpa,010º (N),7.2,5/8,4/8 CB,AC,-,-,-,-,Cloudy
+KHORRAM ABAD,15/02/2008,18Z,5.6,85%,1016.4 Hpa,250º (W ),7.2,7/8,5/8 CB,AC,-,0.3(6h),-,-,Cloudy
+KHORRAM ABAD,15/02/2008,15Z,6.2,82%,1014.5 Hpa,240º (SW),14.4,7/8,5/8 CB,AC,-,-,11.2,-,"Cloudy, rain showers"
+KHORRAM ABAD,15/02/2008,12Z,7.8,71%,1011.9 Hpa,260º (W ),10.8,8/8,5/8 CB,AC,,0.2(6h),-,-,Overcast
+KHORRAM ABAD,15/02/2008,09Z,8.8,58%,1011.3 Hpa,240º (SW),18.0,7/8,5/8 CB,AC,-,-,-,-,Cloudy
+KHORRAM ABAD,15/02/2008,06Z,5.0,91%,1013.8 Hpa,260º (W ),7.2,8/8,5/8 CB,AC,,0.9(6h),-,-,"Overcast, rain"
+KHORRAM ABAD,15/02/2008,03Z,4.0,72%,1013.3 Hpa,030º (NE),10.8,8/8,5/8 CB,AC,,-,-,-,"Overcast, rain showers"
+KHORRAM ABAD,15/02/2008,00Z,4.2,63%,1013.4 Hpa,150º (SE),10.8,5/8,5/8 SC,-,-,-,-,-,Cloudy
+KHOY,15/02/2008,21Z,-12.6,79%,1025.6 Hpa,170º (S ),14.4,0/8,-,-,-,-,-,-,Clear
+KHOY,15/02/2008,18Z,-8.0,68%,1023.6 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KHOY,15/02/2008,15Z,-3.8,55%,1021.4 Hpa,calm.,,6/8,2/8 SC,AC,-,-,-1.4,-,Cloudy
+KHOY,15/02/2008,12Z,-1.6,62%,1018.6 Hpa,030º (NE),18.0,6/8,4/8 ST,AC,-,0.8(6h),-,-,"Cloudy, haze"
+KHOY,15/02/2008,09Z,-3.0,84%,1018.0 Hpa,060º (NE),21.6,8/8,6/8 ST,AC,,-,-,-,"Overcast, snow"
+KHOY,15/02/2008,06Z,-3.4,83%,1016.3 Hpa,030º (NE),7.2,8/8,6/8 ST,AC,,-,-,-,"Overcast, mist"
+KHOY,15/02/2008,03Z,-4.8,85%,1015.7 Hpa,calm.,,8/8,4/8 SC,AC,,-,-,-5.0,"Overcast, mist"
+KHOY,15/02/2008,00Z,-3.6,82%,1016.7 Hpa,calm.,,8/8,3/8 SC,AC,,-,-,-,"Overcast, mist"
+KISH ISLAND,15/02/2008,21Z,18.6,86%,1015.2 Hpa,300º (NW),21.6,0/8,-,-,-,-,-,-,"Clear, mist"
+KISH ISLAND,15/02/2008,18Z,19.8,82%,1015.8 Hpa,250º (W ),14.4,0/8,-,-,-,-,-,-,"Clear, mist"
+KISH ISLAND,15/02/2008,15Z,21.8,59%,1014.3 Hpa,100º (E ),10.8,1/8,-,-,CI,-,27.8,-,"Few clouds, haze"
+KISH ISLAND,15/02/2008,12Z,27.4,32%,1014.7 Hpa,230º (SW),7.2,1/8,-,-,CI,-,-,-,"Few clouds, haze"
+KISH ISLAND,15/02/2008,09Z,24.8,39%,1016.0 Hpa,090º (E ),18.0,0/8,-,-,-,-,-,-,"Clear, haze"
+KISH ISLAND,15/02/2008,06Z,22.0,64%,1016.6 Hpa,090º (E ),14.4,1/8,-,-,CI,-,-,-,"Few clouds, haze"
+KISH ISLAND,15/02/2008,03Z,17.8,92%,1014.5 Hpa,070º (E ),10.8,0/8,-,-,-,-,-,17.4,"Clear, mist"
+KISH ISLAND,15/02/2008,00Z,18.2,93%,1014.2 Hpa,080º (E ),7.2,0/8,-,-,-,-,-,-,"Clear, mist"
+KONARAK,15/02/2008,21Z,16.6,98%,-,calm.,,0/8,-,-,-,-,-,-,Clear
+KONARAK,15/02/2008,18Z,19.4,96%,1016.6 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KONARAK,15/02/2008,15Z,26.6,65%,1015.7 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KONARAK,15/02/2008,09Z,25.0,68%,1016.0 Hpa,130º (SE),10.8,0/8,-,-,-,-,-,-,Clear
+KONARAK,15/02/2008,06Z,23.0,68%,1017.4 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KONARAK,15/02/2008,03Z,14.0,90%,1016.1 Hpa,calm.,,0/8,-,-,-,-,-,12.8,Clear
+KONARAK,15/02/2008,00Z,,,1015.0 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+MAKKO,15/02/2008,21Z,-10.4,48%,1024.5 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+MAKKO,15/02/2008,18Z,-8.6,48%,1024.1 Hpa,260º (W ),10.8,0/8,-,-,-,-,-,-,Clear
+MAKKO,15/02/2008,15Z,-5.8,48%,1022.1 Hpa,calm.,,0/8,-,-,-,-,0.5,-,Clear
+MAKKO,15/02/2008,12Z,-1.0,44%,1019.4 Hpa,330º (NW),25.2,3/8,3/8 ST,-,-,-,-,-,"Scattered clouds, haze"
+MAKKO,15/02/2008,09Z,-3.2,52%,1019.3 Hpa,310º (NW),21.6,4/8,4/8 ST,-,-,-,-,-,"Scattered clouds, haze"
+MAKKO,15/02/2008,06Z,-5.8,94%,1019.1 Hpa,calm.,,8/8,8/8 CB,,,0.4(6h),-,-,"Overcast, mist"
+MAKKO,15/02/2008,03Z,-6.6,93%,1018.1 Hpa,calm.,,8/8,8/8 CB,,,-,-,-8.6,"Overcast, mist"
+MAKKO,15/02/2008,00Z,-7.6,92%,1018.0 Hpa,calm.,,8/8,0/8 CB,,,0.2(6h),-,-,"Overcast, mist"
+MARAGHEH,15/02/2008,21Z,-2.6,81%,1020.4 Hpa,090º (E ),7.2,8/8,3/8 SC,AC,,-,-,-,"Overcast, mist"
+MARAGHEH,15/02/2008,18Z,-1.4,75%,1018.5 Hpa,280º (W ),10.8,8/8,3/8 SC,AC,,-,-,-,"Overcast, haze"
+MARAGHEH,15/02/2008,15Z,-0.2,85%,1015.7 Hpa,220º (SW),7.2,8/8,3/8 SC,AC,,-,1.4,-,"Overcast, mist"
+MARAGHEH,15/02/2008,12Z,0.6,89%,1013.0 Hpa,300º (NW),10.8,8/8,3/8 SC,AC,,0.8(6h),-,-,"Overcast, mist"
+MARAGHEH,15/02/2008,09Z,-0.2,92%,1012.3 Hpa,290º (W ),10.8,8/8,6/8 ST,AC,,-,-,-,"Overcast, snow"
+MARAGHEH,15/02/2008,06Z,1.0,93%,1012.4 Hpa,160º (S ),7.2,8/8,3/8 ST,AC,,0.7(6h),-,-,"Overcast, snow"
+MARAGHEH,15/02/2008,03Z,0.2,82%,1012.7 Hpa,070º (E ),10.8,5/8,1/8 SC,AC,CI,-,-,-1.6,"Cloudy, haze"
+MARAGHEH,15/02/2008,00Z,0.6,79%,1013.8 Hpa,110º (E ),7.2,6/8,1/8 SC,AC,CI,-,-,-,"Cloudy, mist"
+MARAVEH-TAPPEH,15/02/2008,21Z,2.6,86%,1018.7 Hpa,210º (SW),25.2,8/8,3/8 ST,AC,,-,-,-,"Overcast, rain"
+MARAVEH-TAPPEH,15/02/2008,18Z,3.8,86%,1017.6 Hpa,230º (SW),32.4,8/8,3/8 ST,AC,,Tr(6h),-,-,"Overcast, rain"
+MARAVEH-TAPPEH,15/02/2008,15Z,6.4,82%,1014.3 Hpa,200º (S ),32.4,5/8,2/8 ST,-,CS,-,15.0,-,Cloudy
+MARAVEH-TAPPEH,15/02/2008,12Z,13.4,54%,1010.7 Hpa,300º (NW),14.4,8/8,-,-,CS,-,-,-,Overcast
+MARAVEH-TAPPEH,15/02/2008,09Z,14.4,40%,1012.7 Hpa,160º (S ),36.0,2/8,-,-,CI,-,-,-,Few clouds
+MARAVEH-TAPPEH,15/02/2008,06Z,6.8,60%,1015.9 Hpa,090º (E ),14.4,2/8,-,-,CI,-,-,-,Few clouds
+MARAVEH-TAPPEH,15/02/2008,03Z,1.8,85%,1016.9 Hpa,180º (S ),7.2,1/8,-,-,CI,-,-,0.4,Few clouds
+MARAVEH-TAPPEH,15/02/2008,00Z,1.2,89%,1016.5 Hpa,050º (NE),7.2,0/8,-,-,-,-,-,-,Clear
+MASHHAD,15/02/2008,21Z,2.4,93%,1012.9 Hpa,350º (N ),7.2,8/8,2/8 ST,AC,,-,-,-,"Overcast, rain"
+MASHHAD,15/02/2008,18Z,4.0,77%,1014.5 Hpa,100º (E ),7.2,8/8,1/8 CU,AC,,-,-,-,"Overcast, haze"
+MASHHAD,15/02/2008,15Z,5.4,73%,1015.5 Hpa,calm.,,3/8,-,-,CI,-,8.6,-,"Scattered clouds, haze"
+MASHHAD,15/02/2008,12Z,7.8,58%,1015.3 Hpa,170º (S ),7.2,5/8,-,-,CS,-,-,-,Cloudy
+MASHHAD,15/02/2008,09Z,7.4,72%,1016.8 Hpa,080º (E ),7.2,2/8,-,1/8 AC,CI,-,-,-,Few clouds
+MASHHAD,15/02/2008,06Z,1.6,93%,1020.0 Hpa,calm.,,3/8,-,-,CI,-,-,-,"Scattered clouds, mist"
+MASHHAD,15/02/2008,03Z,-2.4,97%,1020.3 Hpa,calm.,,,-,-,-,-,-,-3.6,fog
+MASHHAD,15/02/2008,00Z,-2.8,92%,1019.9 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, mist"
+MASJED-SOLEYMAN,15/02/2008,21Z,10.8,65%,1018.8 Hpa,calm.,,2/8,-,2/8 AC,-,-,-,-,Few clouds
+MASJED-SOLEYMAN,15/02/2008,18Z,12.8,57%,1016.8 Hpa,240º (SW),10.8,5/8,5/8 CB,-,-,-,-,-,Cloudy
+MASJED-SOLEYMAN,15/02/2008,15Z,18.6,35%,1011.6 Hpa,180º (S ),21.6,5/8,5/8 CB,-,-,-,-,-,"Cloudy, dust"
+MASJED-SOLEYMAN,15/02/2008,12Z,18.0,52%,1009.5 Hpa,180º (S ),21.6,6/8,6/8 CB,-,-,-,-,-,Cloudy
+MASJED-SOLEYMAN,15/02/2008,09Z,18.4,37%,1010.1 Hpa,180º (S ),18.0,8/8,3/8 CB,AC,,-,-,-,Overcast
+MASJED-SOLEYMAN,15/02/2008,06Z,16.0,47%,1010.0 Hpa,150º (SE),18.0,8/8,3/8 CB,AC,,Tr(24h),-,-,Overcast
+MASJED-SOLEYMAN,15/02/2008,03Z,15.4,42%,1010.2 Hpa,calm.,,8/8,3/8 CB,AC,,-,-,12.6,Overcast
+MASJED-SOLEYMAN,15/02/2008,00Z,12.8,64%,1012.8 Hpa,calm.,,8/8,-,-,CS,-,-,-,Overcast
+MEYANEH,15/02/2008,21Z,-1.8,78%,1019.8 Hpa,calm.,,6/8,2/8 SC,AC,-,-,-,-,Cloudy
+MEYANEH,15/02/2008,18Z,-0.8,87%,1018.5 Hpa,calm.,,5/8,2/8 SC,AC,-,-,-,-,Cloudy
+MEYANEH,15/02/2008,15Z,0.2,85%,1015.2 Hpa,calm.,,5/8,2/8 SC,AC,-,-,2.2,-,Cloudy
+MEYANEH,15/02/2008,12Z,0.8,79%,1013.1 Hpa,090º (E ),7.2,8/8,4/8 SC,AC,,3.0(6h),-,-,"Overcast, snow"
+MEYANEH,15/02/2008,06Z,-1.4,90%,1015.6 Hpa,calm.,,8/8,4/8 SC,AC,,0.6(6h),-,-,"Overcast, snow"
+MEYANEH,15/02/2008,03Z,-1.4,94%,1015.7 Hpa,calm.,,8/8,3/8 SC,AC,,-,-,-2.2,"Overcast, mist"
+MEYANEH,15/02/2008,00Z,-2.2,,1018.3 Hpa,calm.,,8/8,3/8 SC,AC,,-,-,-,Overcast
+MOHABAD,15/02/2008,21Z,-1.2,83%,1019.5 Hpa,calm.,,7/8,3/8 SC,AC,-,-,-,-,Cloudy
+MOHABAD,15/02/2008,18Z,-1.0,80%,1019.7 Hpa,calm.,,7/8,3/8 SC,AC,-,0.1(6h),-,-,Cloudy
+MOHABAD,15/02/2008,15Z,-0.4,88%,1017.0 Hpa,360º (N ),18.0,8/8,4/8 SC,AC,,-,4.4,-,"Overcast, mist"
+MOHABAD,15/02/2008,12Z,0.4,85%,1012.7 Hpa,030º (NE),7.2,8/8,4/8 SC,AC,,-,-,-,"Overcast, mist"
+MOHABAD,15/02/2008,09Z,1.6,82%,1010.9 Hpa,calm.,,4/8,3/8 SC,AC,-,-,-,-,"Scattered clouds, mist"
+MOHABAD,15/02/2008,06Z,-1.4,90%,1011.7 Hpa,calm.,,8/8,4/8 SC,AC,,Tr(6h),-,-,"Overcast, mist"
+MOHABAD,15/02/2008,03Z,-1.6,90%,1011.8 Hpa,360º (N ),7.2,4/8,4/8 SC,-,-,-,-,-1.8,Scattered clouds
+MOHABAD,15/02/2008,00Z,1.6,82%,1011.8 Hpa,210º (SW),28.8,4/8,4/8 SC,-,-,-,-,-,Scattered clouds
+NEHBANDAN,15/02/2008,21Z,15.4,38%,1011.2 Hpa,240º (SW),14.4,8/8,3/8 SC,AC,,-,-,-,Overcast
+NEHBANDAN,15/02/2008,18Z,14.5,31%,-,360º (N ),10.8,6/8,1/8 CU,AC,-,-,-,-,Cloudy
+NEHBANDAN,15/02/2008,15Z,14.4,34%,1015.4 Hpa,150º (SE),14.4,4/8,2/8 SC,AC,-,-,18.6,-,Scattered clouds
+NEHBANDAN,15/02/2008,12Z,17.0,30%,1014.6 Hpa,150º (SE),10.8,8/8,4/8 SC,AC,,-,-,-,Overcast
+NEHBANDAN,15/02/2008,09Z,16.6,28%,1016.3 Hpa,calm.,,5/8,3/8 SC,AC,-,-,-,-,Cloudy
+NEHBANDAN,15/02/2008,06Z,10.2,47%,1019.9 Hpa,calm.,,7/8,4/8 SC,AC,-,-,-,-,Cloudy
+NEHBANDAN,15/02/2008,03Z,5.0,62%,1018.5 Hpa,calm.,,7/8,-,7/8 AC,-,-,-,3.8,Cloudy
+NEHBANDAN,15/02/2008,00Z,5.2,52%,1016.1 Hpa,040º (NE),10.8,0/8,-,-,-,-,-,-,Clear
+NOSHAHR,15/02/2008,21Z,5.2,71%,1020.2 Hpa,190º (S ),7.2,3/8,2/8 SC,AC,-,-,-,-,Scattered clouds
+NOSHAHR,15/02/2008,18Z,4.4,86%,-,270º (W ),18.0,8/8,-,-,-,-,-,-,Overcast
+NOSHAHR,15/02/2008,15Z,5.4,90%,1017.8 Hpa,290º (W ),28.8,8/8,6/8 CB,AC,,-,6.6,-,"Overcast, drizzle"
+NOSHAHR,15/02/2008,12Z,6.4,79%,1013.8 Hpa,330º (NW),10.8,8/8,4/8 CB,AC,,-,-,-,Overcast
+NOSHAHR,15/02/2008,09Z,6.6,76%,1013.9 Hpa,320º (NW),14.4,8/8,4/8 CB,AC,,-,-,-,Overcast
+NOSHAHR,15/02/2008,06Z,5.8,87%,1015.3 Hpa,280º (W ),7.2,8/8,4/8 CB,AC,,-,-,-,Overcast
+NOSHAHR,15/02/2008,03Z,5.0,90%,1015.3 Hpa,calm.,,8/8,4/8 CB,AC,,-,-,4.6,Overcast
+NOSHAHR,15/02/2008,00Z,4.6,93%,1015.9 Hpa,180º (S ),7.2,8/8,4/8 CB,AC,,-,-,-,Overcast
+OMIDYEH-AGHAJARI,15/02/2008,21Z,12.8,61%,1021.5 Hpa,320º (NW),14.4,0/8,-,-,-,-,-,-,Clear
+OMIDYEH-AGHAJARI,15/02/2008,18Z,15.6,51%,1019.9 Hpa,320º (NW),18.0,3/8,-,3/8 AC,-,-,-,-,Scattered clouds
+OMIDYEH-AGHAJARI,15/02/2008,15Z,19.4,37%,1015.9 Hpa,260º (W ),32.4,,-,-,-,-,21.8,-,dust
+OMIDYEH-AGHAJARI,15/02/2008,12Z,20.4,48%,1013.7 Hpa,170º (S ),21.6,8/8,-,-,CS,-,-,-,"Overcast, haze"
+OMIDYEH-AGHAJARI,15/02/2008,09Z,20.4,60%,1013.8 Hpa,180º (S ),36.0,7/8,7/8 CB,-,-,-,-,-,"Cloudy, dust"
+OMIDYEH-AGHAJARI,15/02/2008,06Z,19.8,44%,1013.2 Hpa,150º (SE),28.8,6/8,6/8 CB,-,-,-,-,-,Cloudy
+OMIDYEH-AGHAJARI,15/02/2008,03Z,18.8,34%,1012.3 Hpa,120º (SE),21.6,6/8,6/8 CB,-,-,-,-,15.6,Cloudy
+OMIDYEH-AGHAJARI,15/02/2008,00Z,16.0,39%,1013.9 Hpa,300º (NW),18.0,8/8,8/8 CB,,,-,-,-,Overcast
+ORUMIEH,15/02/2008,21Z,-3.4,87%,1020.4 Hpa,calm.,,7/8,4/8 SC,AC,-,-,-,-,Cloudy
+ORUMIEH,15/02/2008,18Z,-3.4,79%,1020.3 Hpa,160º (S ),7.2,7/8,4/8 SC,AC,-,-,-,-,Cloudy
+ORUMIEH,15/02/2008,15Z,-1.6,71%,1018.0 Hpa,100º (E ),7.2,7/8,4/8 SC,AC,-,-,2.4,-,Cloudy
+ORUMIEH,15/02/2008,12Z,0.6,69%,1015.6 Hpa,030º (NE),14.4,7/8,4/8 SC,AC,-,Tr(6h),-,-,"Cloudy, haze"
+ORUMIEH,15/02/2008,09Z,1.4,79%,1013.4 Hpa,060º (NE),7.2,6/8,3/8 SC,AC,CI,-,-,-,"Cloudy, mist"
+ORUMIEH,15/02/2008,06Z,-2.0,94%,1015.1 Hpa,280º (W ),10.8,8/8,5/8 ST,AC,,Tr(6h),-,-,"Overcast, snow grains"
+ORUMIEH,15/02/2008,03Z,-3.0,97%,1014.2 Hpa,270º (W ),7.2,7/8,4/8 SC,AC,-,-,-,-6.0,"Cloudy, mist"
+ORUMIEH,15/02/2008,00Z,-5.6,94%,1016.0 Hpa,270º (W ),3.6,6/8,3/8 SC,AC,-,-,-,-,Cloudy
+PARS ABAD MOGHAN,15/02/2008,21Z,-0.6,90%,1020.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+PARS ABAD MOGHAN,15/02/2008,18Z,1.8,70%,1018.6 Hpa,230º (SW),14.4,0/8,-,-,-,-,-,-,Clear
+PARS ABAD MOGHAN,15/02/2008,15Z,4.0,66%,1016.8 Hpa,230º (SW),21.6,0/8,-,-,-,-,6.6,-,Clear
+PARS ABAD MOGHAN,15/02/2008,12Z,6.6,50%,1015.9 Hpa,230º (SW),25.2,5/8,-,-,CS,-,-,-,Cloudy
+PARS ABAD MOGHAN,15/02/2008,09Z,3.6,62%,1016.6 Hpa,230º (SW),18.0,8/8,-,-,CS,-,-,-,Overcast
+PARS ABAD MOGHAN,15/02/2008,06Z,-1.0,82%,1016.7 Hpa,240º (SW),10.8,6/8,-,-,CI,-,-,-,Cloudy
+PARS ABAD MOGHAN,15/02/2008,03Z,-4.4,94%,1016.7 Hpa,calm.,,0/8,-,-,-,-,-,-4.4,Clear
+PARS ABAD MOGHAN,15/02/2008,00Z,-3.2,88%,1016.7 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+RAMSAR,15/02/2008,21Z,4.0,76%,1019.2 Hpa,200º (S ),7.2,1/8,-,1/8 AC,-,-,-,-,Few clouds
+RAMSAR,15/02/2008,18Z,5.6,70%,1020.2 Hpa,220º (SW),7.2,8/8,5/8 CB,AC,,0.4(6h),-,-,Overcast
+RAMSAR,15/02/2008,15Z,3.4,91%,1017.4 Hpa,320º (NW),25.2,8/8,5/8 CB,AC,,-,6.0,-,"Overcast, rain"
+RAMSAR,15/02/2008,12Z,6.0,85%,1011.8 Hpa,340º (N ),14.4,8/8,4/8 CB,AC,,-,-,-,Overcast
+RAMSAR,15/02/2008,09Z,5.8,82%,1013.4 Hpa,340º (N ),10.8,8/8,4/8 CB,AC,,-,-,-,Overcast
+RAMSAR,15/02/2008,06Z,5.4,87%,1014.9 Hpa,Vble.,,8/8,4/8 CB,AC,,-,-,-,Overcast
+RAMSAR,15/02/2008,03Z,5.0,90%,1014.5 Hpa,calm.,,8/8,5/8 CB,AC,,-,-,4.8,Overcast
+RAMSAR,15/02/2008,00Z,4.8,86%,1015.4 Hpa,calm.,,8/8,4/8 CB,AC,,-,-,-,Overcast
+RASHT,15/02/2008,21Z,2.8,82%,-,180º (S ),7.2,4/8,-,-,-,-,-,-,Scattered clouds
+RASHT,15/02/2008,18Z,3.8,79%,1020.8 Hpa,210º (SW),10.8,7/8,4/8 SC,AC,-,1.0(6h),-,-,"Cloudy, mist"
+RASHT,15/02/2008,15Z,3.0,86%,-,240º (SW),10.8,7/8,-,-,-,-,-,-,Cloudy
+RASHT,15/02/2008,12Z,3.4,89%,1017.2 Hpa,310º (NW),10.8,8/8,6/8 ST,AC,,1.0(6h),-,-,"Overcast, rain"
+RASHT,15/02/2008,09Z,3.6,93%,-,270º (W ),7.2,8/8,-,-,-,-,-,-,Overcast
+RASHT,15/02/2008,06Z,3.0,96%,1017.1 Hpa,250º (W ),7.2,8/8,7/8 ST,AC,,Tr(6h),-,-,"Overcast, drizzle"
+RASHT,15/02/2008,03Z,2.6,92%,-,260º (W ),7.2,8/8,-,-,-,-,-,-,Overcast
+RASHT,15/02/2008,00Z,2.6,92%,1016.7 Hpa,270º (W ),7.2,8/8,5/8 SC,AC,,-,-,-,"Overcast, mist"
+SABZEVAR,15/02/2008,21Z,4.0,96%,1014.8 Hpa,070º (E ),14.4,8/8,6/8 ST,AC,,-,-,-,"Overcast, rain"
+SABZEVAR,15/02/2008,18Z,6.0,85%,1016.1 Hpa,calm.,,8/8,4/8 SC,AC,,0.3(6h),-,-,Overcast
+SABZEVAR,15/02/2008,15Z,7.0,77%,1016.4 Hpa,120º (SE),18.0,8/8,3/8 SC,AC,,-,10.0,-,Overcast
+SABZEVAR,15/02/2008,12Z,9.2,67%,1015.9 Hpa,070º (E ),14.4,8/8,-,5/8 AC,CS,-,-,-,Overcast
+SABZEVAR,15/02/2008,09Z,8.2,64%,1018.8 Hpa,080º (E ),14.4,7/8,-,-,CI,-,-,-,"Cloudy, haze"
+SABZEVAR,15/02/2008,06Z,3.4,80%,1022.1 Hpa,110º (E ),18.0,5/8,3/8 SC,-,CI,0.2(24h),-,-,"Cloudy, mist"
+SABZEVAR,15/02/2008,03Z,-0.2,95%,1021.3 Hpa,090º (E ),21.6,3/8,3/8 SC,-,CI,-,-,-1.0,"Scattered clouds, mist"
+SABZEVAR,15/02/2008,00Z,1.0,89%,1020.6 Hpa,030º (NE),14.4,0/8,-,-,-,-,-,-,"Clear, mist"
+SAFI-ABAD DEZFUL,15/02/2008,21Z,9.0,76%,1020.0 Hpa,160º (S ),10.8,0/8,-,-,-,-,-,-,Clear
+SAFI-ABAD DEZFUL,15/02/2008,18Z,12.8,61%,1017.0 Hpa,250º (W ),14.4,0/8,-,-,-,-,-,-,Clear
+SAFI-ABAD DEZFUL,15/02/2008,15Z,17.0,46%,1012.9 Hpa,270º (W ),28.8,2/8,2/8 CB,-,-,-,21.4,-,"Few clouds, dust"
+SAFI-ABAD DEZFUL,15/02/2008,12Z,20.4,36%,1010.5 Hpa,180º (S ),21.6,7/8,3/8 CB,AC,-,-,-,-,Cloudy
+SAFI-ABAD DEZFUL,15/02/2008,09Z,20.4,34%,1011.3 Hpa,180º (S ),36.0,3/8,-,3/8 AC,-,-,-,-,Scattered clouds
+SAFI-ABAD DEZFUL,15/02/2008,06Z,15.2,68%,1011.3 Hpa,calm.,,7/8,4/8 CB,AC,-,Tr(6h),-,-,Cloudy
+SAFI-ABAD DEZFUL,15/02/2008,03Z,14.6,61%,1010.6 Hpa,060º (NE),21.6,8/8,4/8 CB,AC,,-,-,11.4,Overcast
+SAFI-ABAD DEZFUL,15/02/2008,00Z,13.0,74%,1014.0 Hpa,190º (S ),10.8,8/8,4/8 CB,AC,,Tr(6h),-,-,"Overcast, rain showers"
+SAGHEZ,15/02/2008,21Z,-3.4,76%,1018.8 Hpa,calm.,,2/8,2/8 SC,-,-,-,-,-,Few clouds
+SAGHEZ,15/02/2008,18Z,-1.0,80%,1017.0 Hpa,360º (N ),18.0,5/8,4/8 SC,AC,-,-,-,-,Cloudy
+SAGHEZ,15/02/2008,15Z,0.8,77%,1014.1 Hpa,210º (SW),18.0,4/8,3/8 SC,AC,-,-,3.6,-,Scattered clouds
+SAGHEZ,15/02/2008,12Z,3.6,55%,1010.8 Hpa,270º (W ),14.4,4/8,3/8 SC,AC,-,1.0(6h),-,-,Scattered clouds
+SAGHEZ,15/02/2008,09Z,2.0,79%,1010.5 Hpa,calm.,,5/8,2/8 SC,AC,-,-,-,-,Cloudy
+SAGHEZ,15/02/2008,06Z,0.0,88%,1012.4 Hpa,calm.,,8/8,4/8 CB,AC,,2.0(6h),-,-,"Overcast, snow"
+SAGHEZ,15/02/2008,03Z,0.2,82%,1012.2 Hpa,090º (E ),7.2,8/8,4/8 CB,AC,,-,-,-3.0,"Overcast, mist"
+SAGHEZ,15/02/2008,00Z,-2.6,81%,1013.6 Hpa,calm.,,3/8,1/8 CU,AC,CI,-,-,-,Scattered clouds
+SANANDAJ,15/02/2008,21Z,0.8,85%,1019.1 Hpa,190º (S ),7.2,6/8,5/8 CU/SC,AC,-,-,-,-,Cloudy
+SANANDAJ,15/02/2008,18Z,1.4,82%,1017.4 Hpa,190º (S ),10.8,5/8,4/8 CU/SC,AC,-,-,-,-,Cloudy
+SANANDAJ,15/02/2008,15Z,3.3,73%,1013.3 Hpa,calm.,,4/8,4/8 CU/SC,-,-,-,6.1,-,Scattered clouds
+SANANDAJ,15/02/2008,12Z,5.0,74%,1010.6 Hpa,200º (S ),7.2,6/8,6/8 CU,-,-,3.0(6h),-,-,Cloudy
+SANANDAJ,15/02/2008,09Z,1.4,93%,1011.9 Hpa,140º (SE),10.8,8/8,7/8 CB,AC,,-,-,-,"Overcast, snow showers"
+SANANDAJ,15/02/2008,06Z,0.7,94%,,360º (N ),7.2,7/8,7/8 CB,AC,-,3.0(6h),-,-,"Cloudy, snow showers"
+SANANDAJ,15/02/2008,03Z,0.8,93%,1012.5 Hpa,calm.,,8/8,6/8 CB,AC,,-,-,0.0,"Overcast, snow showers"
+SANANDAJ,15/02/2008,00Z,1.2,89%,1014.2 Hpa,calm.,,7/8,5/8 CB,AC,-,0.6(6h),-,-,"Cloudy, snow showers"
+SARAB,15/02/2008,21Z,-13.6,95%,1023.6 Hpa,calm.,,1/8,-,-,CI,-,-,-,"Few clouds, mist"
+SARAB,15/02/2008,18Z,-8.8,94%,1021.3 Hpa,260º (W ),7.2,3/8,1/8 SC,AC,-,Tr(6h),-,-,"Scattered clouds, fog"
+SARAB,15/02/2008,15Z,-4.4,96%,1018.0 Hpa,260º (W ),14.4,7/8,3/8 SC,AC,-,-,1.2,-,"Cloudy, fog"
+SARAB,15/02/2008,12Z,-0.8,97%,1014.0 Hpa,310º (NW),14.4,8/8,4/8 SC,AC,,2.0(6h),-,-,"Overcast, snow"
+SARAB,15/02/2008,09Z,0.4,92%,1010.3 Hpa,360º (N ),10.8,8/8,3/8 SC,AC,,-,-,-,"Overcast, snow"
+SARAB,15/02/2008,06Z,-1.8,102%,1013.1 Hpa,030º (NE),14.4,8/8,3/8 SC,AC,,0.4(6h),-,-,"Overcast, snow"
+SARAB,15/02/2008,03Z,-6.0,96%,1015.1 Hpa,calm.,,5/8,3/8 SC,AC,-,-,-,-7.4,Cloudy
+SARAB,15/02/2008,00Z,-7.0,93%,1017.2 Hpa,calm.,,6/8,3/8 SC,AC,-,-,-,-,Cloudy
+SARAKHS,15/02/2008,21Z,8.6,89%,1011.8 Hpa,160º (S ),14.4,8/8,3/8 ST,AC,,-,-,-,"Overcast, rain"
+SARAKHS,15/02/2008,18Z,7.0,77%,1012.8 Hpa,130º (SE),18.0,7/8,-,-,CI,-,-,-,Cloudy
+SARAKHS,15/02/2008,15Z,6.8,82%,1014.3 Hpa,040º (NE),7.2,4/8,1/8 SC,-,CI,-,9.0,-,Scattered clouds
+SARAKHS,15/02/2008,12Z,8.2,67%,1014.6 Hpa,090º (E ),7.2,6/8,-,-,CI,-,-,-,Cloudy
+SARAKHS,15/02/2008,09Z,1.6,81%,1021.5 Hpa,270º (W ),7.2,0/8,-,-,-,-,-,-,Clear
+SARAKHS,15/02/2008,06Z,0.6,85%,1021.6 Hpa,300º (NW),10.8,5/8,5/8 CB,-,-,-,-,-,Cloudy
+SARAKHS,15/02/2008,03Z,,0%,1019.7 Hpa,150º (SE),7.2,3/8,2/8 SC,-,-,-,-,1.0,Scattered clouds
+SARAKHS,15/02/2008,00Z,1.0,80%,1020.4 Hpa,090º (E ),10.8,0/8,-,-,-,-,-,-,Clear
+SARAVAN,15/02/2008,21Z,15.9,31%,1015.7 Hpa,220º (SW),7.2,0/8,-,-,-,-,-,-,Clear
+SARAVAN,15/02/2008,18Z,17.2,27%,1017.2 Hpa,230º (SW),14.4,0/8,-,-,-,-,-,-,Clear
+SARAVAN,15/02/2008,15Z,21.0,20%,1018.3 Hpa,200º (S ),10.8,0/8,-,-,-,-,26.3,-,Clear
+SARAVAN,15/02/2008,12Z,25.4,15%,1015.2 Hpa,260º (W ),21.6,0/8,-,-,-,-,-,-,Clear
+SARAVAN,15/02/2008,09Z,9.1,44%,1016.5 Hpa,300º (NW),21.6,0/8,-,-,-,-,-,-,Clear
+SARAVAN,15/02/2008,06Z,19.2,34%,1019.4 Hpa,300º (NW),14.4,0/8,-,-,-,-,-,-,Clear
+SARAVAN,15/02/2008,03Z,8.0,64%,1019.1 Hpa,030º (NE),10.8,0/8,-,-,-,-,-,5.8,Clear
+SARAVAN,15/02/2008,00Z,7.1,67%,1017.4 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SEMNAN,15/02/2008,21Z,4.2,90%,1013.6 Hpa,calm.,,8/8,3/8 SC,AC,,-,-,-,Overcast
+SEMNAN,15/02/2008,18Z,4.6,85%,1013.0 Hpa,calm.,,8/8,3/8 SC,AC,,0.8(6h),-,-,Overcast
+SEMNAN,15/02/2008,15Z,5.4,82%,1013.8 Hpa,calm.,,8/8,3/8 SC,AC,,-,8.4,-,Overcast
+SEMNAN,15/02/2008,12Z,6.4,72%,1013.8 Hpa,330º (NW),7.2,8/8,4/8 ST,AC,,1.0(6h),-,-,"Overcast, rain"
+SEMNAN,15/02/2008,09Z,8.0,63%,1013.5 Hpa,calm.,,8/8,2/8 CU/SC,-,CS,-,-,-,Overcast
+SEMNAN,15/02/2008,06Z,5.6,71%,1016.3 Hpa,calm.,,3/8,-,-,CI,1.6(24h),-,-,Scattered clouds
+SEMNAN,15/02/2008,03Z,1.4,89%,1017.3 Hpa,calm.,,3/8,1/8 SC,-,CI,-,-,0.2,Scattered clouds
+SEMNAN,15/02/2008,00Z,1.0,93%,1016.6 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SHAHRE-KORD,15/02/2008,21Z,0.6,60%,1015.6 Hpa,250º (W ),28.8,1/8,1/8 SC,-,-,-,-,-,Few clouds
+SHAHRE-KORD,15/02/2008,18Z,2.8,60%,1013.7 Hpa,250º (W ),25.2,2/8,2/8 SC,-,-,0.4(6h),-,-,Few clouds
+SHAHRE-KORD,15/02/2008,15Z,3.4,70%,1010.8 Hpa,230º (SW),25.2,5/8,4/8 CB,AC,-,-,6.6,-,Cloudy
+SHAHRE-KORD,15/02/2008,12Z,5.2,67%,1008.8 Hpa,230º (SW),36.0,7/8,5/8 CB,AC,-,1.0(6h),-,-,"Cloudy, ice pellet showers"
+SHAHRE-KORD,15/02/2008,09Z,4.4,83%,1008.9 Hpa,250º (W ),7.2,7/8,4/8 ST,AC,-,-,-,-,"Cloudy, ice pellets"
+SHAHRE-KORD,15/02/2008,06Z,1.2,93%,1013.6 Hpa,130º (SE),14.4,8/8,5/8 ST,AC,,2.0(6h),-,-,"Overcast, snow"
+SHAHRE-KORD,15/02/2008,03Z,-0.2,95%,1015.0 Hpa,calm.,,8/8,5/8 CB,AC,,-,-,-0.4,"Overcast, snow"
+SHAHRE-KORD,15/02/2008,00Z,-0.4,95%,1013.7 Hpa,080º (E ),14.4,8/8,6/8 CB,AC,,0.4(6h),-,-,"Overcast, snow showers"
+SHAHRUD,15/02/2008,21Z,2.2,83%,1014.4 Hpa,350º (N ),7.2,8/8,4/8 SC,AC,,-,-,-,Overcast
+SHAHRUD,15/02/2008,18Z,2.2,86%,1015.2 Hpa,calm.,,4/8,4/8 SC,-,-,0.1(6h),-,-,Scattered clouds
+SHAHRUD,15/02/2008,15Z,3.6,87%,1015.3 Hpa,calm.,,8/8,2/8 SC,AC,CI,-,6.0,-,"Overcast, rain"
+SHAHRUD,15/02/2008,12Z,5.0,68%,1015.2 Hpa,240º (SW),10.8,8/8,2/8 SC,AC,,-,-,-,Overcast
+SHAHRUD,15/02/2008,09Z,5.0,74%,1015.6 Hpa,calm.,,7/8,3/8 SC,-,CI,-,-,-,Cloudy
+SHAHRUD,15/02/2008,06Z,-1.2,94%,1019.9 Hpa,calm.,,8/8,3/8 SC,AC,,-,-,-,"Overcast, mist"
+SHAHRUD,15/02/2008,03Z,-1.8,,1018.9 Hpa,calm.,,7/8,3/8 SC,-,CI,-,-,-2.2,Cloudy
+SHAHRUD,15/02/2008,00Z,-1.4,94%,1017.5 Hpa,calm.,,4/8,2/8 SC,-,CI,-,-,-,Scattered clouds
+SHIRAZ,15/02/2008,21Z,11.0,35%,1013.3 Hpa,250º (W ),32.4,4/8,2/8 SC,AC,-,-,-,-,Scattered clouds
+SHIRAZ,15/02/2008,18Z,12.4,44%,1012.9 Hpa,240º (SW),21.6,7/8,4/8 CB,AC,CI,-,-,-,"Cloudy, haze"
+SHIRAZ,15/02/2008,15Z,12.6,48%,1011.6 Hpa,240º (SW),14.4,8/8,5/8 CB,AC,,-,17.4,-,"Overcast, dust"
+SHIRAZ,15/02/2008,12Z,15.4,40%,1011.4 Hpa,240º (SW),39.6,8/8,5/8 CB,AC,CS,0.1(6h),-,-,"Overcast, dust"
+SHIRAZ,15/02/2008,09Z,14.2,49%,1012.6 Hpa,240º (SW),43.2,8/8,6/8 CB,AC,CS,-,-,-,"Overcast, rain showers"
+SHIRAZ,15/02/2008,06Z,13.6,44%,1013.8 Hpa,calm.,,7/8,5/8 CB,AC,-,Tr(6h),-,-,"Cloudy, haze"
+SHIRAZ,15/02/2008,03Z,10.8,55%,1012.3 Hpa,calm.,,7/8,2/8 SC,-,CI,-,-,8.0,Cloudy
+SHIRAZ,15/02/2008,00Z,8.4,58%,1012.3 Hpa,030º (NE),7.2,6/8,1/8 SC,-,CI,-,-,-,Cloudy
+SIRI ISLAND,15/02/2008,15Z,22.0,82%,1014.7 Hpa,030º (NE),14.4,0/8,-,-,-,-,23.2,-,Clear
+SIRI ISLAND,15/02/2008,12Z,23.0,21%,1014.4 Hpa,060º (NE),14.4,0/8,-,-,-,-,-,-,Clear
+SIRI ISLAND,15/02/2008,09Z,22.6,79%,1015.8 Hpa,080º (E ),18.0,0/8,-,-,-,-,-,-,Clear
+SIRI ISLAND,15/02/2008,06Z,21.8,23%,1017.0 Hpa,080º (E ),18.0,0/8,-,-,-,-,-,-,Clear
+SIRI ISLAND,15/02/2008,03Z,21.2,75%,1014.9 Hpa,calm.,,0/8,-,-,-,-,-,20.5,"Clear, haze"
+SIRJAN,15/02/2008,21Z,11.4,43%,1009.7 Hpa,210º (SW),39.6,0/8,-,-,-,-,-,-,Clear
+SIRJAN,15/02/2008,18Z,12.0,44%,1011.6 Hpa,230º (SW),28.8,0/8,-,-,-,-,-,-,Clear
+SIRJAN,15/02/2008,15Z,14.0,37%,1011.9 Hpa,210º (SW),28.8,2/8,2/8 SC,-,-,-,18.6,-,Few clouds
+SIRJAN,15/02/2008,12Z,17.4,26%,1009.7 Hpa,220º (SW),43.2,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+SIRJAN,15/02/2008,09Z,18.0,24%,1010.4 Hpa,220º (SW),39.6,4/8,4/8 SC,-,-,-,-,-,Scattered clouds
+SIRJAN,15/02/2008,06Z,14.4,34%,1013.7 Hpa,220º (SW),21.6,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+SIRJAN,15/02/2008,03Z,8.0,53%,1013.3 Hpa,calm.,,2/8,-,-,CI,-,-,6.2,Few clouds
+SIRJAN,15/02/2008,00Z,7.4,52%,1011.4 Hpa,calm.,,2/8,-,-,CI,-,-,-,Few clouds
+TABAS,15/02/2008,21Z,8.6,76%,1009.0 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+TABAS,15/02/2008,18Z,10.6,68%,1008.2 Hpa,calm.,,1/8,1/8 CU,-,-,-,-,-,Few clouds
+TABAS,15/02/2008,15Z,11.8,63%,1008.5 Hpa,310º (NW),7.2,3/8,1/8 ST,AC,-,-,16.4,-,Scattered clouds
+TABAS,15/02/2008,12Z,14.2,52%,1009.1 Hpa,030º (NE),18.0,8/8,4/8 CB,AC,,Tr(6h),-,-,Overcast
+TABAS,15/02/2008,09Z,13.4,39%,1013.0 Hpa,190º (S ),7.2,8/8,3/8 ST,AC,,-,-,-,Overcast
+TABAS,15/02/2008,06Z,8.2,55%,1016.6 Hpa,calm.,,7/8,1/8 CU,AC,CI,-,-,-,Cloudy
+TABAS,15/02/2008,03Z,6.2,60%,1014.0 Hpa,calm.,,3/8,-,3/8 AC,-,-,-,5.2,Scattered clouds
+TABAS,15/02/2008,00Z,6.6,58%,1012.1 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+TABRIZ,15/02/2008,21Z,-6.2,61%,1022.8 Hpa,050º (NE),7.2,7/8,3/8 SC,AC,CI,-,-,-,Cloudy
+TABRIZ,15/02/2008,18Z,-7.0,63%,1023.1 Hpa,060º (NE),10.8,6/8,2/8 SC,AC,CI,Tr(6h),-,-,Cloudy
+TABRIZ,15/02/2008,15Z,-3.0,65%,1020.4 Hpa,160º (S ),7.2,8/8,6/8 ST,AC,,-,2.0,-,Overcast
+TABRIZ,15/02/2008,12Z,-3.0,84%,1017.1 Hpa,340º (N ),25.2,8/8,6/8 ST,AC,,1.0(6h),-,-,"Overcast, snow"
+TABRIZ,15/02/2008,09Z,0.4,87%,1014.5 Hpa,340º (N ),21.6,8/8,6/8 ST,AC,,-,-,-,"Overcast, snow"
+TABRIZ,15/02/2008,06Z,-1.0,78%,1014.7 Hpa,010º (N),10.8,8/8,3/8 SC,AC,,0.2(24h),-,-,"Overcast, mist"
+TABRIZ,15/02/2008,03Z,-3.8,82%,1015.5 Hpa,090º (E ),10.8,7/8,3/8 SC,AC,-,-,-,-4.0,"Cloudy, mist"
+TABRIZ,15/02/2008,00Z,-1.8,81%,1016.0 Hpa,090º (E ),7.2,7/8,5/8 ST,AC,-,-,-,-,"Cloudy, mist"
+TEHRAN-MEHRABAD,15/02/2008,21Z,1.8,93%,1016.3 Hpa,210º (SW),7.2,3/8,2/8 SC,-,CI,-,-,-,"Scattered clouds, mist"
+TEHRAN-MEHRABAD,15/02/2008,18Z,3.4,87%,1014.8 Hpa,260º (W ),10.8,7/8,4/8 CB,AC,-,2.0(6h),-,-,"Cloudy, mist"
+TEHRAN-MEHRABAD,15/02/2008,15Z,5.0,78%,-,140º (SE),10.8,8/8,-,-,-,-,-,-,Overcast
+TEHRAN-MEHRABAD,15/02/2008,12Z,5.1,76%,1011.7 Hpa,050º (NE),10.8,8/8,4/8 CB,AC,,3.0(6h),-,-,"Overcast, rain"
+TEHRAN-MEHRABAD,15/02/2008,09Z,4.2,81%,1013.6 Hpa,030º (NE),7.2,8/8,3/8 CB,AC,,-,-,-,"Overcast, rain"
+TEHRAN-MEHRABAD,15/02/2008,06Z,5.3,70%,1013.8 Hpa,170º (S ),10.8,8/8,2/8 CB,AC,,Tr(24h),-,-,Overcast
+TEHRAN-MEHRABAD,15/02/2008,03Z,5.1,66%,1013.3 Hpa,060º (NE),7.2,2/8,1/8 SC,AC,-,-,-,3.8,Few clouds
+TEHRAN-MEHRABAD,15/02/2008,00Z,5.0,69%,1013.7 Hpa,calm.,,6/8,3/8 SC,AC,-,-,-,-,Cloudy
+TORBAT-HEYDARIEH,15/02/2008,21Z,2.4,95%,1010.7 Hpa,330º (NW),18.0,8/8,3/8 ST,AC,,-,-,-,"Overcast, rain"
+TORBAT-HEYDARIEH,15/02/2008,18Z,2.4,93%,1013.3 Hpa,330º (NW),14.4,8/8,3/8 ST,AC,,6.0(6h),-,-,"Overcast, rain"
+TORBAT-HEYDARIEH,15/02/2008,15Z,5.6,74%,1015.4 Hpa,130º (SE),18.0,8/8,2/8 SC,AC,,-,8.6,-,"Overcast, rain"
+TORBAT-HEYDARIEH,15/02/2008,12Z,8.0,55%,1015.0 Hpa,100º (E ),7.2,6/8,1/8 ST,AC,CI,-,-,-,Cloudy
+TORBAT-HEYDARIEH,15/02/2008,09Z,8.0,43%,1016.7 Hpa,060º (NE),7.2,5/8,-,1/8 AC,CI,-,-,-,Cloudy
+TORBAT-HEYDARIEH,15/02/2008,06Z,4.4,73%,1017.9 Hpa,330º (NW),7.2,3/8,1/8 SC,AC,-,-,-,-,Scattered clouds
+TORBAT-HEYDARIEH,15/02/2008,03Z,-1.4,86%,1018.4 Hpa,calm.,,7/8,4/8 ST,AC,-,-,-,-3.6,Cloudy
+TORBAT-HEYDARIEH,15/02/2008,00Z,-2.6,89%,1018.2 Hpa,330º (NW),10.8,0/8,-,-,-,-,-,-,Clear
+YASOGE,15/02/2008,21Z,4.0,67%,1020.9 Hpa,180º (S ),10.8,2/8,2/8 CU,-,-,-,-,-,Few clouds
+YASOGE,15/02/2008,18Z,5.2,66%,1020.5 Hpa,120º (SE),10.8,4/8,4/8 SC,-,-,-,-,-,Scattered clouds
+YASOGE,15/02/2008,15Z,6.4,65%,1017.3 Hpa,220º (SW),43.2,6/8,4/8 SC,AC,-,-,8.4,-,Cloudy
+YASOGE,15/02/2008,12Z,8.4,68%,1015.3 Hpa,230º (SW),43.2,8/8,6/8 CB,AC,,11.0(6h),-,-,"Overcast, rain"
+YASOGE,15/02/2008,09Z,5.6,88%,1016.8 Hpa,calm.,,8/8,6/8 CB,AC,,-,-,-,"Overcast, rain"
+YASOGE,15/02/2008,06Z,1.2,100%,1019.7 Hpa,calm.,,8/8,5/8 CB,AC,,6.0(6h),-,-,"Overcast, rain"
+YASOGE,15/02/2008,03Z,2.4,90%,1019.6 Hpa,calm.,,8/8,5/8 CB,AC,,-,-,2.4,"Overcast, rain"
+YASOGE,15/02/2008,00Z,3.4,87%,1017.3 Hpa,090º (E ),7.2,6/8,6/8 CB,-,-,1.0(6h),-,-,Cloudy
+YAZD,15/02/2008,21Z,6.6,52%,1012.7 Hpa,350º (N ),14.4,0/8,-,-,-,-,-,-,"Clear, dust"
+YAZD,15/02/2008,18Z,16.0,34%,1008.5 Hpa,240º (SW),39.6,1/8,-,-,CI,-,-,-,"Few clouds, dust"
+YAZD,15/02/2008,15Z,14.8,37%,1007.5 Hpa,180º (S ),18.0,6/8,3/8 CU,AC,CI,-,19.4,-,"Cloudy, dust"
+YAZD,15/02/2008,12Z,17.0,39%,1006.1 Hpa,210º (SW),7.2,7/8,3/8 SC,-,CI,0.1(6h),-,-,"Cloudy, haze"
+YAZD,15/02/2008,09Z,13.4,48%,1010.6 Hpa,calm.,,7/8,4/8 CB,AC,CS,-,-,-,"Cloudy, haze"
+YAZD,15/02/2008,06Z,9.0,51%,1016.0 Hpa,130º (SE),14.4,8/8,5/8 CB,AC,,Tr(6h),-,-,"Overcast, rain"
+YAZD,15/02/2008,03Z,6.6,54%,1014.8 Hpa,120º (SE),7.2,8/8,2/8 CU,AC,CS,-,-,3.0,Overcast
+YAZD,15/02/2008,00Z,6.6,57%,1013.2 Hpa,280º (W ),7.2,4/8,1/8 CU,AC,CI,-,-,-,Scattered clouds
+ZABOL,15/02/2008,21Z,9.1,54%,1011.6 Hpa,120º (SE),7.2,2/8,-,-,CI,-,-,-,Few clouds
+ZABOL,15/02/2008,18Z,12.0,44%,1013.0 Hpa,310º (NW),7.2,1/8,-,1/8 AC,-,-,-,-,Few clouds
+ZABOL,15/02/2008,15Z,15.6,33%,1013.4 Hpa,280º (W ),7.2,4/8,-,2/8 AC,CI,-,22.1,-,Scattered clouds
+ZABOL,15/02/2008,12Z,21.9,23%,1012.7 Hpa,calm.,,5/8,-,1/8 AC,CI,-,-,-,Cloudy
+ZABOL,15/02/2008,09Z,18.6,27%,1015.2 Hpa,030º (NE),10.8,7/8,2/8 SC,AC,CI,-,-,-,"Cloudy, haze"
+ZABOL,15/02/2008,06Z,11.9,47%,1019.0 Hpa,020º (N),7.2,5/8,1/8 CU,AC,CI,-,-,-,Cloudy
+ZABOL,15/02/2008,03Z,4.4,79%,1017.6 Hpa,310º (NW),10.8,0/8,-,-,-,-,-,3.5,Clear
+ZABOL,15/02/2008,00Z,4.5,75%,1016.6 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+ZAHEDAN,15/02/2008,21Z,16.9,24%,1007.6 Hpa,210º (SW),57.6,0/8,-,-,-,-,-,-,Clear
+ZAHEDAN,15/02/2008,18Z,16.4,27%,1010.6 Hpa,220º (SW),39.6,0/8,-,-,-,-,-,-,Clear
+ZAHEDAN,15/02/2008,15Z,17.9,25%,1011.6 Hpa,230º (SW),28.8,0/8,-,-,-,-,23.2,-,Clear
+ZAHEDAN,15/02/2008,12Z,22.6,20%,1009.1 Hpa,210º (SW),28.8,7/8,1/8 CU,-,CI,-,-,-,"Cloudy, dust"
+ZAHEDAN,15/02/2008,09Z,22.6,22%,1010.4 Hpa,210º (SW),32.4,4/8,1/8 CU,-,CI,-,-,-,Scattered clouds
+ZAHEDAN,15/02/2008,06Z,18.2,32%,1014.0 Hpa,230º (SW),43.2,4/8,-,-,CI,-,-,-,"Scattered clouds, dust"
+ZAHEDAN,15/02/2008,03Z,11.7,92%,1014.6 Hpa,190º (S ),10.8,2/8,-,-,CI,-,-,-,"Few clouds, haze"
+ZAHEDAN,15/02/2008,00Z,11.0,47%,1011.9 Hpa,190º (S ),14.4,0/8,-,-,-,-,-,-,Clear
+ZANJAN,15/02/2008,21Z,-0.4,73%,1017.0 Hpa,calm.,,4/8,4/8 SC,-,-,-,-,-,Scattered clouds
+ZANJAN,15/02/2008,18Z,0.6,82%,1015.9 Hpa,130º (SE),7.2,5/8,5/8 SC,-,-,-,-,-,Cloudy
+ZANJAN,15/02/2008,15Z,1.4,73%,1012.3 Hpa,260º (W ),10.8,4/8,4/8 CU,-,-,-,3.4,-,Scattered clouds
+ZANJAN,15/02/2008,12Z,2.2,77%,1010.6 Hpa,170º (S ),7.2,8/8,6/8 CB,AC,,Tr(6h),-,-,"Overcast, haze"
+ZANJAN,15/02/2008,09Z,2.0,77%,1009.8 Hpa,110º (E ),18.0,7/8,6/8 CB,AC,-,-,-,-,"Cloudy, snow"
+ZANJAN,15/02/2008,06Z,-0.6,99%,1012.6 Hpa,110º (E ),18.0,8/8,6/8 ST,AC,,0.5(6h),-,-,"Overcast, snow"
+ZANJAN,15/02/2008,03Z,0.4,89%,1012.5 Hpa,060º (NE),7.2,5/8,5/8 ST,-,-,-,-,-0.2,Cloudy
+ZANJAN,15/02/2008,00Z,0.0,77%,1013.3 Hpa,calm.,,5/8,5/8 ST,-,-,Tr(6h),-,-,Cloudy

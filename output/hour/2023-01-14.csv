@@ -1,0 +1,606 @@
+Station ∆,Date,UTC time,Temp. (ºC),Rel. Hum. (%),Pressure/ Geopot.,Wind dir,Wins speed (Km/h),Clouds,Low clouds,Medium clouds,High clouds,Prec. (mm),Max temp. (ºC),Min temp. (ºC),Conditions
+ABADAN,14/01/2023,21Z,16.6,92%,1018.3 Hpa,150º (SE),10.8,3/8,3/8 SC,-,-,0.4(24h),-,-,"Scattered clouds, mist"
+ABADAN,14/01/2023,18Z,17.0,90%,1018.8 Hpa,150º (SE),14.4,3/8,3/8 SC,-,-,0.4(6h),-,-,"Scattered clouds, mist"
+ABADAN,14/01/2023,15Z,16.8,89%,1019.2 Hpa,120º (SE),14.4,6/8,3/8 CB,AC,-,0.4(24h),18.7,11.1,"Cloudy, mist"
+ABADAN,14/01/2023,12Z,18.4,83%,1019.2 Hpa,160º (S ),14.4,8/8,4/8 CB,AC,,-,-,-,"Overcast, mist"
+ABADAN,14/01/2023,09Z,17.4,82%,1020.8 Hpa,070º (E ),3.6,8/8,3/8 CB,AC,,-,-,-,"Overcast, mist"
+ABADAN,14/01/2023,06Z,13.2,91%,1021.4 Hpa,080º (E ),14.4,5/8,-,-,CI,-,-,-,"Cloudy, mist"
+ABADAN,14/01/2023,03Z,11.1,94%,1021.1 Hpa,040º (NE),3.6,3/8,3/8 SC,-,-,-,12.4,10.8,"Scattered clouds, mist"
+ABADAN,14/01/2023,00Z,11.4,96%,1021.3 Hpa,080º (E ),10.8,0/8,-,-,-,-,-,-,"Clear, mist"
+ABADEH,14/01/2023,21Z,0.4,83%,1025.5 Hpa,350º (N ),3.6,7/8,3/8 SC,AC,-,-,-,-,Cloudy
+ABADEH,14/01/2023,18Z,0.1,83%,1028.3 Hpa,calm.,,4/8,2/8 SC,-,CI,-,-,-,Scattered clouds
+ABADEH,14/01/2023,15Z,1.3,73%,1030.2 Hpa,080º (E ),3.6,4/8,2/8 SC,-,CI,-,6.4,-7.4,Scattered clouds
+ABADEH,14/01/2023,12Z,6.2,50%,1026.7 Hpa,340º (N ),3.6,3/8,-,-,CI,-,-,-,Scattered clouds
+ABADEH,14/01/2023,09Z,2.5,58%,1029.6 Hpa,360º (N ),3.6,4/8,-,-,CI,-,-,-,Scattered clouds
+ABADEH,14/01/2023,06Z,-2.5,63%,1033.0 Hpa,320º (NW),3.6,3/8,-,-,CI,-,-,-,Scattered clouds
+ABADEH,14/01/2023,03Z,-6.8,68%,1034.3 Hpa,320º (NW),7.2,0/8,-,-,-,-,-5.3,-8.9,Clear
+ABADEH,14/01/2023,00Z,-8.1,74%,1033.1 Hpa,290º (W ),7.2,0/8,-,-,-,-,-,-,Clear
+ABU MUSA,14/01/2023,15Z,20.6,42%,1019.8 Hpa,060º (NE),18.0,3/8,-,1/8 AC,CI,-,22.0,18.8,Scattered clouds
+ABU MUSA,14/01/2023,12Z,21.8,285%,1019.0 Hpa,070º (E ),25.2,2/8,-,2/8 AC,-,-,-,-,Few clouds
+ABU MUSA,14/01/2023,09Z,21.6,38%,1020.6 Hpa,050º (NE),25.2,5/8,-,5/8 AC,-,-,-,-,Cloudy
+ABU MUSA,14/01/2023,06Z,21.0,299%,1021.9 Hpa,080º (E ),21.6,1/8,-,-,CI,-,-,-,Few clouds
+ABU MUSA,14/01/2023,03Z,18.8,42%,1020.0 Hpa,060º (NE),25.2,1/8,-,-,CI,-,18.8,18.6,Few clouds
+AHAR,14/01/2023,21Z,-1.6,70%,1025.9 Hpa,320º (NW),18.0,2/8,2/8 SC,-,-,-,-,-,Few clouds
+AHAR,14/01/2023,18Z,-1.4,70%,1027.6 Hpa,290º (W ),18.0,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+AHAR,14/01/2023,15Z,-1.7,74%,1027.9 Hpa,290º (W ),14.4,5/8,2/8 SC,-,CI,-,3.2,-4.3,Cloudy
+AHAR,14/01/2023,12Z,1.4,56%,1026.2 Hpa,230º (SW),21.6,4/8,1/8 CU,-,CI,-,-,-,Scattered clouds
+AHAR,14/01/2023,09Z,1.8,57%,1027.2 Hpa,240º (SW),21.6,4/8,1/8 CU,-,CI,-,-,-,Scattered clouds
+AHAR,14/01/2023,06Z,-2.3,67%,1029.2 Hpa,280º (W ),25.2,5/8,-,1/8 AC,CI,-,-,-,Cloudy
+AHAR,14/01/2023,03Z,-4.4,72%,1028.8 Hpa,280º (W ),18.0,4/8,-,-,CI,-,-2.6,-6.4,Scattered clouds
+AHAR,14/01/2023,00Z,-4.0,70%,1028.4 Hpa,310º (NW),21.6,0/8,-,-,-,-,-,-,Clear
+AHWAZ,14/01/2023,21Z,15.1,94%,1018.9 Hpa,160º (S ),10.8,8/8,5/8 CB,AC,,2.1(24h),-,-,"Overcast, mist"
+AHWAZ,14/01/2023,18Z,16.0,90%,1019.3 Hpa,140º (SE),7.2,6/8,6/8 CB,-,-,2.0(6h),-,-,"Cloudy, mist"
+AHWAZ,14/01/2023,15Z,15.8,91%,1018.7 Hpa,110º (E ),7.2,7/8,6/8 CB,AC,-,1.5(24h),18.3,8.5,"Cloudy, mist"
+AHWAZ,14/01/2023,12Z,18.2,75%,1019.0 Hpa,100º (E ),3.6,7/8,6/8 CB,AC,-,Tr(6h),-,-,"Cloudy, haze"
+AHWAZ,14/01/2023,09Z,17.8,64%,1020.8 Hpa,110º (E ),3.6,8/8,2/8 SC,AC,,-,-,-,"Overcast, haze"
+AHWAZ,14/01/2023,06Z,11.4,89%,1021.8 Hpa,060º (NE),3.6,6/8,-,1/8 AC,CI,-,-,-,"Cloudy, mist"
+AHWAZ,14/01/2023,03Z,8.8,97%,1021.4 Hpa,calm.,,0/8,-,-,-,-,11.6,8.8,"Clear, mist"
+AHWAZ,14/01/2023,00Z,9.0,97%,1021.8 Hpa,050º (NE),3.6,3/8,3/8 SC,-,-,-,-,-,"Scattered clouds, fog"
+ALI-GOODARZ,14/01/2023,21Z,0.8,83%,1021.6 Hpa,110º (E ),28.8,8/8,5/8 CB,AC,,0.5(24h),-,-,"Overcast, snow"
+ALI-GOODARZ,14/01/2023,18Z,1.9,62%,1024.5 Hpa,100º (E ),36.0,7/8,4/8 CB,AC,-,-,-,-,"Cloudy, haze"
+ALI-GOODARZ,14/01/2023,15Z,2.2,63%,1025.6 Hpa,140º (SE),7.2,7/8,4/8 CB,AC,-,-,5.4,-5.6,"Cloudy, haze"
+ALI-GOODARZ,14/01/2023,12Z,1.9,66%,1025.4 Hpa,270º (W ),7.2,6/8,3/8 SC,AC,-,-,-,-,"Cloudy, haze"
+ALI-GOODARZ,14/01/2023,09Z,2.2,59%,1026.4 Hpa,230º (SW),10.8,6/8,3/8 SC,AC,-,-,-,-,"Cloudy, haze"
+ALI-GOODARZ,14/01/2023,06Z,-2.7,70%,1029.7 Hpa,290º (W ),7.2,5/8,3/8 SC,AC,-,-,-,-,"Cloudy, haze"
+ALI-GOODARZ,14/01/2023,03Z,-5.5,75%,1030.5 Hpa,110º (E ),7.2,6/8,3/8 SC,AC,-,-,-5.0,-7.6,Cloudy
+ALI-GOODARZ,14/01/2023,00Z,-6.0,72%,1030.6 Hpa,210º (SW),7.2,4/8,-,4/8 AC,-,-,-,-,Scattered clouds
+ANZALI,14/01/2023,21Z,6.8,80%,1027.6 Hpa,280º (W ),10.8,8/8,6/8 CB,AC,,-,-,-,"Overcast, mist"
+ANZALI,14/01/2023,18Z,6.5,81%,1028.2 Hpa,280º (W ),7.2,8/8,4/8 SC,AC,,-,-,-,"Overcast, mist"
+ANZALI,14/01/2023,15Z,6.4,81%,1028.3 Hpa,300º (NW),7.2,8/8,5/8 CB,AC,,-,7.4,4.4,"Overcast, mist"
+ANZALI,14/01/2023,12Z,7.3,416%,1028.0 Hpa,290º (W ),7.2,8/8,5/8 CB,AC,,-,-,-,"Overcast, haze"
+ANZALI,14/01/2023,09Z,7.0,76%,1028.9 Hpa,310º (NW),7.2,7/8,5/8 CU/SC,AC,-,-,-,-,"Cloudy, haze"
+ANZALI,14/01/2023,06Z,5.1,481%,1030.1 Hpa,290º (W ),7.2,8/8,4/8 CU/SC,AC,,-,-,-,"Overcast, haze"
+ANZALI,14/01/2023,03Z,4.7,85%,1029.7 Hpa,280º (W ),7.2,3/8,3/8 CU/SC,-,-,0.2(24h),6.3,4.3,Scattered clouds
+ANZALI,14/01/2023,00Z,4.5,86%,1029.9 Hpa,280º (W ),10.8,1/8,1/8 SC,-,-,1.4(24h),-,-,Few clouds
+ARAK,14/01/2023,21Z,-3.4,79%,1026.5 Hpa,340º (N ),3.6,7/8,4/8 SC,AC,-,0.4(24h),-,-,"Cloudy, haze"
+ARAK,14/01/2023,18Z,-2.9,71%,1028.6 Hpa,350º (N ),3.6,8/8,4/8 SC,AC,,Tr(6h),-,-,"Overcast, snow"
+ARAK,14/01/2023,15Z,-2.0,71%,1028.3 Hpa,350º (N ),7.2,5/8,1/8 SC,AC,-,0.4(24h),1.6,-6.0,"Cloudy, haze"
+ARAK,14/01/2023,12Z,1.2,67%,1026.2 Hpa,050º (NE),3.6,4/8,1/8 SC,AC,-,0.4(24h),-,-,"Scattered clouds, haze"
+ARAK,14/01/2023,09Z,-1.9,69%,1028.7 Hpa,050º (NE),7.2,1/8,1/8 ST,AC,-,0.4(24h),-,-,"Few clouds, haze"
+ARAK,14/01/2023,06Z,-5.1,80%,1030.4 Hpa,040º (NE),3.6,8/8,3/8 SC,AC,,0.4(6h),-,-,"Overcast, mist"
+ARAK,14/01/2023,03Z,-6.0,70%,1029.5 Hpa,040º (NE),3.6,8/8,3/8 SC,AC,,-,-2.4,-6.6,"Overcast, haze"
+ARAK,14/01/2023,00Z,-6.3,76%,1029.2 Hpa,250º (W ),3.6,2/8,2/8 SC,-,-,-,-,-,"Few clouds, haze"
+ARDEBIL,14/01/2023,21Z,-2.0,66%,1023.9 Hpa,180º (S ),21.6,1/8,-,-,CI,-,-,-,Few clouds
+ARDEBIL,14/01/2023,18Z,-2.4,70%,1025.2 Hpa,180º (S ),28.8,2/8,-,-,CI,-,-,-,Few clouds
+ARDEBIL,14/01/2023,15Z,-1.8,70%,1024.9 Hpa,180º (S ),28.8,4/8,-,1/8 AC,CI,-,1.4,-3.8,Scattered clouds
+ARDEBIL,14/01/2023,12Z,-0.2,67%,1024.9 Hpa,180º (S ),32.4,7/8,-,1/8 AC,CI,-,-,-,Cloudy
+ARDEBIL,14/01/2023,09Z,0.2,63%,1026.1 Hpa,190º (S ),18.0,5/8,-,1/8 AC,CI,-,-,-,Cloudy
+ARDEBIL,14/01/2023,06Z,-2.1,70%,1029.0 Hpa,210º (SW),28.8,7/8,-,1/8 AC,CI,-,-,-,Cloudy
+ARDEBIL,14/01/2023,03Z,-3.2,84%,1027.2 Hpa,190º (S ),25.2,5/8,5/8 ST,-,-,-,-2.8,-12.8,"Cloudy, fog"
+ARDEBIL,14/01/2023,00Z,-5.6,75%,1027.0 Hpa,180º (S ),28.8,0/8,-,-,-,-,-,-,Clear
+BABULSAR,14/01/2023,21Z,3.0,85%,1027.5 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BABULSAR,14/01/2023,18Z,4.8,71%,1028.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BABULSAR,14/01/2023,15Z,7.0,65%,1027.9 Hpa,120º (SE),7.2,7/8,-,7/8 AC,-,-,9.6,0.6,Cloudy
+BABULSAR,14/01/2023,12Z,8.6,56%,1028.7 Hpa,090º (E ),7.2,4/8,-,4/8 AC,-,-,-,-,Scattered clouds
+BABULSAR,14/01/2023,09Z,7.8,52%,1029.3 Hpa,calm.,,4/8,-,-,CS,-,-,-,Scattered clouds
+BABULSAR,14/01/2023,06Z,3.6,69%,1030.5 Hpa,180º (S ),7.2,5/8,-,-,CI,-,-,-,Cloudy
+BABULSAR,14/01/2023,03Z,0.8,92%,1030.0 Hpa,calm.,,0/8,-,-,-,-,5.4,0.4,Clear
+BABULSAR,14/01/2023,00Z,1.2,92%,1030.0 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BAFT,14/01/2023,21Z,2.0,50%,1020.5 Hpa,030º (NE),10.8,0/8,-,-,-,-,-,-,Clear
+BAFT,14/01/2023,18Z,3.2,55%,1023.2 Hpa,010º (N),10.8,1/8,-,-,CI,-,-,-,Few clouds
+BAFT,14/01/2023,15Z,4.2,37%,1023.3 Hpa,330º (NW),7.2,3/8,-,-,CI,-,11.0,-5.0,Scattered clouds
+BAFT,14/01/2023,12Z,10.4,21%,1020.2 Hpa,240º (SW),18.0,3/8,-,-,CI,-,-,-,Scattered clouds
+BAFT,14/01/2023,09Z,9.2,28%,1021.5 Hpa,180º (S ),7.2,0/8,-,-,-,-,-,-,Clear
+BAFT,14/01/2023,06Z,3.6,51%,1025.4 Hpa,290º (W ),14.4,0/8,-,-,-,-,-,-,Clear
+BAFT,14/01/2023,03Z,-1.0,77%,1025.3 Hpa,360º (N ),14.4,0/8,-,-,-,-,8.8,-5.0,Clear
+BAFT,14/01/2023,00Z,-5.0,91%,1023.8 Hpa,330º (NW),7.2,0/8,-,-,-,-,-,-,Clear
+BAM,14/01/2023,21Z,0.5,42%,1028.1 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BAM,14/01/2023,18Z,1.7,34%,1029.7 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BAM,14/01/2023,15Z,4.7,24%,1030.0 Hpa,020º (N),7.2,0/8,-,-,-,-,9.4,-1.7,Clear
+BAM,14/01/2023,12Z,8.3,19%,1028.4 Hpa,050º (NE),7.2,2/8,-,-,CI,-,-,-,Few clouds
+BAM,14/01/2023,09Z,8.0,23%,1028.6 Hpa,110º (E ),7.2,0/8,-,-,-,-,-,-,Clear
+BAM,14/01/2023,06Z,5.8,30%,1031.9 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BAM,14/01/2023,03Z,-1.7,62%,1031.6 Hpa,290º (W ),7.2,0/8,-,-,-,-,3.9,-2.6,Clear
+BAM,14/01/2023,00Z,-1.6,56%,1029.7 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BANDAR LENGEH,14/01/2023,21Z,18.0,44%,1020.3 Hpa,090º (E ),18.0,0/8,-,-,-,-,-,-,Clear
+BANDAR LENGEH,14/01/2023,18Z,17.8,42%,1021.4 Hpa,080º (E ),14.4,3/8,-,3/8 AC,-,-,-,-,Scattered clouds
+BANDAR LENGEH,14/01/2023,15Z,18.1,45%,1020.8 Hpa,080º (E ),18.0,0/8,-,-,-,-,19.8,-,Clear
+BANDAR LENGEH,14/01/2023,12Z,19.5,41%,1019.9 Hpa,100º (E ),21.6,1/8,-,1/8 AC,-,-,-,-,Few clouds
+BANDAR LENGEH,14/01/2023,09Z,18.7,47%,1021.8 Hpa,090º (E ),21.6,1/8,-,-,CI,-,-,-,Few clouds
+BANDAR LENGEH,14/01/2023,06Z,17.1,47%,1023.6 Hpa,090º (E ),21.6,0/8,-,-,-,-,-,-,Clear
+BANDAR LENGEH,14/01/2023,03Z,15.0,43%,1021.8 Hpa,080º (E ),14.4,0/8,-,-,-,-,16.9,14.2,Clear
+BANDAR LENGEH,14/01/2023,00Z,14.8,51%,1021.6 Hpa,070º (E ),18.0,0/8,-,-,-,-,-,-,Clear
+BANDAR-E-DAYYER,14/01/2023,21Z,21.1,72%,1020.3 Hpa,140º (SE),14.4,5/8,1/8 CU,AC,-,-,-,-,Cloudy
+BANDAR-E-DAYYER,14/01/2023,18Z,20.8,76%,1021.1 Hpa,170º (S ),10.8,5/8,1/8 CU,AC,-,-,-,-,Cloudy
+BANDAR-E-DAYYER,14/01/2023,15Z,21.3,70%,1020.3 Hpa,160º (S ),10.8,5/8,2/8 CU,AC,-,-,22.7,16.7,Cloudy
+BANDAR-E-DAYYER,14/01/2023,12Z,21.4,167%,1019.6 Hpa,160º (S ),7.2,7/8,2/8 CU/SC,AC,-,0.1(24h),-,-,Cloudy
+BANDAR-E-DAYYER,14/01/2023,09Z,21.4,70%,1021.2 Hpa,120º (SE),7.2,7/8,3/8 CB,AC,-,2.5(24h),-,-,Cloudy
+BANDAR-E-DAYYER,14/01/2023,06Z,18.6,28%,1022.8 Hpa,calm.,,6/8,3/8 CB,AC,-,2.5(24h),-,-,"Cloudy, mist"
+BANDAR-E-DAYYER,14/01/2023,03Z,16.8,85%,1020.9 Hpa,360º (N ),7.2,5/8,-,5/8 AC,-,2.5(24h),20.5,16.8,"Cloudy, mist"
+BANDAR-E-DAYYER,14/01/2023,00Z,16.8,85%,1021.2 Hpa,360º (N ),3.6,4/8,-,4/8 AC,-,2.5(24h),-,-,Scattered clouds
+BANDARABBASS,14/01/2023,21Z,13.4,34%,1021.8 Hpa,360º (N ),10.8,3/8,-,3/8 AC,-,-,-,-,Scattered clouds
+BANDARABBASS,14/01/2023,18Z,14.9,24%,1022.8 Hpa,030º (NE),10.8,3/8,-,3/8 AC,-,-,-,-,Scattered clouds
+BANDARABBASS,14/01/2023,15Z,17.4,17%,1021.6 Hpa,070º (E ),18.0,3/8,-,3/8 AC,-,-,21.1,-,Scattered clouds
+BANDARABBASS,14/01/2023,12Z,20.4,17%,1021.0 Hpa,080º (E ),18.0,3/8,-,3/8 AC,-,-,-,-,Scattered clouds
+BANDARABBASS,14/01/2023,09Z,20.0,22%,1022.5 Hpa,070º (E ),28.8,1/8,-,-,CI,-,-,-,Few clouds
+BANDARABBASS,14/01/2023,06Z,15.2,33%,1024.3 Hpa,070º (E ),18.0,0/8,-,-,-,-,-,-,Clear
+BANDARABBASS,14/01/2023,03Z,8.3,47%,1023.6 Hpa,010º (N),10.8,0/8,-,-,-,-,-,8.0,Clear
+BANDARABBASS,14/01/2023,00Z,9.6,41%,1022.7 Hpa,350º (N ),10.8,0/8,-,-,-,-,-,-,Clear
+BIRJAND,14/01/2023,21Z,-5.1,78%,1028.9 Hpa,130º (SE),10.8,0/8,-,-,-,-,-,-,Clear
+BIRJAND,14/01/2023,18Z,-3.6,68%,1030.9 Hpa,070º (E ),10.8,0/8,-,-,-,-,-,-,Clear
+BIRJAND,14/01/2023,15Z,0.3,44%,1032.7 Hpa,300º (NW),7.2,0/8,-,-,-,-,6.9,-10.8,Clear
+BIRJAND,14/01/2023,12Z,4.8,14%,1029.2 Hpa,310º (NW),21.6,5/8,-,-,CI,-,-,-,Cloudy
+BIRJAND,14/01/2023,09Z,5.4,14%,1028.8 Hpa,270º (W ),10.8,1/8,-,-,CI,-,-,-,Few clouds
+BIRJAND,14/01/2023,06Z,0.7,31%,1032.2 Hpa,090º (E ),10.8,1/8,-,-,CI,-,-,-,Few clouds
+BIRJAND,14/01/2023,03Z,-10.8,74%,1035.0 Hpa,120º (SE),7.2,0/8,-,-,-,-,-1.9,-10.9,Clear
+BIRJAND,14/01/2023,00Z,-9.0,73%,1029.9 Hpa,130º (SE),7.2,0/8,-,-,-,-,-,-,Clear
+BOJNOURD,14/01/2023,21Z,-9.6,52%,1034.6 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BOJNOURD,14/01/2023,18Z,-9.5,52%,1036.5 Hpa,Vble.,,1/8,1/8 SC,-,-,-,-,-,Few clouds
+BOJNOURD,14/01/2023,15Z,-6.4,51%,1036.9 Hpa,360º (N ),7.2,2/8,-,-,CI,-,0.4,-16.4,Few clouds
+BOJNOURD,14/01/2023,12Z,-0.2,28%,1034.8 Hpa,Vble.,,2/8,-,-,CI,-,-,-,Few clouds
+BOJNOURD,14/01/2023,09Z,-2.3,26%,1035.3 Hpa,calm.,,4/8,-,-,CI,-,-,-,Scattered clouds
+BOJNOURD,14/01/2023,06Z,-9.0,53%,1039.2 Hpa,calm.,,2/8,-,-,CI,-,-,-,Few clouds
+BOJNOURD,14/01/2023,03Z,-16.0,71%,1039.9 Hpa,Vble.,,0/8,-,-,-,-,-7.1,-16.4,Clear
+BOJNOURD,14/01/2023,00Z,-14.4,66%,1037.9 Hpa,Vble.,,0/8,-,-,-,-,-,-,Clear
+BUSHEHR (AIRPORT),14/01/2023,21Z,16.0,95%,1019.8 Hpa,080º (E ),10.8,8/8,6/8 CB,AC,,34.4(24h),-,-,"Overcast, mist"
+BUSHEHR (AIRPORT),14/01/2023,18Z,15.8,95%,1020.8 Hpa,090º (E ),18.0,8/8,6/8 CB,AC,,29.0(6h),-,-,"Overcast, rain"
+BUSHEHR (AIRPORT),14/01/2023,15Z,16.6,92%,1020.6 Hpa,330º (NW),14.4,8/8,6/8 CB,AC,,7.8(24h),19.6,15.0,"Overcast, rain, previous thunderstorm"
+BUSHEHR (AIRPORT),14/01/2023,12Z,18.3,74%,1019.3 Hpa,110º (E ),14.4,8/8,5/8 CB,AC,,Tr(6h),-,-,"Overcast, rain"
+BUSHEHR (AIRPORT),14/01/2023,09Z,18.1,80%,1021.0 Hpa,120º (SE),18.0,7/8,6/8 CB,AC,-,0.3(24h),-,-,"Cloudy, mist"
+BUSHEHR (AIRPORT),14/01/2023,06Z,17.0,71%,1022.1 Hpa,110º (E ),10.8,8/8,6/8 CB,AC,,Tr(6h),-,-,"Overcast, haze"
+BUSHEHR (AIRPORT),14/01/2023,03Z,15.5,73%,1021.2 Hpa,090º (E ),10.8,8/8,5/8 CB,AC,,-,17.4,14.0,"Overcast, rain"
+BUSHEHR (AIRPORT),14/01/2023,00Z,16.0,68%,1020.9 Hpa,090º (E ),10.8,4/8,4/8 SC,-,-,-,-,-,Scattered clouds
+CHAHBAHAR,14/01/2023,21Z,12.8,57%,1022.8 Hpa,080º (E ),10.8,0/8,-,-,-,-,-,-,Clear
+CHAHBAHAR,14/01/2023,18Z,14.5,51%,1024.0 Hpa,040º (NE),7.2,0/8,-,-,-,-,-,-,Clear
+CHAHBAHAR,14/01/2023,15Z,16.4,3764%,1021.8 Hpa,calm.,,0/8,-,-,-,-,21.2,11.8,Clear
+CHAHBAHAR,14/01/2023,12Z,20.3,30%,1019.1 Hpa,300º (NW),7.2,0/8,-,-,-,-,-,-,Clear
+CHAHBAHAR,14/01/2023,09Z,19.8,3041%,1020.6 Hpa,090º (E ),10.8,0/8,-,-,-,-,-,-,Clear
+CHAHBAHAR,14/01/2023,06Z,16.0,,1024.0 Hpa,060º (NE),25.2,0/8,-,-,-,-,-,-,Clear
+CHAHBAHAR,14/01/2023,03Z,11.8,5071%,1023.3 Hpa,060º (NE),25.2,0/8,-,-,-,-,17.2,10.6,"Clear, haze"
+CHAHBAHAR,14/01/2023,00Z,11.0,51%,1022.8 Hpa,040º (NE),10.8,0/8,-,-,-,-,-,-,"Clear, haze"
+ESFAHAN,14/01/2023,21Z,0.1,88%,1027.6 Hpa,calm.,,2/8,-,2/8 AC,-,-,-,-,"Few clouds, mist"
+ESFAHAN,14/01/2023,18Z,2.0,79%,1028.3 Hpa,110º (E ),3.6,8/8,2/8 SC,AC,,-,-,-,"Overcast, mist"
+ESFAHAN,14/01/2023,15Z,2.5,71%,1030.0 Hpa,calm.,,8/8,2/8 SC,-,CS,-,5.4,-3.9,"Overcast, haze"
+ESFAHAN,14/01/2023,12Z,5.3,51%,1028.4 Hpa,080º (E ),3.6,5/8,1/8 SC,-,CI,-,-,-,"Cloudy, haze"
+ESFAHAN,14/01/2023,09Z,3.3,52%,1030.7 Hpa,100º (E ),3.6,5/8,1/8 SC,-,CI,-,-,-,"Cloudy, haze"
+ESFAHAN,14/01/2023,06Z,2.1,55%,1032.5 Hpa,310º (NW),3.6,6/8,2/8 SC,-,CI,-,-,-,"Cloudy, haze"
+ESFAHAN,14/01/2023,03Z,-3.8,80%,1033.9 Hpa,300º (NW),3.6,7/8,2/8 SC,AC,-,-,-1.3,-3.8,Cloudy
+ESFAHAN,14/01/2023,00Z,-2.2,72%,1032.3 Hpa,300º (NW),7.2,7/8,2/8 SC,AC,-,-,-,-,Cloudy
+FASA,14/01/2023,21Z,8.2,84%,1021.5 Hpa,calm.,,8/8,5/8 CB,AC,,-,-,-,Overcast
+FASA,14/01/2023,18Z,8.8,79%,1023.5 Hpa,calm.,,6/8,2/8 SC,AC,-,-,-,-,Cloudy
+FASA,14/01/2023,15Z,10.4,69%,1023.3 Hpa,calm.,,5/8,-,4/8 AC,CI,-,14.8,1.0,Cloudy
+FASA,14/01/2023,12Z,14.8,46%,1021.4 Hpa,180º (S ),14.4,2/8,1/8 CU,AC,-,-,-,-,Few clouds
+FASA,14/01/2023,09Z,13.2,43%,1023.3 Hpa,calm.,,3/8,-,-,CI,-,-,-,Scattered clouds
+FASA,14/01/2023,06Z,7.6,63%,1026.3 Hpa,120º (SE),7.2,1/8,-,1/8 AC,-,-,-,-,Few clouds
+FASA,14/01/2023,03Z,1.0,89%,1025.9 Hpa,calm.,,2/8,-,1/8 AC,CI,-,7.2,0.4,Few clouds
+FASA,14/01/2023,00Z,0.8,89%,1024.5 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+FERDOUS,14/01/2023,21Z,-5.0,59%,1030.0 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+FERDOUS,14/01/2023,18Z,-3.4,43%,1032.0 Hpa,calm.,,2/8,-,-,CI,-,-,-,Few clouds
+FERDOUS,14/01/2023,15Z,-2.1,29%,1033.6 Hpa,270º (W ),3.6,2/8,-,-,CI,-,2.9,-8.2,Few clouds
+FERDOUS,14/01/2023,12Z,0.8,29%,1032.3 Hpa,280º (W ),14.4,6/8,-,-,CI,-,-,-,Cloudy
+FERDOUS,14/01/2023,09Z,1.5,34%,1032.3 Hpa,300º (NW),10.8,3/8,-,-,CI,-,-,-,Scattered clouds
+FERDOUS,14/01/2023,06Z,-1.7,45%,1034.4 Hpa,calm.,,3/8,-,-,CI,-,-,-,Scattered clouds
+FERDOUS,14/01/2023,03Z,-8.2,56%,1034.9 Hpa,060º (NE),7.2,1/8,-,-,CI,-,-5.6,-9.3,Few clouds
+FERDOUS,14/01/2023,00Z,-7.7,68%,1032.7 Hpa,060º (NE),10.8,0/8,-,-,-,-,-,-,Clear
+GACH SARAN DU GUNBADAN,14/01/2023,21Z,11.2,92%,1021.2 Hpa,calm.,,8/8,6/8 CB,AC,,6.5(24h),-,-,"Overcast, rain"
+GACH SARAN DU GUNBADAN,14/01/2023,18Z,11.4,92%,1022.7 Hpa,120º (SE),10.8,8/8,6/8 CB,AC,,4.0(6h),-,-,"Overcast, rain"
+GACH SARAN DU GUNBADAN,14/01/2023,15Z,12.1,88%,1022.9 Hpa,120º (SE),10.8,7/8,4/8 CB,AC,-,1.3(24h),16.1,6.3,"Cloudy, rain"
+GACH SARAN DU GUNBADAN,14/01/2023,12Z,14.9,66%,1020.8 Hpa,110º (E ),14.4,7/8,3/8 SC,AC,-,-,-,-,Cloudy
+GACH SARAN DU GUNBADAN,14/01/2023,09Z,15.8,56%,1021.9 Hpa,140º (SE),10.8,5/8,2/8 SC,AC,-,-,-,-,Cloudy
+GACH SARAN DU GUNBADAN,14/01/2023,06Z,12.7,61%,1023.6 Hpa,120º (SE),10.8,5/8,2/8 SC,-,CI,-,-,-,Cloudy
+GACH SARAN DU GUNBADAN,14/01/2023,03Z,6.6,85%,1023.2 Hpa,calm.,,3/8,1/8 SC,AC,-,-,12.6,6.2,Scattered clouds
+GACH SARAN DU GUNBADAN,14/01/2023,00Z,10.2,67%,1022.8 Hpa,calm.,,7/8,3/8 SC,AC,-,-,-,-,Cloudy
+GHARAKHIL,14/01/2023,21Z,-3.0,88%,1027.6 Hpa,calm.,,1/8,-,1/8 AC,-,-,-,-,Few clouds
+GHARAKHIL,14/01/2023,18Z,-0.4,87%,1028.7 Hpa,200º (S ),7.2,2/8,-,1/8 AC,CI,-,-,-,Few clouds
+GHARAKHIL,14/01/2023,15Z,2.6,71%,1027.7 Hpa,calm.,,2/8,-,1/8 AC,CI,-,12.0,-3.4,Few clouds
+GHARAKHIL,14/01/2023,12Z,9.0,65%,1028.2 Hpa,020º (N),7.2,4/8,1/8 SC,AC,CI,-,-,-,Scattered clouds
+GHARAKHIL,14/01/2023,09Z,9.5,54%,1028.6 Hpa,calm.,,4/8,1/8 SC,AC,CI,-,-,-,Scattered clouds
+GHARAKHIL,14/01/2023,06Z,2.0,81%,1030.3 Hpa,calm.,,6/8,2/8 SC,AC,CI,-,-,-,Cloudy
+GHARAKHIL,14/01/2023,03Z,-3.2,87%,1031.6 Hpa,calm.,,0/8,-,-,-,-,9.8,-3.2,Clear
+GHARAKHIL,14/01/2023,00Z,-3.2,87%,1031.5 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+GHAZVIN,14/01/2023,21Z,-1.1,58%,1029.6 Hpa,110º (E ),14.4,8/8,3/8 SC,AC,,-,-,-,Overcast
+GHAZVIN,14/01/2023,18Z,-0.3,53%,1030.9 Hpa,130º (SE),7.2,8/8,3/8 SC,AC,,-,-,-,Overcast
+GHAZVIN,14/01/2023,15Z,0.6,48%,1030.9 Hpa,130º (SE),7.2,8/8,2/8 SC,AC,,-,2.9,-4.0,Overcast
+GHAZVIN,14/01/2023,12Z,2.5,42%,1029.5 Hpa,160º (S ),7.2,7/8,-,7/8 AC,-,-,-,-,Cloudy
+GHAZVIN,14/01/2023,09Z,1.3,43%,1031.7 Hpa,140º (SE),14.4,7/8,2/8 SC,AC,-,-,-,-,Cloudy
+GHAZVIN,14/01/2023,06Z,-2.2,55%,1033.6 Hpa,110º (E ),7.2,7/8,1/8 CU,AC,CI,-,-,-,Cloudy
+GHAZVIN,14/01/2023,03Z,-3.8,65%,1032.9 Hpa,120º (SE),3.6,7/8,-,7/8 AC,-,-,-3.0,-5.1,Cloudy
+GHAZVIN,14/01/2023,00Z,-3.5,68%,1032.0 Hpa,070º (E ),3.6,0/8,-,-,-,-,-,-,Clear
+GHUCHAN,14/01/2023,21Z,-12.3,50%,1036.5 Hpa,060º (NE),18.0,0/8,-,-,-,-,-,-,Clear
+GHUCHAN,14/01/2023,18Z,-11.7,49%,1038.5 Hpa,060º (NE),25.2,0/8,-,-,-,-,-,-,Clear
+GHUCHAN,14/01/2023,15Z,-10.6,49%,1039.9 Hpa,050º (NE),18.0,1/8,-,-,CI,-,-4.5,-17.1,Few clouds
+GHUCHAN,14/01/2023,12Z,-5.9,45%,1037.1 Hpa,070º (E ),18.0,1/8,-,-,CI,-,-,-,Few clouds
+GHUCHAN,14/01/2023,09Z,-5.8,42%,1037.6 Hpa,080º (E ),25.2,1/8,-,-,CI,-,-,-,Few clouds
+GHUCHAN,14/01/2023,06Z,-10.8,52%,1039.8 Hpa,060º (NE),21.6,0/8,-,-,-,-,-,-,Clear
+GHUCHAN,14/01/2023,03Z,-16.8,56%,1041.2 Hpa,070º (E ),14.4,0/8,-,-,-,-,-12.3,-17.4,Clear
+GHUCHAN,14/01/2023,00Z,-16.0,59%,1040.1 Hpa,060º (NE),18.0,0/8,-,-,-,-,-,-,Clear
+GORGAN,14/01/2023,21Z,-3.8,81%,1029.5 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+GORGAN,14/01/2023,18Z,-2.4,75%,1030.1 Hpa,210º (SW),7.2,0/8,-,-,-,-,-,-,Clear
+GORGAN,14/01/2023,15Z,1.6,57%,1030.3 Hpa,calm.,,3/8,-,-,CI,-,10.8,-6.4,Scattered clouds
+GORGAN,14/01/2023,12Z,10.3,25%,1029.6 Hpa,calm.,,5/8,-,-,CS,-,-,-,Cloudy
+GORGAN,14/01/2023,09Z,8.6,38%,1030.7 Hpa,080º (E ),18.0,6/8,-,-,CI,-,-,-,Cloudy
+GORGAN,14/01/2023,06Z,2.7,78%,1032.7 Hpa,calm.,,4/8,-,-,CI,-,-,-,Scattered clouds
+GORGAN,14/01/2023,03Z,-5.4,89%,1032.9 Hpa,calm.,,4/8,-,-,CI,-,-3.9,-6.0,Scattered clouds
+GORGAN,14/01/2023,00Z,-5.0,88%,1032.7 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+HAMEDAN,14/01/2023,21Z,-4.3,97%,1028.2 Hpa,310º (NW),3.6,8/8,5/8 CB,AC,,3.9(24h),-,-,"Overcast, snow"
+HAMEDAN,14/01/2023,18Z,-4.1,94%,1029.8 Hpa,320º (NW),3.6,8/8,5/8 CB,AC,,Tr(6h),-,-,"Overcast, snow"
+HAMEDAN,14/01/2023,15Z,-4.0,94%,1030.5 Hpa,330º (NW),7.2,8/8,5/8 CB,AC,,0.9(24h),-2.4,-7.2,"Overcast, mist"
+HAMEDAN,14/01/2023,12Z,-3.2,88%,1029.7 Hpa,300º (NW),3.6,8/8,5/8 CB,AC,,0.9(6h),-,-,"Overcast, snow"
+HAMEDAN,14/01/2023,09Z,-3.6,86%,1031.0 Hpa,310º (NW),3.6,8/8,5/8 CB,AC,,0.8(24h),-,-,"Overcast, snow"
+HAMEDAN,14/01/2023,06Z,-5.4,85%,1031.5 Hpa,300º (NW),7.2,8/8,5/8 CB,AC,,-,-,-,"Overcast, mist"
+HAMEDAN,14/01/2023,03Z,-7.2,91%,1030.9 Hpa,190º (S ),3.6,5/8,5/8 SC,AC,-,-,-2.3,-8.1,Cloudy
+HAMEDAN,14/01/2023,00Z,-7.4,93%,1030.0 Hpa,160º (S ),3.6,2/8,2/8 SC,-,-,-,-,-,Few clouds
+ILAM,14/01/2023,21Z,5.0,97%,1018.6 Hpa,150º (SE),3.6,8/8,6/8 CB,AC,,27.6(24h),-,-,"Overcast, heavy thunderstorm"
+ILAM,14/01/2023,18Z,4.3,93%,1022.3 Hpa,130º (SE),10.8,7/8,4/8 CB,AC,-,4.0(6h),-,-,"Cloudy, rain"
+ILAM,14/01/2023,15Z,6.2,82%,1021.9 Hpa,130º (SE),14.4,8/8,3/8 SC,AC,,2.1(24h),10.0,3.2,Overcast
+ILAM,14/01/2023,12Z,9.1,60%,1021.1 Hpa,130º (SE),10.8,7/8,6/8 CB,AC,-,2.1(24h),-,-,Cloudy
+ILAM,14/01/2023,09Z,9.7,67%,1022.4 Hpa,160º (S ),10.8,1/8,1/8 SC,-,-,2.1(24h),-,-,Few clouds
+ILAM,14/01/2023,06Z,3.9,91%,1025.4 Hpa,130º (SE),7.2,7/8,4/8 CB,AC,-,2.0(6h),-,-,"Cloudy, mist"
+ILAM,14/01/2023,03Z,3.2,89%,1023.9 Hpa,130º (SE),10.8,8/8,5/8 CB,AC,,1.1(24h),5.8,1.9,"Overcast, rain"
+ILAM,14/01/2023,00Z,4.2,81%,1023.4 Hpa,130º (SE),7.2,8/8,4/8 CB,AC,,-,-,-,"Overcast, rain"
+IRANSHAHR,14/01/2023,21Z,4.2,39%,1026.6 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+IRANSHAHR,14/01/2023,18Z,6.2,35%,1027.3 Hpa,110º (E ),7.2,1/8,-,-,CI,-,-,-,Few clouds
+IRANSHAHR,14/01/2023,15Z,10.6,15%,1027.0 Hpa,260º (W ),10.8,1/8,-,-,CI,-,14.5,0.8,Few clouds
+IRANSHAHR,14/01/2023,12Z,14.1,16%,1024.8 Hpa,190º (S ),7.2,0/8,-,-,-,-,-,-,Clear
+IRANSHAHR,14/01/2023,09Z,11.5,17%,1026.5 Hpa,200º (S ),7.2,0/8,-,-,-,-,-,-,Clear
+IRANSHAHR,14/01/2023,06Z,8.4,21%,1029.8 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+IRANSHAHR,14/01/2023,03Z,0.9,45%,1027.7 Hpa,360º (N ),10.8,1/8,-,1/8 AC,-,-,9.6,0.3,Few clouds
+IRANSHAHR,14/01/2023,00Z,1.4,48%,1026.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+JASK,14/01/2023,21Z,17.1,56%,1020.8 Hpa,300º (NW),14.4,0/8,-,-,-,-,-,-,Clear
+JASK,14/01/2023,18Z,18.8,56%,1021.7 Hpa,330º (NW),14.4,0/8,-,-,-,-,-,-,Clear
+JASK,14/01/2023,15Z,19.5,48%,1021.1 Hpa,290º (W ),7.2,0/8,-,-,-,-,20.9,-,Clear
+JASK,14/01/2023,12Z,20.5,307%,1020.3 Hpa,240º (SW),14.4,3/8,-,-,CI,-,-,-,Scattered clouds
+JASK,14/01/2023,09Z,20.1,32%,1021.4 Hpa,140º (SE),7.2,0/8,-,-,-,-,-,-,Clear
+JASK,14/01/2023,06Z,18.5,347%,1023.5 Hpa,100º (E ),14.4,0/8,-,-,-,-,-,-,Clear
+JASK,14/01/2023,03Z,13.8,33%,1021.9 Hpa,290º (W ),10.8,0/8,-,-,-,-,20.9,13.0,Clear
+JASK,14/01/2023,00Z,14.9,35%,1021.3 Hpa,270º (W ),14.4,0/8,-,-,-,-,-,-,Clear
+KAHNUJ,14/01/2023,21Z,4.8,58%,1026.1 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KAHNUJ,14/01/2023,18Z,4.8,60%,1026.4 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KAHNUJ,14/01/2023,15Z,8.6,41%,1025.7 Hpa,calm.,,0/8,-,-,-,-,13.8,1.7,Clear
+KAHNUJ,14/01/2023,12Z,13.4,24%,1024.9 Hpa,050º (NE),10.8,0/8,-,-,-,-,-,-,Clear
+KAHNUJ,14/01/2023,09Z,11.6,24%,1026.5 Hpa,090º (E ),10.8,0/8,-,-,-,-,-,-,Clear
+KAHNUJ,14/01/2023,03Z,2.1,54%,1026.9 Hpa,calm.,,0/8,-,-,-,-,12.7,1.7,Clear
+KAHNUJ,14/01/2023,00Z,3.6,56%,1025.9 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KASHAN,14/01/2023,21Z,-0.3,60%,1032.1 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KASHAN,14/01/2023,18Z,-0.4,62%,1033.6 Hpa,calm.,,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+KASHAN,14/01/2023,15Z,1.7,48%,1032.7 Hpa,calm.,,3/8,3/8 SC,-,-,-,5.4,-3.2,Scattered clouds
+KASHAN,14/01/2023,12Z,4.3,35%,1031.4 Hpa,calm.,,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+KASHAN,14/01/2023,09Z,2.3,36%,1033.3 Hpa,calm.,,6/8,2/8 SC,AC,-,-,-,-,Cloudy
+KASHAN,14/01/2023,06Z,-0.2,36%,1035.0 Hpa,calm.,,6/8,2/8 SC,AC,-,-,-,-,Cloudy
+KASHAN,14/01/2023,03Z,-2.5,78%,1034.4 Hpa,calm.,,2/8,-,2/8 AC,-,-,1.9,-3.1,Few clouds
+KASHAN,14/01/2023,00Z,-2.4,81%,1033.7 Hpa,calm.,,4/8,-,4/8 AC,-,-,-,-,Scattered clouds
+KASHMAR,14/01/2023,21Z,-5.8,51%,1033.5 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KASHMAR,14/01/2023,18Z,-6.0,50%,1035.4 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KASHMAR,14/01/2023,15Z,-2.9,35%,1035.9 Hpa,calm.,,2/8,2/8 SC,-,-,-,2.6,-10.8,Few clouds
+KASHMAR,14/01/2023,12Z,1.3,18%,1033.9 Hpa,240º (SW),7.2,5/8,2/8 SC,-,CI,-,-,-,Cloudy
+KASHMAR,14/01/2023,09Z,-0.3,24%,1035.0 Hpa,calm.,,1/8,-,-,CI,-,-,-,Few clouds
+KASHMAR,14/01/2023,06Z,-4.1,30%,1037.3 Hpa,130º (SE),10.8,1/8,-,-,CI,-,-,-,Few clouds
+KASHMAR,14/01/2023,03Z,-9.9,48%,1037.1 Hpa,calm.,,0/8,-,-,-,-,-4.7,-10.3,Clear
+KASHMAR,14/01/2023,00Z,-9.5,52%,1035.5 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KERMAN,14/01/2023,21Z,-1.5,85%,1024.7 Hpa,120º (SE),10.8,0/8,-,-,-,-,-,-,Clear
+KERMAN,14/01/2023,18Z,2.5,67%,1027.1 Hpa,calm.,,2/8,-,-,CI,-,-,-,Few clouds
+KERMAN,14/01/2023,15Z,4.6,58%,1028.2 Hpa,360º (N ),7.2,2/8,-,-,CI,-,12.5,-6.5,Few clouds
+KERMAN,14/01/2023,12Z,11.5,28%,1024.1 Hpa,calm.,,2/8,-,-,CI,-,-,-,Few clouds
+KERMAN,14/01/2023,09Z,8.6,41%,1025.2 Hpa,calm.,,1/8,-,-,CI,-,-,-,Few clouds
+KERMAN,14/01/2023,06Z,1.0,75%,1030.3 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, haze"
+KERMAN,14/01/2023,03Z,-6.2,94%,1032.0 Hpa,310º (NW),7.2,0/8,-,-,-,-,5.3,-6.5,Clear
+KERMAN,14/01/2023,00Z,-5.6,94%,1028.5 Hpa,120º (SE),7.2,0/8,-,-,-,-,-,-,Clear
+KERMANSHAH,14/01/2023,21Z,0.9,96%,1023.4 Hpa,150º (SE),18.0,8/8,4/8 CB,AC,,11.6(24h),-,-,"Overcast, rain and snow"
+KERMANSHAH,14/01/2023,18Z,1.6,89%,1024.8 Hpa,130º (SE),18.0,8/8,4/8 CB,AC,,2.0(6h),-,-,"Overcast, rain and snow showers"
+KERMANSHAH,14/01/2023,15Z,2.0,88%,1024.5 Hpa,130º (SE),21.6,8/8,4/8 CB,AC,,4.6(24h),3.4,-,"Overcast, rain"
+KERMANSHAH,14/01/2023,12Z,2.9,83%,1024.2 Hpa,010º (N),14.4,7/8,4/8 SC,AC,-,2.0(6h),-,-,"Cloudy, mist"
+KERMANSHAH,14/01/2023,09Z,0.7,93%,1026.4 Hpa,110º (E ),14.4,8/8,8/8 ST,AC,,-,-,-,"Overcast, snow"
+KERMANSHAH,14/01/2023,06Z,0.4,96%,1026.3 Hpa,calm.,,8/8,6/8 CB,AC,,1.0(6h),-,-,"Overcast, snow showers"
+KERMANSHAH,14/01/2023,03Z,1.8,61%,1025.0 Hpa,110º (E ),18.0,8/8,4/8 SC,AC,,-,5.5,1.7,Overcast
+KERMANSHAH,14/01/2023,00Z,1.9,52%,1024.6 Hpa,090º (E ),14.4,6/8,4/8 SC,AC,-,-,-,-,Cloudy
+KHARG,14/01/2023,15Z,17.0,89%,1020.8 Hpa,080º (E ),25.2,8/8,6/8 CB,AC,,10.0(24h),20.1,16.8,"Overcast, rain"
+KHARG,14/01/2023,12Z,18.4,83%,1019.7 Hpa,110º (E ),18.0,8/8,8/8 CB,AC,,3.0(6h),-,-,"Overcast, thunderstorm no precipitation"
+KHARG,14/01/2023,09Z,19.6,79%,1020.9 Hpa,130º (SE),21.6,5/8,2/8 SC,AC,-,-,-,-,Cloudy
+KHARG,14/01/2023,06Z,18.7,79%,1022.2 Hpa,130º (SE),18.0,6/8,2/8 SC,AC,-,0.2(18h),-,-,"Cloudy, mist"
+KHARG,14/01/2023,03Z,17.2,77%,1021.6 Hpa,130º (SE),10.8,8/8,4/8 SC,AC,,0.2(24h),18.3,16.5,"Overcast, rain"
+KHOR,14/01/2023,21Z,-1.8,27%,1031.9 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KHOR,14/01/2023,18Z,-1.1,31%,1034.0 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KHOR,14/01/2023,15Z,1.5,24%,1033.8 Hpa,090º (E ),3.6,1/8,-,-,CI,-,7.1,-5.0,Few clouds
+KHOR,14/01/2023,12Z,6.8,15%,1032.2 Hpa,040º (NE),7.2,1/8,-,1/8 AC,-,-,-,-,Few clouds
+KHOR,14/01/2023,09Z,5.6,13%,1033.4 Hpa,180º (S ),3.6,7/8,-,1/8 AC,CI,-,-,-,Cloudy
+KHOR,14/01/2023,06Z,-0.5,24%,1036.0 Hpa,280º (W ),3.6,1/8,-,-,CI,-,-,-,Few clouds
+KHOR,14/01/2023,03Z,-5.0,32%,1035.7 Hpa,calm.,,3/8,-,-,CI,-,0.0,-6.8,Scattered clouds
+KHOR,14/01/2023,00Z,-4.2,28%,1034.6 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KHORRAM ABAD,14/01/2023,21Z,4.8,96%,1020.7 Hpa,150º (SE),7.2,8/8,6/8 CB,AC,,9.2(24h),-,-,"Overcast, rain"
+KHORRAM ABAD,14/01/2023,18Z,5.4,92%,1022.7 Hpa,100º (E ),7.2,8/8,6/8 CB,AC,,6.0(6h),-,-,"Overcast, rain"
+KHORRAM ABAD,14/01/2023,15Z,5.8,96%,1023.5 Hpa,270º (W ),7.2,8/8,6/8 CB,AC,,3.4(24h),8.7,2.4,"Overcast, rain"
+KHORRAM ABAD,14/01/2023,12Z,7.3,87%,1022.7 Hpa,280º (W ),10.8,8/8,6/8 CB,AC,-,0.6(6h),-,-,"Overcast, rain"
+KHORRAM ABAD,14/01/2023,09Z,7.2,82%,1024.8 Hpa,260º (W ),7.2,7/8,5/8 CB,AC,-,0.6(24h),-,-,"Cloudy, rain showers"
+KHORRAM ABAD,14/01/2023,06Z,4.2,84%,1026.1 Hpa,270º (W ),14.4,7/8,4/8 CB,AC,-,0.4(6h),-,-,"Cloudy, mist"
+KHORRAM ABAD,14/01/2023,03Z,2.9,89%,1024.4 Hpa,120º (SE),7.2,8/8,4/8 CB,AC,,0.2(24h),6.8,-0.1,"Overcast, rain"
+KHORRAM ABAD,14/01/2023,00Z,2.7,82%,1024.1 Hpa,120º (SE),7.2,7/8,3/8 SC,AC,-,-,-,-,Cloudy
+KHOY,14/01/2023,21Z,-2.2,80%,1026.6 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KHOY,14/01/2023,18Z,1.0,71%,1027.5 Hpa,calm.,,3/8,-,-,CI,-,-,-,Scattered clouds
+KHOY,14/01/2023,15Z,2.4,57%,1027.1 Hpa,calm.,,0/8,-,-,-,-,5.0,-5.2,Clear
+KHOY,14/01/2023,12Z,4.4,52%,1025.8 Hpa,calm.,,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+KHOY,14/01/2023,09Z,3.4,53%,1027.7 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KHOY,14/01/2023,06Z,-1.8,72%,1029.9 Hpa,calm.,,4/8,4/8 SC,-,-,-,-,-,Scattered clouds
+KHOY,14/01/2023,03Z,-4.6,95%,1029.0 Hpa,calm.,,6/8,4/8 SC,AC,-,-,1.6,-5.0,"Cloudy, mist"
+KHOY,14/01/2023,00Z,-4.4,93%,1030.8 Hpa,calm.,,8/8,4/8 SC,AC,,-,-,-,"Overcast, mist"
+KISH ISLAND,14/01/2023,21Z,17.4,57%,1020.6 Hpa,070º (E ),10.8,4/8,-,2/8 AC,CI,-,-,-,Scattered clouds
+KISH ISLAND,14/01/2023,18Z,18.4,53%,1021.7 Hpa,100º (E ),10.8,3/8,-,2/8 AC,CI,-,-,-,Scattered clouds
+KISH ISLAND,14/01/2023,15Z,19.0,50%,1021.3 Hpa,120º (SE),10.8,3/8,-,2/8 AC,CI,-,20.6,15.0,Scattered clouds
+KISH ISLAND,14/01/2023,12Z,20.0,45%,1020.6 Hpa,100º (E ),14.4,4/8,-,3/8 AC,CC,-,-,-,Scattered clouds
+KISH ISLAND,14/01/2023,09Z,19.8,46%,1021.9 Hpa,120º (SE),25.2,3/8,-,-,CC,-,-,-,Scattered clouds
+KISH ISLAND,14/01/2023,06Z,18.6,49%,1023.6 Hpa,120º (SE),18.0,1/8,-,-,CC,-,-,-,Few clouds
+KISH ISLAND,14/01/2023,03Z,15.0,62%,1021.6 Hpa,090º (E ),18.0,0/8,-,-,-,-,17.2,14.6,Clear
+KISH ISLAND,14/01/2023,00Z,15.2,60%,1021.9 Hpa,090º (E ),14.4,0/8,-,-,-,-,-,-,Clear
+MAKKO,14/01/2023,21Z,-4.6,71%,1028.5 Hpa,calm.,,1/8,1/8 SC,-,-,-,-,-,Few clouds
+MAKKO,14/01/2023,18Z,-3.8,73%,1030.4 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+MAKKO,14/01/2023,15Z,-3.0,66%,1030.4 Hpa,calm.,,2/8,-,2/8 AC,-,-,1.4,-10.0,Few clouds
+MAKKO,14/01/2023,12Z,0.6,49%,1028.4 Hpa,100º (E ),14.4,1/8,-,1/8 AC,-,-,-,-,"Few clouds, haze"
+MAKKO,14/01/2023,09Z,-1.4,59%,1030.6 Hpa,080º (E ),10.8,0/8,-,-,-,-,-,-,"Clear, haze"
+MAKKO,14/01/2023,06Z,-6.8,73%,1032.5 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, haze"
+MAKKO,14/01/2023,03Z,-9.4,86%,1032.1 Hpa,calm.,,0/8,-,-,-,-,-5.2,-10.6,Clear
+MAKKO,14/01/2023,00Z,-9.0,86%,1032.0 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+MARAGHEH,14/01/2023,21Z,-0.5,81%,1024.6 Hpa,080º (E ),7.2,8/8,-,8/8 AC,,-,-,-,"Overcast, mist"
+MARAGHEH,14/01/2023,18Z,-0.3,78%,1025.6 Hpa,110º (E ),3.6,6/8,-,6/8 AC,-,-,-,-,"Cloudy, haze"
+MARAGHEH,14/01/2023,15Z,1.2,71%,1024.9 Hpa,080º (E ),7.2,8/8,-,8/8 AC,,-,2.5,-1.9,"Overcast, haze"
+MARAGHEH,14/01/2023,12Z,2.5,64%,1024.3 Hpa,010º (N),3.6,8/8,-,8/8 AC,,-,-,-,"Overcast, haze"
+MARAGHEH,14/01/2023,09Z,1.5,65%,1025.4 Hpa,270º (W ),7.2,8/8,-,8/8 AC,,-,-,-,"Overcast, haze"
+MARAGHEH,14/01/2023,06Z,-0.6,70%,1026.8 Hpa,300º (NW),3.6,8/8,-,8/8 AC,,-,-,-,"Overcast, haze"
+MARAGHEH,14/01/2023,03Z,-0.8,67%,1025.9 Hpa,080º (E ),10.8,7/8,1/8 SC,-,CI,-,-0.5,-1.3,Cloudy
+MARAGHEH,14/01/2023,00Z,-0.7,67%,1025.5 Hpa,090º (E ),7.2,6/8,1/8 SC,-,CI,-,-,-,Cloudy
+MARAVEH-TAPPEH,14/01/2023,21Z,1.5,23%,1028.8 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+MARAVEH-TAPPEH,14/01/2023,18Z,3.7,18%,1029.9 Hpa,140º (SE),14.4,0/8,-,-,-,-,-,-,Clear
+MARAVEH-TAPPEH,14/01/2023,15Z,4.5,17%,1030.3 Hpa,calm.,,3/8,-,-,CS,-,9.3,-3.1,Scattered clouds
+MARAVEH-TAPPEH,14/01/2023,12Z,8.8,17%,1029.5 Hpa,calm.,,2/8,-,-,CI,-,-,-,Few clouds
+MARAVEH-TAPPEH,14/01/2023,09Z,5.1,19%,1031.3 Hpa,270º (W ),7.2,6/8,-,-,CI,-,-,-,Cloudy
+MARAVEH-TAPPEH,14/01/2023,06Z,1.4,29%,1033.3 Hpa,040º (NE),7.2,3/8,-,-,CI,-,-,-,Scattered clouds
+MARAVEH-TAPPEH,14/01/2023,03Z,-2.5,31%,1033.0 Hpa,calm.,,0/8,-,-,-,-,2.7,-3.1,Clear
+MARAVEH-TAPPEH,14/01/2023,00Z,-2.2,35%,1032.1 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+MASHHAD,14/01/2023,21Z,-13.2,82%,1038.1 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, mist"
+MASHHAD,14/01/2023,18Z,-11.7,75%,1039.8 Hpa,120º (SE),7.2,0/8,-,-,-,-,-,-,"Clear, haze"
+MASHHAD,14/01/2023,15Z,-8.8,69%,1041.0 Hpa,190º (S ),7.2,3/8,-,-,CI,-,-3.3,-18.0,"Scattered clouds, haze"
+MASHHAD,14/01/2023,12Z,-5.4,62%,1039.3 Hpa,100º (E ),10.8,4/8,-,-,CI,-,-,-,"Scattered clouds, haze"
+MASHHAD,14/01/2023,09Z,-5.2,56%,1039.9 Hpa,110º (E ),14.4,0/8,-,-,-,-,-,-,"Clear, haze"
+MASHHAD,14/01/2023,06Z,-10.6,63%,1043.2 Hpa,080º (E ),7.2,0/8,-,-,-,-,-,-,Clear
+MASHHAD,14/01/2023,03Z,-18.0,84%,1044.0 Hpa,calm.,,0/8,-,-,-,-,-15.0,-18.0,Clear
+MASHHAD,14/01/2023,00Z,-17.2,80%,1042.1 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+MASJED-SOLEYMAN,14/01/2023,21Z,12.6,91%,1018.0 Hpa,160º (S ),3.6,7/8,4/8 SC,AC,-,2.0(24h),-,-,Cloudy
+MASJED-SOLEYMAN,14/01/2023,18Z,12.9,90%,1019.3 Hpa,170º (S ),3.6,7/8,4/8 SC,AC,-,2.0(6h),-,-,Cloudy
+MASJED-SOLEYMAN,14/01/2023,15Z,14.3,81%,1019.4 Hpa,080º (E ),3.6,8/8,5/8 CB,AC,,0.4(24h),19.1,9.1,"Overcast, rain"
+MASJED-SOLEYMAN,14/01/2023,12Z,18.0,52%,1018.7 Hpa,170º (S ),3.6,8/8,3/8 SC,AC,,-,-,-,Overcast
+MASJED-SOLEYMAN,14/01/2023,09Z,18.8,42%,1019.7 Hpa,130º (SE),7.2,5/8,-,3/8 AC,CI,-,-,-,Cloudy
+MASJED-SOLEYMAN,14/01/2023,06Z,10.5,76%,1021.5 Hpa,310º (NW),3.6,7/8,4/8 SC,AC,-,-,-,-,Cloudy
+MASJED-SOLEYMAN,14/01/2023,03Z,9.1,79%,1020.6 Hpa,360º (N ),3.6,2/8,2/8 SC,-,-,-,13.0,9.0,Few clouds
+MASJED-SOLEYMAN,14/01/2023,00Z,10.7,75%,1021.9 Hpa,calm.,,5/8,3/8 SC,AC,-,-,-,-,Cloudy
+MEYANEH,14/01/2023,21Z,-0.6,83%,1027.1 Hpa,calm.,,7/8,-,-,CI,-,-,-,Cloudy
+MEYANEH,14/01/2023,18Z,-0.8,78%,1028.9 Hpa,calm.,,7/8,1/8 SC,AC,CI,-,-,-,Cloudy
+MEYANEH,14/01/2023,15Z,2.2,63%,1027.9 Hpa,calm.,,7/8,2/8 SC,AC,CI,-,3.4,-2.6,Cloudy
+MEYANEH,14/01/2023,12Z,3.2,52%,1027.3 Hpa,calm.,,7/8,2/8 SC,AC,CI,-,-,-,Cloudy
+MEYANEH,14/01/2023,09Z,2.2,53%,1028.7 Hpa,calm.,,7/8,2/8 SC,AC,CI,-,-,-,Cloudy
+MEYANEH,14/01/2023,06Z,-1.2,57%,1030.7 Hpa,calm.,,8/8,2/8 SC,AC,,-,-,-,Overcast
+MEYANEH,14/01/2023,03Z,-2.6,84%,1031.8 Hpa,calm.,,6/8,-,-,CI,-,0.0,-3.0,Cloudy
+MEYANEH,14/01/2023,00Z,-3.0,74%,1031.0 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+MOHABAD,14/01/2023,21Z,0.2,70%,1026.3 Hpa,calm.,,8/8,4/8 SC,AC,,-,-,-,"Overcast, haze"
+MOHABAD,14/01/2023,18Z,-0.4,76%,1027.1 Hpa,calm.,,6/8,4/8 SC,AC,-,-,-,-,"Cloudy, haze"
+MOHABAD,14/01/2023,15Z,-1.0,72%,1026.9 Hpa,calm.,,6/8,4/8 SC,AC,-,-,1.2,-1.4,"Cloudy, haze"
+MOHABAD,14/01/2023,12Z,0.4,70%,1025.9 Hpa,060º (NE),7.2,8/8,5/8 SC,AC,,-,-,-,"Overcast, haze"
+MOHABAD,14/01/2023,09Z,0.0,62%,1027.4 Hpa,calm.,,8/8,5/8 SC,AC,,-,-,-,"Overcast, haze"
+MOHABAD,14/01/2023,06Z,-1.0,74%,1027.9 Hpa,calm.,,8/8,5/8 SC,AC,,-,-,-,"Overcast, haze"
+MOHABAD,14/01/2023,03Z,-1.2,74%,1027.3 Hpa,calm.,,3/8,3/8 SC,-,-,-,1.0,-1.6,Scattered clouds
+MOHABAD,14/01/2023,00Z,-1.0,83%,1026.7 Hpa,calm.,,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+NEHBANDAN,14/01/2023,21Z,-4.6,40%,1029.5 Hpa,090º (E ),3.6,2/8,-,-,CI,-,-,-,Few clouds
+NEHBANDAN,14/01/2023,18Z,-3.5,33%,1031.3 Hpa,240º (SW),3.6,0/8,-,-,-,-,-,-,Clear
+NEHBANDAN,14/01/2023,15Z,-1.7,26%,1033.3 Hpa,060º (NE),7.2,1/8,-,-,CI,-,4.2,-8.2,Few clouds
+NEHBANDAN,14/01/2023,12Z,3.6,14%,1031.2 Hpa,030º (NE),10.8,2/8,-,-,CI,-,-,-,Few clouds
+NEHBANDAN,14/01/2023,09Z,3.2,23%,1031.0 Hpa,030º (NE),10.8,0/8,-,-,-,-,-,-,Clear
+NEHBANDAN,14/01/2023,06Z,-0.4,34%,1034.4 Hpa,030º (NE),3.6,0/8,-,-,-,-,-,-,Clear
+NEHBANDAN,14/01/2023,03Z,-8.1,73%,1033.2 Hpa,150º (SE),3.6,0/8,-,-,-,-,-1.6,-8.2,Clear
+NEHBANDAN,14/01/2023,00Z,-7.2,54%,1030.8 Hpa,180º (S ),3.6,0/8,-,-,-,-,-,-,"Clear, haze"
+NOSHAHR,14/01/2023,21Z,3.0,82%,1026.8 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+NOSHAHR,14/01/2023,18Z,3.8,83%,1027.5 Hpa,calm.,,3/8,-,3/8 AC,-,-,-,-,Scattered clouds
+NOSHAHR,14/01/2023,15Z,6.4,69%,1027.4 Hpa,calm.,,5/8,-,5/8 AC,-,-,10.0,1.2,Cloudy
+NOSHAHR,14/01/2023,12Z,9.2,58%,1027.4 Hpa,060º (NE),14.4,2/8,-,1/8 AC,CI,-,-,-,Few clouds
+NOSHAHR,14/01/2023,09Z,9.4,55%,1028.2 Hpa,070º (E ),14.4,4/8,-,1/8 AC,CI,-,-,-,Scattered clouds
+NOSHAHR,14/01/2023,06Z,4.4,70%,1029.4 Hpa,calm.,,6/8,-,-,CI,-,-,-,Cloudy
+NOSHAHR,14/01/2023,03Z,2.0,81%,1029.6 Hpa,calm.,,0/8,-,-,-,-,3.4,1.6,Clear
+NOSHAHR,14/01/2023,00Z,2.0,81%,1029.6 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+OMIDYEH-AGHAJARI,14/01/2023,21Z,15.5,89%,1019.9 Hpa,calm.,,7/8,7/8 CB,-,-,1.3(24h),-,-,"Cloudy, mist"
+OMIDYEH-AGHAJARI,14/01/2023,18Z,16.1,89%,1020.6 Hpa,170º (S ),25.2,6/8,6/8 CB,-,-,1.0(6h),-,-,"Cloudy, mist"
+OMIDYEH-AGHAJARI,14/01/2023,15Z,17.4,81%,1020.3 Hpa,130º (SE),10.8,7/8,7/8 CB,-,-,-,20.5,11.0,"Cloudy, mist"
+OMIDYEH-AGHAJARI,14/01/2023,12Z,19.5,71%,1020.2 Hpa,180º (S ),10.8,7/8,7/8 CB,-,-,-,-,-,"Cloudy, haze"
+OMIDYEH-AGHAJARI,14/01/2023,09Z,20.3,57%,1021.6 Hpa,170º (S ),25.2,8/8,8/8 CB,,,-,-,-,Overcast
+OMIDYEH-AGHAJARI,14/01/2023,06Z,15.6,73%,1022.5 Hpa,200º (S ),3.6,6/8,2/8 SC,AC,-,-,-,-,Cloudy
+OMIDYEH-AGHAJARI,14/01/2023,03Z,12.6,79%,1021.6 Hpa,160º (S ),10.8,3/8,3/8 SC,-,-,-,16.2,11.0,"Scattered clouds, haze"
+OMIDYEH-AGHAJARI,14/01/2023,00Z,11.6,93%,1022.8 Hpa,calm.,,6/8,6/8 SC,-,-,-,-,-,"Cloudy, mist"
+ORUMIEH,14/01/2023,21Z,-3.8,87%,1027.2 Hpa,250º (W ),7.2,4/8,2/8 SC,-,CI,0.1(24h),-,-,"Scattered clouds, mist"
+ORUMIEH,14/01/2023,18Z,-1.6,75%,1028.3 Hpa,300º (NW),7.2,7/8,4/8 SC,AC,-,0.1(24h),-,-,"Cloudy, haze"
+ORUMIEH,14/01/2023,15Z,-0.7,63%,1027.3 Hpa,350º (N ),7.2,7/8,4/8 SC,AC,-,0.1(24h),2.3,-2.7,"Cloudy, haze"
+ORUMIEH,14/01/2023,12Z,1.6,49%,1025.9 Hpa,140º (SE),7.2,7/8,4/8 SC,AC,-,0.1(24h),-,-,"Cloudy, haze"
+ORUMIEH,14/01/2023,09Z,0.8,60%,1027.5 Hpa,060º (NE),7.2,8/8,5/8 ST,AC,,0.1(24h),-,-,"Overcast, haze"
+ORUMIEH,14/01/2023,06Z,-2.0,64%,1029.5 Hpa,030º (NE),7.2,8/8,5/8 ST,AC,,0.1(6h),-,-,"Overcast, haze"
+ORUMIEH,14/01/2023,03Z,-2.6,77%,1028.6 Hpa,360º (N ),3.6,8/8,3/8 SC,AC,,Tr(24h),-2.0,-4.9,"Overcast, haze"
+ORUMIEH,14/01/2023,00Z,-2.6,75%,1028.7 Hpa,calm.,,8/8,3/8 SC,AC,,Tr(24h),-,-,"Overcast, haze"
+PARS ABAD MOGHAN,14/01/2023,21Z,-2.9,90%,1030.0 Hpa,260º (W ),10.8,2/8,2/8 SC,-,-,-,-,-,Few clouds
+PARS ABAD MOGHAN,14/01/2023,18Z,-1.1,86%,1029.4 Hpa,220º (SW),10.8,2/8,2/8 SC,-,-,-,-,-,Few clouds
+PARS ABAD MOGHAN,14/01/2023,15Z,1.1,74%,1028.3 Hpa,050º (NE),3.6,2/8,2/8 SC,-,-,-,7.3,-3.8,Few clouds
+PARS ABAD MOGHAN,14/01/2023,12Z,6.9,57%,1027.3 Hpa,320º (NW),7.2,2/8,2/8 SC,-,-,-,-,-,Few clouds
+PARS ABAD MOGHAN,14/01/2023,09Z,5.0,83%,1028.5 Hpa,280º (W ),10.8,2/8,-,-,CI,-,-,-,Few clouds
+PARS ABAD MOGHAN,14/01/2023,06Z,-3.8,94%,1029.4 Hpa,230º (SW),10.8,2/8,2/8 SC,-,-,-,-,-,Few clouds
+PARS ABAD MOGHAN,14/01/2023,03Z,-3.8,94%,1029.4 Hpa,230º (SW),10.8,6/8,6/8 SC,-,-,-,2.3,-4.5,Cloudy
+PARS ABAD MOGHAN,14/01/2023,00Z,-4.0,92%,1029.9 Hpa,250º (W ),7.2,6/8,6/8 SC,-,-,-,-,-,Cloudy
+RAMSAR,14/01/2023,21Z,5.2,80%,1026.6 Hpa,240º (SW),3.6,0/8,-,-,-,-,-,-,Clear
+RAMSAR,14/01/2023,18Z,6.4,75%,1027.6 Hpa,230º (SW),3.6,4/8,2/8 SC,AC,-,-,-,-,Scattered clouds
+RAMSAR,14/01/2023,15Z,8.0,69%,1027.3 Hpa,180º (S ),3.6,5/8,4/8 CB,AC,-,-,10.6,1.4,Cloudy
+RAMSAR,14/01/2023,12Z,10.0,59%,1027.3 Hpa,120º (SE),7.2,4/8,2/8 SC,AC,CI,-,-,-,Scattered clouds
+RAMSAR,14/01/2023,09Z,9.0,57%,1028.2 Hpa,090º (E ),10.8,4/8,-,1/8 AC,CI,-,-,-,Scattered clouds
+RAMSAR,14/01/2023,06Z,5.2,77%,1028.9 Hpa,360º (N ),28.8,4/8,1/8 SC,-,CI,-,-,-,"Scattered clouds, haze"
+RAMSAR,14/01/2023,03Z,1.4,88%,1029.0 Hpa,200º (S ),3.6,3/8,3/8 SC,-,-,-,6.8,1.4,Scattered clouds
+RAMSAR,14/01/2023,00Z,3.6,82%,1029.4 Hpa,240º (SW),3.6,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+RASHT,14/01/2023,21Z,5.6,81%,1027.7 Hpa,210º (SW),7.2,7/8,4/8 SC,AC,-,-,-,-,Cloudy
+RASHT,14/01/2023,18Z,5.6,81%,1028.2 Hpa,210º (SW),7.2,7/8,4/8 SC,AC,-,-,-,-,Cloudy
+RASHT,14/01/2023,15Z,6.2,75%,1028.2 Hpa,220º (SW),7.2,7/8,3/8 SC,AC,-,-,7.4,3.2,Cloudy
+RASHT,14/01/2023,12Z,6.8,73%,1027.9 Hpa,250º (W ),10.8,7/8,3/8 SC,AC,-,-,-,-,"Cloudy, haze"
+RASHT,14/01/2023,09Z,7.2,65%,1029.2 Hpa,270º (W ),7.2,5/8,2/8 SC,-,CS,-,-,-,"Cloudy, haze"
+RASHT,14/01/2023,06Z,4.4,83%,1030.1 Hpa,230º (SW),7.2,7/8,4/8 SC,-,CI,-,-,-,"Cloudy, mist"
+RASHT,14/01/2023,03Z,3.2,100%,1030.0 Hpa,180º (S ),7.2,7/8,4/8 SC,AC,-,-,4.6,2.0,"Cloudy, mist"
+RASHT,14/01/2023,00Z,3.4,100%,1030.9 Hpa,210º (SW),7.2,7/8,4/8 SC,AC,-,-,-,-,"Cloudy, mist"
+SABZEVAR,14/01/2023,21Z,-3.7,25%,1033.0 Hpa,calm.,,2/8,-,-,CI,-,-,-,Few clouds
+SABZEVAR,14/01/2023,18Z,-5.2,34%,1035.1 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SABZEVAR,14/01/2023,15Z,-2.0,25%,1035.1 Hpa,calm.,,3/8,-,-,CI,-,5.3,-9.9,Scattered clouds
+SABZEVAR,14/01/2023,12Z,5.1,9%,1030.9 Hpa,calm.,,4/8,-,-,CI,-,-,-,Scattered clouds
+SABZEVAR,14/01/2023,09Z,0.8,13%,1034.4 Hpa,100º (E ),14.4,3/8,-,-,CI,-,-,-,Scattered clouds
+SABZEVAR,14/01/2023,06Z,-5.7,23%,1037.3 Hpa,080º (E ),25.2,2/8,-,-,CI,-,-,-,Few clouds
+SABZEVAR,14/01/2023,03Z,-9.3,24%,1036.2 Hpa,080º (E ),7.2,0/8,-,-,-,-,-1.4,-9.3,Clear
+SABZEVAR,14/01/2023,00Z,-4.1,17%,1035.9 Hpa,070º (E ),25.2,0/8,-,-,-,-,-,-,Clear
+SAFI-ABAD DEZFUL,14/01/2023,21Z,14.1,88%,1019.2 Hpa,100º (E ),10.8,8/8,5/8 CB,AC,,1.2(24h),-,-,Overcast
+SAFI-ABAD DEZFUL,14/01/2023,18Z,14.0,88%,1020.0 Hpa,050º (NE),7.2,7/8,3/8 CB,AC,-,0.7(6h),-,-,Cloudy
+SAFI-ABAD DEZFUL,14/01/2023,15Z,14.0,91%,1020.2 Hpa,040º (NE),10.8,8/8,5/8 CB,AC,,0.9(24h),19.1,10.8,"Overcast, rain"
+SAFI-ABAD DEZFUL,14/01/2023,12Z,14.6,84%,1019.6 Hpa,030º (NE),7.2,8/8,5/8 CB,AC,,0.5(6h),-,-,"Overcast, rain showers"
+SAFI-ABAD DEZFUL,14/01/2023,09Z,18.9,57%,1021.1 Hpa,100º (E ),10.8,5/8,3/8 SC,AC,-,-,-,-,Cloudy
+SAFI-ABAD DEZFUL,14/01/2023,06Z,12.6,83%,1022.2 Hpa,060º (NE),3.6,5/8,2/8 SC,AC,-,-,-,-,Cloudy
+SAFI-ABAD DEZFUL,14/01/2023,03Z,10.2,89%,1022.0 Hpa,030º (NE),7.2,7/8,2/8 SC,AC,-,-,11.8,10.0,"Cloudy, mist"
+SAFI-ABAD DEZFUL,14/01/2023,00Z,10.3,88%,1022.4 Hpa,030º (NE),7.2,7/8,2/8 SC,AC,-,-,-,-,"Cloudy, mist"
+SAGHEZ,14/01/2023,21Z,-0.9,86%,1024.8 Hpa,calm.,,8/8,3/8 SC,AC,,Tr(24h),-,-,"Overcast, mist"
+SAGHEZ,14/01/2023,18Z,0.2,78%,1025.6 Hpa,210º (SW),7.2,8/8,3/8 SC,AC,,-,-,-,Overcast
+SAGHEZ,14/01/2023,15Z,2.2,74%,1025.6 Hpa,130º (SE),10.8,8/8,5/8 ST,AC,,Tr(24h),4.6,-3.2,"Overcast, haze"
+SAGHEZ,14/01/2023,12Z,4.3,62%,1024.1 Hpa,140º (SE),10.8,8/8,3/8 SC,AC,,-,-,-,Overcast
+SAGHEZ,14/01/2023,09Z,2.8,65%,1025.9 Hpa,calm.,,6/8,2/8 SC,AC,-,-,-,-,Cloudy
+SAGHEZ,14/01/2023,06Z,-1.0,77%,1028.4 Hpa,calm.,,6/8,2/8 SC,AC,-,-,-,-,Cloudy
+SAGHEZ,14/01/2023,03Z,-2.9,83%,1027.4 Hpa,180º (S ),7.2,7/8,2/8 SC,AC,-,-,-0.6,-4.0,Cloudy
+SAGHEZ,14/01/2023,00Z,-3.4,82%,1027.5 Hpa,calm.,,5/8,2/8 SC,AC,-,-,-,-,Cloudy
+SANANDAJ,14/01/2023,21Z,0.0,91%,1025.6 Hpa,calm.,,8/8,7/8 ST,AC,,2.4(24h),-,-,"Overcast, snow"
+SANANDAJ,14/01/2023,18Z,0.0,92%,1026.5 Hpa,calm.,,8/8,7/8 ST,AC,,0.2(6h),-,-,"Overcast, snow"
+SANANDAJ,14/01/2023,15Z,0.4,90%,1026.9 Hpa,170º (S ),7.2,8/8,6/8 ST,AC,,1.4(24h),0.8,-1.3,"Overcast, snow"
+SANANDAJ,14/01/2023,12Z,0.8,89%,1027.0 Hpa,calm.,,8/8,6/8 ST,AC,,1.0(6h),-,-,"Overcast, snow"
+SANANDAJ,14/01/2023,09Z,0.1,87%,1027.7 Hpa,360º (N ),7.2,8/8,6/8 ST,AC,,0.4(24h),-,-,"Overcast, snow"
+SANANDAJ,14/01/2023,06Z,0.4,73%,1027.8 Hpa,Vble.,,8/8,6/8 ST,AC,,Tr(6h),-,-,"Overcast, snow"
+SANANDAJ,14/01/2023,03Z,-1.3,81%,1027.7 Hpa,Vble.,,8/8,4/8 SC,AC,-,-,1.2,-2.1,Overcast
+SANANDAJ,14/01/2023,00Z,-1.8,79%,1027.6 Hpa,calm.,,7/8,2/8 SC,AC,-,-,-,-,Cloudy
+SARAB,14/01/2023,21Z,-17.3,82%,1034.2 Hpa,180º (S ),7.2,2/8,1/8 SC,AC,-,-,-,-,"Few clouds, mist"
+SARAB,14/01/2023,18Z,-10.5,85%,1035.2 Hpa,calm.,,2/8,1/8 SC,AC,-,-,-,-,"Few clouds, mist"
+SARAB,14/01/2023,15Z,-8.6,80%,1035.0 Hpa,calm.,,6/8,2/8 SC,AC,-,-,-0.7,-14.5,"Cloudy, mist"
+SARAB,14/01/2023,12Z,-3.5,60%,1033.9 Hpa,calm.,,3/8,1/8 SC,-,CI,-,-,-,"Scattered clouds, haze"
+SARAB,14/01/2023,09Z,-2.8,51%,1035.6 Hpa,calm.,,3/8,1/8 SC,-,CI,-,-,-,"Scattered clouds, haze"
+SARAB,14/01/2023,06Z,-12.1,80%,1039.5 Hpa,calm.,,7/8,3/8 SC,AC,-,-,-,-,"Cloudy, mist"
+SARAB,14/01/2023,03Z,-14.7,83%,1039.4 Hpa,calm.,,6/8,2/8 SC,AC,-,-,-14.7,-21.8,Cloudy
+SARAB,14/01/2023,00Z,-17.5,81%,1036.7 Hpa,calm.,,2/8,-,2/8 AC,-,-,-,-,Few clouds
+SARAKHS,14/01/2023,21Z,-18.2,77%,1040.1 Hpa,160º (S ),7.2,0/8,-,-,-,-,-,-,Clear
+SARAKHS,14/01/2023,18Z,-16.4,74%,1042.1 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SARAKHS,14/01/2023,15Z,-13.5,69%,1042.5 Hpa,calm.,,0/8,-,-,-,-,-7.3,-20.4,Clear
+SARAKHS,14/01/2023,12Z,-9.9,66%,1041.1 Hpa,100º (E ),7.2,0/8,-,-,-,-,-,-,Clear
+SARAKHS,14/01/2023,09Z,-9.1,69%,1041.8 Hpa,060º (NE),10.8,0/8,-,-,-,-,-,-,Clear
+SARAKHS,14/01/2023,06Z,-16.3,76%,1043.8 Hpa,140º (SE),7.2,0/8,-,-,-,-,-,-,Clear
+SARAKHS,14/01/2023,03Z,-20.0,77%,1043.5 Hpa,calm.,,0/8,-,-,-,-,-12.7,-21.6,Clear
+SARAKHS,14/01/2023,00Z,-20.0,76%,1043.7 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SARAVAN,14/01/2023,21Z,-1.2,14%,1030.4 Hpa,020º (N),14.4,0/8,-,-,-,-,-,-,"Clear, dust"
+SARAVAN,14/01/2023,18Z,0.8,10%,1031.5 Hpa,060º (NE),28.8,0/8,-,-,-,-,-,-,"Clear, dust"
+SARAVAN,14/01/2023,15Z,2.1,5%,1033.5 Hpa,050º (NE),32.4,0/8,-,-,-,-,6.0,-4.6,Clear
+SARAVAN,14/01/2023,12Z,5.6,8%,1029.4 Hpa,040º (NE),21.6,0/8,-,-,-,-,-,-,Clear
+SARAVAN,14/01/2023,09Z,4.3,8%,1030.6 Hpa,080º (E ),32.4,0/8,-,-,-,-,-,-,"Clear, dust"
+SARAVAN,14/01/2023,06Z,0.5,9%,1033.6 Hpa,030º (NE),25.2,0/8,-,-,-,-,-,-,Clear
+SARAVAN,14/01/2023,03Z,-4.5,11%,1033.4 Hpa,040º (NE),28.8,2/8,-,-,CI,-,-0.1,-4.6,Few clouds
+SARAVAN,14/01/2023,00Z,-3.9,14%,1031.6 Hpa,060º (NE),32.4,0/8,-,-,-,-,-,-,"Clear, dust"
+SEMNAN,14/01/2023,21Z,-3.2,46%,1032.3 Hpa,360º (N ),3.6,0/8,-,-,-,-,-,-,Clear
+SEMNAN,14/01/2023,18Z,-3.2,46%,1034.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SEMNAN,14/01/2023,15Z,-0.4,27%,1034.4 Hpa,240º (SW),3.6,0/8,-,-,-,-,2.6,-7.0,Clear
+SEMNAN,14/01/2023,12Z,2.4,26%,1032.3 Hpa,150º (SE),3.6,1/8,-,-,CS,-,-,-,Few clouds
+SEMNAN,14/01/2023,09Z,-0.2,28%,1034.5 Hpa,220º (SW),3.6,7/8,-,-,CS,-,-,-,Cloudy
+SEMNAN,14/01/2023,06Z,-2.8,47%,1036.1 Hpa,150º (SE),3.6,6/8,-,-,CI,-,-,-,Cloudy
+SEMNAN,14/01/2023,03Z,-7.0,62%,1035.2 Hpa,350º (N ),3.6,1/8,-,-,CI,-,-0.6,-8.0,Few clouds
+SEMNAN,14/01/2023,00Z,-6.4,59%,1034.6 Hpa,350º (N ),3.6,0/8,-,-,-,-,-,-,Clear
+SHAHRE-KORD,14/01/2023,21Z,-9.8,87%,1030.8 Hpa,340º (N ),7.2,4/8,1/8 SC,AC,-,-,-,-,"Scattered clouds, mist"
+SHAHRE-KORD,14/01/2023,18Z,-5.5,84%,1033.3 Hpa,310º (NW),3.6,7/8,2/8 SC,AC,-,-,-,-,"Cloudy, mist"
+SHAHRE-KORD,14/01/2023,15Z,-6.3,85%,1036.3 Hpa,020º (N),3.6,6/8,2/8 SC,AC,CI,-,1.6,-16.1,"Cloudy, mist"
+SHAHRE-KORD,14/01/2023,12Z,-1.6,60%,1033.1 Hpa,260º (W ),3.6,6/8,2/8 SC,-,CI,-,-,-,"Cloudy, haze"
+SHAHRE-KORD,14/01/2023,09Z,-3.3,57%,1035.9 Hpa,170º (S ),7.2,4/8,2/8 SC,-,CI,-,-,-,"Scattered clouds, haze"
+SHAHRE-KORD,14/01/2023,06Z,-10.4,72%,1040.9 Hpa,360º (N ),3.6,4/8,2/8 SC,-,CS,-,-,-,"Scattered clouds, haze"
+SHAHRE-KORD,14/01/2023,03Z,-16.1,87%,1041.3 Hpa,calm.,,5/8,2/8 SC,-,CI,-,-11.9,-18.4,"Cloudy, mist"
+SHAHRE-KORD,14/01/2023,00Z,-15.3,87%,1038.1 Hpa,340º (N ),3.6,4/8,4/8 SC,-,-,-,-,-,"Scattered clouds, mist"
+SHAHRUD,14/01/2023,21Z,-7.6,53%,1035.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SHAHRUD,14/01/2023,18Z,-5.4,44%,1035.6 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SHAHRUD,14/01/2023,15Z,-4.4,43%,1035.2 Hpa,260º (W ),7.2,0/8,-,-,-,-,0.0,-10.6,Clear
+SHAHRUD,14/01/2023,12Z,-0.6,31%,1032.8 Hpa,230º (SW),7.2,2/8,-,-,CI,-,-,-,Few clouds
+SHAHRUD,14/01/2023,09Z,-1.8,26%,1034.2 Hpa,210º (SW),10.8,4/8,-,-,CI,-,-,-,Scattered clouds
+SHAHRUD,14/01/2023,06Z,-4.2,39%,1035.7 Hpa,calm.,,3/8,-,-,CI,-,-,-,Scattered clouds
+SHAHRUD,14/01/2023,03Z,-10.4,56%,1035.9 Hpa,calm.,,0/8,-,-,-,-,-4.6,-10.6,Clear
+SHAHRUD,14/01/2023,00Z,-8.8,50%,1033.7 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SHIRAZ,14/01/2023,21Z,6.4,86%,1022.4 Hpa,calm.,,8/8,6/8 CB,AC,,0.6(24h),-,-,"Overcast, rain"
+SHIRAZ,14/01/2023,18Z,6.4,72%,1023.9 Hpa,calm.,,7/8,3/8 SC,AC,-,-,-,-,"Cloudy, haze"
+SHIRAZ,14/01/2023,15Z,8.6,63%,1023.7 Hpa,calm.,,7/8,3/8 SC,AC,-,-,11.6,2.0,"Cloudy, haze"
+SHIRAZ,14/01/2023,12Z,9.8,51%,1022.4 Hpa,calm.,,8/8,4/8 SC,AC,-,-,-,-,"Overcast, haze"
+SHIRAZ,14/01/2023,09Z,8.6,53%,1024.8 Hpa,calm.,,7/8,3/8 SC,AC,-,-,-,-,"Cloudy, haze"
+SHIRAZ,14/01/2023,06Z,6.2,62%,1026.6 Hpa,070º (E ),7.2,4/8,1/8 CU,AC,CI,-,-,-,"Scattered clouds, haze"
+SHIRAZ,14/01/2023,03Z,2.0,89%,1026.5 Hpa,calm.,,7/8,2/8 SC,AC,-,-,4.2,1.4,"Cloudy, mist"
+SHIRAZ,14/01/2023,00Z,2.8,84%,1024.9 Hpa,calm.,,7/8,2/8 SC,AC,-,-,-,-,"Cloudy, mist"
+SIRI ISLAND,14/01/2023,15Z,19.8,55%,1021.0 Hpa,070º (E ),18.0,3/8,-,3/8 AC,-,-,22.0,19.2,Scattered clouds
+SIRI ISLAND,14/01/2023,12Z,21.8,165%,1020.1 Hpa,040º (NE),21.6,3/8,-,3/8 AC,-,-,-,-,Scattered clouds
+SIRI ISLAND,14/01/2023,09Z,21.6,49%,1021.5 Hpa,060º (NE),28.8,4/8,1/8 SC,AC,-,-,-,-,Scattered clouds
+SIRI ISLAND,14/01/2023,06Z,21.4,169%,1023.2 Hpa,090º (E ),25.2,0/8,-,-,-,-,-,-,Clear
+SIRI ISLAND,14/01/2023,03Z,20.0,57%,1021.5 Hpa,080º (E ),32.4,0/8,-,-,-,-,20.0,19.2,Clear
+SIRJAN,14/01/2023,21Z,1.2,69%,1023.9 Hpa,calm.,,1/8,-,-,CI,-,-,-,Few clouds
+SIRJAN,14/01/2023,18Z,1.7,64%,1026.0 Hpa,calm.,,1/8,-,-,CI,-,-,-,Few clouds
+SIRJAN,14/01/2023,15Z,6.6,44%,1026.6 Hpa,calm.,,1/8,-,-,CI,-,11.8,-6.2,Few clouds
+SIRJAN,14/01/2023,12Z,11.2,35%,1024.2 Hpa,calm.,,3/8,-,-,CI,-,-,-,Scattered clouds
+SIRJAN,14/01/2023,09Z,7.2,47%,1026.7 Hpa,calm.,,2/8,-,-,CI,-,-,-,Few clouds
+SIRJAN,14/01/2023,06Z,2.3,59%,1028.9 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SIRJAN,14/01/2023,03Z,-5.7,77%,1031.1 Hpa,calm.,,0/8,-,-,-,-,-,-6.0,Clear
+TABAS,14/01/2023,21Z,0.4,40%,1030.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+TABAS,14/01/2023,18Z,1.5,34%,1032.2 Hpa,070º (E ),7.2,0/8,-,-,-,-,-,-,Clear
+TABAS,14/01/2023,15Z,3.7,24%,1032.4 Hpa,calm.,,1/8,-,-,CI,-,8.4,-4.9,Few clouds
+TABAS,14/01/2023,12Z,8.0,10%,1030.2 Hpa,calm.,,6/8,1/8 SC,-,CI,-,-,-,Cloudy
+TABAS,14/01/2023,09Z,5.0,14%,1032.5 Hpa,calm.,,1/8,-,-,CI,-,-,-,Few clouds
+TABAS,14/01/2023,06Z,-1.5,25%,1035.7 Hpa,130º (SE),7.2,1/8,-,-,CI,-,-,-,Few clouds
+TABAS,14/01/2023,03Z,-4.7,39%,1034.7 Hpa,calm.,,1/8,-,1/8 AC,-,-,17.0,-4.7,Few clouds
+TABAS,14/01/2023,00Z,-3.9,36%,1032.5 Hpa,150º (SE),7.2,0/8,-,-,-,-,-,-,Clear
+TABRIZ,14/01/2023,21Z,-3.4,72%,1028.5 Hpa,090º (E ),10.8,7/8,2/8 SC,AC,CI,-,-,-,Cloudy
+TABRIZ,14/01/2023,18Z,-4.2,69%,1031.2 Hpa,080º (E ),10.8,3/8,1/8 SC,-,CI,-,-,-,Scattered clouds
+TABRIZ,14/01/2023,15Z,-3.2,67%,1031.1 Hpa,090º (E ),10.8,5/8,1/8 SC,AC,CI,-,1.7,-7.4,Cloudy
+TABRIZ,14/01/2023,12Z,1.4,53%,1028.7 Hpa,070º (E ),7.2,5/8,1/8 SC,AC,CI,-,-,-,Cloudy
+TABRIZ,14/01/2023,09Z,0.8,52%,1029.9 Hpa,060º (NE),10.8,7/8,1/8 SC,AC,CI,-,-,-,Cloudy
+TABRIZ,14/01/2023,06Z,-5.4,65%,1032.8 Hpa,090º (E ),10.8,7/8,1/8 SC,AC,CS,-,-,-,Cloudy
+TABRIZ,14/01/2023,03Z,-6.8,69%,1032.0 Hpa,080º (E ),10.8,7/8,1/8 SC,-,CI,-,-5.4,-7.4,Cloudy
+TABRIZ,14/01/2023,00Z,-6.6,69%,1031.0 Hpa,070º (E ),10.8,6/8,1/8 SC,AC,-,-,-,-,Cloudy
+TEHRAN-MEHRABAD,14/01/2023,21Z,-0.6,45%,1029.8 Hpa,200º (S ),10.8,7/8,2/8 SC,AC,-,-,-,-,Cloudy
+TEHRAN-MEHRABAD,14/01/2023,18Z,0.2,33%,1031.9 Hpa,180º (S ),10.8,7/8,2/8 SC,AC,-,-,-,-,Cloudy
+TEHRAN-MEHRABAD,14/01/2023,15Z,0.9,35%,1031.5 Hpa,220º (SW),14.4,6/8,2/8 SC,AC,CI,-,2.8,-3.1,Cloudy
+TEHRAN-MEHRABAD,14/01/2023,12Z,2.5,30%,1029.8 Hpa,210º (SW),7.2,6/8,1/8 CU,AC,CI,-,-,-,Cloudy
+TEHRAN-MEHRABAD,14/01/2023,09Z,1.8,27%,1031.7 Hpa,230º (SW),7.2,5/8,1/8 CU,AC,CI,-,-,-,Cloudy
+TEHRAN-MEHRABAD,14/01/2023,06Z,-1.4,27%,1033.8 Hpa,200º (S ),10.8,6/8,-,2/8 AC,CI,-,-,-,Cloudy
+TEHRAN-MEHRABAD,14/01/2023,03Z,-3.1,39%,1032.4 Hpa,240º (SW),7.2,1/8,-,1/8 AC,-,-,-,-3.5,Few clouds
+TEHRAN-MEHRABAD,14/01/2023,00Z,-2.4,41%,1032.2 Hpa,240º (SW),7.2,3/8,-,3/8 AC,-,-,-,-,Scattered clouds
+TORBAT-HEYDARIEH,14/01/2023,21Z,-11.0,52%,1032.3 Hpa,300º (NW),7.2,0/8,-,-,-,-,-,-,Clear
+TORBAT-HEYDARIEH,14/01/2023,18Z,-8.7,53%,1034.1 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+TORBAT-HEYDARIEH,14/01/2023,15Z,-4.6,33%,1036.2 Hpa,calm.,,4/8,-,-,CI,-,3.1,-14.4,Scattered clouds
+TORBAT-HEYDARIEH,14/01/2023,12Z,0.2,18%,1033.6 Hpa,calm.,,6/8,-,-,CI,-,-,-,Cloudy
+TORBAT-HEYDARIEH,14/01/2023,09Z,1.8,13%,1033.7 Hpa,calm.,,2/8,-,-,CI,-,-,-,Few clouds
+TORBAT-HEYDARIEH,14/01/2023,06Z,-3.4,23%,1036.0 Hpa,calm.,,1/8,-,-,CI,-,-,-,Few clouds
+TORBAT-HEYDARIEH,14/01/2023,03Z,-14.4,48%,1038.0 Hpa,300º (NW),7.2,0/8,-,-,-,-,-8.5,-15.4,Clear
+TORBAT-HEYDARIEH,14/01/2023,00Z,-14.3,48%,1034.3 Hpa,300º (NW),7.2,0/8,-,-,-,-,-,-,Clear
+YASOGE,14/01/2023,21Z,2.4,100%,1025.2 Hpa,calm.,,8/8,5/8 CB,AC,,5.0(24h),-,-,"Overcast, mist"
+YASOGE,14/01/2023,18Z,3.4,93%,1027.9 Hpa,160º (S ),7.2,8/8,5/8 CB,AC,,0.8(6h),-,-,"Overcast, rain"
+YASOGE,14/01/2023,15Z,4.3,75%,1027.4 Hpa,180º (S ),7.2,8/8,4/8 SC,AC,,-,6.8,-3.0,Overcast
+YASOGE,14/01/2023,12Z,5.9,58%,1025.2 Hpa,170º (S ),7.2,7/8,4/8 SC,AC,-,-,-,-,"Cloudy, haze"
+YASOGE,14/01/2023,09Z,5.4,51%,1027.1 Hpa,calm.,,7/8,4/8 SC,AC,-,-,-,-,"Cloudy, haze"
+YASOGE,14/01/2023,06Z,0.0,77%,1030.9 Hpa,300º (NW),7.2,6/8,2/8 SC,-,CI,-,-,-,Cloudy
+YASOGE,14/01/2023,03Z,-2.0,78%,1029.5 Hpa,calm.,,3/8,3/8 SC,-,-,-,1.0,-2.0,Scattered clouds
+YASOGE,14/01/2023,00Z,0.0,75%,1027.8 Hpa,calm.,,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+YAZD,14/01/2023,21Z,1.4,76%,1028.5 Hpa,calm.,,2/8,-,2/8 AC,-,-,-,-,"Few clouds, haze"
+YAZD,14/01/2023,18Z,2.7,74%,1030.4 Hpa,280º (W ),7.2,2/8,-,2/8 AC,-,-,-,-,"Few clouds, haze"
+YAZD,14/01/2023,15Z,4.3,67%,1029.7 Hpa,340º (N ),3.6,6/8,1/8 CU,-,CS,-,7.5,-2.0,"Cloudy, haze"
+YAZD,14/01/2023,12Z,7.1,49%,1028.8 Hpa,200º (S ),3.6,4/8,1/8 CU,-,CI,-,-,-,"Scattered clouds, haze"
+YAZD,14/01/2023,09Z,5.0,54%,1030.4 Hpa,220º (SW),3.6,5/8,1/8 CU,-,CI,-,-,-,"Cloudy, haze"
+YAZD,14/01/2023,06Z,0.2,63%,1033.9 Hpa,320º (NW),3.6,1/8,-,-,CI,-,-,-,"Few clouds, haze"
+YAZD,14/01/2023,03Z,-0.8,80%,1032.9 Hpa,120º (SE),3.6,7/8,1/8 SC,AC,-,-,1.5,-2.0,"Cloudy, mist"
+YAZD,14/01/2023,00Z,-1.3,79%,1031.9 Hpa,250º (W ),3.6,0/8,-,-,-,-,-,-,Clear
+ZABOL,14/01/2023,21Z,-6.3,57%,1035.2 Hpa,270º (W ),10.8,0/8,-,-,-,-,-,-,Clear
+ZABOL,14/01/2023,18Z,-3.8,42%,1036.2 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+ZABOL,14/01/2023,15Z,-1.8,36%,1037.3 Hpa,calm.,,0/8,-,-,-,-,4.7,-11.2,Clear
+ZABOL,14/01/2023,12Z,3.6,20%,1035.3 Hpa,360º (N ),10.8,0/8,-,-,-,-,-,-,Clear
+ZABOL,14/01/2023,09Z,1.0,24%,1037.0 Hpa,350º (N ),14.4,0/8,-,-,-,-,-,-,Clear
+ZABOL,14/01/2023,06Z,-3.4,30%,1040.6 Hpa,340º (N ),25.2,0/8,-,-,-,-,-,-,Clear
+ZABOL,14/01/2023,03Z,-11.2,58%,1040.8 Hpa,360º (N ),7.2,0/8,-,-,-,-,-3.0,-11.2,Clear
+ZABOL,14/01/2023,00Z,-8.6,41%,1038.7 Hpa,010º (N),21.6,0/8,-,-,-,-,-,-,Clear
+ZAHEDAN,14/01/2023,21Z,-5.2,60%,1029.8 Hpa,120º (SE),7.2,0/8,-,-,-,-,-,-,Clear
+ZAHEDAN,14/01/2023,18Z,-3.6,50%,1032.6 Hpa,060º (NE),7.2,1/8,-,-,CI,-,-,-,Few clouds
+ZAHEDAN,14/01/2023,15Z,-1.0,31%,1034.6 Hpa,040º (NE),10.8,1/8,-,-,CI,-,6.9,-10.6,Few clouds
+ZAHEDAN,14/01/2023,12Z,5.4,18%,1030.1 Hpa,030º (NE),14.4,0/8,-,-,-,-,-,-,Clear
+ZAHEDAN,14/01/2023,09Z,5.7,14%,1030.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+ZAHEDAN,14/01/2023,06Z,-0.3,29%,1034.7 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+ZAHEDAN,14/01/2023,03Z,-10.6,62%,1035.5 Hpa,calm.,,0/8,-,-,-,-,-3.0,-10.6,"Clear, haze"
+ZAHEDAN,14/01/2023,00Z,-8.0,57%,1032.7 Hpa,030º (NE),7.2,0/8,-,-,-,-,-,-,"Clear, dust"
+ZANJAN,14/01/2023,21Z,-3.1,84%,1025.8 Hpa,100º (E ),10.8,8/8,3/8 SC,AC,,Tr(24h),-,-,"Overcast, mist"
+ZANJAN,14/01/2023,18Z,-3.5,84%,1028.8 Hpa,100º (E ),7.2,5/8,3/8 SC,AC,-,Tr(6h),-,-,Cloudy
+ZANJAN,14/01/2023,15Z,-2.0,63%,1029.0 Hpa,110º (E ),10.8,5/8,1/8 SC,AC,CI,-,3.0,-7.3,Cloudy
+ZANJAN,14/01/2023,12Z,1.6,51%,1026.7 Hpa,100º (E ),7.2,7/8,2/8 SC,AC,CI,-,-,-,Cloudy
+ZANJAN,14/01/2023,09Z,0.8,52%,1027.4 Hpa,100º (E ),10.8,7/8,3/8 SC,AC,CI,-,-,-,Cloudy
+ZANJAN,14/01/2023,06Z,-4.6,63%,1030.5 Hpa,070º (E ),10.8,6/8,3/8 ST,AC,CI,-,-,-,Cloudy
+ZANJAN,14/01/2023,03Z,-7.1,73%,1030.2 Hpa,110º (E ),7.2,5/8,5/8 SC,AC,-,-,-3.1,-8.0,Cloudy
+ZANJAN,14/01/2023,00Z,-7.0,70%,1029.2 Hpa,110º (E ),7.2,5/8,5/8 SC,AC,-,-,-,-,Cloudy

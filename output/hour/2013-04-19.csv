@@ -1,0 +1,617 @@
+Station ∆,Date,UTC time,Temp. (ºC),Rel. Hum. (%),Pressure/ Geopot.,Wind dir,Wins speed (Km/h),Clouds,Low clouds,Medium clouds,High clouds,Prec. (mm),Max temp. (ºC),Min temp. (ºC),Conditions
+ABADAN,19/04/2013,21Z,26.2,41%,1005.4 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+ABADAN,19/04/2013,18Z,30.0,26%,1006.3 Hpa,030º (NE),7.2,0/8,-,-,-,-,-,-,Clear
+ABADAN,19/04/2013,15Z,34.8,21%,1005.1 Hpa,calm.,,0/8,-,-,-,-,37.0,-,"Clear, haze"
+ABADAN,19/04/2013,12Z,36.0,17%,1005.7 Hpa,360º (N ),7.2,0/8,-,-,-,-,-,-,Clear
+ABADAN,19/04/2013,09Z,35.0,13%,1007.5 Hpa,320º (NW),14.4,0/8,-,-,-,-,-,-,Clear
+ABADAN,19/04/2013,06Z,30.2,23%,1007.9 Hpa,060º (NE),14.4,0/8,-,-,-,-,-,-,Clear
+ABADAN,19/04/2013,03Z,21.0,41%,1006.1 Hpa,030º (NE),7.2,0/8,-,-,-,-,-,21.0,Clear
+ABADAN,19/04/2013,00Z,24.4,33%,1005.1 Hpa,360º (N ),14.4,0/8,-,-,-,-,-,-,Clear
+ABADEH,19/04/2013,21Z,14.2,35%,1002.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+ABADEH,19/04/2013,18Z,16.4,34%,1003.7 Hpa,240º (SW),10.8,0/8,-,-,-,-,-,-,Clear
+ABADEH,19/04/2013,15Z,21.2,13%,1004.9 Hpa,260º (W ),28.8,0/8,-,-,-,-,24.6,-,Clear
+ABADEH,19/04/2013,12Z,24.2,10%,1002.5 Hpa,240º (SW),36.0,4/8,4/8 CU,-,-,-,-,-,Scattered clouds
+ABADEH,19/04/2013,09Z,22.4,17%,1003.4 Hpa,260º (W ),32.4,2/8,1/8 CU,-,CI,-,-,-,Few clouds
+ABADEH,19/04/2013,06Z,18.4,26%,1005.2 Hpa,120º (SE),7.2,0/8,-,-,-,-,-,-,Clear
+ABADEH,19/04/2013,03Z,7.2,60%,1006.6 Hpa,calm.,,0/8,-,-,-,-,-,7.0,Clear
+ABADEH,19/04/2013,00Z,8.4,52%,1004.7 Hpa,240º (SW),7.2,0/8,-,-,-,-,-,-,Clear
+ABU MUSA,19/04/2013,15Z,27.8,76%,1003.6 Hpa,270º (W ),18.0,2/8,-,2/8 AC,-,-,32.6,-,"Few clouds, haze"
+ABU MUSA,19/04/2013,12Z,28.8,108%,1003.2 Hpa,240º (SW),7.2,4/8,2/8 SC,AC,-,-,-,-,"Scattered clouds, haze"
+ABU MUSA,19/04/2013,09Z,32.6,40%,1004.6 Hpa,240º (SW),28.8,5/8,2/8 SC,AC,-,-,-,-,"Cloudy, haze"
+ABU MUSA,19/04/2013,06Z,29.0,107%,1005.7 Hpa,240º (SW),18.0,8/8,2/8 SC,AC,,-,-,-,"Overcast, haze"
+ABU MUSA,19/04/2013,03Z,28.2,67%,1003.9 Hpa,240º (SW),10.8,3/8,-,3/8 AC,-,-,-,26.8,"Scattered clouds, haze"
+AHAR,19/04/2013,21Z,5.2,93%,1014.5 Hpa,120º (SE),10.8,8/8,6/8 CB,AC,,-,-,-,"Overcast, drizzle"
+AHAR,19/04/2013,18Z,5.6,88%,1016.4 Hpa,100º (E ),10.8,8/8,6/8 CB,AC,,2.0(6h),-,-,"Overcast, drizzle"
+AHAR,19/04/2013,15Z,6.8,75%,1015.8 Hpa,070º (E ),7.2,8/8,4/8 SC,AC,,-,8.0,-,Overcast
+AHAR,19/04/2013,12Z,7.4,73%,1015.9 Hpa,100º (E ),14.4,8/8,4/8 SC,AC,,-,-,-,Overcast
+AHAR,19/04/2013,09Z,6.4,78%,1016.4 Hpa,140º (SE),7.2,8/8,4/8 SC,AC,,-,-,-,Overcast
+AHAR,19/04/2013,06Z,4.4,90%,1017.3 Hpa,120º (SE),7.2,8/8,7/8 ST,AC,,Tr(6h),-,-,Overcast
+AHAR,19/04/2013,03Z,3.6,97%,1016.8 Hpa,110º (E ),10.8,8/8,8/8 ST,,,-,-,3.4,"Overcast, mist"
+AHAR,19/04/2013,00Z,3.6,97%,1016.9 Hpa,140º (SE),18.0,8/8,8/8 ST,,,-,-,-,"Overcast, mist"
+AHWAZ,19/04/2013,21Z,25.2,42%,1005.0 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, haze"
+AHWAZ,19/04/2013,18Z,29.8,21%,1005.5 Hpa,330º (NW),10.8,0/8,-,-,-,-,-,-,"Clear, haze"
+AHWAZ,19/04/2013,15Z,33.4,17%,1004.2 Hpa,320º (NW),7.2,0/8,-,-,-,-,37.0,-,Clear
+AHWAZ,19/04/2013,12Z,36.0,13%,1005.0 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+AHWAZ,19/04/2013,09Z,35.4,14%,1006.4 Hpa,340º (N ),10.8,0/8,-,-,-,-,-,-,Clear
+AHWAZ,19/04/2013,06Z,30.8,20%,1006.8 Hpa,030º (NE),10.8,0/8,-,-,-,-,-,-,Clear
+AHWAZ,19/04/2013,03Z,23.4,33%,1005.8 Hpa,calm.,,0/8,-,-,-,-,-,22.6,Clear
+AHWAZ,19/04/2013,00Z,23.0,33%,1005.5 Hpa,340º (N ),10.8,0/8,-,-,-,-,-,-,Clear
+ALI-GOODARZ,19/04/2013,21Z,12.2,38%,1003.9 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+ALI-GOODARZ,19/04/2013,18Z,14.6,32%,1004.6 Hpa,190º (S ),7.2,0/8,-,-,-,-,-,-,Clear
+ALI-GOODARZ,19/04/2013,15Z,17.0,27%,1004.7 Hpa,180º (S ),21.6,1/8,-,1/8 AC,-,-,20.4,-,Few clouds
+ALI-GOODARZ,19/04/2013,12Z,20.0,22%,1003.1 Hpa,230º (SW),18.0,1/8,-,1/8 AC,-,-,-,-,Few clouds
+ALI-GOODARZ,19/04/2013,09Z,19.2,22%,1004.3 Hpa,220º (SW),18.0,0/8,-,-,-,-,-,-,Clear
+ALI-GOODARZ,19/04/2013,06Z,16.8,32%,1004.7 Hpa,070º (E ),14.4,0/8,-,-,-,-,-,-,Clear
+ALI-GOODARZ,19/04/2013,03Z,10.8,42%,1006.0 Hpa,150º (SE),10.8,0/8,-,-,-,-,-,10.6,Clear
+ALI-GOODARZ,19/04/2013,00Z,11.4,38%,1004.2 Hpa,180º (S ),10.8,0/8,-,-,-,-,-,-,Clear
+ANZALI,19/04/2013,21Z,12.4,83%,1017.9 Hpa,360º (N ),7.2,8/8,5/8 ST,AC,,-,-,-,Overcast
+ANZALI,19/04/2013,18Z,12.6,83%,1019.5 Hpa,calm.,,8/8,5/8 ST,AC,,-,-,-,Overcast
+ANZALI,19/04/2013,15Z,13.0,81%,1018.7 Hpa,030º (NE),14.4,8/8,5/8 CU/SC,AC,,-,14.4,-,Overcast
+ANZALI,19/04/2013,12Z,13.8,270%,1018.8 Hpa,360º (N ),18.0,8/8,5/8 CU/SC,AC,,-,-,-,Overcast
+ANZALI,19/04/2013,09Z,13.6,81%,1019.5 Hpa,360º (N ),18.0,7/8,3/8 CU,AC,-,-,-,-,Cloudy
+ANZALI,19/04/2013,06Z,12.2,301%,1020.4 Hpa,360º (N ),14.4,8/8,6/8 CB,AC,,4.0(6h),-,-,"Overcast, mist"
+ANZALI,19/04/2013,03Z,11.2,94%,1019.9 Hpa,310º (NW),7.2,8/8,6/8 CB,AC,,-,-,11.2,"Overcast, rain"
+ANZALI,19/04/2013,00Z,12.0,85%,1019.4 Hpa,360º (N ),25.2,7/8,4/8 ST,AC,-,Tr(6h),-,-,"Cloudy, rain"
+ARAK,19/04/2013,21Z,13.4,35%,1004.0 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+ARAK,19/04/2013,18Z,17.0,26%,1005.9 Hpa,270º (W ),21.6,0/8,-,-,-,-,-,-,Clear
+ARAK,19/04/2013,15Z,19.4,23%,1005.5 Hpa,200º (S ),14.4,2/8,2/8 CU,-,-,-,23.4,-,"Few clouds, dust"
+ARAK,19/04/2013,12Z,23.0,16%,1003.4 Hpa,230º (SW),14.4,3/8,3/8 CU,-,-,-,-,-,"Scattered clouds, dust"
+ARAK,19/04/2013,09Z,21.4,16%,1003.9 Hpa,250º (W ),21.6,1/8,1/8 CU,-,-,-,-,-,"Few clouds, dust"
+ARAK,19/04/2013,06Z,14.0,33%,1008.1 Hpa,040º (NE),7.2,0/8,-,-,-,-,-,-,"Clear, dust"
+ARAK,19/04/2013,03Z,9.0,44%,1007.8 Hpa,calm.,,0/8,-,-,-,-,-,8.8,"Clear, haze"
+ARAK,19/04/2013,00Z,10.6,39%,1006.0 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, haze"
+ARDEBIL,19/04/2013,21Z,4.0,97%,1014.6 Hpa,calm.,,7/8,5/8 CB,AC,-,-,-,-,Cloudy
+ARDEBIL,19/04/2013,18Z,3.6,97%,1017.0 Hpa,calm.,,8/8,5/8 CB,AC,,Tr(6h),-,-,Overcast
+ARDEBIL,19/04/2013,15Z,5.4,88%,1016.4 Hpa,030º (NE),18.0,7/8,3/8 CB,AC,-,-,8.2,-,Cloudy
+ARDEBIL,19/04/2013,12Z,7.4,76%,1015.9 Hpa,020º (N),14.4,8/8,6/8 CB,AC,,-,-,-,Overcast
+ARDEBIL,19/04/2013,09Z,6.8,75%,1016.6 Hpa,calm.,,8/8,7/8 CB,AC,,-,-,-,"Overcast, haze"
+ARDEBIL,19/04/2013,06Z,4.6,85%,1017.8 Hpa,calm.,,8/8,6/8 ST,AC,,-,-,-,"Overcast, mist"
+ARDEBIL,19/04/2013,03Z,1.0,100%,1018.1 Hpa,calm.,,8/8,8/8 ST,,,-,-,0.8,"Overcast, mist"
+ARDEBIL,19/04/2013,00Z,1.6,100%,1016.9 Hpa,calm.,,8/8,8/8 ST,,,-,-,-,"Overcast, mist"
+BABULSAR,19/04/2013,21Z,12.6,94%,1017.1 Hpa,calm.,,8/8,8/8 ST,,,-,-,-,"Overcast, drizzle"
+BABULSAR,19/04/2013,18Z,13.6,93%,1018.2 Hpa,calm.,,8/8,8/8 ST,,,0.9(6h),-,-,"Overcast, drizzle"
+BABULSAR,19/04/2013,15Z,14.6,77%,1017.4 Hpa,290º (W ),14.4,8/8,5/8 CB,AC,,-,15.6,-,Overcast
+BABULSAR,19/04/2013,12Z,15.0,73%,1017.5 Hpa,280º (W ),10.8,8/8,3/8 ST,AC,,-,-,-,Overcast
+BABULSAR,19/04/2013,09Z,15.2,80%,1018.0 Hpa,270º (W ),18.0,8/8,3/8 CB,AC,,-,-,-,Overcast
+BABULSAR,19/04/2013,06Z,14.2,86%,1019.2 Hpa,200º (S ),7.2,8/8,4/8 CB,AC,,0.9(24h),-,-,Overcast
+BABULSAR,19/04/2013,03Z,13.2,90%,1018.3 Hpa,210º (SW),7.2,8/8,3/8 ST,AC,,-,-,13.2,Overcast
+BABULSAR,19/04/2013,00Z,13.8,82%,1017.8 Hpa,calm.,,8/8,3/8 ST,AC,,-,-,-,Overcast
+BAFT,19/04/2013,21Z,14.6,32%,1002.4 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BAFT,19/04/2013,18Z,16.2,24%,1002.9 Hpa,calm.,,2/8,2/8 SC,-,-,-,-,-,Few clouds
+BAFT,19/04/2013,15Z,19.0,25%,1003.0 Hpa,calm.,,4/8,3/8 SC,-,CI,-,23.4,-,Scattered clouds
+BAFT,19/04/2013,12Z,22.6,15%,1002.7 Hpa,270º (W ),18.0,4/8,3/8 CU,-,CI,-,-,-,Scattered clouds
+BAFT,19/04/2013,09Z,21.8,19%,1003.1 Hpa,270º (W ),28.8,4/8,1/8 CU,-,CI,-,-,-,Scattered clouds
+BAFT,19/04/2013,06Z,19.6,21%,1004.7 Hpa,270º (W ),14.4,0/8,-,-,-,-,-,-,Clear
+BAFT,19/04/2013,03Z,14.2,29%,1005.1 Hpa,calm.,,0/8,-,-,-,-,-,10.8,Clear
+BAFT,19/04/2013,00Z,11.4,35%,1004.2 Hpa,360º (N ),14.4,0/8,-,-,-,-,-,-,Clear
+BAM,19/04/2013,21Z,24.6,21%,997.8 Hpa,270º (W ),10.8,0/8,-,-,-,-,-,-,Clear
+BAM,19/04/2013,18Z,29.0,15%,998.0 Hpa,calm.,,4/8,4/8 SC,-,-,-,-,-,Scattered clouds
+BAM,19/04/2013,15Z,30.0,14%,997.4 Hpa,350º (N ),7.2,6/8,6/8 SC,-,-,-,35.0,-,Cloudy
+BAM,19/04/2013,12Z,32.8,9%,996.6 Hpa,010º (N),10.8,7/8,6/8 SC,AC,-,-,-,-,Cloudy
+BAM,19/04/2013,09Z,34.4,8%,997.8 Hpa,010º (N),7.2,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+BAM,19/04/2013,06Z,32.4,11%,999.5 Hpa,290º (W ),10.8,0/8,-,-,-,-,-,-,Clear
+BAM,19/04/2013,03Z,24.4,15%,999.6 Hpa,280º (W ),21.6,0/8,-,-,-,-,-,21.6,Clear
+BAM,19/04/2013,00Z,23.0,17%,998.4 Hpa,280º (W ),10.8,0/8,-,-,-,-,-,-,Clear
+BANDAR LENGEH,19/04/2013,21Z,29.0,35%,1002.5 Hpa,330º (NW),14.4,3/8,-,-,CI,-,-,-,"Scattered clouds, haze"
+BANDAR LENGEH,19/04/2013,18Z,29.8,30%,1003.6 Hpa,290º (W ),14.4,2/8,-,-,CI,-,-,-,"Few clouds, haze"
+BANDAR LENGEH,19/04/2013,15Z,32.4,34%,1002.7 Hpa,250º (W ),28.8,3/8,-,1/8 AC,CI,-,38.6,-,"Scattered clouds, dust"
+BANDAR LENGEH,19/04/2013,12Z,36.4,,1002.7 Hpa,260º (W ),28.8,4/8,1/8 SC,AC,-,-,-,-,"Scattered clouds, dust"
+BANDAR LENGEH,19/04/2013,09Z,38.4,16%,1004.0 Hpa,270º (W ),32.4,5/8,2/8 SC,AC,CI,-,-,-,"Cloudy, dust"
+BANDAR LENGEH,19/04/2013,06Z,34.8,,1005.0 Hpa,250º (W ),14.4,7/8,2/8 SC,AC,CI,-,-,-,"Cloudy, haze"
+BANDAR LENGEH,19/04/2013,03Z,34.8,18%,1003.4 Hpa,290º (W ),18.0,6/8,-,4/8 AC,CI,-,-,29.4,"Cloudy, haze"
+BANDAR LENGEH,19/04/2013,00Z,32.8,22%,1002.0 Hpa,220º (SW),14.4,2/8,-,-,CI,-,-,-,"Few clouds, haze"
+BANDAR-E-DAYYER,19/04/2013,21Z,29.0,32%,1004.1 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BANDAR-E-DAYYER,19/04/2013,18Z,28.0,74%,1004.9 Hpa,calm.,,1/8,-,-,CI,-,-,-,Few clouds
+BANDAR-E-DAYYER,19/04/2013,15Z,31.6,50%,1003.8 Hpa,calm.,,2/8,-,2/8 AC,-,-,34.0,-,Few clouds
+BANDAR-E-DAYYER,19/04/2013,12Z,33.8,140%,1004.5 Hpa,250º (W ),10.8,2/8,-,1/8 AC,CI,-,-,-,Few clouds
+BANDAR-E-DAYYER,19/04/2013,09Z,32.8,44%,1005.7 Hpa,250º (W ),10.8,0/8,-,-,-,-,-,-,"Clear, haze"
+BANDAR-E-DAYYER,19/04/2013,06Z,31.8,157%,1006.0 Hpa,210º (SW),7.2,2/8,-,2/8 AC,-,0.2(24h),-,-,"Few clouds, haze"
+BANDAR-E-DAYYER,19/04/2013,03Z,25.6,54%,1004.5 Hpa,calm.,,4/8,-,4/8 AC,-,-,-,24.8,"Scattered clouds, haze"
+BANDAR-E-DAYYER,19/04/2013,00Z,27.2,47%,1003.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BANDARABBASS,19/04/2013,21Z,27.3,64%,1001.8 Hpa,330º (NW),14.4,3/8,-,-,CI,-,-,-,"Scattered clouds, haze"
+BANDARABBASS,19/04/2013,18Z,32.1,42%,1001.7 Hpa,230º (SW),18.0,3/8,-,-,CI,-,-,-,"Scattered clouds, haze"
+BANDARABBASS,19/04/2013,15Z,34.0,38%,1000.6 Hpa,240º (SW),36.0,4/8,-,-,CI,-,36.2,-,"Scattered clouds, dust"
+BANDARABBASS,19/04/2013,12Z,34.6,47%,1000.6 Hpa,190º (S ),25.2,4/8,-,-,CI,-,-,-,"Scattered clouds, dust"
+BANDARABBASS,19/04/2013,09Z,35.2,41%,1003.4 Hpa,190º (S ),28.8,5/8,-,2/8 AC,CC,-,-,-,"Cloudy, dust"
+BANDARABBASS,19/04/2013,06Z,32.2,47%,1005.0 Hpa,040º (NE),7.2,5/8,-,2/8 AC,CC,-,-,-,"Cloudy, haze"
+BANDARABBASS,19/04/2013,03Z,25.4,73%,1004.4 Hpa,350º (N ),10.8,5/8,-,-,CC,-,-,24.9,"Cloudy, haze"
+BANDARABBASS,19/04/2013,00Z,25.8,76%,1002.6 Hpa,020º (N),14.4,3/8,-,-,CI,-,-,-,"Scattered clouds, haze"
+BIRJAND,19/04/2013,21Z,15.8,30%,1001.7 Hpa,110º (E ),14.4,1/8,-,-,CI,-,-,-,Few clouds
+BIRJAND,19/04/2013,18Z,18.6,28%,1001.9 Hpa,090º (E ),25.2,2/8,1/8 SC,-,CI,-,-,-,Few clouds
+BIRJAND,19/04/2013,15Z,22.4,22%,1002.1 Hpa,120º (SE),25.2,3/8,3/8 SC,-,CI,-,29.4,-,Scattered clouds
+BIRJAND,19/04/2013,12Z,28.8,8%,1000.3 Hpa,310º (NW),18.0,5/8,4/8 CU,-,CI,-,-,-,Cloudy
+BIRJAND,19/04/2013,09Z,27.8,11%,1000.9 Hpa,310º (NW),25.2,4/8,4/8 CU,-,-,-,-,-,Scattered clouds
+BIRJAND,19/04/2013,06Z,26.6,14%,1002.6 Hpa,calm.,,3/8,1/8 CU,AC,CI,-,-,-,Scattered clouds
+BIRJAND,19/04/2013,03Z,17.2,33%,1003.4 Hpa,040º (NE),18.0,2/8,1/8 SC,AC,-,-,-,13.0,Few clouds
+BIRJAND,19/04/2013,00Z,13.0,42%,1002.5 Hpa,100º (E ),7.2,0/8,-,-,-,-,-,-,Clear
+BOJNOURD,19/04/2013,21Z,10.2,87%,1014.6 Hpa,calm.,,8/8,4/8 ST,AC,,-,-,-,Overcast
+BOJNOURD,19/04/2013,18Z,10.4,85%,1015.9 Hpa,260º (W ),10.8,8/8,4/8 ST,AC,,-,-,-,Overcast
+BOJNOURD,19/04/2013,15Z,11.6,74%,1015.1 Hpa,calm.,,8/8,3/8 ST,AC,,-,14.6,-,"Overcast, haze"
+BOJNOURD,19/04/2013,12Z,13.4,64%,1014.6 Hpa,270º (W ),18.0,6/8,2/8 ST,AC,-,-,-,-,Cloudy
+BOJNOURD,19/04/2013,09Z,13.0,65%,1015.4 Hpa,220º (SW),7.2,7/8,3/8 ST,AC,-,-,-,-,Cloudy
+BOJNOURD,19/04/2013,06Z,10.0,75%,1017.5 Hpa,calm.,,8/8,4/8 ST,AC,,-,-,-,Overcast
+BOJNOURD,19/04/2013,03Z,8.2,84%,1017.3 Hpa,130º (SE),10.8,8/8,4/8 ST,AC,,-,-,6.8,"Overcast, mist"
+BOJNOURD,19/04/2013,00Z,6.8,85%,1014.7 Hpa,calm.,,8/8,1/8 ST,AC,,-,-,-,Overcast
+BUSHEHR,19/04/2013,21Z,24.8,86%,1005.7 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BUSHEHR,19/04/2013,18Z,24.8,86%,1006.0 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BUSHEHR,19/04/2013,15Z,27.2,79%,1004.9 Hpa,210º (SW),7.2,3/8,-,-,CI,-,30.4,-,Scattered clouds
+BUSHEHR,19/04/2013,12Z,30.0,100%,1004.1 Hpa,210º (SW),18.0,0/8,-,-,-,-,-,-,Clear
+BUSHEHR,19/04/2013,09Z,28.4,76%,1005.4 Hpa,310º (NW),18.0,0/8,-,-,-,-,-,-,Clear
+BUSHEHR,19/04/2013,06Z,28.8,15%,1005.5 Hpa,290º (W ),7.2,0/8,-,-,-,-,-,-,"Clear, haze"
+BUSHEHR,19/04/2013,03Z,25.6,85%,1004.4 Hpa,230º (SW),18.0,0/8,-,-,-,-,-,24.2,Clear
+BUSHEHR,19/04/2013,00Z,24.6,71%,1003.1 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BUSHEHR (AIRPORT),19/04/2013,21Z,25.4,80%,1005.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BUSHEHR (AIRPORT),19/04/2013,18Z,25.6,71%,1005.6 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BUSHEHR (AIRPORT),19/04/2013,15Z,27.2,71%,1004.6 Hpa,230º (SW),10.8,2/8,-,-,CI,-,31.2,-,Few clouds
+BUSHEHR (AIRPORT),19/04/2013,12Z,30.8,44%,1005.3 Hpa,250º (W ),14.4,4/8,-,-,CI,-,-,-,Scattered clouds
+BUSHEHR (AIRPORT),19/04/2013,09Z,29.2,60%,1006.2 Hpa,250º (W ),18.0,4/8,-,-,CI,-,-,-,"Scattered clouds, haze"
+BUSHEHR (AIRPORT),19/04/2013,06Z,29.8,50%,1006.1 Hpa,300º (NW),7.2,0/8,-,-,-,-,-,-,"Clear, haze"
+BUSHEHR (AIRPORT),19/04/2013,03Z,23.6,79%,1005.0 Hpa,240º (SW),7.2,0/8,-,-,-,-,-,22.4,"Clear, mist"
+BUSHEHR (AIRPORT),19/04/2013,00Z,23.2,66%,1004.0 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+CHAHBAHAR,19/04/2013,21Z,60.1,,1000.6 Hpa,340º (N ),10.8,0/8,-,-,-,-,-,-,"Clear, haze"
+CHAHBAHAR,19/04/2013,18Z,60.0,,1001.8 Hpa,300º (NW),18.0,0/8,-,-,-,-,-,-,"Clear, haze"
+CHAHBAHAR,19/04/2013,15Z,70.0,,1001.2 Hpa,calm.,,2/8,-,-,CC,-,31.0,-,"Few clouds, mist"
+CHAHBAHAR,19/04/2013,12Z,70.0,,1001.6 Hpa,calm.,,1/8,-,-,CI,-,-,-,"Few clouds, mist"
+CHAHBAHAR,19/04/2013,09Z,70.0,,1003.5 Hpa,170º (S ),7.2,1/8,-,-,CC,-,-,-,"Few clouds, mist"
+CHAHBAHAR,19/04/2013,06Z,70.0,,1005.0 Hpa,120º (SE),7.2,0/8,-,-,-,-,-,-,"Clear, mist"
+CHAHBAHAR,19/04/2013,03Z,60.0,,1003.5 Hpa,120º (SE),10.8,0/8,-,-,-,-,-,25.9,"Clear, haze"
+CHAHBAHAR,19/04/2013,00Z,70.0,,1001.9 Hpa,calm.,,4/8,-,-,CI,-,-,-,"Scattered clouds, mist"
+ESFAHAN,19/04/2013,21Z,16.4,27%,1002.5 Hpa,240º (SW),18.0,0/8,-,-,-,-,-,-,Clear
+ESFAHAN,19/04/2013,18Z,20.0,16%,1003.0 Hpa,240º (SW),25.2,0/8,-,-,-,-,-,-,Clear
+ESFAHAN,19/04/2013,15Z,24.0,9%,1003.2 Hpa,210º (SW),14.4,0/8,-,-,-,-,28.0,-,Clear
+ESFAHAN,19/04/2013,12Z,27.4,9%,1000.0 Hpa,260º (W ),25.2,2/8,2/8 CU,-,-,-,-,-,Few clouds
+ESFAHAN,19/04/2013,09Z,24.4,17%,1002.2 Hpa,260º (W ),10.8,0/8,-,-,-,-,-,-,"Clear, haze"
+ESFAHAN,19/04/2013,06Z,16.4,39%,1005.4 Hpa,040º (NE),10.8,0/8,-,-,-,-,-,-,"Clear, haze"
+ESFAHAN,19/04/2013,03Z,10.0,52%,1006.1 Hpa,calm.,,0/8,-,-,-,-,-,9.8,"Clear, haze"
+ESFAHAN,19/04/2013,00Z,14.8,31%,1003.4 Hpa,250º (W ),14.4,0/8,-,-,-,-,-,-,Clear
+FASA,19/04/2013,21Z,18.2,38%,1001.7 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+FASA,19/04/2013,18Z,21.4,30%,1002.4 Hpa,calm.,,2/8,-,-,CI,-,-,-,Few clouds
+FASA,19/04/2013,15Z,26.4,21%,1002.9 Hpa,290º (W ),18.0,3/8,1/8 SC,-,CI,-,31.0,-,Scattered clouds
+FASA,19/04/2013,12Z,30.6,21%,1001.2 Hpa,240º (SW),25.2,5/8,2/8 CU,-,CI,-,-,-,Cloudy
+FASA,19/04/2013,09Z,29.0,21%,1003.0 Hpa,260º (W ),28.8,1/8,1/8 CU,-,-,-,-,-,Few clouds
+FASA,19/04/2013,06Z,24.4,26%,1005.2 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+FASA,19/04/2013,03Z,12.8,57%,1004.7 Hpa,calm.,,0/8,-,-,-,-,-,11.8,Clear
+FASA,19/04/2013,00Z,12.0,50%,1002.8 Hpa,calm.,,2/8,-,-,CI,-,-,-,Few clouds
+FERDOUS,19/04/2013,21Z,18.2,31%,1001.3 Hpa,060º (NE),10.8,2/8,-,-,CI,-,-,-,Few clouds
+FERDOUS,19/04/2013,18Z,20.4,33%,1001.8 Hpa,040º (NE),7.2,0/8,-,-,-,-,-,-,Clear
+FERDOUS,19/04/2013,15Z,25.0,21%,1001.7 Hpa,340º (N ),10.8,0/8,-,-,-,-,29.6,-,Clear
+FERDOUS,19/04/2013,12Z,28.0,13%,1000.2 Hpa,330º (NW),14.4,2/8,2/8 CU,-,-,-,-,-,Few clouds
+FERDOUS,19/04/2013,09Z,28.0,16%,1001.5 Hpa,270º (W ),18.0,2/8,2/8 CU,-,-,-,-,-,Few clouds
+FERDOUS,19/04/2013,06Z,25.0,21%,1003.0 Hpa,calm.,,1/8,-,-,CI,-,-,-,Few clouds
+FERDOUS,19/04/2013,03Z,16.2,41%,1003.5 Hpa,060º (NE),7.2,3/8,1/8 SC,-,CI,-,-,15.4,Scattered clouds
+FERDOUS,19/04/2013,00Z,17.0,38%,1001.2 Hpa,calm.,,4/8,2/8 SC,-,CI,-,-,-,Scattered clouds
+GACH SARAN DU GUNBADAN,19/04/2013,21Z,19.4,36%,1002.8 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+GACH SARAN DU GUNBADAN,19/04/2013,18Z,24.4,23%,1003.1 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+GACH SARAN DU GUNBADAN,19/04/2013,15Z,29.0,14%,1002.3 Hpa,270º (W ),14.4,1/8,-,-,CI,-,33.2,-,Few clouds
+GACH SARAN DU GUNBADAN,19/04/2013,09Z,32.2,16%,1002.2 Hpa,240º (SW),14.4,1/8,1/8 CU,-,-,-,-,-,"Few clouds, dust"
+GACH SARAN DU GUNBADAN,19/04/2013,06Z,28.8,22%,1003.5 Hpa,130º (SE),10.8,0/8,-,-,-,-,-,-,"Clear, dust"
+GACH SARAN DU GUNBADAN,19/04/2013,03Z,17.6,52%,1004.0 Hpa,calm.,,0/8,-,-,-,-,-,16.4,Clear
+GACH SARAN DU GUNBADAN,19/04/2013,00Z,19.6,41%,1003.0 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+GHARAKHIL,19/04/2013,21Z,11.8,97%,1017.5 Hpa,250º (W ),7.2,8/8,6/8 ST,AC,,-,-,-,"Overcast, rain"
+GHARAKHIL,19/04/2013,18Z,12.2,97%,1019.1 Hpa,220º (SW),7.2,8/8,5/8 ST,AC,,7.0(6h),-,-,"Overcast, rain"
+GHARAKHIL,19/04/2013,15Z,12.6,97%,1018.1 Hpa,calm.,,8/8,5/8 CB,AC,,-,15.8,-,"Overcast, rain"
+GHARAKHIL,19/04/2013,12Z,14.0,86%,1018.1 Hpa,360º (N ),10.8,8/8,6/8 CB,AC,,Tr(6h),-,-,"Overcast, rain"
+GHARAKHIL,19/04/2013,09Z,15.8,76%,1018.2 Hpa,360º (N ),14.4,8/8,5/8 SC,AC,,-,-,-,Overcast
+GHARAKHIL,19/04/2013,06Z,13.6,88%,1019.5 Hpa,280º (W ),7.2,8/8,5/8 SC,AC,,0.2(24h),-,-,Overcast
+GHARAKHIL,19/04/2013,03Z,12.0,97%,1019.1 Hpa,180º (S ),7.2,8/8,5/8 CB,AC,,-,-,11.6,Overcast
+GHARAKHIL,19/04/2013,00Z,11.8,94%,1019.7 Hpa,210º (SW),7.2,8/8,5/8 CB,AC,,-,-,-,Overcast
+GHAZVIN,19/04/2013,21Z,8.0,72%,1007.2 Hpa,Vble.,,2/8,-,0/8 AC,-,-,-,-,Few clouds
+GHAZVIN,19/04/2013,18Z,7.4,62%,1009.9 Hpa,calm.,,3/8,1/8 SC,AC,-,-,-,-,Scattered clouds
+GHAZVIN,19/04/2013,15Z,16.2,40%,1008.4 Hpa,270º (W ),7.2,3/8,3/8 CU/SC,-,-,-,22.4,-,Scattered clouds
+GHAZVIN,19/04/2013,12Z,22.4,19%,1007.1 Hpa,190º (S ),7.2,1/8,1/8 CU,-,-,-,-,-,Few clouds
+GHAZVIN,19/04/2013,09Z,19.6,33%,1009.1 Hpa,270º (W ),10.8,4/8,1/8 SC,-,CC,-,-,-,Scattered clouds
+GHAZVIN,19/04/2013,06Z,12.4,51%,1012.4 Hpa,calm.,,3/8,1/8 SC,-,CI,-,-,-,Scattered clouds
+GHAZVIN,19/04/2013,03Z,3.8,87%,1011.7 Hpa,calm.,,3/8,-,-,CI,-,-,3.4,Scattered clouds
+GHAZVIN,19/04/2013,00Z,4.4,88%,1009.0 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+GHUCHAN,19/04/2013,21Z,5.6,93%,1010.9 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+GHUCHAN,19/04/2013,18Z,10.0,85%,1012.6 Hpa,calm.,,5/8,5/8 SC,-,-,-,-,-,Cloudy
+GHUCHAN,19/04/2013,15Z,13.0,66%,1011.0 Hpa,calm.,,2/8,1/8 SC,-,CI,-,19.8,-,Few clouds
+GHUCHAN,19/04/2013,12Z,18.8,50%,1007.9 Hpa,130º (SE),36.0,0/8,-,-,-,-,-,-,Clear
+GHUCHAN,19/04/2013,09Z,18.2,51%,1008.6 Hpa,110º (E ),28.8,5/8,3/8 SC,-,CI,-,-,-,Cloudy
+GHUCHAN,19/04/2013,06Z,11.2,80%,1012.1 Hpa,calm.,,6/8,6/8 SC,-,-,0.3(24h),-,-,"Cloudy, mist"
+GHUCHAN,19/04/2013,03Z,6.0,94%,1011.9 Hpa,290º (W ),18.0,6/8,4/8 SC,AC,-,-,-,5.0,"Cloudy, mist"
+GHUCHAN,19/04/2013,00Z,6.6,97%,1010.5 Hpa,230º (SW),18.0,8/8,4/8 SC,AC,,-,-,-,Overcast
+GORGAN,19/04/2013,21Z,13.0,100%,1018.8 Hpa,calm.,,8/8,6/8 ST,AC,,-,-,-,"Overcast, mist"
+GORGAN,19/04/2013,18Z,13.2,95%,1019.3 Hpa,210º (SW),10.8,8/8,6/8 ST,AC,,0.4(6h),-,-,"Overcast, drizzle"
+GORGAN,19/04/2013,15Z,13.2,95%,1019.3 Hpa,240º (SW),18.0,8/8,6/8 ST,AC,,-,16.6,-,"Overcast, drizzle"
+GORGAN,19/04/2013,12Z,14.0,93%,1019.0 Hpa,230º (SW),18.0,8/8,5/8 CB,AC,,0.8(6h),-,-,"Overcast, drizzle"
+GORGAN,19/04/2013,09Z,16.2,76%,1019.3 Hpa,290º (W ),14.4,8/8,6/8 CB,AC,,-,-,-,Overcast
+GORGAN,19/04/2013,06Z,16.0,73%,1020.6 Hpa,250º (W ),10.8,7/8,4/8 CU,AC,-,0.2(24h),-,-,Cloudy
+GORGAN,19/04/2013,03Z,13.2,88%,1020.2 Hpa,240º (SW),10.8,7/8,3/8 SC,AC,-,-,-,11.8,Cloudy
+GORGAN,19/04/2013,00Z,12.2,92%,1019.9 Hpa,calm.,,8/8,3/8 ST,AC,,-,-,-,Overcast
+HAMEDAN,19/04/2013,21Z,8.9,46%,1007.6 Hpa,320º (NW),7.2,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+HAMEDAN,19/04/2013,18Z,13.9,32%,1007.5 Hpa,250º (W ),7.2,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+HAMEDAN,19/04/2013,15Z,16.7,29%,1009.0 Hpa,180º (S ),36.0,6/8,6/8 CB,-,-,-,20.7,-,Cloudy
+HAMEDAN,19/04/2013,12Z,18.6,25%,1008.4 Hpa,210º (SW),14.4,5/8,5/8 CB,-,-,-,-,-,Cloudy
+HAMEDAN,19/04/2013,09Z,19.2,22%,1008.2 Hpa,210º (SW),18.0,1/8,1/8 CU,-,-,-,-,-,Few clouds
+HAMEDAN,19/04/2013,06Z,13.7,36%,1010.4 Hpa,030º (NE),7.2,2/8,-,-,CI,-,-,-,Few clouds
+HAMEDAN,19/04/2013,03Z,2.5,71%,1012.6 Hpa,calm.,,2/8,-,-,CI,-,-,1.0,Few clouds
+HAMEDAN,19/04/2013,00Z,2.0,71%,1011.4 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+ILAM,19/04/2013,21Z,12.2,39%,1006.8 Hpa,150º (SE),10.8,3/8,-,3/8 AC,-,-,-,-,Scattered clouds
+ILAM,19/04/2013,18Z,12.8,40%,1008.5 Hpa,calm.,,0/8,-,2/8 AC,-,-,-,-,Clear
+ILAM,19/04/2013,15Z,19.0,27%,1008.3 Hpa,240º (SW),10.8,4/8,3/8 SC,-,-,-,22.6,-,Scattered clouds
+ILAM,19/04/2013,12Z,22.0,22%,1008.6 Hpa,220º (SW),21.6,2/8,2/8 CU,-,-,-,-,-,Few clouds
+ILAM,19/04/2013,09Z,21.4,24%,1009.1 Hpa,280º (W ),28.8,2/8,2/8 CU,-,-,-,-,-,Few clouds
+ILAM,19/04/2013,06Z,18.8,30%,1009.2 Hpa,calm.,,1/8,-,1/8 AC,-,-,-,-,Few clouds
+ILAM,19/04/2013,03Z,8.4,53%,1009.7 Hpa,110º (E ),7.2,2/8,-,2/8 AC,-,-,-,7.0,Few clouds
+ILAM,19/04/2013,00Z,7.8,52%,1012.3 Hpa,100º (E ),10.8,0/8,-,-,-,-,-,-,Clear
+IRANSHAHR,19/04/2013,21Z,29.8,26%,1001.3 Hpa,220º (SW),7.2,0/8,-,-,-,-,-,-,"Clear, haze"
+IRANSHAHR,19/04/2013,18Z,32.6,14%,1001.5 Hpa,270º (W ),18.0,1/8,-,-,CI,-,-,-,"Few clouds, haze"
+IRANSHAHR,19/04/2013,15Z,35.4,12%,999.9 Hpa,310º (NW),7.2,4/8,1/8 SC,-,CS,-,38.5,-,"Scattered clouds, haze"
+IRANSHAHR,19/04/2013,12Z,38.2,10%,1000.0 Hpa,240º (SW),18.0,4/8,1/8 CU,-,CI,-,-,-,"Scattered clouds, haze"
+IRANSHAHR,19/04/2013,09Z,36.8,15%,1002.0 Hpa,220º (SW),7.2,2/8,1/8 CU,-,CI,-,-,-,"Few clouds, haze"
+IRANSHAHR,19/04/2013,06Z,32.7,26%,1004.8 Hpa,180º (S ),7.2,0/8,-,-,-,-,-,-,"Clear, haze"
+IRANSHAHR,19/04/2013,03Z,25.4,33%,1004.2 Hpa,calm.,,1/8,-,-,CI,-,-,22.8,"Few clouds, haze"
+IRANSHAHR,19/04/2013,00Z,24.2,29%,1002.9 Hpa,010º (N),7.2,1/8,-,-,CI,-,-,-,"Few clouds, haze"
+JASK,19/04/2013,21Z,29.2,66%,1002.0 Hpa,300º (NW),25.2,1/8,-,1/8 AC,-,-,-,-,"Few clouds, dust"
+JASK,19/04/2013,18Z,29.2,182%,1003.2 Hpa,290º (W ),18.0,2/8,-,2/8 AC,-,-,-,-,"Few clouds, haze"
+JASK,19/04/2013,15Z,30.0,67%,1002.3 Hpa,300º (NW),18.0,3/8,-,3/8 AC,-,-,33.8,-,"Scattered clouds, haze"
+JASK,19/04/2013,12Z,33.2,145%,1002.2 Hpa,290º (W ),25.2,2/8,-,-,CI,-,-,-,"Few clouds, dust"
+JASK,19/04/2013,09Z,30.0,74%,1003.8 Hpa,230º (SW),25.2,6/8,-,-,CI,-,-,-,"Cloudy, dust"
+JASK,19/04/2013,06Z,31.4,160%,1004.8 Hpa,260º (W ),18.0,7/8,-,-,CI,-,-,-,"Cloudy, haze"
+JASK,19/04/2013,03Z,28.2,77%,1003.4 Hpa,270º (W ),10.8,3/8,-,3/8 AC,-,-,-,27.0,"Scattered clouds, haze"
+JASK,19/04/2013,00Z,27.0,207%,1002.0 Hpa,330º (NW),18.0,0/8,-,-,-,-,-,-,"Clear, haze"
+KAHNUJ,19/04/2013,21Z,28.4,36%,997.2 Hpa,220º (SW),21.6,0/8,-,-,-,-,-,-,Clear
+KAHNUJ,19/04/2013,18Z,30.6,33%,997.8 Hpa,210º (SW),50.4,0/8,-,-,-,-,-,-,"Clear, dust"
+KAHNUJ,19/04/2013,15Z,33.4,25%,995.6 Hpa,220º (SW),43.2,3/8,2/8 SC,-,CI,-,38.4,-,Scattered clouds
+KAHNUJ,19/04/2013,12Z,38.2,14%,995.1 Hpa,220º (SW),46.8,4/8,2/8 CU,-,CI,-,-,-,Scattered clouds
+KAHNUJ,19/04/2013,09Z,37.0,14%,997.9 Hpa,210º (SW),32.4,1/8,1/8 CU,-,-,-,-,-,Few clouds
+KAHNUJ,19/04/2013,06Z,32.4,27%,1000.4 Hpa,180º (S ),32.4,0/8,-,-,-,-,-,-,Clear
+KAHNUJ,19/04/2013,03Z,24.8,50%,999.5 Hpa,220º (SW),18.0,0/8,-,-,-,-,-,23.6,"Clear, haze"
+KAHNUJ,19/04/2013,00Z,25.2,48%,998.2 Hpa,240º (SW),25.2,0/8,-,-,-,-,-,-,Clear
+KASHAN,19/04/2013,21Z,18.0,36%,1004.8 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KASHAN,19/04/2013,18Z,20.4,30%,1003.9 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KASHAN,19/04/2013,15Z,25.0,22%,1003.4 Hpa,calm.,,0/8,-,-,-,-,29.8,-,Clear
+KASHAN,19/04/2013,12Z,29.2,16%,1003.0 Hpa,310º (NW),14.4,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+KASHAN,19/04/2013,09Z,27.0,19%,1005.4 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KASHAN,19/04/2013,06Z,21.2,31%,1007.8 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KASHAN,19/04/2013,03Z,14.4,48%,1008.1 Hpa,calm.,,0/8,-,-,-,-,-,14.4,Clear
+KASHAN,19/04/2013,00Z,20.0,36%,1005.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KASHMAR,19/04/2013,21Z,18.6,40%,1004.6 Hpa,090º (E ),7.2,0/8,-,-,-,-,-,-,Clear
+KASHMAR,19/04/2013,18Z,21.2,36%,1004.8 Hpa,120º (SE),21.6,1/8,1/8 SC,-,-,-,-,-,Few clouds
+KASHMAR,19/04/2013,15Z,25.6,23%,1002.5 Hpa,160º (S ),7.2,3/8,3/8 CU/SC,-,-,-,28.4,-,Scattered clouds
+KASHMAR,19/04/2013,12Z,28.0,22%,1002.3 Hpa,130º (SE),18.0,3/8,2/8 SC,-,CI,-,-,-,Scattered clouds
+KASHMAR,19/04/2013,09Z,26.2,29%,1004.0 Hpa,110º (E ),21.6,2/8,2/8 CU,-,-,-,-,-,Few clouds
+KASHMAR,19/04/2013,06Z,22.4,32%,1005.8 Hpa,140º (SE),21.6,0/8,-,-,-,-,-,-,Clear
+KASHMAR,19/04/2013,03Z,20.0,37%,1003.8 Hpa,090º (E ),14.4,7/8,2/8 SC,-,CI,-,-,18.6,Cloudy
+KASHMAR,19/04/2013,00Z,19.8,38%,1002.1 Hpa,110º (E ),14.4,5/8,2/8 SC,-,CI,-,-,-,Cloudy
+KERMAN,19/04/2013,21Z,17.0,32%,1001.0 Hpa,100º (E ),7.2,2/8,2/8 SC,-,-,-,-,-,Few clouds
+KERMAN,19/04/2013,18Z,21.0,25%,1001.4 Hpa,160º (S ),7.2,4/8,4/8 SC,-,-,-,-,-,Scattered clouds
+KERMAN,19/04/2013,15Z,24.0,16%,1001.6 Hpa,300º (NW),18.0,5/8,5/8 CB,-,-,-,28.0,-,Cloudy
+KERMAN,19/04/2013,12Z,27.4,11%,1000.2 Hpa,260º (W ),18.0,5/8,5/8 CB,-,-,-,-,-,Cloudy
+KERMAN,19/04/2013,09Z,26.4,15%,1001.4 Hpa,290º (W ),21.6,1/8,1/8 CU,-,CI,-,-,-,Few clouds
+KERMAN,19/04/2013,06Z,23.8,20%,1004.5 Hpa,230º (SW),14.4,0/8,-,-,-,-,-,-,Clear
+KERMAN,19/04/2013,03Z,15.4,35%,1005.3 Hpa,130º (SE),10.8,0/8,-,-,-,-,-,13.0,Clear
+KERMAN,19/04/2013,00Z,14.4,34%,1003.0 Hpa,270º (W ),14.4,0/8,-,-,-,-,-,-,Clear
+KERMANSHAH,19/04/2013,21Z,8.1,44%,1009.3 Hpa,160º (S ),10.8,2/8,-,2/8 AC,-,-,-,-,Few clouds
+KERMANSHAH,19/04/2013,18Z,16.0,23%,1008.6 Hpa,300º (NW),14.4,0/8,-,-,-,-,-,-,Clear
+KERMANSHAH,19/04/2013,15Z,20.2,17%,1009.6 Hpa,250º (W ),18.0,3/8,3/8 SC,-,-,-,22.9,-,Scattered clouds
+KERMANSHAH,19/04/2013,12Z,21.6,17%,1008.7 Hpa,230º (SW),21.6,4/8,4/8 SC,-,-,-,-,-,Scattered clouds
+KERMANSHAH,19/04/2013,09Z,20.0,21%,1008.7 Hpa,calm.,,3/8,3/8 CU,-,-,-,-,-,Scattered clouds
+KERMANSHAH,19/04/2013,06Z,15.8,34%,1011.4 Hpa,110º (E ),10.8,0/8,-,-,-,-,-,-,Clear
+KERMANSHAH,19/04/2013,03Z,4.3,69%,1012.0 Hpa,calm.,,2/8,2/8 SC,-,-,-,-,4.3,Few clouds
+KERMANSHAH,19/04/2013,00Z,7.9,54%,1009.7 Hpa,300º (NW),7.2,0/8,-,-,-,-,-,-,Clear
+KHARG,19/04/2013,15Z,27.2,69%,1004.8 Hpa,260º (W ),18.0,2/8,-,-,CI,-,34.0,-,"Few clouds, haze"
+KHARG,19/04/2013,12Z,31.6,50%,1005.2 Hpa,270º (W ),10.8,0/8,-,-,-,-,-,-,"Clear, haze"
+KHARG,19/04/2013,09Z,28.6,76%,1006.4 Hpa,030º (NE),10.8,0/8,-,-,-,-,-,-,"Clear, haze"
+KHARG,19/04/2013,06Z,26.4,82%,1007.0 Hpa,340º (N ),10.8,0/8,-,-,-,-,-,-,"Clear, mist"
+KHARG,19/04/2013,03Z,23.8,88%,1004.9 Hpa,030º (NE),7.2,0/8,-,-,-,-,-,23.8,"Clear, mist"
+KHOR,19/04/2013,21Z,21.4,28%,1001.8 Hpa,calm.,,1/8,-,1/8 AC,-,-,-,-,Few clouds
+KHOR,19/04/2013,18Z,26.2,18%,1002.6 Hpa,calm.,,6/8,2/8 SC,AC,-,-,-,-,Cloudy
+KHOR,19/04/2013,15Z,27.8,17%,1002.4 Hpa,calm.,,2/8,1/8 SC,-,CI,-,30.2,-,Few clouds
+KHOR,19/04/2013,12Z,29.6,15%,1001.8 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KHOR,19/04/2013,09Z,27.2,19%,1004.4 Hpa,080º (E ),7.2,0/8,-,-,-,-,-,-,Clear
+KHOR,19/04/2013,06Z,22.6,31%,1006.7 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KHOR,19/04/2013,03Z,17.0,24%,1005.3 Hpa,calm.,,0/8,-,-,-,-,-,17.0,Clear
+KHOR,19/04/2013,00Z,22.4,14%,1002.1 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KHORRAM ABAD,19/04/2013,21Z,11.2,53%,1007.6 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, dust"
+KHORRAM ABAD,19/04/2013,18Z,13.4,48%,1008.8 Hpa,calm.,,1/8,1/8 SC,-,-,-,-,-,"Few clouds, dust"
+KHORRAM ABAD,19/04/2013,15Z,22.2,18%,1007.4 Hpa,210º (SW),7.2,2/8,2/8 CU,-,-,-,25.6,-,"Few clouds, dust"
+KHORRAM ABAD,19/04/2013,12Z,23.8,18%,1007.4 Hpa,190º (S ),10.8,3/8,3/8 CU,-,-,-,-,-,"Scattered clouds, dust"
+KHORRAM ABAD,19/04/2013,09Z,23.8,19%,1008.3 Hpa,270º (W ),14.4,0/8,-,-,-,-,-,-,"Clear, dust"
+KHORRAM ABAD,19/04/2013,06Z,18.2,31%,1010.5 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, dust"
+KHORRAM ABAD,19/04/2013,03Z,8.2,66%,1010.8 Hpa,140º (SE),7.2,0/8,-,-,-,-,-,7.0,"Clear, dust"
+KHORRAM ABAD,19/04/2013,00Z,8.4,69%,1009.0 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, dust"
+KHOY,19/04/2013,21Z,9.0,87%,1010.0 Hpa,calm.,,6/8,6/8 CB,-,-,-,-,-,Cloudy
+KHOY,19/04/2013,18Z,10.0,87%,1010.6 Hpa,calm.,,4/8,4/8 CB,-,-,2.0(6h),-,-,Scattered clouds
+KHOY,19/04/2013,15Z,14.2,59%,1009.5 Hpa,060º (NE),10.8,5/8,5/8 CB,-,-,-,16.8,-,Cloudy
+KHOY,19/04/2013,12Z,16.0,52%,1009.3 Hpa,060º (NE),10.8,4/8,4/8 CB,-,-,-,-,-,Scattered clouds
+KHOY,19/04/2013,09Z,13.6,66%,1011.9 Hpa,360º (N ),10.8,4/8,4/8 CB,-,-,-,-,-,Scattered clouds
+KHOY,19/04/2013,06Z,9.8,85%,1013.2 Hpa,calm.,,7/8,5/8 CB,AC,-,2.0(6h),-,-,Cloudy
+KHOY,19/04/2013,03Z,6.8,97%,1012.7 Hpa,calm.,,7/8,7/8 ST,-,-,-,-,6.6,"Cloudy, rain showers"
+KHOY,19/04/2013,00Z,7.2,93%,1013.8 Hpa,calm.,,7/8,7/8 CB,-,-,Tr(6h),-,-,Cloudy
+KISH ISLAND,19/04/2013,21Z,26.2,76%,1002.8 Hpa,280º (W ),10.8,2/8,-,2/8 AC,-,-,-,-,"Few clouds, haze"
+KISH ISLAND,19/04/2013,18Z,27.4,58%,1004.3 Hpa,270º (W ),7.2,2/8,-,2/8 AC,-,-,-,-,"Few clouds, haze"
+KISH ISLAND,19/04/2013,15Z,27.6,71%,1003.9 Hpa,280º (W ),18.0,1/8,-,-,CI,-,33.0,-,"Few clouds, haze"
+KISH ISLAND,19/04/2013,12Z,31.0,54%,1003.7 Hpa,280º (W ),21.6,4/8,1/8 CU,AC,-,0.3(6h),-,-,"Scattered clouds, haze"
+KISH ISLAND,19/04/2013,09Z,30.6,47%,1005.9 Hpa,290º (W ),28.8,7/8,5/8 CB,AC,-,-,-,-,"Cloudy, thunderstorm no precipitation"
+KISH ISLAND,19/04/2013,06Z,31.0,45%,1006.4 Hpa,290º (W ),28.8,7/8,4/8 CB,AC,-,Tr(6h),-,-,"Cloudy, dust"
+KISH ISLAND,19/04/2013,03Z,29.2,52%,1003.4 Hpa,240º (SW),10.8,6/8,4/8 CB,AC,-,-,-,28.2,"Cloudy, haze"
+KISH ISLAND,19/04/2013,00Z,30.0,46%,1002.4 Hpa,240º (SW),10.8,7/8,4/8 CB,AC,CI,-,-,-,"Cloudy, thunderstorm no precipitation"
+KONARAK,19/04/2013,15Z,31.2,56%,1000.9 Hpa,220º (SW),14.4,1/8,-,-,CI,-,37.0,-,"Few clouds, haze"
+KONARAK,19/04/2013,00Z,25.0,77%,1002.9 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, haze"
+MAKKO,19/04/2013,21Z,6.2,83%,1011.3 Hpa,220º (SW),10.8,6/8,6/8 CB,-,-,-,-,-,Cloudy
+MAKKO,19/04/2013,18Z,6.0,91%,1012.6 Hpa,calm.,,7/8,7/8 CB,-,-,5.0(6h),-,-,"Cloudy, rain showers"
+MAKKO,19/04/2013,15Z,9.4,82%,1010.6 Hpa,calm.,,7/8,7/8 CB,-,-,-,11.6,-,"Cloudy, rain showers"
+MAKKO,19/04/2013,12Z,10.6,70%,1011.0 Hpa,150º (SE),10.8,6/8,6/8 CB,-,-,0.4(6h),-,-,Cloudy
+MAKKO,19/04/2013,09Z,8.6,79%,1012.7 Hpa,120º (SE),18.0,6/8,6/8 CB,-,-,-,-,-,"Cloudy, rain showers"
+MAKKO,19/04/2013,06Z,8.8,77%,1012.9 Hpa,080º (E ),10.8,6/8,6/8 CB,-,-,3.0(24h),-,-,Cloudy
+MAKKO,19/04/2013,03Z,6.6,86%,1012.7 Hpa,calm.,,4/8,4/8 SC,-,-,-,-,5.2,Scattered clouds
+MAKKO,19/04/2013,00Z,6.2,91%,1012.6 Hpa,calm.,,4/8,4/8 CB,-,-,-,-,-,"Scattered clouds, mist"
+MARAGHEH,19/04/2013,21Z,10.0,62%,1006.4 Hpa,080º (E ),18.0,3/8,3/8 CB,AC,-,-,-,-,Scattered clouds
+MARAGHEH,19/04/2013,18Z,12.4,45%,1007.9 Hpa,090º (E ),10.8,5/8,3/8 CB,AC,-,-,-,-,Cloudy
+MARAGHEH,19/04/2013,15Z,15.6,44%,1008.1 Hpa,calm.,,3/8,2/8 CB,AC,CC,-,18.4,-,Scattered clouds
+MARAGHEH,19/04/2013,12Z,18.0,28%,1008.3 Hpa,240º (SW),7.2,6/8,5/8 CB,AC,CI,-,-,-,Cloudy
+MARAGHEH,19/04/2013,09Z,16.8,31%,1009.6 Hpa,290º (W ),18.0,4/8,4/8 CU,-,CI,-,-,-,Scattered clouds
+MARAGHEH,19/04/2013,06Z,13.8,46%,1010.2 Hpa,210º (SW),10.8,1/8,1/8 CU,-,CC,-,-,-,Few clouds
+MARAGHEH,19/04/2013,03Z,7.0,63%,1010.4 Hpa,070º (E ),10.8,6/8,1/8 SC,AC,CI,-,-,6.0,Cloudy
+MARAGHEH,19/04/2013,00Z,6.4,64%,1009.5 Hpa,100º (E ),14.4,0/8,-,-,-,-,-,-,Clear
+MARAVEH-TAPPEH,19/04/2013,21Z,11.4,97%,1017.7 Hpa,310º (NW),10.8,8/8,5/8 ST,AC,,-,-,-,"Overcast, drizzle"
+MARAVEH-TAPPEH,19/04/2013,18Z,12.6,85%,1018.5 Hpa,calm.,,8/8,5/8 ST,AC,,-,-,-,"Overcast, mist"
+MARAVEH-TAPPEH,19/04/2013,15Z,13.4,75%,1017.8 Hpa,290º (W ),10.8,8/8,4/8 ST,AC,,-,14.4,-,"Overcast, haze"
+MARAVEH-TAPPEH,19/04/2013,12Z,13.8,71%,1018.1 Hpa,calm.,,8/8,4/8 ST,AC,,-,-,-,"Overcast, haze"
+MARAVEH-TAPPEH,19/04/2013,09Z,13.4,73%,1018.7 Hpa,calm.,,8/8,5/8 ST,AC,,-,-,-,"Overcast, haze"
+MARAVEH-TAPPEH,19/04/2013,06Z,12.0,85%,1019.3 Hpa,calm.,,8/8,3/8 ST,AC,,3.2(24h),-,-,"Overcast, mist"
+MARAVEH-TAPPEH,19/04/2013,03Z,10.4,92%,1019.5 Hpa,calm.,,8/8,5/8 ST,AC,,-,-,9.8,"Overcast, mist"
+MARAVEH-TAPPEH,19/04/2013,00Z,9.8,94%,1019.0 Hpa,calm.,,8/8,4/8 ST,AC,,-,-,-,"Overcast, mist"
+MASHHAD,19/04/2013,21Z,11.4,53%,1013.7 Hpa,200º (S ),10.8,0/8,-,-,-,-,-,-,Clear
+MASHHAD,19/04/2013,18Z,12.6,55%,1014.6 Hpa,150º (SE),10.8,0/8,-,-,-,-,-,-,Clear
+MASHHAD,19/04/2013,15Z,15.6,47%,1012.5 Hpa,120º (SE),14.4,3/8,-,1/8 AC,CI,-,20.4,-,Scattered clouds
+MASHHAD,19/04/2013,12Z,19.6,36%,1011.6 Hpa,120º (SE),21.6,3/8,-,-,CI,-,-,-,Scattered clouds
+MASHHAD,19/04/2013,09Z,18.2,48%,1013.0 Hpa,110º (E ),18.0,1/8,1/8 CU,-,-,-,-,-,Few clouds
+MASHHAD,19/04/2013,06Z,15.2,54%,1015.4 Hpa,120º (SE),18.0,0/8,-,-,-,-,-,-,Clear
+MASHHAD,19/04/2013,03Z,10.0,72%,1015.6 Hpa,150º (SE),10.8,7/8,1/8 SC,AC,CS,-,-,8.4,Cloudy
+MASHHAD,19/04/2013,00Z,9.2,78%,1014.5 Hpa,110º (E ),18.0,7/8,1/8 SC,-,CI,-,-,-,"Cloudy, haze"
+MASJED-SOLEYMAN,19/04/2013,21Z,25.4,30%,1004.6 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+MASJED-SOLEYMAN,19/04/2013,18Z,27.0,29%,1003.8 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+MASJED-SOLEYMAN,19/04/2013,15Z,32.0,14%,1003.5 Hpa,270º (W ),14.4,0/8,-,-,-,-,34.8,-,"Clear, dust"
+MASJED-SOLEYMAN,19/04/2013,12Z,34.2,12%,1004.0 Hpa,270º (W ),18.0,0/8,-,-,-,-,-,-,Clear
+MASJED-SOLEYMAN,19/04/2013,09Z,33.0,13%,1005.5 Hpa,330º (NW),7.2,0/8,-,-,-,-,-,-,Clear
+MASJED-SOLEYMAN,19/04/2013,06Z,27.4,31%,1006.2 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, dust"
+MASJED-SOLEYMAN,19/04/2013,03Z,21.0,31%,1005.4 Hpa,calm.,,0/8,-,-,-,-,-,20.4,Clear
+MASJED-SOLEYMAN,19/04/2013,00Z,21.8,31%,1004.2 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+MEYANEH,19/04/2013,21Z,9.8,63%,1009.3 Hpa,060º (NE),21.6,7/8,1/8 SC,-,CI,-,-,-,Cloudy
+MEYANEH,19/04/2013,18Z,13.0,49%,1010.5 Hpa,030º (NE),7.2,7/8,3/8 CB,-,CI,-,-,-,Cloudy
+MEYANEH,19/04/2013,15Z,17.6,37%,1007.2 Hpa,270º (W ),10.8,7/8,4/8 CB,-,CI,-,21.2,-,Cloudy
+MEYANEH,19/04/2013,12Z,20.0,31%,1007.5 Hpa,070º (E ),7.2,5/8,3/8 CU,-,CI,-,-,-,Cloudy
+MEYANEH,19/04/2013,09Z,16.2,46%,1010.1 Hpa,060º (NE),7.2,2/8,1/8 CU,-,CI,-,-,-,Few clouds
+MEYANEH,19/04/2013,06Z,11.8,77%,1012.4 Hpa,090º (E ),14.4,6/8,1/8 CU,-,CI,-,-,-,Cloudy
+MEYANEH,19/04/2013,03Z,7.8,68%,1012.4 Hpa,030º (NE),10.8,6/8,3/8 CB,AC,CI,-,-,7.6,Cloudy
+MEYANEH,19/04/2013,00Z,8.2,71%,1011.1 Hpa,060º (NE),10.8,2/8,2/8 CU,-,-,-,-,-,Few clouds
+MOHABAD,19/04/2013,21Z,8.8,74%,1007.6 Hpa,calm.,,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+MOHABAD,19/04/2013,18Z,10.0,67%,1008.7 Hpa,calm.,,4/8,4/8 SC,-,-,0.1(6h),-,-,"Scattered clouds, rain showers"
+MOHABAD,19/04/2013,15Z,15.6,34%,1008.4 Hpa,210º (SW),18.0,5/8,5/8 CB,-,-,-,19.0,-,Cloudy
+MOHABAD,19/04/2013,12Z,16.8,35%,1008.6 Hpa,130º (SE),18.0,4/8,4/8 CB,-,-,-,-,-,Scattered clouds
+MOHABAD,19/04/2013,09Z,18.4,30%,1008.3 Hpa,210º (SW),7.2,5/8,5/8 CB,-,-,-,-,-,Cloudy
+MOHABAD,19/04/2013,06Z,13.4,51%,1010.4 Hpa,calm.,,1/8,1/8 SC,-,-,-,-,-,Few clouds
+MOHABAD,19/04/2013,03Z,6.2,74%,1011.0 Hpa,calm.,,4/8,4/8 SC,-,-,-,-,6.2,Scattered clouds
+MOHABAD,19/04/2013,00Z,7.6,69%,1009.9 Hpa,calm.,,2/8,2/8 SC,-,-,-,-,-,Few clouds
+NEHBANDAN,19/04/2013,21Z,18.2,35%,1001.5 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+NEHBANDAN,19/04/2013,18Z,22.4,32%,1001.8 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+NEHBANDAN,19/04/2013,15Z,25.6,21%,1001.1 Hpa,120º (SE),14.4,6/8,2/8 CB,AC,-,-,32.0,-,Cloudy
+NEHBANDAN,19/04/2013,12Z,28.4,18%,1000.4 Hpa,120º (SE),14.4,6/8,3/8 CB,AC,-,-,-,-,"Cloudy, dust"
+NEHBANDAN,19/04/2013,09Z,31.4,15%,1000.9 Hpa,180º (S ),10.8,5/8,2/8 CB,AC,-,-,-,-,Cloudy
+NEHBANDAN,19/04/2013,06Z,28.8,18%,1002.6 Hpa,120º (SE),10.8,2/8,-,2/8 AC,-,-,-,-,Few clouds
+NEHBANDAN,19/04/2013,03Z,20.4,29%,1002.7 Hpa,calm.,,0/8,-,-,-,-,-,18.0,Clear
+NEHBANDAN,19/04/2013,00Z,20.0,33%,1000.8 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+NOSHAHR,19/04/2013,21Z,12.6,93%,1017.7 Hpa,calm.,,8/8,6/8 ST,AC,,-,-,-,Overcast
+NOSHAHR,19/04/2013,18Z,12.8,88%,1018.5 Hpa,calm.,,8/8,6/8 ST,AC,,-,-,-,Overcast
+NOSHAHR,19/04/2013,15Z,13.2,83%,1018.5 Hpa,330º (NW),7.2,8/8,6/8 ST,AC,,-,14.4,-,Overcast
+NOSHAHR,19/04/2013,12Z,13.4,83%,1018.5 Hpa,360º (N ),10.8,8/8,6/8 ST,AC,,0.1(6h),-,-,"Overcast, mist"
+NOSHAHR,19/04/2013,09Z,13.4,83%,1018.7 Hpa,330º (NW),18.0,8/8,6/8 ST,AC,,-,-,-,"Overcast, mist"
+NOSHAHR,19/04/2013,06Z,12.4,93%,1019.3 Hpa,300º (NW),14.4,8/8,6/8 ST,AC,,0.1(24h),-,-,"Overcast, mist"
+NOSHAHR,19/04/2013,03Z,12.2,87%,1019.0 Hpa,270º (W ),7.2,7/8,5/8 CB,AC,-,-,-,12.0,Cloudy
+NOSHAHR,19/04/2013,00Z,12.4,93%,1018.8 Hpa,270º (W ),14.4,8/8,8/8 ST,,,-,-,-,Overcast
+OMIDYEH-AGHAJARI,19/04/2013,21Z,25.8,44%,1006.6 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+OMIDYEH-AGHAJARI,19/04/2013,18Z,28.8,26%,1006.6 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+OMIDYEH-AGHAJARI,19/04/2013,15Z,35.2,12%,1004.8 Hpa,300º (NW),14.4,0/8,-,-,-,-,38.0,-,Clear
+OMIDYEH-AGHAJARI,19/04/2013,12Z,37.0,12%,1005.0 Hpa,010º (N),18.0,0/8,-,-,-,-,-,-,Clear
+OMIDYEH-AGHAJARI,19/04/2013,09Z,36.6,14%,1006.8 Hpa,310º (NW),10.8,0/8,-,-,-,-,-,-,Clear
+OMIDYEH-AGHAJARI,19/04/2013,06Z,31.8,20%,1007.4 Hpa,360º (N ),7.2,0/8,-,-,-,-,-,-,Clear
+OMIDYEH-AGHAJARI,19/04/2013,03Z,20.6,38%,1006.5 Hpa,310º (NW),10.8,0/8,-,-,-,-,-,20.6,Clear
+OMIDYEH-AGHAJARI,19/04/2013,00Z,22.6,30%,1005.6 Hpa,290º (W ),10.8,0/8,-,-,-,-,-,-,Clear
+ORUMIEH,19/04/2013,21Z,7.2,86%,1009.1 Hpa,260º (W ),10.8,8/8,6/8 CB,AC,,-,-,-,"Overcast, thunderstorm"
+ORUMIEH,19/04/2013,18Z,11.0,55%,1008.7 Hpa,210º (SW),18.0,5/8,5/8 CB,-,CI,0.8(6h),-,-,"Cloudy, rain showers"
+ORUMIEH,19/04/2013,15Z,15.8,39%,1008.5 Hpa,160º (S ),10.8,3/8,3/8 CB,-,-,-,16.0,-,Scattered clouds
+ORUMIEH,19/04/2013,12Z,15.8,44%,1008.5 Hpa,050º (NE),18.0,5/8,5/8 CB,-,-,1.0(6h),-,-,Cloudy
+ORUMIEH,19/04/2013,09Z,12.2,65%,1010.4 Hpa,060º (NE),7.2,6/8,6/8 CB,-,-,-,-,-,"Cloudy, thunderstorm"
+ORUMIEH,19/04/2013,06Z,12.4,59%,1010.6 Hpa,120º (SE),7.2,6/8,5/8 CB,-,CI,-,-,-,Cloudy
+ORUMIEH,19/04/2013,03Z,4.0,93%,1011.6 Hpa,270º (W ),10.8,5/8,2/8 CU,-,CI,-,-,3.6,Cloudy
+ORUMIEH,19/04/2013,00Z,6.2,85%,1009.8 Hpa,330º (NW),3.6,4/8,4/8 CB,-,-,-,-,-,Scattered clouds
+PARS ABAD MOGHAN,19/04/2013,21Z,8.2,94%,1018.3 Hpa,calm.,,5/8,5/8 SC,-,-,-,-,-,Cloudy
+PARS ABAD MOGHAN,19/04/2013,18Z,8.8,91%,1018.8 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+PARS ABAD MOGHAN,19/04/2013,15Z,13.0,72%,1018.3 Hpa,060º (NE),14.4,2/8,2/8 SC,-,-,-,15.2,-,Few clouds
+PARS ABAD MOGHAN,19/04/2013,12Z,13.6,68%,1018.6 Hpa,080º (E ),10.8,4/8,4/8 SC,-,-,-,-,-,Scattered clouds
+PARS ABAD MOGHAN,19/04/2013,09Z,11.6,78%,1020.2 Hpa,calm.,,8/8,5/8 SC,AC,,-,-,-,Overcast
+PARS ABAD MOGHAN,19/04/2013,06Z,9.8,92%,1020.7 Hpa,110º (E ),7.2,8/8,5/8 SC,AC,,0.2(24h),-,-,Overcast
+PARS ABAD MOGHAN,19/04/2013,03Z,8.4,91%,1020.3 Hpa,110º (E ),7.2,8/8,5/8 SC,AC,,-,-,8.2,Overcast
+PARS ABAD MOGHAN,19/04/2013,00Z,8.4,91%,1019.8 Hpa,100º (E ),10.8,8/8,4/8 SC,AC,,-,-,-,Overcast
+RAMSAR,19/04/2013,21Z,12.6,83%,1016.9 Hpa,calm.,,8/8,6/8 SC,AC,,-,-,-,Overcast
+RAMSAR,19/04/2013,18Z,12.6,85%,1018.1 Hpa,calm.,,8/8,7/8 SC,AC,,-,-,-,Overcast
+RAMSAR,19/04/2013,15Z,13.0,81%,1017.7 Hpa,calm.,,8/8,6/8 SC,AC,,-,14.6,-,Overcast
+RAMSAR,19/04/2013,12Z,13.4,79%,1017.8 Hpa,340º (N ),7.2,8/8,6/8 CB,AC,,-,-,-,Overcast
+RAMSAR,19/04/2013,09Z,13.8,81%,1018.1 Hpa,350º (N ),14.4,8/8,5/8 CB,AC,,-,-,-,Overcast
+RAMSAR,19/04/2013,06Z,14.0,75%,1018.8 Hpa,340º (N ),14.4,7/8,6/8 CB,AC,-,Tr(6h),-,-,Cloudy
+RAMSAR,19/04/2013,03Z,11.8,89%,1018.4 Hpa,270º (W ),7.2,8/8,7/8 ST,AC,,-,-,11.8,"Overcast, drizzle"
+RAMSAR,19/04/2013,00Z,12.2,83%,1018.0 Hpa,290º (W ),10.8,8/8,5/8 CB,AC,,-,-,-,Overcast
+RASHT,19/04/2013,21Z,11.4,94%,1018.0 Hpa,calm.,,8/8,5/8 ST,AC,,-,-,-,"Overcast, drizzle"
+RASHT,19/04/2013,18Z,12.0,87%,1019.1 Hpa,calm.,,8/8,5/8 CB,AC,,-,-,-,"Overcast, mist"
+RASHT,19/04/2013,15Z,12.4,78%,1018.6 Hpa,020º (N),7.2,8/8,5/8 CB,AC,,-,14.6,-,"Overcast, haze"
+RASHT,19/04/2013,12Z,13.2,79%,1018.6 Hpa,360º (N ),10.8,7/8,5/8 CB,AC,-,0.4(6h),-,-,"Cloudy, haze"
+RASHT,19/04/2013,09Z,12.6,80%,1019.8 Hpa,340º (N ),7.2,8/8,6/8 CB,AC,,-,-,-,"Overcast, rain"
+RASHT,19/04/2013,06Z,11.4,94%,1020.3 Hpa,Vble.,,8/8,5/8 CB,AC,,1.5(24h),-,-,"Overcast, rain"
+RASHT,19/04/2013,03Z,10.8,97%,1019.7 Hpa,270º (W ),7.2,8/8,5/8 SC,AC,,-,-,10.4,"Overcast, mist"
+RASHT,19/04/2013,00Z,10.8,100%,1019.2 Hpa,Vble.,,8/8,6/8 ST,AC,,0.1(6h),-,-,"Overcast, drizzle"
+SABZEVAR,19/04/2013,21Z,14.4,48%,1007.6 Hpa,100º (E ),28.8,0/8,-,-,-,-,-,-,Clear
+SABZEVAR,19/04/2013,18Z,18.3,38%,1007.3 Hpa,110º (E ),21.6,0/8,-,-,-,-,-,-,Clear
+SABZEVAR,19/04/2013,15Z,24.1,30%,1005.6 Hpa,090º (E ),21.6,3/8,2/8 CB,-,CI,-,29.0,-,Scattered clouds
+SABZEVAR,19/04/2013,12Z,27.8,16%,1005.1 Hpa,270º (W ),7.2,4/8,2/8 CB,-,CI,-,-,-,Scattered clouds
+SABZEVAR,19/04/2013,09Z,25.4,27%,1006.9 Hpa,110º (E ),21.6,3/8,-,-,CI,-,-,-,Scattered clouds
+SABZEVAR,19/04/2013,06Z,19.8,41%,1009.5 Hpa,100º (E ),21.6,2/8,-,-,CI,-,-,-,Few clouds
+SABZEVAR,19/04/2013,03Z,13.3,57%,1010.0 Hpa,100º (E ),18.0,0/8,-,-,-,-,-,12.4,Clear
+SABZEVAR,19/04/2013,00Z,13.1,57%,1006.7 Hpa,110º (E ),18.0,0/8,-,-,-,-,-,-,Clear
+SAFI-ABAD DEZFUL,19/04/2013,21Z,21.0,49%,1005.4 Hpa,020º (N),10.8,0/8,-,-,-,-,-,-,Clear
+SAFI-ABAD DEZFUL,19/04/2013,18Z,24.6,39%,1005.9 Hpa,300º (NW),7.2,0/8,-,-,-,-,-,-,Clear
+SAFI-ABAD DEZFUL,19/04/2013,15Z,31.8,27%,1005.1 Hpa,calm.,,0/8,-,-,-,-,36.6,-,"Clear, dust"
+SAFI-ABAD DEZFUL,19/04/2013,12Z,34.6,19%,1005.7 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, dust"
+SAFI-ABAD DEZFUL,19/04/2013,09Z,36.6,10%,1006.4 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, dust"
+SAFI-ABAD DEZFUL,19/04/2013,06Z,28.2,30%,1007.7 Hpa,360º (N ),14.4,0/8,-,-,-,-,-,-,"Clear, dust"
+SAFI-ABAD DEZFUL,19/04/2013,03Z,21.0,34%,1006.7 Hpa,360º (N ),18.0,0/8,-,-,-,-,-,18.6,Clear
+SAFI-ABAD DEZFUL,19/04/2013,00Z,21.8,37%,1006.0 Hpa,360º (N ),10.8,0/8,-,-,-,-,-,-,Clear
+SAGHEZ,19/04/2013,21Z,7.2,63%,1006.9 Hpa,120º (SE),18.0,0/8,-,-,-,-,-,-,Clear
+SAGHEZ,19/04/2013,18Z,9.6,53%,1008.3 Hpa,120º (SE),14.4,1/8,-,-,CI,-,-,-,Few clouds
+SAGHEZ,19/04/2013,15Z,15.0,45%,1009.4 Hpa,260º (W ),18.0,2/8,2/8 CU,-,-,-,17.8,-,Few clouds
+SAGHEZ,19/04/2013,12Z,16.6,33%,1008.7 Hpa,250º (W ),21.6,6/8,6/8 CU,-,-,-,-,-,Cloudy
+SAGHEZ,19/04/2013,09Z,16.4,37%,1010.2 Hpa,240º (SW),14.4,4/8,4/8 CU,-,-,-,-,-,Scattered clouds
+SAGHEZ,19/04/2013,06Z,12.8,58%,1010.5 Hpa,calm.,,3/8,3/8 CU,-,-,-,-,-,Scattered clouds
+SAGHEZ,19/04/2013,03Z,2.2,83%,1012.0 Hpa,calm.,,3/8,2/8 SC,-,CI,-,-,1.0,Scattered clouds
+SAGHEZ,19/04/2013,00Z,4.0,84%,1010.7 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SANANDAJ,19/04/2013,21Z,8.0,62%,1011.7 Hpa,calm.,,1/8,1/8 SC,-,-,-,-,-,Few clouds
+SANANDAJ,19/04/2013,18Z,12.4,43%,1008.4 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SANANDAJ,19/04/2013,15Z,19.0,23%,1007.1 Hpa,230º (SW),7.2,1/8,1/8 CU,-,-,-,22.4,-,Few clouds
+SANANDAJ,19/04/2013,12Z,21.2,20%,1007.0 Hpa,190º (S ),21.6,4/8,4/8 CU,-,-,-,-,-,Scattered clouds
+SANANDAJ,19/04/2013,09Z,19.2,24%,1008.2 Hpa,150º (SE),14.4,3/8,3/8 CU,-,-,-,-,-,Scattered clouds
+SANANDAJ,19/04/2013,06Z,13.6,37%,1010.2 Hpa,110º (E ),3.6,1/8,1/8 CU,-,-,-,-,-,Few clouds
+SANANDAJ,19/04/2013,03Z,4.3,,1010.4 Hpa,calm.,,1/8,-,-,CI,-,-,3.5,Few clouds
+SANANDAJ,19/04/2013,00Z,3.7,74%,1004.6 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SARAB,19/04/2013,21Z,2.6,90%,1010.7 Hpa,230º (SW),7.2,2/8,1/8 SC,-,CI,-,-,-,Few clouds
+SARAB,19/04/2013,18Z,6.4,78%,1012.2 Hpa,090º (E ),10.8,7/8,3/8 SC,AC,-,Tr(6h),-,-,Cloudy
+SARAB,19/04/2013,15Z,9.2,59%,1012.2 Hpa,120º (SE),21.6,5/8,3/8 CB,AC,CI,-,15.0,-,Cloudy
+SARAB,19/04/2013,12Z,13.8,38%,1010.9 Hpa,240º (SW),10.8,7/8,4/8 CB,AC,-,-,-,-,Cloudy
+SARAB,19/04/2013,09Z,13.2,39%,1011.6 Hpa,060º (NE),7.2,6/8,5/8 CB,AC,-,-,-,-,Cloudy
+SARAB,19/04/2013,06Z,9.2,62%,1012.6 Hpa,110º (E ),7.2,7/8,3/8 CB,AC,CI,0.1(6h),-,-,Cloudy
+SARAB,19/04/2013,03Z,2.0,86%,1013.8 Hpa,250º (W ),7.2,6/8,4/8 CB,AC,-,-,-,1.4,Cloudy
+SARAB,19/04/2013,00Z,1.6,89%,1013.4 Hpa,calm.,,5/8,4/8 CB,AC,-,-,-,-,Cloudy
+SARAKHS,19/04/2013,21Z,13.2,57%,1015.1 Hpa,310º (NW),14.4,0/8,-,-,-,-,-,-,Clear
+SARAKHS,19/04/2013,18Z,15.7,41%,1016.8 Hpa,300º (NW),10.8,0/8,-,-,-,-,-,-,Clear
+SARAKHS,19/04/2013,15Z,19.9,32%,1015.0 Hpa,340º (N ),7.2,4/8,-,-,CI,-,24.5,-,Scattered clouds
+SARAKHS,19/04/2013,12Z,24.2,29%,1014.1 Hpa,300º (NW),21.6,0/8,-,-,-,-,-,-,Clear
+SARAKHS,19/04/2013,09Z,20.9,36%,1016.3 Hpa,320º (NW),10.8,0/8,-,-,-,-,-,-,Clear
+SARAKHS,19/04/2013,06Z,16.2,44%,1018.6 Hpa,340º (N ),7.2,7/8,-,-,CI,-,-,-,Cloudy
+SARAKHS,19/04/2013,03Z,11.2,70%,1018.3 Hpa,calm.,,6/8,2/8 SC,-,CI,-,-,10.0,Cloudy
+SARAKHS,19/04/2013,00Z,11.1,66%,1016.9 Hpa,calm.,,8/8,-,-,CS,-,-,-,"Overcast, haze"
+SARAVAN,19/04/2013,21Z,23.6,34%,1001.6 Hpa,190º (S ),10.8,2/8,-,-,CI,-,-,-,Few clouds
+SARAVAN,19/04/2013,18Z,26.8,16%,1002.6 Hpa,190º (S ),7.2,2/8,-,-,CI,-,-,-,Few clouds
+SARAVAN,19/04/2013,15Z,29.9,11%,1002.5 Hpa,270º (W ),14.4,2/8,2/8 SC,-,-,-,33.7,-,Few clouds
+SARAVAN,19/04/2013,12Z,33.4,8%,1000.4 Hpa,270º (W ),21.6,3/8,3/8 CU,-,-,-,-,-,Scattered clouds
+SARAVAN,19/04/2013,09Z,32.8,9%,1003.2 Hpa,150º (SE),10.8,2/8,2/8 CU,-,-,-,-,-,Few clouds
+SARAVAN,19/04/2013,06Z,29.3,17%,1005.6 Hpa,170º (S ),7.2,0/8,-,-,-,-,-,-,Clear
+SARAVAN,19/04/2013,03Z,19.5,38%,1006.4 Hpa,320º (NW),7.2,0/8,-,-,-,-,-,16.2,Clear
+SARAVAN,19/04/2013,00Z,18.4,39%,1004.0 Hpa,020º (N),7.2,0/8,-,-,-,-,-,-,Clear
+SEMNAN,19/04/2013,21Z,21.0,28%,1003.1 Hpa,060º (NE),7.2,6/8,2/8 SC,-,CI,-,-,-,Cloudy
+SEMNAN,19/04/2013,18Z,21.6,25%,1003.5 Hpa,090º (E ),3.6,6/8,2/8 SC,AC,CI,-,-,-,Cloudy
+SEMNAN,19/04/2013,15Z,24.4,23%,1003.6 Hpa,210º (SW),7.2,4/8,1/8 SC,AC,CI,-,28.0,-,Scattered clouds
+SEMNAN,19/04/2013,12Z,27.2,18%,1003.3 Hpa,230º (SW),18.0,2/8,2/8 CU,-,-,-,-,-,Few clouds
+SEMNAN,19/04/2013,09Z,25.2,20%,1004.3 Hpa,120º (SE),10.8,1/8,1/8 CU,-,-,-,-,-,Few clouds
+SEMNAN,19/04/2013,06Z,22.0,25%,1006.4 Hpa,240º (SW),3.6,0/8,-,-,-,-,-,-,Clear
+SEMNAN,19/04/2013,03Z,14.4,39%,1006.3 Hpa,210º (SW),3.6,0/8,-,-,-,-,-,13.8,Clear
+SEMNAN,19/04/2013,00Z,15.8,24%,1003.6 Hpa,150º (SE),3.6,3/8,-,-,CI,-,-,-,Scattered clouds
+SHAHRE-KORD,19/04/2013,21Z,11.2,36%,1004.5 Hpa,230º (SW),25.2,0/8,-,-,-,-,-,-,Clear
+SHAHRE-KORD,19/04/2013,18Z,14.2,27%,1004.8 Hpa,220º (SW),25.2,0/8,-,-,-,-,-,-,Clear
+SHAHRE-KORD,19/04/2013,15Z,16.2,25%,1007.4 Hpa,200º (S ),21.6,1/8,1/8 SC,-,-,-,21.2,-,Few clouds
+SHAHRE-KORD,19/04/2013,12Z,20.0,16%,1007.0 Hpa,210º (SW),14.4,1/8,1/8 SC,-,-,-,-,-,"Few clouds, haze"
+SHAHRE-KORD,19/04/2013,09Z,19.8,25%,1007.6 Hpa,230º (SW),21.6,2/8,2/8 SC,-,-,-,-,-,"Few clouds, dust"
+SHAHRE-KORD,19/04/2013,06Z,18.0,28%,1006.9 Hpa,calm.,,1/8,1/8 SC,-,-,-,-,-,"Few clouds, haze"
+SHAHRE-KORD,19/04/2013,03Z,8.0,47%,1007.6 Hpa,calm.,,0/8,-,-,-,-,-,4.4,Clear
+SHAHRE-KORD,19/04/2013,00Z,5.8,51%,1007.6 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SHAHRUD,19/04/2013,21Z,11.2,49%,1007.8 Hpa,030º (NE),10.8,3/8,-,-,CI,-,-,-,Scattered clouds
+SHAHRUD,19/04/2013,18Z,12.8,46%,1009.8 Hpa,360º (N ),21.6,0/8,-,-,-,-,-,-,Clear
+SHAHRUD,19/04/2013,15Z,17.6,37%,1008.1 Hpa,030º (NE),14.4,1/8,1/8 SC,-,-,-,22.8,-,Few clouds
+SHAHRUD,19/04/2013,12Z,22.6,23%,1007.2 Hpa,060º (NE),10.8,1/8,1/8 SC,-,-,-,-,-,Few clouds
+SHAHRUD,19/04/2013,09Z,19.6,30%,1008.9 Hpa,360º (N ),14.4,2/8,-,-,CI,-,-,-,Few clouds
+SHAHRUD,19/04/2013,06Z,13.2,48%,1011.4 Hpa,040º (NE),18.0,2/8,-,-,CI,-,-,-,Few clouds
+SHAHRUD,19/04/2013,03Z,8.8,60%,1011.2 Hpa,040º (NE),21.6,2/8,-,-,CI,-,-,7.0,Few clouds
+SHAHRUD,19/04/2013,00Z,8.4,62%,1008.6 Hpa,040º (NE),18.0,0/8,-,-,-,-,-,-,Clear
+SHIRAZ,19/04/2013,21Z,18.4,48%,1003.6 Hpa,330º (NW),7.2,0/8,-,-,-,-,-,-,Clear
+SHIRAZ,19/04/2013,18Z,20.6,40%,1005.2 Hpa,270º (W ),10.8,0/8,-,-,-,-,-,-,Clear
+SHIRAZ,19/04/2013,15Z,23.0,26%,1006.0 Hpa,240º (SW),10.8,5/8,-,-,CI,-,27.8,-,Cloudy
+SHIRAZ,19/04/2013,12Z,27.2,19%,1004.2 Hpa,230º (SW),36.0,3/8,1/8 CU,-,CI,-,-,-,Scattered clouds
+SHIRAZ,19/04/2013,09Z,26.4,25%,1003.8 Hpa,230º (SW),7.2,4/8,1/8 CU,-,CI,-,-,-,Scattered clouds
+SHIRAZ,19/04/2013,06Z,21.0,34%,1006.5 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SHIRAZ,19/04/2013,03Z,10.0,69%,1006.9 Hpa,calm.,,0/8,-,-,-,-,-,9.8,Clear
+SHIRAZ,19/04/2013,00Z,10.6,67%,1005.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SIRI ISLAND,19/04/2013,15Z,32.4,44%,1004.4 Hpa,250º (W ),28.8,0/8,-,-,-,-,-,-,Clear
+SIRI ISLAND,19/04/2013,12Z,34.6,134%,1003.9 Hpa,310º (NW),36.0,3/8,-,3/8 AC,-,-,-,-,Scattered clouds
+SIRI ISLAND,19/04/2013,09Z,35.0,31%,1005.5 Hpa,300º (NW),25.2,8/8,1/8 SC,AC,,-,-,-,Overcast
+SIRI ISLAND,19/04/2013,06Z,31.8,90%,1006.3 Hpa,310º (NW),28.8,5/8,2/8 CB,AC,-,-,-,-,Cloudy
+SIRI ISLAND,19/04/2013,03Z,30.4,54%,1004.5 Hpa,200º (S ),10.8,5/8,2/8 SC,AC,-,-,-,27.0,Cloudy
+SIRJAN,19/04/2013,21Z,15.6,40%,1002.0 Hpa,calm.,,4/8,-,-,CI,-,-,-,Scattered clouds
+SIRJAN,19/04/2013,18Z,21.8,26%,1000.8 Hpa,180º (S ),10.8,3/8,-,-,CI,-,-,-,Scattered clouds
+SIRJAN,19/04/2013,15Z,25.0,14%,1001.5 Hpa,270º (W ),14.4,4/8,2/8 SC,-,CI,-,27.8,-,Scattered clouds
+SIRJAN,19/04/2013,12Z,27.2,16%,1001.3 Hpa,270º (W ),10.8,4/8,4/8 CU,-,-,-,-,-,Scattered clouds
+SIRJAN,19/04/2013,09Z,26.2,16%,1003.3 Hpa,310º (NW),7.2,3/8,1/8 CU,-,CI,-,-,-,Scattered clouds
+SIRJAN,19/04/2013,06Z,23.0,18%,1004.3 Hpa,180º (S ),10.8,1/8,-,-,CI,-,-,-,Few clouds
+SIRJAN,19/04/2013,03Z,13.8,49%,1004.8 Hpa,calm.,,0/8,-,-,-,-,-,10.4,Clear
+SIRJAN,19/04/2013,00Z,11.8,53%,1003.9 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+TABAS,19/04/2013,21Z,27.2,15%,1000.0 Hpa,180º (S ),7.2,1/8,-,-,CI,-,-,-,"Few clouds, haze"
+TABAS,19/04/2013,18Z,27.2,16%,1001.6 Hpa,360º (N ),10.8,0/8,-,-,-,-,-,-,"Clear, haze"
+TABAS,19/04/2013,15Z,30.8,12%,1001.3 Hpa,290º (W ),10.8,0/8,-,-,-,-,34.8,-,"Clear, haze"
+TABAS,19/04/2013,12Z,33.6,9%,1000.6 Hpa,280º (W ),14.4,1/8,1/8 CU,-,-,-,-,-,"Few clouds, haze"
+TABAS,19/04/2013,09Z,33.2,11%,1002.2 Hpa,230º (SW),14.4,1/8,1/8 CU,-,-,-,-,-,"Few clouds, haze"
+TABAS,19/04/2013,06Z,29.0,17%,1003.6 Hpa,260º (W ),7.2,0/8,-,-,-,-,-,-,"Clear, haze"
+TABAS,19/04/2013,03Z,21.6,21%,1003.6 Hpa,100º (E ),7.2,0/8,-,-,-,-,-,20.2,"Clear, haze"
+TABAS,19/04/2013,00Z,22.2,18%,1001.9 Hpa,110º (E ),7.2,0/8,-,-,-,-,-,-,"Clear, haze"
+TABRIZ,19/04/2013,21Z,9.4,78%,1009.1 Hpa,080º (E ),28.8,7/8,5/8 CB,AC,CI,-,-,-,"Cloudy, thunderstorms"
+TABRIZ,19/04/2013,18Z,10.2,81%,1010.6 Hpa,060º (NE),18.0,5/8,5/8 CB,-,-,0.2(6h),-,-,"Cloudy, rain, previous thunderstorm"
+TABRIZ,19/04/2013,15Z,13.6,51%,1009.1 Hpa,120º (SE),14.4,4/8,4/8 CB,-,CI,-,17.4,-,"Scattered clouds, nearby precipitation"
+TABRIZ,19/04/2013,12Z,15.6,42%,1008.8 Hpa,120º (SE),18.0,6/8,6/8 CB,-,-,-,-,-,"Cloudy, distant precipitation"
+TABRIZ,19/04/2013,09Z,15.0,43%,1010.9 Hpa,330º (NW),14.4,4/8,4/8 CB,-,-,-,-,-,Scattered clouds
+TABRIZ,19/04/2013,06Z,11.4,57%,1011.9 Hpa,210º (SW),7.2,7/8,3/8 CB,-,CI,0.1(24h),-,-,Cloudy
+TABRIZ,19/04/2013,03Z,7.4,71%,1011.3 Hpa,110º (E ),7.2,5/8,3/8 CB,-,CI,-,-,7.2,Cloudy
+TABRIZ,19/04/2013,00Z,8.0,79%,1010.3 Hpa,070º (E ),10.8,4/8,1/8 SC,AC,CI,-,-,-,Scattered clouds
+TEHRAN-MEHRABAD,19/04/2013,21Z,20.2,23%,1002.0 Hpa,340º (N ),7.2,4/8,1/8 SC,AC,-,-,-,-,Scattered clouds
+TEHRAN-MEHRABAD,19/04/2013,18Z,21.8,20%,1003.4 Hpa,300º (NW),7.2,5/8,1/8 SC,AC,-,-,-,-,Cloudy
+TEHRAN-MEHRABAD,19/04/2013,15Z,23.4,15%,1002.9 Hpa,calm.,,4/8,1/8 SC,AC,-,-,25.6,-,Scattered clouds
+TEHRAN-MEHRABAD,19/04/2013,12Z,25.0,14%,1003.3 Hpa,170º (S ),14.4,3/8,2/8 CU,AC,-,-,-,-,"Scattered clouds, haze"
+TEHRAN-MEHRABAD,19/04/2013,09Z,23.4,14%,1005.2 Hpa,270º (W ),10.8,5/8,-,-,CI,-,-,-,Cloudy
+TEHRAN-MEHRABAD,19/04/2013,06Z,20.7,21%,1006.2 Hpa,230º (SW),10.8,3/8,-,-,CI,-,-,-,Scattered clouds
+TEHRAN-MEHRABAD,19/04/2013,03Z,14.2,36%,1005.8 Hpa,290º (W ),10.8,0/8,-,-,-,-,-,12.4,Clear
+TEHRAN-MEHRABAD,19/04/2013,00Z,15.6,28%,1004.1 Hpa,270º (W ),10.8,0/8,-,-,-,-,-,-,Clear
+TORBAT-HEYDARIEH,19/04/2013,21Z,11.3,57%,1006.8 Hpa,060º (NE),21.6,0/8,-,-,-,-,-,-,Clear
+TORBAT-HEYDARIEH,19/04/2013,18Z,12.4,53%,1008.5 Hpa,060º (NE),18.0,3/8,-,-,CI,-,-,-,Scattered clouds
+TORBAT-HEYDARIEH,19/04/2013,15Z,17.6,46%,1006.4 Hpa,080º (E ),25.2,6/8,3/8 CB,-,CI,-,23.4,-,"Cloudy, thunderstorm no precipitation"
+TORBAT-HEYDARIEH,19/04/2013,12Z,23.0,35%,1004.2 Hpa,100º (E ),25.2,5/8,5/8 CB,-,-,-,-,-,"Cloudy, thunderstorm no precipitation"
+TORBAT-HEYDARIEH,19/04/2013,09Z,21.8,38%,1006.2 Hpa,070º (E ),21.6,1/8,1/8 CU,-,-,-,-,-,Few clouds
+TORBAT-HEYDARIEH,19/04/2013,06Z,17.3,48%,1008.6 Hpa,080º (E ),25.2,3/8,-,-,CI,-,-,-,Scattered clouds
+TORBAT-HEYDARIEH,19/04/2013,03Z,11.4,63%,1008.3 Hpa,060º (NE),14.4,7/8,2/8 SC,-,CI,-,-,11.0,Cloudy
+TORBAT-HEYDARIEH,19/04/2013,00Z,11.8,58%,1005.1 Hpa,070º (E ),21.6,6/8,2/8 SC,-,CI,-,-,-,Cloudy
+YASOGE,19/04/2013,21Z,13.0,44%,1005.4 Hpa,110º (E ),10.8,0/8,-,-,-,-,-,-,Clear
+YASOGE,19/04/2013,18Z,14.4,41%,1007.1 Hpa,110º (E ),7.2,0/8,-,-,-,-,-,-,Clear
+YASOGE,19/04/2013,15Z,20.0,24%,1007.1 Hpa,210º (SW),21.6,2/8,2/8 CU,-,-,-,23.5,-,Few clouds
+YASOGE,19/04/2013,12Z,23.0,19%,1005.9 Hpa,240º (SW),32.4,4/8,3/8 CU,-,CI,-,-,-,Scattered clouds
+YASOGE,19/04/2013,09Z,23.0,24%,1006.4 Hpa,190º (S ),14.4,2/8,2/8 CU,-,-,-,-,-,Few clouds
+YASOGE,19/04/2013,06Z,18.6,38%,1007.7 Hpa,calm.,,1/8,1/8 CU,-,-,-,-,-,Few clouds
+YASOGE,19/04/2013,03Z,8.8,66%,1008.3 Hpa,calm.,,1/8,1/8 CU,-,-,-,-,7.8,Few clouds
+YASOGE,19/04/2013,00Z,10.0,55%,1006.5 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+YAZD,19/04/2013,21Z,21.2,16%,1002.1 Hpa,350º (N ),7.2,0/8,-,-,-,-,-,-,Clear
+YAZD,19/04/2013,18Z,24.0,13%,1002.0 Hpa,220º (SW),10.8,1/8,1/8 SC,-,-,-,-,-,Few clouds
+YAZD,19/04/2013,15Z,27.0,11%,1002.4 Hpa,020º (N),14.4,2/8,2/8 SC,-,-,-,31.4,-,"Few clouds, haze"
+YAZD,19/04/2013,12Z,29.8,7%,1001.2 Hpa,200º (S ),7.2,5/8,4/8 CU,AC,-,-,-,-,Cloudy
+YAZD,19/04/2013,09Z,29.4,7%,1003.2 Hpa,090º (E ),10.8,1/8,1/8 CU,-,-,-,-,-,Few clouds
+YAZD,19/04/2013,06Z,26.2,12%,1005.6 Hpa,120º (SE),7.2,0/8,-,-,-,-,-,-,Clear
+YAZD,19/04/2013,03Z,17.6,22%,1006.0 Hpa,calm.,,0/8,-,-,-,-,-,16.4,"Clear, haze"
+YAZD,19/04/2013,00Z,17.6,22%,1004.4 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+ZABOL,19/04/2013,21Z,21.1,35%,1002.0 Hpa,340º (N ),32.4,2/8,2/8 CU,-,-,-,-,-,"Few clouds, dust"
+ZABOL,19/04/2013,18Z,22.7,30%,1002.6 Hpa,340º (N ),7.2,2/8,2/8 CU,-,-,-,-,-,Few clouds
+ZABOL,19/04/2013,15Z,27.9,23%,1001.3 Hpa,360º (N ),7.2,4/8,2/8 CU,AC,-,-,36.8,-,Scattered clouds
+ZABOL,19/04/2013,12Z,32.4,17%,1000.4 Hpa,300º (NW),25.2,7/8,4/8 CB,AC,-,-,-,-,Cloudy
+ZABOL,19/04/2013,09Z,35.3,13%,1000.4 Hpa,340º (N ),10.8,1/8,1/8 CU,-,-,-,-,-,Few clouds
+ZABOL,19/04/2013,06Z,28.0,22%,1004.3 Hpa,330º (NW),32.4,2/8,-,-,CI,-,-,-,"Few clouds, dust"
+ZABOL,19/04/2013,03Z,20.4,38%,1003.8 Hpa,320º (NW),25.2,0/8,-,-,-,-,-,19.1,Clear
+ZABOL,19/04/2013,00Z,26.8,22%,1000.2 Hpa,090º (E ),14.4,2/8,-,-,CI,-,-,-,Few clouds
+ZAHEDAN,19/04/2013,21Z,18.0,37%,1003.4 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+ZAHEDAN,19/04/2013,18Z,20.1,29%,1001.4 Hpa,calm.,,2/8,2/8 SC,-,-,-,-,-,"Few clouds, haze"
+ZAHEDAN,19/04/2013,15Z,25.0,20%,1001.2 Hpa,020º (N),10.8,4/8,3/8 CB,AC,-,-,30.2,-,"Scattered clouds, dust"
+ZAHEDAN,19/04/2013,12Z,28.4,15%,999.3 Hpa,060º (NE),21.6,6/8,6/8 CB,-,-,-,-,-,"Cloudy, dust"
+ZAHEDAN,19/04/2013,09Z,29.4,14%,1002.1 Hpa,calm.,,6/8,6/8 CU,-,-,-,-,-,Cloudy
+ZAHEDAN,19/04/2013,06Z,29.0,17%,1002.2 Hpa,calm.,,0/8,-,-,-,Tr(24h),-,-,Clear
+ZAHEDAN,19/04/2013,03Z,19.1,38%,1003.0 Hpa,150º (SE),7.2,1/8,-,-,CI,-,-,15.0,Few clouds
+ZAHEDAN,19/04/2013,00Z,17.2,38%,1000.7 Hpa,130º (SE),10.8,0/8,-,-,-,-,-,-,Clear
+ZANJAN,19/04/2013,21Z,7.0,68%,1007.3 Hpa,calm.,,5/8,4/8 CU,-,CI,-,-,-,Cloudy
+ZANJAN,19/04/2013,18Z,12.2,50%,1008.3 Hpa,calm.,,4/8,4/8 CU,-,CI,-,-,-,Scattered clouds
+ZANJAN,19/04/2013,15Z,16.6,31%,1008.1 Hpa,200º (S ),7.2,5/8,4/8 CU,-,CI,-,18.2,-,Cloudy
+ZANJAN,19/04/2013,12Z,17.6,30%,1008.4 Hpa,calm.,,4/8,4/8 CU,-,-,-,-,-,Scattered clouds
+ZANJAN,19/04/2013,09Z,16.2,34%,1009.6 Hpa,270º (W ),10.8,4/8,4/8 CU,-,-,-,-,-,Scattered clouds
+ZANJAN,19/04/2013,06Z,10.0,56%,1011.6 Hpa,calm.,,6/8,2/8 SC,-,CI,-,-,-,Cloudy
+ZANJAN,19/04/2013,03Z,2.4,74%,1011.4 Hpa,calm.,,6/8,1/8 SC,-,CI,-,-,1.0,Cloudy
+ZANJAN,19/04/2013,00Z,2.6,71%,1010.7 Hpa,calm.,,2/8,1/8 SC,-,CI,-,-,-,Few clouds

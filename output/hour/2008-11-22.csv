@@ -1,0 +1,586 @@
+Station ∆,Date,UTC time,Temp. (ºC),Rel. Hum. (%),Pressure/ Geopot.,Wind dir,Wins speed (Km/h),Clouds,Low clouds,Medium clouds,High clouds,Prec. (mm),Max temp. (ºC),Min temp. (ºC),Conditions
+ABADAN,22/11/2008,21Z,21.0,77%,1014.1 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, haze"
+ABADAN,22/11/2008,18Z,21.6,75%,1015.3 Hpa,120º (SE),10.8,0/8,-,-,-,-,-,-,"Clear, haze"
+ABADAN,22/11/2008,15Z,23.0,69%,1014.6 Hpa,130º (SE),14.4,5/8,-,-,CI,-,28.2,-,"Cloudy, haze"
+ABADAN,22/11/2008,12Z,26.6,54%,1013.9 Hpa,160º (S ),7.2,3/8,-,1/8 AC,CI,-,-,-,"Scattered clouds, haze"
+ABADAN,22/11/2008,09Z,26.4,52%,1016.0 Hpa,180º (S ),14.4,0/8,-,-,-,-,-,-,"Clear, haze"
+ABADAN,22/11/2008,03Z,17.4,83%,1016.5 Hpa,090º (E ),7.2,2/8,-,-,CI,-,-,17.4,"Few clouds, mist"
+ABADAN,22/11/2008,00Z,19.2,86%,1015.9 Hpa,150º (SE),7.2,0/8,-,-,-,-,-,-,Clear
+ABADEH,22/11/2008,21Z,6.8,42%,1014.6 Hpa,calm.,,3/8,-,-,CI,-,-,-,Scattered clouds
+ABADEH,22/11/2008,18Z,10.8,33%,1015.5 Hpa,240º (SW),14.4,2/8,-,-,CI,-,-,-,Few clouds
+ABADEH,22/11/2008,15Z,13.6,28%,1016.2 Hpa,220º (SW),14.4,0/8,-,-,-,-,18.4,-,Clear
+ABADEH,22/11/2008,12Z,18.0,25%,1012.4 Hpa,220º (SW),14.4,3/8,2/8 CU,-,CI,-,-,-,Scattered clouds
+ABADEH,22/11/2008,09Z,15.8,33%,1014.2 Hpa,110º (E ),7.2,2/8,1/8 CU,-,CI,-,-,-,Few clouds
+ABADEH,22/11/2008,03Z,3.4,70%,1017.5 Hpa,calm.,,0/8,-,-,-,-,-,1.0,Clear
+ABADEH,22/11/2008,00Z,4.6,63%,1014.9 Hpa,300º (NW),7.2,0/8,-,-,-,-,-,-,Clear
+ABU MUSA,22/11/2008,15Z,25.6,71%,1015.5 Hpa,070º (E ),7.2,4/8,2/8 SC,-,CI,-,-,-,"Scattered clouds, haze"
+ABU MUSA,22/11/2008,12Z,26.8,209%,1015.5 Hpa,020º (N),10.8,5/8,2/8 SC,-,CI,-,-,-,"Cloudy, haze"
+ABU MUSA,22/11/2008,09Z,27.4,64%,1017.2 Hpa,160º (S ),7.2,5/8,3/8 SC,-,CI,-,-,-,"Cloudy, haze"
+ABU MUSA,22/11/2008,06Z,27.2,16%,1018.3 Hpa,210º (SW),7.2,3/8,1/8 CU,-,CI,-,-,-,Scattered clouds
+ABU MUSA,22/11/2008,03Z,21.2,82%,1016.2 Hpa,calm.,,4/8,1/8 SC,-,CI,-,-,20.4,Scattered clouds
+AHAR,22/11/2008,21Z,6.4,56%,1012.8 Hpa,270º (W ),18.0,0/8,-,-,-,-,-,-,Clear
+AHAR,22/11/2008,18Z,7.0,53%,1014.0 Hpa,240º (SW),14.4,0/8,-,-,-,-,-,-,Clear
+AHAR,22/11/2008,15Z,9.6,46%,1014.4 Hpa,270º (W ),21.6,1/8,1/8 SC,-,-,-,13.5,-,Few clouds
+AHAR,22/11/2008,12Z,,0%,1012.8 Hpa,230º (SW),25.2,1/8,1/8 CU,-,-,-,-,-,Few clouds
+AHAR,22/11/2008,09Z,12.8,35%,1013.1 Hpa,2Q0º (),-,1/8,1/8 CU,-,-,-,-,-,Few clouds
+AHAR,22/11/2008,03Z,5.4,63%,1015.3 Hpa,260º (W ),10.8,0/8,-,-,-,-,-,5.2,Clear
+AHAR,22/11/2008,00Z,6.4,62%,1013.4 Hpa,240º (SW),18.0,0/8,-,-,-,-,-,-,Clear
+AHWAZ,22/11/2008,21Z,18.6,80%,1015.3 Hpa,120º (SE),10.8,0/8,-,-,-,-,-,-,"Clear, mist"
+AHWAZ,22/11/2008,18Z,21.6,75%,1015.6 Hpa,130º (SE),7.2,3/8,3/8 SC,-,-,-,-,-,"Scattered clouds, haze"
+AHWAZ,22/11/2008,15Z,24.4,54%,1014.7 Hpa,150º (SE),10.8,3/8,3/8 SC,-,-,-,28.2,-,Scattered clouds
+AHWAZ,22/11/2008,12Z,27.8,30%,1014.0 Hpa,150º (SE),10.8,5/8,3/8 SC,AC,-,-,-,-,Cloudy
+AHWAZ,22/11/2008,09Z,26.2,44%,1016.0 Hpa,090º (E ),7.2,3/8,-,3/8 AC,-,-,-,-,"Scattered clouds, haze"
+AHWAZ,22/11/2008,06Z,20.8,47%,1018.0 Hpa,calm.,,6/8,3/8 SC,AC,-,-,-,-,"Cloudy, haze"
+AHWAZ,22/11/2008,03Z,16.4,57%,1016.5 Hpa,calm.,,5/8,3/8 SC,AC,-,-,-,16.0,Cloudy
+AHWAZ,22/11/2008,00Z,17.0,60%,1016.0 Hpa,calm.,,6/8,6/8 SC,-,-,-,-,-,Cloudy
+ALI-GOODARZ,22/11/2008,21Z,6.8,76%,1015.7 Hpa,180º (S ),18.0,7/8,4/8 CB,AC,-,-,-,-,"Cloudy, rain"
+ALI-GOODARZ,22/11/2008,18Z,7.0,79%,1017.7 Hpa,180º (S ),21.6,7/8,4/8 CB,AC,-,0.8(6h),-,-,"Cloudy, rain"
+ALI-GOODARZ,22/11/2008,15Z,9.0,64%,1018.5 Hpa,180º (S ),14.4,7/8,4/8 CB,AC,-,-,13.0,-,Cloudy
+ALI-GOODARZ,22/11/2008,12Z,11.0,52%,1016.6 Hpa,170º (S ),18.0,7/8,4/8 CB,AC,-,-,-,-,Cloudy
+ALI-GOODARZ,22/11/2008,09Z,11.4,53%,1016.9 Hpa,180º (S ),21.6,6/8,3/8 SC,AC,-,-,-,-,Cloudy
+ALI-GOODARZ,22/11/2008,03Z,2.6,84%,1019.7 Hpa,120º (SE),10.8,4/8,1/8 SC,AC,-,-,-,2.0,Scattered clouds
+ALI-GOODARZ,22/11/2008,00Z,2.8,81%,1018.9 Hpa,calm.,,2/8,-,2/8 AC,-,-,-,-,Few clouds
+ANZALI,22/11/2008,21Z,17.4,48%,1010.5 Hpa,210º (SW),10.8,0/8,-,-,-,-,-,-,Clear
+ANZALI,22/11/2008,18Z,15.8,85%,1011.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+ANZALI,22/11/2008,15Z,18.2,69%,1011.0 Hpa,180º (S ),18.0,0/8,-,-,-,-,25.8,-,Clear
+ANZALI,22/11/2008,12Z,25.6,,1010.4 Hpa,120º (SE),7.2,1/8,-,-,CI,-,-,-,Few clouds
+ANZALI,22/11/2008,09Z,23.0,40%,1012.5 Hpa,180º (S ),18.0,1/8,-,1/8 AC,-,-,-,-,Few clouds
+ANZALI,22/11/2008,06Z,14.2,37%,1014.3 Hpa,360º (N ),18.0,0/8,-,-,-,-,-,-,Clear
+ANZALI,22/11/2008,03Z,12.2,100%,1012.6 Hpa,140º (SE),7.2,0/8,-,-,-,-,-,12.0,"Clear, fog"
+ANZALI,22/11/2008,00Z,12.8,100%,1012.0 Hpa,210º (SW),10.8,,-,-,-,-,-,-,fog
+ARAK,22/11/2008,21Z,10.2,63%,1014.2 Hpa,210º (SW),18.0,4/8,4/8 CB,AC,-,-,-,-,Scattered clouds
+ARAK,22/11/2008,18Z,10.0,72%,1016.9 Hpa,180º (S ),7.2,6/8,3/8 CB,AC,-,0.1(6h),-,-,"Cloudy, rain showers"
+ARAK,22/11/2008,15Z,10.8,68%,1018.3 Hpa,210º (SW),7.2,7/8,4/8 CB,AC,-,-,15.8,-,"Cloudy, rain showers"
+ARAK,22/11/2008,12Z,14.8,41%,1014.3 Hpa,290º (W ),18.0,4/8,3/8 SC,-,CI,-,-,-,Scattered clouds
+ARAK,22/11/2008,09Z,12.2,55%,1016.0 Hpa,060º (NE),7.2,5/8,1/8 SC,AC,CI,-,-,-,Cloudy
+ARAK,22/11/2008,06Z,6.6,76%,1018.7 Hpa,060º (NE),7.2,5/8,2/8 SC,-,CI,-,-,-,Cloudy
+ARAK,22/11/2008,03Z,2.6,84%,1018.7 Hpa,calm.,,4/8,-,4/8 AC,CI,-,-,2.4,Scattered clouds
+ARAK,22/11/2008,00Z,5.2,74%,1016.1 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+ARDEBIL,22/11/2008,21Z,7.0,65%,1013.9 Hpa,270º (W ),28.8,0/8,-,-,-,-,-,-,Clear
+ARDEBIL,22/11/2008,18Z,8.2,60%,1014.8 Hpa,210º (SW),28.8,0/8,-,-,-,-,-,-,Clear
+ARDEBIL,22/11/2008,15Z,11.8,54%,1014.6 Hpa,270º (W ),21.6,0/8,-,-,-,-,14.6,-,Clear
+ARDEBIL,22/11/2008,12Z,14.0,44%,1012.8 Hpa,250º (W ),43.2,1/8,1/8 CU,-,-,-,-,-,Few clouds
+ARDEBIL,22/11/2008,09Z,13.2,47%,1014.2 Hpa,240º (SW),46.8,1/8,1/8 CU,-,-,-,-,-,Few clouds
+ARDEBIL,22/11/2008,03Z,4.4,79%,1016.1 Hpa,280º (W ),21.6,0/8,-,-,-,-,-,4.0,Clear
+ARDEBIL,22/11/2008,00Z,7.2,81%,1013.8 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BABULSAR,22/11/2008,21Z,12.8,81%,1011.2 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BABULSAR,22/11/2008,18Z,14.4,88%,1013.2 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BABULSAR,22/11/2008,15Z,16.4,89%,1013.2 Hpa,calm.,,0/8,-,-,-,-,21.8,-,Clear
+BABULSAR,22/11/2008,12Z,19.2,79%,1011.8 Hpa,Vble.,,7/8,-,-,CI,-,-,-,Cloudy
+BABULSAR,22/11/2008,09Z,21.0,63%,1012.4 Hpa,060º (NE),7.2,1/8,-,-,CI,-,-,-,Few clouds
+BABULSAR,22/11/2008,06Z,14.8,78%,1014.2 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BABULSAR,22/11/2008,03Z,12.2,94%,1013.0 Hpa,180º (S ),10.8,0/8,-,-,-,-,-,12.0,Clear
+BABULSAR,22/11/2008,00Z,12.2,92%,1012.5 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BAFT,22/11/2008,21Z,7.0,28%,1016.1 Hpa,030º (NE),7.2,0/8,-,-,-,-,-,-,Clear
+BAFT,22/11/2008,18Z,7.0,30%,1017.6 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BAFT,22/11/2008,15Z,11.6,26%,1017.0 Hpa,320º (NW),10.8,0/8,-,-,-,-,17.0,-,Clear
+BAFT,22/11/2008,12Z,16.0,17%,1015.0 Hpa,280º (W ),10.8,5/8,3/8 SC,-,CI,-,-,-,Cloudy
+BAFT,22/11/2008,09Z,15.6,19%,1014.7 Hpa,270º (W ),14.4,4/8,4/8 CU,-,-,-,-,-,Scattered clouds
+BAFT,22/11/2008,03Z,6.8,25%,1017.9 Hpa,330º (NW),10.8,3/8,-,-,CI,-,-,5.6,Scattered clouds
+BAFT,22/11/2008,00Z,6.8,27%,1014.0 Hpa,calm.,,2/8,-,-,CI,-,-,-,Few clouds
+BAM,22/11/2008,21Z,12.0,33%,1012.2 Hpa,280º (W ),18.0,0/8,-,-,-,-,-,-,Clear
+BAM,22/11/2008,18Z,13.0,21%,1014.2 Hpa,290º (W ),18.0,0/8,-,-,-,-,-,-,Clear
+BAM,22/11/2008,15Z,16.4,29%,1014.3 Hpa,calm.,,3/8,1/8 SC,AC,-,-,24.4,-,Scattered clouds
+BAM,22/11/2008,12Z,23.6,10%,1012.2 Hpa,040º (NE),10.8,6/8,3/8 SC,AC,-,-,-,-,Cloudy
+BAM,22/11/2008,09Z,22.6,10%,1013.2 Hpa,020º (N),18.0,5/8,2/8 SC,AC,-,-,-,-,Cloudy
+BAM,22/11/2008,03Z,14.0,20%,1013.3 Hpa,calm.,,5/8,-,0/8 AC,CC,-,-,11.4,Cloudy
+BAM,22/11/2008,00Z,13.2,18%,1010.1 Hpa,300º (NW),18.0,4/8,-,-,CC,-,-,-,Scattered clouds
+BANDAR LENGEH,22/11/2008,21Z,20.4,81%,1016.5 Hpa,060º (NE),10.8,1/8,-,-,CI,-,-,-,"Few clouds, mist"
+BANDAR LENGEH,22/11/2008,18Z,22.2,67%,1017.2 Hpa,030º (NE),10.8,1/8,-,-,CI,-,-,-,"Few clouds, haze"
+BANDAR LENGEH,22/11/2008,15Z,24.4,71%,1016.2 Hpa,200º (S ),10.8,2/8,-,-,CI,-,27.4,-,"Few clouds, haze"
+BANDAR LENGEH,22/11/2008,12Z,26.4,123%,1015.7 Hpa,170º (S ),18.0,2/8,-,-,CI,-,-,-,"Few clouds, haze"
+BANDAR LENGEH,22/11/2008,09Z,26.8,61%,1017.2 Hpa,130º (SE),10.8,5/8,-,-,CI,-,-,-,"Cloudy, haze"
+BANDAR LENGEH,22/11/2008,03Z,19.0,80%,1016.6 Hpa,030º (NE),10.8,3/8,-,-,CI,-,-,19.0,"Scattered clouds, mist"
+BANDAR LENGEH,22/11/2008,00Z,19.6,77%,1015.5 Hpa,010º (N),10.8,0/8,-,-,-,-,-,-,Clear
+BANDAR-E-DAYYER,22/11/2008,21Z,21.0,71%,1016.5 Hpa,calm.,,2/8,2/8 ST,-,-,-,-,-,Few clouds
+BANDAR-E-DAYYER,22/11/2008,18Z,24.0,142%,1016.9 Hpa,150º (SE),10.8,2/8,-,-,CI,-,-,-,Few clouds
+BANDAR-E-DAYYER,22/11/2008,15Z,24.4,59%,1016.6 Hpa,160º (S ),10.8,0/8,-,-,-,-,27.6,-,Clear
+BANDAR-E-DAYYER,22/11/2008,12Z,27.2,118%,1015.4 Hpa,140º (SE),18.0,5/8,1/8 CU,-,CI,-,-,-,Cloudy
+BANDAR-E-DAYYER,22/11/2008,09Z,27.4,53%,1017.1 Hpa,210º (SW),7.2,5/8,-,-,CI,-,-,-,Cloudy
+BANDAR-E-DAYYER,22/11/2008,06Z,22.2,22%,1018.2 Hpa,calm.,,6/8,-,-,CI,-,-,-,Cloudy
+BANDAR-E-DAYYER,22/11/2008,03Z,17.6,74%,1016.6 Hpa,340º (N ),10.8,4/8,-,-,CI,-,-,16.8,Scattered clouds
+BANDAR-E-DAYYER,22/11/2008,00Z,17.4,214%,1015.7 Hpa,330º (NW),7.2,3/8,-,3/8 AC,-,-,-,-,Scattered clouds
+BANDARABBASS,22/11/2008,21Z,16.2,87%,1017.4 Hpa,020º (N),7.2,0/8,-,-,-,-,-,-,"Clear, mist"
+BANDARABBASS,22/11/2008,18Z,19.2,88%,1017.0 Hpa,350º (N ),7.2,0/8,-,-,-,-,-,-,"Clear, mist"
+BANDARABBASS,22/11/2008,15Z,21.9,80%,1016.9 Hpa,calm.,,4/8,-,1/8 AC,CI,-,27.0,-,"Scattered clouds, mist"
+BANDARABBASS,22/11/2008,12Z,26.2,73%,1016.2 Hpa,200º (S ),14.4,6/8,1/8 SC,AC,CI,-,-,-,Cloudy
+BANDARABBASS,22/11/2008,09Z,26.5,60%,1017.8 Hpa,210º (SW),10.8,7/8,2/8 SC,AC,CI,-,-,-,"Cloudy, haze"
+BANDARABBASS,22/11/2008,06Z,24.2,61%,1019.9 Hpa,080º (E ),7.2,6/8,-,1/8 AC,CI,-,-,-,"Cloudy, haze"
+BANDARABBASS,22/11/2008,03Z,16.0,90%,1017.7 Hpa,340º (N ),7.2,4/8,-,-,CI,-,-,15.4,"Scattered clouds, mist"
+BANDARABBASS,22/11/2008,00Z,15.8,89%,1016.2 Hpa,350º (N ),14.4,3/8,-,-,CI,-,-,-,"Scattered clouds, mist"
+BIRJAND,22/11/2008,21Z,4.4,50%,1017.5 Hpa,calm.,,1/8,-,-,CI,-,-,-,Few clouds
+BIRJAND,22/11/2008,18Z,6.2,39%,1019.7 Hpa,calm.,,1/8,-,-,CI,-,-,-,Few clouds
+BIRJAND,22/11/2008,15Z,10.6,40%,1021.3 Hpa,calm.,,0/8,-,-,-,-,21.4,-,Clear
+BIRJAND,22/11/2008,12Z,19.6,21%,1017.2 Hpa,260º (W ),10.8,1/8,1/8 CU,-,CI,-,-,-,Few clouds
+BIRJAND,22/11/2008,09Z,20.6,19%,1016.7 Hpa,280º (W ),14.4,6/8,-,1/8 AC,CI,-,-,-,Cloudy
+BIRJAND,22/11/2008,06Z,13.4,24%,1021.3 Hpa,080º (E ),10.8,1/8,-,-,CI,-,-,-,Few clouds
+BIRJAND,22/11/2008,03Z,2.2,42%,1021.1 Hpa,100º (E ),7.2,4/8,1/8 SC,AC,CI,-,-,0.6,Scattered clouds
+BIRJAND,22/11/2008,00Z,2.4,46%,1017.7 Hpa,calm.,,1/8,-,-,CI,-,-,-,Few clouds
+BOJNOURD,22/11/2008,21Z,4.8,79%,1017.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BOJNOURD,22/11/2008,18Z,5.6,79%,1018.9 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BOJNOURD,22/11/2008,15Z,9.0,69%,1018.8 Hpa,300º (NW),18.0,0/8,-,-,-,-,15.6,-,"Clear, haze"
+BOJNOURD,22/11/2008,12Z,15.2,64%,1015.9 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, haze"
+BOJNOURD,22/11/2008,09Z,13.2,67%,1017.0 Hpa,calm.,,1/8,1/8 SC,-,-,-,-,-,"Few clouds, haze"
+BOJNOURD,22/11/2008,06Z,6.6,91%,1020.1 Hpa,calm.,,3/8,2/8 SC,AC,-,5.6(24h),-,-,"Scattered clouds, mist"
+BOJNOURD,22/11/2008,03Z,3.0,96%,1019.3 Hpa,calm.,,3/8,-,3/8 AC,-,-,-,2.2,"Scattered clouds, mist"
+BOJNOURD,22/11/2008,00Z,2.8,100%,1018.1 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BUSHEHR,22/11/2008,21Z,20.8,66%,1016.4 Hpa,100º (E ),18.0,0/8,-,-,-,-,-,-,Clear
+BUSHEHR,22/11/2008,18Z,23.8,145%,1016.8 Hpa,170º (S ),25.2,3/8,-,-,CI,-,-,-,Scattered clouds
+BUSHEHR,22/11/2008,15Z,23.8,68%,1015.9 Hpa,190º (S ),28.8,0/8,-,-,-,-,25.6,-,Clear
+BUSHEHR,22/11/2008,12Z,25.0,235%,1015.4 Hpa,210º (SW),28.8,0/8,-,-,-,-,-,-,Clear
+BUSHEHR,22/11/2008,09Z,24.8,69%,1016.8 Hpa,190º (S ),21.6,4/8,-,4/8 AC,-,-,-,-,Scattered clouds
+BUSHEHR,22/11/2008,03Z,18.4,78%,1016.6 Hpa,070º (E ),7.2,6/8,1/8 SC,-,CI,-,-,18.2,Cloudy
+BUSHEHR,22/11/2008,00Z,18.8,28%,1015.8 Hpa,060º (NE),7.2,0/8,-,-,-,-,-,-,Clear
+BUSHEHR (AIRPORT),22/11/2008,21Z,18.8,71%,1016.1 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BUSHEHR (AIRPORT),22/11/2008,18Z,22.4,66%,1016.1 Hpa,190º (S ),10.8,0/8,-,-,-,-,-,-,Clear
+BUSHEHR (AIRPORT),22/11/2008,15Z,22.8,66%,1015.6 Hpa,200º (S ),14.4,3/8,-,-,CI,-,27.0,-,Scattered clouds
+BUSHEHR (AIRPORT),22/11/2008,12Z,25.6,61%,1014.7 Hpa,240º (SW),21.6,0/8,-,-,-,-,-,-,Clear
+BUSHEHR (AIRPORT),22/11/2008,09Z,26.0,61%,1016.7 Hpa,200º (S ),18.0,4/8,-,4/8 AC,-,-,-,-,Scattered clouds
+BUSHEHR (AIRPORT),22/11/2008,06Z,20.8,71%,1017.9 Hpa,calm.,,5/8,-,1/8 AC,CI,-,-,-,Cloudy
+BUSHEHR (AIRPORT),22/11/2008,03Z,17.6,85%,1016.3 Hpa,calm.,,6/8,6/8 ST,-,-,-,-,16.0,"Cloudy, mist"
+BUSHEHR (AIRPORT),22/11/2008,00Z,18.6,84%,1015.6 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+CHAHBAHAR,22/11/2008,21Z,19.9,76%,1017.8 Hpa,calm.,,0/8,0/8 CU,AC,CS,-,60.1,-,Clear
+CHAHBAHAR,22/11/2008,18Z,21.3,84%,1018.6 Hpa,calm.,,0/8,0/8 CU,AC,CS,-,70.1,-,Clear
+CHAHBAHAR,22/11/2008,15Z,23.8,66%,1018.3 Hpa,180º (S ),7.2,0/8,0/8 CU,AC,-,-,70.1,-,Clear
+CHAHBAHAR,22/11/2008,12Z,25.9,62%,1016.5 Hpa,190º (S ),10.8,3/8,0/8 CU,AC,CI,-,70.1,-,Scattered clouds
+CHAHBAHAR,22/11/2008,09Z,26.3,58%,1018.0 Hpa,170º (S ),10.8,2/8,0/8 CU,AC,CI,-,70.1,-,Few clouds
+CHAHBAHAR,22/11/2008,06Z,25.2,50%,1019.9 Hpa,060º (NE),7.2,0/8,0/8 CU,AC,CS,-,60.1,-,Clear
+CHAHBAHAR,22/11/2008,03Z,19.4,61%,1019.2 Hpa,040º (NE),10.8,0/8,0/8 CU,AC,CS,-,40.1,-,Clear
+CHAHBAHAR,22/11/2008,00Z,19.8,63%,1017.2 Hpa,040º (NE),14.4,0/8,0/8 CU,AC,CC,-,80.1,-,Clear
+ESFAHAN,22/11/2008,21Z,9.4,59%,1014.1 Hpa,calm.,,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+ESFAHAN,22/11/2008,18Z,10.6,59%,1016.6 Hpa,calm.,,5/8,3/8 SC,AC,-,-,-,-,Cloudy
+ESFAHAN,22/11/2008,15Z,14.6,46%,1016.4 Hpa,calm.,,6/8,3/8 SC,AC,-,-,18.2,-,"Cloudy, haze"
+ESFAHAN,22/11/2008,12Z,17.4,38%,1013.1 Hpa,060º (NE),7.2,6/8,3/8 SC,AC,-,-,-,-,"Cloudy, haze"
+ESFAHAN,22/11/2008,09Z,16.4,40%,1014.7 Hpa,calm.,,2/8,-,2/8 AC,-,-,-,-,"Few clouds, haze"
+ESFAHAN,22/11/2008,06Z,9.0,61%,1018.7 Hpa,calm.,,2/8,-,2/8 AC,-,-,-,-,"Few clouds, haze"
+ESFAHAN,22/11/2008,03Z,4.6,78%,1018.1 Hpa,calm.,,1/8,-,1/8 AC,-,-,-,4.4,Few clouds
+ESFAHAN,22/11/2008,00Z,8.2,60%,1015.7 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+FASA,22/11/2008,21Z,4.8,45%,1016.3 Hpa,330º (NW),7.2,0/8,-,-,-,-,-,-,Clear
+FASA,22/11/2008,18Z,8.2,36%,1017.4 Hpa,360º (N ),7.2,1/8,-,-,-,-,-,-,Few clouds
+FASA,22/11/2008,15Z,13.6,40%,1017.6 Hpa,calm.,,1/8,-,-,CI,-,22.2,-,Few clouds
+FASA,22/11/2008,12Z,21.6,11%,1014.2 Hpa,200º (S ),10.8,5/8,-,2/8 AC,CI,-,-,-,Cloudy
+FASA,22/11/2008,09Z,21.8,17%,1015.3 Hpa,170º (S ),10.8,4/8,-,-,CI,-,-,-,Scattered clouds
+FASA,22/11/2008,03Z,4.6,53%,1018.8 Hpa,calm.,,4/8,-,-,CI,-,-,3.6,Scattered clouds
+FASA,22/11/2008,00Z,5.8,53%,1015.1 Hpa,calm.,,2/8,-,-,CI,-,-,-,Few clouds
+FERDOUS,22/11/2008,21Z,10.6,27%,1016.5 Hpa,calm.,,3/8,-,3/8 AC,-,-,-,-,Scattered clouds
+FERDOUS,22/11/2008,18Z,12.0,21%,1017.7 Hpa,060º (NE),10.8,0/8,-,-,-,-,-,-,Clear
+FERDOUS,22/11/2008,15Z,14.0,20%,1017.0 Hpa,030º (NE),10.8,0/8,-,-,-,-,21.2,-,Clear
+FERDOUS,22/11/2008,12Z,19.8,14%,1014.4 Hpa,300º (NW),10.8,1/8,-,-,CI,-,-,-,Few clouds
+FERDOUS,22/11/2008,09Z,20.0,20%,1016.3 Hpa,260º (W ),10.8,2/8,1/8 CU/SC,-,CI,-,-,-,Few clouds
+FERDOUS,22/11/2008,06Z,17.2,22%,1017.7 Hpa,180º (S ),7.2,2/8,-,-,CI,-,-,-,Few clouds
+FERDOUS,22/11/2008,03Z,9.8,29%,1018.3 Hpa,060º (NE),7.2,2/8,2/8 SC,-,-,-,-,9.8,Few clouds
+FERDOUS,22/11/2008,00Z,12.4,29%,1015.2 Hpa,calm.,,4/8,-,4/8 AC,-,-,-,-,Scattered clouds
+GACH SARAN DU GUNBADAN,22/11/2008,21Z,12.2,77%,1014.6 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+GACH SARAN DU GUNBADAN,22/11/2008,18Z,15.2,61%,1015.4 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+GACH SARAN DU GUNBADAN,22/11/2008,12Z,24.8,21%,1012.2 Hpa,180º (S ),7.2,0/8,-,-,-,-,-,-,Clear
+GACH SARAN DU GUNBADAN,22/11/2008,09Z,24.4,17%,1013.7 Hpa,calm.,,1/8,-,1/8 AC,-,-,-,-,Few clouds
+GACH SARAN DU GUNBADAN,22/11/2008,06Z,17.2,38%,1016.3 Hpa,calm.,,3/8,-,2/8 AC,CC,-,-,-,Scattered clouds
+GACH SARAN DU GUNBADAN,22/11/2008,03Z,12.0,51%,1015.0 Hpa,calm.,,4/8,-,-,CI,-,-,12.0,Scattered clouds
+GACH SARAN DU GUNBADAN,22/11/2008,00Z,13.0,46%,1013.5 Hpa,calm.,,4/8,-,-,CI,-,-,-,Scattered clouds
+GHARAKHIL,22/11/2008,21Z,9.4,92%,1011.4 Hpa,130º (SE),7.2,0/8,-,-,-,-,-,-,Clear
+GHARAKHIL,22/11/2008,18Z,11.8,87%,1013.1 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+GHARAKHIL,22/11/2008,15Z,14.8,88%,1013.3 Hpa,180º (S ),7.2,0/8,-,-,-,-,23.6,-,Clear
+GHARAKHIL,22/11/2008,12Z,22.0,58%,1011.8 Hpa,360º (N ),10.8,4/8,2/8 SC,-,CI,-,-,-,Scattered clouds
+GHARAKHIL,22/11/2008,09Z,23.2,43%,1012.3 Hpa,calm.,,2/8,-,-,CI,-,-,-,Few clouds
+GHARAKHIL,22/11/2008,06Z,17.4,61%,1014.4 Hpa,210º (SW),10.8,0/8,-,-,-,-,-,-,Clear
+GHARAKHIL,22/11/2008,03Z,11.0,87%,1013.4 Hpa,180º (S ),10.8,0/8,-,-,-,-,-,9.4,Clear
+GHARAKHIL,22/11/2008,00Z,10.4,92%,1013.1 Hpa,150º (SE),10.8,0/8,-,-,-,-,-,-,Clear
+GHAZVIN,22/11/2008,21Z,9.0,61%,1015.4 Hpa,060º (NE),7.2,6/8,-,6/8 AC,-,-,-,-,Cloudy
+GHAZVIN,22/11/2008,18Z,6.0,74%,1017.3 Hpa,calm.,,1/8,-,1/8 AC,-,-,-,-,Few clouds
+GHAZVIN,22/11/2008,15Z,8.8,65%,1018.6 Hpa,Vble.,,1/8,1/8 SC,-,-,-,15.8,-,Few clouds
+GHAZVIN,22/11/2008,12Z,15.0,39%,1016.1 Hpa,150º (SE),14.4,1/8,-,1/8 AC,-,-,-,-,Few clouds
+GHAZVIN,22/11/2008,09Z,14.2,41%,1017.6 Hpa,Vble.,,6/8,1/8 CU,-,CI,-,-,-,Cloudy
+GHAZVIN,22/11/2008,03Z,4.0,78%,1019.7 Hpa,calm.,,1/8,-,-,CI,-,-,3.2,Few clouds
+GHAZVIN,22/11/2008,00Z,4.6,79%,1017.0 Hpa,030º (NE),7.2,0/8,-,-,-,-,-,-,Clear
+GHUCHAN,22/11/2008,21Z,1.2,82%,1015.7 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+GHUCHAN,22/11/2008,18Z,3.0,80%,1016.6 Hpa,040º (NE),7.2,0/8,-,-,-,-,-,-,Clear
+GHUCHAN,22/11/2008,15Z,6.6,78%,1015.8 Hpa,calm.,,0/8,-,-,-,-,16.2,-,Clear
+GHUCHAN,22/11/2008,12Z,15.8,35%,1012.2 Hpa,270º (W ),18.0,2/8,2/8 SC,-,-,-,-,-,Few clouds
+GHUCHAN,22/11/2008,09Z,13.8,49%,1014.3 Hpa,calm.,,2/8,2/8 SC,-,-,-,-,-,Few clouds
+GHUCHAN,22/11/2008,03Z,5.4,93%,1016.4 Hpa,calm.,,7/8,6/8 CB,AC,-,-,-,0.2,"Cloudy, rain showers"
+GHUCHAN,22/11/2008,00Z,4.2,84%,1013.6 Hpa,calm.,,2/8,2/8 SC,-,-,0.8(6h),-,-,Few clouds
+HAMEDAN,22/11/2008,21Z,6.4,92%,1016.6 Hpa,110º (E ),7.2,8/8,6/8 CB,AC,,-,-,-,"Overcast, rain"
+HAMEDAN,22/11/2008,18Z,10.0,55%,1016.9 Hpa,240º (SW),18.0,5/8,5/8 CB,-,-,-,-,-,Cloudy
+HAMEDAN,22/11/2008,15Z,10.6,54%,1017.8 Hpa,210º (SW),18.0,4/8,4/8 CB,-,-,-,15.1,-,Scattered clouds
+HAMEDAN,22/11/2008,12Z,14.9,36%,1016.0 Hpa,210º (SW),18.0,5/8,5/8 CB,-,-,-,-,-,Cloudy
+HAMEDAN,22/11/2008,09Z,13.3,41%,1016.1 Hpa,calm.,,2/8,2/8 CU,-,-,-,-,-,Few clouds
+HAMEDAN,22/11/2008,06Z,7.4,69%,1019.3 Hpa,120º (SE),10.8,5/8,1/8 CU,AC,-,-,-,-,Cloudy
+HAMEDAN,22/11/2008,03Z,4.4,82%,1020.1 Hpa,calm.,,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+HAMEDAN,22/11/2008,00Z,2.4,84%,1018.9 Hpa,calm.,,2/8,2/8 SC,-,-,-,-,-,Few clouds
+ILAM,22/11/2008,18Z,9.6,90%,1016.7 Hpa,150º (SE),7.2,8/8,5/8 CB,AC,,2.0(6h),-,-,"Overcast, mist"
+ILAM,22/11/2008,15Z,10.0,87%,1019.3 Hpa,060º (NE),7.2,8/8,5/8 CB,AC,,-,16.2,-,"Overcast, rain"
+ILAM,22/11/2008,12Z,14.2,57%,1016.8 Hpa,calm.,,7/8,4/8 CB,AC,-,-,-,-,Cloudy
+ILAM,22/11/2008,09Z,14.8,56%,1017.5 Hpa,140º (SE),7.2,6/8,2/8 SC,AC,-,-,-,-,Cloudy
+ILAM,22/11/2008,06Z,10.8,70%,1018.8 Hpa,120º (SE),7.2,4/8,-,4/8 AC,-,-,-,-,Scattered clouds
+ILAM,22/11/2008,03Z,5.0,91%,1018.8 Hpa,calm.,,5/8,-,-,CI,-,-,4.4,Cloudy
+ILAM,22/11/2008,00Z,6.2,91%,1017.6 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+IRANSHAHR,22/11/2008,21Z,14.9,18%,1016.9 Hpa,020º (N),10.8,1/8,-,-,CI,-,-,-,Few clouds
+IRANSHAHR,22/11/2008,18Z,16.7,18%,1017.7 Hpa,330º (NW),7.2,2/8,-,-,CI,-,-,-,Few clouds
+IRANSHAHR,22/11/2008,15Z,22.4,14%,1017.8 Hpa,340º (N ),7.2,3/8,-,-,CI,-,28.5,-,Scattered clouds
+IRANSHAHR,22/11/2008,12Z,27.7,12%,1015.8 Hpa,210º (SW),10.8,5/8,-,-,CI,-,-,-,Cloudy
+IRANSHAHR,22/11/2008,09Z,27.3,11%,1016.9 Hpa,220º (SW),7.2,5/8,-,-,CI,-,-,-,Cloudy
+IRANSHAHR,22/11/2008,03Z,13.1,19%,1018.6 Hpa,020º (N),14.4,2/8,-,-,CI,-,-,12.2,Few clouds
+IRANSHAHR,22/11/2008,00Z,13.1,16%,1016.4 Hpa,070º (E ),14.4,1/8,-,-,CI,-,-,-,Few clouds
+JASK,22/11/2008,21Z,22.4,74%,1017.5 Hpa,360º (N ),10.8,0/8,-,-,-,-,-,-,"Clear, haze"
+JASK,22/11/2008,18Z,25.2,231%,1018.0 Hpa,090º (E ),14.4,0/8,-,-,-,-,-,-,"Clear, haze"
+JASK,22/11/2008,15Z,25.0,75%,1017.3 Hpa,120º (SE),21.6,2/8,-,-,CI,-,26.4,-,Few clouds
+JASK,22/11/2008,12Z,25.6,608%,1016.8 Hpa,120º (SE),25.2,2/8,-,-,CI,-,-,-,Few clouds
+JASK,22/11/2008,09Z,21.2,84%,1018.0 Hpa,090º (E ),14.4,2/8,-,-,CI,-,-,-,Few clouds
+JASK,22/11/2008,03Z,20.4,71%,1017.8 Hpa,360º (N ),14.4,1/8,-,-,CI,-,-,19.8,"Few clouds, haze"
+JASK,22/11/2008,00Z,20.4,513%,1016.6 Hpa,030º (NE),10.8,0/8,-,-,-,-,-,-,"Clear, haze"
+KAHNUJ,22/11/2008,21Z,16.0,69%,1013.6 Hpa,230º (SW),7.2,0/8,-,-,-,-,-,-,Clear
+KAHNUJ,22/11/2008,18Z,20.0,56%,1014.2 Hpa,260º (W ),7.2,0/8,-,-,-,-,-,-,Clear
+KAHNUJ,22/11/2008,15Z,23.0,44%,1013.5 Hpa,230º (SW),21.6,3/8,-,-,CI,-,28.8,-,Scattered clouds
+KAHNUJ,22/11/2008,12Z,26.0,27%,1011.9 Hpa,230º (SW),25.2,3/8,-,-,CI,-,-,-,Scattered clouds
+KAHNUJ,22/11/2008,09Z,25.4,24%,1013.5 Hpa,240º (SW),25.2,4/8,-,-,CI,-,-,-,Scattered clouds
+KAHNUJ,22/11/2008,06Z,21.2,48%,1015.7 Hpa,230º (SW),18.0,3/8,-,-,CI,-,-,-,Scattered clouds
+KAHNUJ,22/11/2008,03Z,14.0,69%,1014.5 Hpa,270º (W ),18.0,2/8,-,-,CI,-,-,12.4,Few clouds
+KAHNUJ,22/11/2008,00Z,15.0,40%,1013.0 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KASHAN,22/11/2008,21Z,11.0,58%,1016.6 Hpa,calm.,,6/8,3/8 SC,-,CI,-,-,-,Cloudy
+KASHAN,22/11/2008,18Z,11.4,59%,1017.7 Hpa,calm.,,7/8,4/8 SC,AC,-,-,-,-,Cloudy
+KASHAN,22/11/2008,15Z,15.4,44%,1018.8 Hpa,calm.,,7/8,4/8 SC,-,CI,-,22.4,-,Cloudy
+KASHAN,22/11/2008,12Z,21.2,26%,1015.5 Hpa,030º (NE),14.4,6/8,1/8 SC,-,CI,-,-,-,Cloudy
+KASHAN,22/11/2008,09Z,19.0,30%,1018.0 Hpa,calm.,,5/8,1/8 SC,-,CI,-,-,-,Cloudy
+KASHAN,22/11/2008,06Z,14.4,45%,1020.7 Hpa,calm.,,5/8,2/8 SC,-,CI,-,-,-,Cloudy
+KASHAN,22/11/2008,03Z,7.6,60%,1019.5 Hpa,180º (S ),10.8,2/8,-,-,-,-,-,6.2,Few clouds
+KASHAN,22/11/2008,01Z,7.6,60%,-,180º (S ),10.8,2/8,-,-,-,-,-,-,Few clouds
+KASHAN,22/11/2008,00Z,10.8,56%,1017.1 Hpa,calm.,,5/8,2/8 SC,AC,-,-,-,-,Cloudy
+KASHMAR,22/11/2008,21Z,10.8,43%,1016.6 Hpa,calm.,,1/8,1/8 SC,-,-,-,-,-,Few clouds
+KASHMAR,22/11/2008,18Z,10.8,45%,1018.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KASHMAR,22/11/2008,15Z,12.0,39%,1018.6 Hpa,030º (NE),7.2,1/8,-,-,CI,-,18.2,-,Few clouds
+KASHMAR,22/11/2008,12Z,17.8,28%,1016.5 Hpa,240º (SW),7.2,2/8,1/8 CU,-,CI,-,-,-,Few clouds
+KASHMAR,22/11/2008,09Z,17.6,19%,1017.3 Hpa,230º (SW),7.2,1/8,1/8 CU,-,CI,-,-,-,Few clouds
+KASHMAR,22/11/2008,03Z,8.2,33%,1018.7 Hpa,030º (NE),7.2,1/8,-,-,CI,-,-,6.4,Few clouds
+KASHMAR,22/11/2008,00Z,8.2,33%,1016.5 Hpa,060º (NE),7.2,1/8,-,-,CI,-,-,-,Few clouds
+KERMAN,22/11/2008,21Z,5.0,34%,1016.9 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KERMAN,22/11/2008,18Z,8.4,29%,1018.8 Hpa,130º (SE),7.2,1/8,-,-,CI,-,-,-,Few clouds
+KERMAN,22/11/2008,15Z,15.0,24%,1017.5 Hpa,210º (SW),10.8,6/8,-,6/8 AC,-,-,21.0,-,Cloudy
+KERMAN,22/11/2008,12Z,19.6,15%,1014.8 Hpa,210º (SW),10.8,6/8,-,6/8 AC,-,-,-,-,Cloudy
+KERMAN,22/11/2008,09Z,19.2,13%,1016.1 Hpa,230º (SW),10.8,7/8,-,7/8 AC,-,-,-,-,Cloudy
+KERMAN,22/11/2008,06Z,13.4,15%,1019.5 Hpa,210º (SW),7.2,7/8,-,-,CI,-,-,-,Cloudy
+KERMAN,22/11/2008,03Z,6.4,33%,1018.9 Hpa,170º (S ),7.2,7/8,-,-,CI,-,-,6.2,Cloudy
+KERMAN,22/11/2008,00Z,7.0,32%,1014.5 Hpa,130º (SE),7.2,5/8,-,-,CI,-,-,-,Cloudy
+KERMANSHAH,22/11/2008,21Z,9.4,98%,1015.8 Hpa,050º (NE),7.2,7/8,3/8 CB,AC,-,-,-,-,Cloudy
+KERMANSHAH,22/11/2008,18Z,10.0,94%,1017.9 Hpa,calm.,,8/8,4/8 CB,AC,,3.0(6h),-,-,"Overcast, rain"
+KERMANSHAH,22/11/2008,15Z,12.6,59%,1018.3 Hpa,110º (E ),7.2,7/8,3/8 CB,AC,-,-,16.6,-,Cloudy
+KERMANSHAH,22/11/2008,12Z,16.2,46%,1017.1 Hpa,200º (S ),14.4,5/8,3/8 CU,AC,-,-,-,-,Cloudy
+KERMANSHAH,22/11/2008,09Z,16.2,46%,1017.5 Hpa,calm.,,4/8,2/8 CU,AC,-,-,-,-,Scattered clouds
+KERMANSHAH,22/11/2008,06Z,10.0,92%,1019.5 Hpa,calm.,,4/8,2/8 CU,-,CI,-,-,-,Scattered clouds
+KERMANSHAH,22/11/2008,03Z,4.8,95%,1020.3 Hpa,calm.,,4/8,2/8 SC,-,CI,-,-,4.5,Scattered clouds
+KERMANSHAH,22/11/2008,00Z,4.8,95%,1018.8 Hpa,120º (SE),7.2,0/8,-,-,-,-,-,-,Clear
+KHARG,22/11/2008,15Z,23.0,66%,1015.2 Hpa,180º (S ),14.4,0/8,-,-,-,-,25.4,-,Clear
+KHARG,22/11/2008,12Z,25.0,63%,1015.4 Hpa,180º (S ),14.4,0/8,-,-,-,-,-,-,Clear
+KHARG,22/11/2008,09Z,24.0,69%,1016.9 Hpa,180º (S ),10.8,0/8,-,-,-,-,-,-,Clear
+KHARG,22/11/2008,06Z,23.2,74%,1018.6 Hpa,calm.,,4/8,-,-,CI,-,-,-,Scattered clouds
+KHARG,22/11/2008,03Z,19.6,84%,1016.4 Hpa,calm.,,4/8,-,-,CI,-,-,19.2,Scattered clouds
+KHOR,22/11/2008,21Z,13.6,44%,1014.1 Hpa,calm.,,2/8,-,-,CI,-,-,-,Few clouds
+KHOR,22/11/2008,18Z,16.6,36%,1015.2 Hpa,210º (SW),7.2,5/8,-,2/8 AC,CI,-,-,-,Cloudy
+KHOR,22/11/2008,15Z,17.4,32%,1015.8 Hpa,calm.,,2/8,-,-,CI,-,24.0,-,Few clouds
+KHOR,22/11/2008,12Z,22.6,25%,1014.5 Hpa,calm.,,3/8,-,1/8 AC,CI,-,-,-,Scattered clouds
+KHOR,22/11/2008,09Z,22.0,26%,1015.2 Hpa,300º (NW),7.2,3/8,-,-,CI,-,-,-,Scattered clouds
+KHOR,22/11/2008,03Z,7.4,57%,1017.5 Hpa,calm.,,0/8,-,-,-,-,-,6.8,Clear
+KHOR,22/11/2008,00Z,8.2,51%,1015.2 Hpa,280º (W ),7.2,0/8,-,-,-,-,-,-,Clear
+KHORRAM ABAD,22/11/2008,21Z,11.0,96%,1019.2 Hpa,calm.,,8/8,5/8 CB,AC,,-,-,-,Overcast
+KHORRAM ABAD,22/11/2008,18Z,11.2,92%,1019.1 Hpa,110º (E ),7.2,8/8,5/8 CB,AC,,3.0(6h),-,-,"Overcast, rain showers"
+KHORRAM ABAD,22/11/2008,15Z,11.6,88%,1018.8 Hpa,100º (E ),7.2,8/8,4/8 SC,AC,,-,16.8,-,"Overcast, rain"
+KHORRAM ABAD,22/11/2008,12Z,14.4,65%,1017.5 Hpa,270º (W ),14.4,8/8,5/8 CB,AC,,0.3(6h),-,-,"Overcast, rain"
+KHORRAM ABAD,22/11/2008,09Z,15.4,61%,1017.8 Hpa,240º (SW),10.8,6/8,4/8 SC,AC,-,-,-,-,Cloudy
+KHORRAM ABAD,22/11/2008,03Z,7.4,86%,1019.6 Hpa,110º (E ),10.8,6/8,3/8 SC,AC,-,-,-,5.4,Cloudy
+KHORRAM ABAD,22/11/2008,00Z,6.2,88%,1018.9 Hpa,calm.,,5/8,2/8 SC,AC,-,-,-,-,Cloudy
+KHOY,22/11/2008,21Z,7.2,60%,1012.9 Hpa,360º (N ),7.2,1/8,1/8 SC,-,-,-,-,-,Few clouds
+KHOY,22/11/2008,18Z,8.8,58%,1014.3 Hpa,calm.,,1/8,1/8 SC,-,-,-,-,-,Few clouds
+KHOY,22/11/2008,15Z,11.8,43%,1014.6 Hpa,250º (W ),10.8,3/8,3/8 SC,-,-,-,16.2,-,Scattered clouds
+KHOY,22/11/2008,12Z,16.0,34%,1012.9 Hpa,190º (S ),21.6,2/8,2/8 SC,-,-,-,-,-,Few clouds
+KHOY,22/11/2008,09Z,14.0,44%,1015.2 Hpa,080º (E ),10.8,1/8,1/8 CU,-,-,-,-,-,Few clouds
+KHOY,22/11/2008,06Z,6.8,73%,1017.5 Hpa,030º (NE),10.8,1/8,1/8 SC,-,-,-,-,-,Few clouds
+KHOY,22/11/2008,03Z,0.4,86%,1014.9 Hpa,calm.,,2/8,2/8 SC,-,-,-,-,0.4,Few clouds
+KHOY,22/11/2008,00Z,3.0,95%,1015.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KISH ISLAND,22/11/2008,21Z,21.8,79%,1017.1 Hpa,090º (E ),7.2,0/8,-,-,-,-,-,-,"Clear, haze"
+KISH ISLAND,22/11/2008,18Z,22.0,73%,1017.7 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, haze"
+KISH ISLAND,22/11/2008,15Z,23.6,65%,1016.2 Hpa,calm.,,2/8,-,-,CI,-,26.2,-,"Few clouds, haze"
+KISH ISLAND,22/11/2008,12Z,26.0,59%,1015.9 Hpa,200º (S ),10.8,6/8,4/8 SC,AC,-,-,-,-,"Cloudy, haze"
+KISH ISLAND,22/11/2008,09Z,26.2,,1017.2 Hpa,120º (SE),7.2,7/8,5/8 CU/SC,AC,-,-,-,-,"Cloudy, haze"
+KISH ISLAND,22/11/2008,06Z,24.0,67%,1018.9 Hpa,090º (E ),7.2,5/8,2/8 SC,-,CI,-,-,-,"Cloudy, haze"
+KISH ISLAND,22/11/2008,03Z,20.8,85%,1016.8 Hpa,300º (NW),7.2,4/8,1/8 CU,-,CI,-,-,20.0,"Scattered clouds, mist"
+KISH ISLAND,22/11/2008,00Z,21.0,83%,1015.6 Hpa,280º (W ),7.2,1/8,-,-,CI,-,-,-,"Few clouds, mist"
+KONARAK,22/11/2008,21Z,15.6,78%,1017.8 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KONARAK,22/11/2008,15Z,21.2,71%,1018.2 Hpa,calm.,,0/8,-,-,-,-,28.0,-,Clear
+KONARAK,22/11/2008,12Z,26.0,44%,1016.7 Hpa,180º (S ),14.4,0/8,-,-,CI,-,-,-,Clear
+KONARAK,22/11/2008,09Z,27.8,45%,1017.9 Hpa,calm.,,2/8,-,-,CI,-,-,-,Few clouds
+KONARAK,22/11/2008,06Z,24.4,56%,1020.1 Hpa,030º (NE),10.8,2/8,-,-,CI,-,-,-,Few clouds
+KONARAK,22/11/2008,03Z,13.4,79%,1019.0 Hpa,010º (N),10.8,1/8,-,-,-,-,-,12.6,Few clouds
+KONARAK,22/11/2008,00Z,,0%,1017.1 Hpa,010º (N),144.0,1/8,-,-,-,-,-,-,Few clouds
+MAKKO,22/11/2008,21Z,8.6,55%,1012.2 Hpa,300º (NW),18.0,6/8,6/8 CB,-,-,-,-,-,Cloudy
+MAKKO,22/11/2008,18Z,7.2,61%,1013.9 Hpa,140º (SE),7.2,1/8,1/8 SC,-,-,Tr(6h),-,-,Few clouds
+MAKKO,22/11/2008,15Z,8.8,53%,1014.1 Hpa,270º (W ),10.8,2/8,2/8 SC,-,-,-,15.4,-,Few clouds
+MAKKO,22/11/2008,12Z,11.8,44%,1011.6 Hpa,200º (S ),25.2,4/8,4/8 CB,-,-,-,-,-,Scattered clouds
+MAKKO,22/11/2008,09Z,10.6,44%,1013.7 Hpa,360º (N ),18.0,3/8,3/8 CU,-,-,-,-,-,Scattered clouds
+MAKKO,22/11/2008,03Z,3.8,66%,1017.1 Hpa,090º (E ),7.2,2/8,1/8 SC,-,CI,-,-,3.8,Few clouds
+MAKKO,22/11/2008,00Z,7.6,49%,1014.7 Hpa,100º (E ),7.2,2/8,1/8 SC,-,CI,-,-,-,Few clouds
+MARAGHEH,22/11/2008,21Z,5.0,82%,1016.1 Hpa,150º (SE),7.2,0/8,-,-,-,-,-,-,Clear
+MARAGHEH,22/11/2008,18Z,5.4,77%,1017.0 Hpa,120º (SE),7.2,0/8,-,-,-,-,-,-,Clear
+MARAGHEH,22/11/2008,15Z,,0%,1016.9 Hpa,180º (S ),7.2,1/8,1/8 CU,-,-,-,13.4,-,Few clouds
+MARAGHEH,22/11/2008,12Z,12.6,44%,1015.7 Hpa,210º (SW),10.8,3/8,3/8 CU,-,-,-,-,-,Scattered clouds
+MARAGHEH,22/11/2008,09Z,12.0,48%,1017.2 Hpa,160º (S ),14.4,1/8,1/8 CU,-,-,-,-,-,Few clouds
+MARAGHEH,22/11/2008,03Z,3.6,84%,1018.3 Hpa,calm.,,1/8,1/8 SC,-,-,-,-,3.6,Few clouds
+MARAGHEH,22/11/2008,00Z,4.0,84%,1017.1 Hpa,110º (E ),7.2,1/8,-,1/8 AC,-,-,-,-,Few clouds
+MARAVEH-TAPPEH,22/11/2008,21Z,16.6,43%,1014.9 Hpa,150º (SE),32.4,0/8,-,-,-,-,-,-,Clear
+MARAVEH-TAPPEH,22/11/2008,18Z,16.6,43%,1015.2 Hpa,120º (SE),18.0,0/8,-,-,-,-,-,-,Clear
+MARAVEH-TAPPEH,22/11/2008,15Z,17.2,47%,1014.9 Hpa,170º (S ),14.4,0/8,-,-,-,-,21.0,-,Clear
+MARAVEH-TAPPEH,22/11/2008,12Z,20.2,44%,1014.0 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+MARAVEH-TAPPEH,22/11/2008,09Z,18.8,68%,1014.9 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+MARAVEH-TAPPEH,22/11/2008,06Z,18.6,48%,1015.6 Hpa,060º (NE),7.2,1/8,-,-,CI,9.3(24h),-,-,Few clouds
+MARAVEH-TAPPEH,22/11/2008,03Z,12.4,61%,1015.9 Hpa,160º (S ),21.6,2/8,-,2/8 AC,-,-,-,9.2,Few clouds
+MARAVEH-TAPPEH,22/11/2008,00Z,11.0,80%,1015.1 Hpa,170º (S ),14.4,1/8,-,1/8 AC,-,-,-,-,Few clouds
+MASHHAD,22/11/2008,21Z,7.4,56%,1017.1 Hpa,calm.,,2/8,-,-,CI,-,-,-,"Few clouds, haze"
+MASHHAD,22/11/2008,18Z,9.4,51%,1017.8 Hpa,calm.,,3/8,-,1/8 AC,CI,-,-,-,"Scattered clouds, haze"
+MASHHAD,22/11/2008,15Z,13.2,39%,1018.1 Hpa,calm.,,3/8,1/8 SC,-,CI,-,18.4,-,Scattered clouds
+MASHHAD,22/11/2008,12Z,18.0,30%,1015.3 Hpa,calm.,,1/8,1/8 SC,-,-,-,-,-,Few clouds
+MASHHAD,22/11/2008,09Z,17.2,30%,1016.5 Hpa,040º (NE),7.2,2/8,2/8 SC,-,-,-,-,-,Few clouds
+MASHHAD,22/11/2008,06Z,13.6,38%,1018.2 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, haze"
+MASHHAD,22/11/2008,03Z,4.4,72%,1018.4 Hpa,calm.,,1/8,1/8 SC,AC,-,-,-,4.0,"Few clouds, haze"
+MASHHAD,22/11/2008,00Z,5.9,63%,1016.4 Hpa,220º (SW),7.2,0/8,-,-,-,-,-,-,"Clear, haze"
+MASJED-SOLEYMAN,22/11/2008,21Z,18.8,56%,1014.7 Hpa,calm.,,5/8,3/8 SC,AC,-,-,-,-,Cloudy
+MASJED-SOLEYMAN,22/11/2008,18Z,21.4,44%,1014.8 Hpa,calm.,,6/8,3/8 SC,AC,-,-,-,-,Cloudy
+MASJED-SOLEYMAN,22/11/2008,15Z,23.0,37%,1013.7 Hpa,calm.,,6/8,3/8 SC,AC,-,-,25.0,-,Cloudy
+MASJED-SOLEYMAN,22/11/2008,12Z,24.6,30%,1013.6 Hpa,090º (E ),14.4,5/8,3/8 SC,AC,-,-,-,-,Cloudy
+MASJED-SOLEYMAN,22/11/2008,09Z,21.4,44%,1016.2 Hpa,calm.,,5/8,3/8 SC,AC,-,-,-,-,Cloudy
+MASJED-SOLEYMAN,22/11/2008,06Z,17.4,64%,1018.6 Hpa,calm.,,7/8,4/8 CB,AC,-,Tr(24h),-,-,Cloudy
+MASJED-SOLEYMAN,22/11/2008,03Z,16.4,65%,1015.1 Hpa,calm.,,6/8,3/8 SC,AC,-,-,-,16.0,Cloudy
+MASJED-SOLEYMAN,22/11/2008,00Z,16.4,65%,1015.1 Hpa,calm.,,8/8,4/8 CB,AC,,-,-,-,Overcast
+MEYANEH,22/11/2008,21Z,5.0,82%,1016.0 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+MEYANEH,22/11/2008,18Z,8.2,71%,1015.8 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+MEYANEH,22/11/2008,15Z,12.0,52%,1015.7 Hpa,270º (W ),7.2,0/8,-,-,-,-,16.4,-,Clear
+MEYANEH,22/11/2008,12Z,15.0,42%,1013.9 Hpa,180º (S ),7.2,2/8,2/8 CU,-,-,-,-,-,Few clouds
+MEYANEH,22/11/2008,09Z,13.6,49%,1015.4 Hpa,180º (S ),7.2,1/8,1/8 CU,-,-,-,-,-,Few clouds
+MEYANEH,22/11/2008,06Z,8.4,74%,1018.6 Hpa,090º (E ),7.2,0/8,-,-,-,-,-,-,Clear
+MEYANEH,22/11/2008,03Z,5.2,85%,1017.5 Hpa,calm.,,5/8,2/8 SC,AC,-,-,-,4.4,Cloudy
+MEYANEH,22/11/2008,00Z,6.6,77%,1015.3 Hpa,calm.,,3/8,2/8 SC,AC,-,-,-,-,Scattered clouds
+MOHABAD,22/11/2008,21Z,8.8,65%,1013.8 Hpa,250º (W ),7.2,4/8,4/8 SC,-,-,-,-,-,Scattered clouds
+MOHABAD,22/11/2008,18Z,8.4,67%,1014.7 Hpa,180º (S ),18.0,0/8,-,-,-,-,-,-,Clear
+MOHABAD,22/11/2008,15Z,10.0,58%,1015.7 Hpa,210º (SW),21.6,1/8,1/8 CU,-,-,-,13.8,-,Few clouds
+MOHABAD,22/11/2008,12Z,13.6,38%,1014.0 Hpa,230º (SW),21.6,2/8,2/8 CU,-,-,-,-,-,Few clouds
+MOHABAD,22/11/2008,09Z,12.6,42%,1015.3 Hpa,190º (S ),25.2,0/8,-,-,-,-,-,-,Clear
+MOHABAD,22/11/2008,06Z,10.2,52%,1017.1 Hpa,190º (S ),21.6,0/8,-,-,-,-,-,-,Clear
+MOHABAD,22/11/2008,03Z,6.2,69%,1017.4 Hpa,210º (SW),18.0,2/8,-,-,CI,-,-,6.2,Few clouds
+MOHABAD,22/11/2008,00Z,7.8,61%,1015.1 Hpa,210º (SW),18.0,0/8,-,-,-,-,-,-,Clear
+NEHBANDAN,22/11/2008,21Z,8.8,26%,1019.8 Hpa,020º (N),10.8,0/8,-,-,-,-,-,-,Clear
+NEHBANDAN,22/11/2008,18Z,9.0,37%,1023.2 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+NEHBANDAN,22/11/2008,15Z,15.0,23%,1023.3 Hpa,calm.,,0/8,-,-,-,-,22.4,-,Clear
+NEHBANDAN,22/11/2008,12Z,20.8,11%,1020.5 Hpa,170º (S ),14.4,6/8,-,0/8 AC,CI,-,-,-,Cloudy
+NEHBANDAN,22/11/2008,09Z,21.6,13%,1021.1 Hpa,180º (S ),10.8,3/8,-,-,CI,-,-,-,Scattered clouds
+NEHBANDAN,22/11/2008,03Z,3.4,41%,1024.0 Hpa,calm.,,3/8,-,-,CI,-,-,2.8,Scattered clouds
+NEHBANDAN,22/11/2008,00Z,3.8,42%,1020.6 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+NOSHAHR,22/11/2008,21Z,11.2,75%,1010.1 Hpa,Vble.,,0/8,-,-,-,-,-,-,Clear
+NOSHAHR,22/11/2008,18Z,12.4,78%,1011.6 Hpa,240º (SW),7.2,0/8,-,-,-,-,-,-,Clear
+NOSHAHR,22/11/2008,15Z,14.2,75%,1011.6 Hpa,Vble.,,0/8,-,-,-,-,21.0,-,Clear
+NOSHAHR,22/11/2008,12Z,20.0,74%,1011.2 Hpa,calm.,,1/8,-,-,CI,-,-,-,Few clouds
+NOSHAHR,22/11/2008,09Z,20.0,64%,1012.0 Hpa,calm.,,2/8,-,-,CI,-,-,-,Few clouds
+NOSHAHR,22/11/2008,06Z,17.0,66%,1013.2 Hpa,310º (NW),7.2,1/8,-,-,CI,-,-,-,Few clouds
+NOSHAHR,22/11/2008,03Z,10.4,86%,1012.6 Hpa,170º (S ),7.2,0/8,-,-,-,-,-,9.8,Clear
+NOSHAHR,22/11/2008,00Z,13.4,81%,1011.3 Hpa,170º (S ),7.2,2/8,1/8 ST,AC,-,-,-,-,Few clouds
+OMIDYEH-AGHAJARI,22/11/2008,21Z,20.0,67%,1017.1 Hpa,120º (SE),18.0,0/8,-,-,-,-,-,-,Clear
+OMIDYEH-AGHAJARI,22/11/2008,18Z,20.6,76%,1017.5 Hpa,120º (SE),18.0,0/8,-,-,-,-,-,-,Clear
+OMIDYEH-AGHAJARI,22/11/2008,15Z,22.8,63%,1016.5 Hpa,150º (SE),18.0,0/8,-,-,-,-,28.0,-,Clear
+OMIDYEH-AGHAJARI,22/11/2008,12Z,27.2,36%,1015.8 Hpa,180º (S ),21.6,0/8,-,-,-,-,-,-,Clear
+OMIDYEH-AGHAJARI,22/11/2008,09Z,26.8,30%,1017.5 Hpa,180º (S ),21.6,0/8,-,-,-,-,-,-,Clear
+OMIDYEH-AGHAJARI,22/11/2008,06Z,21.4,36%,1019.2 Hpa,calm.,,0/8,-,1/8 AC,CC,-,-,-,Clear
+OMIDYEH-AGHAJARI,22/11/2008,03Z,16.2,67%,1017.5 Hpa,calm.,,5/8,-,1/8 AC,CI,-,-,-,Cloudy
+OMIDYEH-AGHAJARI,22/11/2008,00Z,16.4,69%,1017.0 Hpa,calm.,,3/8,-,-,CI,-,-,-,Scattered clouds
+ORUMIEH,22/11/2008,21Z,1.2,82%,1015.9 Hpa,210º (SW),10.8,1/8,1/8 SC,-,-,-,-,-,Few clouds
+ORUMIEH,22/11/2008,18Z,3.4,71%,1016.8 Hpa,240º (SW),14.4,0/8,-,-,-,-,-,-,Clear
+ORUMIEH,22/11/2008,15Z,7.4,48%,1017.4 Hpa,230º (SW),10.8,1/8,1/8 SC,-,-,-,15.2,-,Few clouds
+ORUMIEH,22/11/2008,12Z,15.4,41%,1016.4 Hpa,150º (SE),14.4,3/8,3/8 CU,-,-,-,-,-,Scattered clouds
+ORUMIEH,22/11/2008,09Z,12.0,50%,1017.0 Hpa,150º (SE),10.8,1/8,1/8 CU,-,-,-,-,-,Few clouds
+ORUMIEH,22/11/2008,06Z,6.6,65%,1019.0 Hpa,150º (SE),7.2,1/8,1/8 SC,-,-,-,-,-,Few clouds
+ORUMIEH,22/11/2008,03Z,0.0,85%,1019.1 Hpa,calm.,,0/8,-,-,-,-,-,-0.8,Clear
+ORUMIEH,22/11/2008,00Z,-0.4,88%,1018.1 Hpa,270º (W ),7.2,0/8,-,-,-,-,-,-,Clear
+PARS ABAD MOGHAN,22/11/2008,21Z,7.0,82%,1009.6 Hpa,210º (SW),10.8,0/8,-,-,-,-,-,-,Clear
+PARS ABAD MOGHAN,22/11/2008,18Z,8.2,83%,1010.5 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+PARS ABAD MOGHAN,22/11/2008,15Z,13.8,60%,1010.5 Hpa,calm.,,0/8,-,-,-,-,23.0,-,Clear
+PARS ABAD MOGHAN,22/11/2008,12Z,21.6,35%,1009.5 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+PARS ABAD MOGHAN,22/11/2008,09Z,21.4,38%,1011.0 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+PARS ABAD MOGHAN,22/11/2008,06Z,10.2,74%,1013.9 Hpa,240º (SW),21.6,0/8,-,-,-,0.3(24h),-,-,Clear
+PARS ABAD MOGHAN,22/11/2008,03Z,6.4,87%,1012.9 Hpa,240º (SW),14.4,0/8,-,-,-,-,-,6.2,Clear
+PARS ABAD MOGHAN,22/11/2008,00Z,7.0,91%,1012.7 Hpa,260º (W ),10.8,0/8,-,-,-,-,-,-,Clear
+RAMSAR,22/11/2008,21Z,13.6,66%,1009.8 Hpa,220º (SW),7.2,0/8,-,-,-,-,-,-,Clear
+RAMSAR,22/11/2008,18Z,13.8,64%,1010.7 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+RAMSAR,22/11/2008,15Z,16.4,56%,1011.4 Hpa,calm.,,0/8,-,-,-,-,23.2,-,Clear
+RAMSAR,22/11/2008,12Z,23.2,38%,1010.8 Hpa,150º (SE),7.2,1/8,-,-,CI,-,-,-,Few clouds
+RAMSAR,22/11/2008,09Z,21.2,60%,1011.4 Hpa,110º (E ),7.2,1/8,-,-,CI,-,-,-,Few clouds
+RAMSAR,22/11/2008,06Z,16.4,75%,1013.4 Hpa,calm.,,1/8,-,-,CI,-,-,-,Few clouds
+RAMSAR,22/11/2008,03Z,11.8,89%,1012.1 Hpa,180º (S ),7.2,0/8,-,-,-,-,-,11.0,Clear
+RAMSAR,22/11/2008,00Z,13.4,88%,1011.0 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+RASHT,22/11/2008,21Z,19.6,39%,1010.3 Hpa,190º (S ),10.8,0/8,-,-,-,-,-,-,Clear
+RASHT,22/11/2008,18Z,18.8,41%,1011.1 Hpa,180º (S ),7.2,0/8,-,-,-,-,-,-,"Clear, haze"
+RASHT,22/11/2008,15Z,17.0,53%,1011.3 Hpa,060º (NE),7.2,0/8,-,-,-,-,26.6,-,"Clear, haze"
+RASHT,22/11/2008,12Z,26.2,24%,1010.6 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+RASHT,22/11/2008,09Z,25.0,24%,1012.1 Hpa,200º (S ),10.8,2/8,-,1/8 AC,CI,-,-,-,Few clouds
+RASHT,22/11/2008,06Z,15.4,85%,1014.1 Hpa,calm.,,2/8,-,1/8 AC,CI,-,-,-,Few clouds
+RASHT,22/11/2008,03Z,9.6,100%,1012.5 Hpa,calm.,,0/8,-,-,-,-,-,9.6,"Clear, fog"
+RASHT,22/11/2008,00Z,12.2,100%,1011.9 Hpa,Vble.,,,-,-,-,-,-,-,fog
+SABZEVAR,22/11/2008,21Z,,0%,1017.5 Hpa,000º (N),302.4,1/8,-,-,-,-,-,-,Few clouds
+SABZEVAR,22/11/2008,18Z,9.2,48%,1018.7 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SABZEVAR,22/11/2008,15Z,11.4,42%,1018.3 Hpa,360º (N ),10.8,1/8,-,-,CI,-,18.6,-,Few clouds
+SABZEVAR,22/11/2008,12Z,17.8,32%,1015.8 Hpa,270º (W ),21.6,3/8,1/8 CU,-,CI,-,-,-,Scattered clouds
+SABZEVAR,22/11/2008,09Z,17.8,32%,1016.8 Hpa,260º (W ),21.6,1/8,1/8 CU,-,-,-,-,-,Few clouds
+SABZEVAR,22/11/2008,06Z,11.4,44%,1019.4 Hpa,090º (E ),18.0,0/8,-,-,-,Tr(24h),-,-,Clear
+SABZEVAR,22/11/2008,03Z,7.4,50%,1018.0 Hpa,070º (E ),14.4,1/8,-,-,CI,-,-,7.0,Few clouds
+SABZEVAR,22/11/2008,00Z,8.0,48%,1015.9 Hpa,040º (NE),10.8,5/8,-,-,CI,-,-,-,Cloudy
+SAFI-ABAD DEZFUL,22/11/2008,21Z,17.8,76%,1016.2 Hpa,100º (E ),14.4,6/8,2/8 SC,AC,-,-,-,-,Cloudy
+SAFI-ABAD DEZFUL,22/11/2008,18Z,19.2,75%,1016.4 Hpa,010º (N),14.4,3/8,1/8 SC,AC,-,-,-,-,Scattered clouds
+SAFI-ABAD DEZFUL,22/11/2008,15Z,20.8,79%,1015.9 Hpa,360º (N ),7.2,8/8,2/8 SC,AC,,-,-,-,Overcast
+SAFI-ABAD DEZFUL,22/11/2008,12Z,24.6,51%,1014.8 Hpa,070º (E ),14.4,5/8,2/8 SC,AC,-,Tr(6h),-,-,Cloudy
+SAFI-ABAD DEZFUL,22/11/2008,09Z,21.2,63%,1017.2 Hpa,090º (E ),14.4,6/8,3/8 CB,AC,-,-,-,-,Cloudy
+SAFI-ABAD DEZFUL,22/11/2008,06Z,16.4,83%,1018.5 Hpa,100º (E ),18.0,8/8,4/8 CB,AC,,0.4(6h),-,-,"Overcast, rain showers"
+SAFI-ABAD DEZFUL,22/11/2008,03Z,15.6,87%,1017.0 Hpa,010º (N),7.2,8/8,4/8 CB,AC,,-,-,14.2,Overcast
+SAFI-ABAD DEZFUL,22/11/2008,00Z,14.8,91%,1016.5 Hpa,calm.,,7/8,-,7/8 AC,-,-,-,-,Cloudy
+SAGHEZ,22/11/2008,21Z,4.8,76%,1015.6 Hpa,150º (SE),14.4,1/8,1/8 SC,-,-,-,-,-,Few clouds
+SAGHEZ,22/11/2008,18Z,5.0,74%,1016.6 Hpa,calm.,,1/8,1/8 SC,-,-,-,-,-,Few clouds
+SAGHEZ,22/11/2008,15Z,10.0,43%,1016.6 Hpa,180º (S ),14.4,1/8,1/8 SC,-,-,-,13.0,-,Few clouds
+SAGHEZ,22/11/2008,12Z,13.0,34%,1014.9 Hpa,220º (SW),25.2,3/8,3/8 CU,-,-,-,-,-,Scattered clouds
+SAGHEZ,22/11/2008,09Z,11.2,43%,1015.9 Hpa,240º (SW),21.6,4/8,4/8 CU,-,-,-,-,-,Scattered clouds
+SAGHEZ,22/11/2008,06Z,7.0,73%,1018.5 Hpa,calm.,,2/8,1/8 SC,-,CI,-,-,-,Few clouds
+SAGHEZ,22/11/2008,03Z,2.4,80%,1018.3 Hpa,calm.,,0/8,-,-,-,-,-,2.0,Clear
+SAGHEZ,22/11/2008,00Z,4.0,72%,1016.6 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SANANDAJ,22/11/2008,21Z,8.2,76%,1014.7 Hpa,180º (S ),7.2,4/8,2/8 SC,AC,-,-,-,-,Scattered clouds
+SANANDAJ,22/11/2008,18Z,8.2,74%,1017.4 Hpa,calm.,,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+SANANDAJ,22/11/2008,15Z,11.2,55%,1017.1 Hpa,170º (S ),14.4,4/8,3/8 CU/SC,AC,-,-,16.6,-,Scattered clouds
+SANANDAJ,22/11/2008,12Z,16.0,31%,1015.0 Hpa,190º (S ),21.6,2/8,2/8 CU,AC,-,-,-,-,Few clouds
+SANANDAJ,22/11/2008,09Z,14.2,46%,1016.6 Hpa,190º (S ),10.8,2/8,2/8 CU,-,-,-,-,-,"Few clouds, haze"
+SANANDAJ,22/11/2008,03Z,1.8,87%,1020.1 Hpa,calm.,,3/8,-,-,CI,-,-,1.4,Scattered clouds
+SANANDAJ,22/11/2008,00Z,3.6,87%,1017.1 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SARAB,22/11/2008,21Z,4.0,70%,1015.6 Hpa,270º (W ),10.8,0/8,-,-,-,-,-,-,Clear
+SARAB,22/11/2008,18Z,4.0,67%,1016.8 Hpa,340º (N ),10.8,1/8,-,-,CI,-,-,-,Few clouds
+SARAB,22/11/2008,15Z,6.6,55%,1018.6 Hpa,300º (NW),7.2,1/8,1/8 SC,-,-,-,11.2,-,Few clouds
+SARAB,22/11/2008,12Z,10.2,42%,1016.7 Hpa,250º (W ),28.8,2/8,2/8 SC,-,-,-,-,-,Few clouds
+SARAB,22/11/2008,09Z,8.8,48%,1017.4 Hpa,270º (W ),10.8,5/8,1/8 SC,AC,-,-,-,-,Cloudy
+SARAB,22/11/2008,03Z,-0.6,88%,1018.8 Hpa,330º (NW),10.8,0/8,-,-,-,-,-,-1.8,Clear
+SARAB,22/11/2008,00Z,-1.4,87%,1018.1 Hpa,330º (NW),7.2,0/8,-,-,-,-,-,-,Clear
+SARAKHS,22/11/2008,21Z,9.2,61%,1016.7 Hpa,120º (SE),7.2,0/8,-,-,-,-,-,-,Clear
+SARAKHS,22/11/2008,18Z,12.2,52%,1017.2 Hpa,310º (NW),7.2,0/8,-,-,-,-,-,-,Clear
+SARAKHS,22/11/2008,15Z,17.4,35%,1016.5 Hpa,calm.,,0/8,-,-,-,-,26.0,-,Clear
+SARAKHS,22/11/2008,12Z,24.6,28%,1014.6 Hpa,calm.,,1/8,1/8 CU,-,-,-,-,-,Few clouds
+SARAKHS,22/11/2008,09Z,23.8,44%,1015.8 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SARAKHS,22/11/2008,06Z,16.4,44%,1017.7 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SARAKHS,22/11/2008,03Z,6.8,70%,1017.5 Hpa,120º (SE),10.8,0/8,-,-,-,-,-,6.8,Clear
+SARAKHS,22/11/2008,00Z,8.0,72%,1016.8 Hpa,170º (S ),7.2,0/8,-,-,-,-,-,-,Clear
+SARAVAN,22/11/2008,21Z,10.9,34%,1019.3 Hpa,330º (NW),10.8,0/8,-,-,-,-,-,-,Clear
+SARAVAN,22/11/2008,18Z,17.3,34%,1019.6 Hpa,140º (SE),10.8,0/8,-,-,-,-,-,-,Clear
+SARAVAN,22/11/2008,15Z,20.5,20%,1021.2 Hpa,120º (SE),14.4,1/8,-,-,CI,-,27.8,-,Few clouds
+SARAVAN,22/11/2008,12Z,27.4,8%,1017.9 Hpa,250º (W ),10.8,3/8,-,-,CI,-,-,-,Scattered clouds
+SARAVAN,22/11/2008,09Z,24.6,10%,1018.9 Hpa,130º (SE),10.8,2/8,-,-,CI,-,-,-,Few clouds
+SARAVAN,22/11/2008,03Z,4.7,23%,1023.0 Hpa,330º (NW),7.2,0/8,-,-,-,-,-,3.7,Clear
+SARAVAN,22/11/2008,00Z,4.8,22%,1019.8 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SEMNAN,22/11/2008,21Z,8.0,49%,1015.8 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SEMNAN,22/11/2008,18Z,10.2,53%,1016.4 Hpa,calm.,,4/8,2/8 SC,-,CI,-,-,-,Scattered clouds
+SEMNAN,22/11/2008,15Z,14.8,38%,1016.0 Hpa,220º (SW),18.0,0/8,-,-,-,-,18.4,-,Clear
+SEMNAN,22/11/2008,12Z,17.2,38%,1013.9 Hpa,calm.,,3/8,2/8 CU,-,CI,-,-,-,Scattered clouds
+SEMNAN,22/11/2008,09Z,14.6,43%,1015.8 Hpa,calm.,,3/8,2/8 CU,-,CI,-,-,-,Scattered clouds
+SEMNAN,22/11/2008,03Z,5.8,63%,1017.0 Hpa,350º (N ),14.4,0/8,-,-,-,-,-,5.8,Clear
+SEMNAN,22/11/2008,00Z,8.2,54%,1014.2 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SHAHRE-KORD,22/11/2008,21Z,7.4,65%,1014.8 Hpa,260º (W ),7.2,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+SHAHRE-KORD,22/11/2008,18Z,9.2,58%,1015.4 Hpa,160º (S ),7.2,4/8,4/8 SC,-,-,-,-,-,Scattered clouds
+SHAHRE-KORD,22/11/2008,15Z,9.8,53%,1018.6 Hpa,290º (W ),10.8,5/8,4/8 SC,AC,-,-,13.6,-,Cloudy
+SHAHRE-KORD,22/11/2008,12Z,13.2,41%,1017.8 Hpa,210º (SW),14.4,6/8,4/8 SC,AC,-,-,-,-,Cloudy
+SHAHRE-KORD,22/11/2008,09Z,11.8,54%,1019.0 Hpa,260º (W ),21.6,6/8,5/8 CB,AC,-,-,-,-,Cloudy
+SHAHRE-KORD,22/11/2008,03Z,-1.2,94%,1022.5 Hpa,calm.,,3/8,3/8 SC,-,-,-,-,-2.2,Scattered clouds
+SHAHRE-KORD,22/11/2008,00Z,0.0,87%,1019.8 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SHAHRUD,22/11/2008,21Z,6.2,59%,1015.8 Hpa,340º (N ),10.8,0/8,-,-,-,-,-,-,Clear
+SHAHRUD,22/11/2008,18Z,7.2,55%,1016.9 Hpa,350º (N ),10.8,0/8,-,-,-,-,-,-,Clear
+SHAHRUD,22/11/2008,15Z,9.0,49%,1018.3 Hpa,calm.,,0/8,-,-,-,-,15.8,-,Clear
+SHAHRUD,22/11/2008,12Z,14.0,37%,1015.4 Hpa,calm.,,6/8,2/8 SC,AC,CI,-,-,-,Cloudy
+SHAHRUD,22/11/2008,09Z,13.8,39%,1015.5 Hpa,090º (E ),7.2,1/8,-,-,CI,-,-,-,Few clouds
+SHAHRUD,22/11/2008,06Z,10.2,47%,1017.9 Hpa,040º (NE),7.2,0/8,-,-,-,-,-,-,Clear
+SHAHRUD,22/11/2008,03Z,4.8,62%,1017.6 Hpa,calm.,,0/8,-,-,-,-,-,4.8,Clear
+SHAHRUD,22/11/2008,00Z,6.0,59%,1015.4 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SHIRAZ,22/11/2008,21Z,4.6,56%,1018.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SHIRAZ,22/11/2008,18Z,10.2,39%,1018.1 Hpa,340º (N ),7.2,0/8,-,-,-,-,-,-,Clear
+SHIRAZ,22/11/2008,15Z,13.4,36%,1018.0 Hpa,calm.,,1/8,-,-,CI,-,21.5,-,Few clouds
+SHIRAZ,22/11/2008,12Z,21.4,19%,1013.9 Hpa,150º (SE),7.2,4/8,-,3/8 AC,CI,-,-,-,Scattered clouds
+SHIRAZ,22/11/2008,09Z,17.8,22%,1016.3 Hpa,calm.,,7/8,-,-,CI,-,-,-,Cloudy
+SHIRAZ,22/11/2008,06Z,13.4,40%,1020.2 Hpa,calm.,,7/8,-,2/8 AC,CI,-,-,-,Cloudy
+SHIRAZ,22/11/2008,03Z,5.6,69%,1019.4 Hpa,calm.,,7/8,1/8 SC,AC,CI,-,-,5.6,Cloudy
+SHIRAZ,22/11/2008,00Z,9.4,48%,1016.0 Hpa,calm.,,1/8,-,-,CI,-,-,-,Few clouds
+SIRI ISLAND,22/11/2008,15Z,25.4,62%,1016.5 Hpa,calm.,,3/8,-,-,CI,-,27.6,-,Scattered clouds
+SIRI ISLAND,22/11/2008,12Z,26.8,17%,1015.8 Hpa,calm.,,5/8,-,-,CI,-,-,-,Cloudy
+SIRI ISLAND,22/11/2008,09Z,27.2,48%,1017.5 Hpa,calm.,,4/8,-,-,CI,-,-,-,Scattered clouds
+SIRI ISLAND,22/11/2008,06Z,25.0,19%,1019.1 Hpa,calm.,,3/8,-,-,CI,-,-,-,Scattered clouds
+SIRI ISLAND,22/11/2008,03Z,21.0,75%,1017.1 Hpa,calm.,,4/8,-,-,CI,-,-,20.6,Scattered clouds
+SIRJAN,22/11/2008,21Z,11.4,20%,1014.5 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SIRJAN,22/11/2008,18Z,13.0,17%,1016.7 Hpa,calm.,,2/8,2/8 SC,-,-,-,-,-,Few clouds
+SIRJAN,22/11/2008,15Z,17.0,13%,1015.6 Hpa,calm.,,6/8,3/8 SC,AC,-,-,20.6,-,Cloudy
+SIRJAN,22/11/2008,12Z,20.0,11%,1013.1 Hpa,220º (SW),21.6,7/8,3/8 SC,AC,-,-,-,-,Cloudy
+SIRJAN,22/11/2008,09Z,20.0,14%,1014.0 Hpa,180º (S ),14.4,6/8,3/8 SC,AC,-,-,-,-,Cloudy
+SIRJAN,22/11/2008,03Z,8.8,30%,1017.0 Hpa,calm.,,3/8,3/8 SC,-,-,-,-,8.4,Scattered clouds
+SIRJAN,22/11/2008,00Z,11.0,30%,1013.0 Hpa,calm.,,6/8,2/8 SC,-,CI,-,-,-,Cloudy
+TABAS,22/11/2008,21Z,17.2,19%,1013.9 Hpa,080º (E ),7.2,0/8,-,-,-,-,-,-,Clear
+TABAS,22/11/2008,18Z,16.8,26%,1015.0 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+TABAS,22/11/2008,15Z,,0%,1015.2 Hpa,070º (E ),7.2,1/8,-,1/8 AC,-,-,25.8,-,Few clouds
+TABAS,22/11/2008,12Z,24.8,21%,1013.2 Hpa,calm.,,1/8,-,1/8 AC,-,-,-,-,Few clouds
+TABAS,22/11/2008,09Z,23.6,16%,1015.5 Hpa,calm.,,1/8,-,1/8 AC,-,-,-,-,Few clouds
+TABAS,22/11/2008,06Z,18.6,25%,1018.5 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+TABAS,22/11/2008,03Z,12.8,19%,1017.5 Hpa,090º (E ),7.2,2/8,2/8 ST,-,-,-,-,12.4,Few clouds
+TABAS,22/11/2008,00Z,17.0,17%,1014.0 Hpa,calm.,,8/8,5/8 ST,AC,,-,-,-,Overcast
+TABRIZ,22/11/2008,21Z,3.4,77%,1016.7 Hpa,360º (N ),7.2,1/8,-,-,CI,-,-,-,"Few clouds, haze"
+TABRIZ,22/11/2008,18Z,4.8,68%,1017.6 Hpa,310º (NW),7.2,2/8,2/8 SC,-,-,-,-,-,Few clouds
+TABRIZ,22/11/2008,15Z,10.2,49%,1017.5 Hpa,310º (NW),7.2,1/8,1/8 SC,-,-,-,14.0,-,Few clouds
+TABRIZ,22/11/2008,12Z,13.4,38%,1015.7 Hpa,230º (SW),28.8,2/8,2/8 CU,-,-,-,-,-,Few clouds
+TABRIZ,22/11/2008,09Z,11.2,49%,1017.4 Hpa,290º (W ),7.2,1/8,1/8 CU,-,-,-,-,-,"Few clouds, haze"
+TABRIZ,22/11/2008,06Z,6.8,72%,1019.2 Hpa,270º (W ),10.8,1/8,1/8 CU,AC,-,-,-,-,"Few clouds, haze"
+TABRIZ,22/11/2008,03Z,0.2,92%,1019.5 Hpa,050º (NE),10.8,1/8,1/8 SC,-,-,-,-,0.0,Few clouds
+TABRIZ,22/11/2008,00Z,2.7,84%,1017.4 Hpa,290º (W ),14.4,1/8,1/8 SC,-,-,-,-,-,Few clouds
+TEHRAN-MEHRABAD,22/11/2008,21Z,13.4,38%,1014.6 Hpa,240º (SW),7.2,7/8,3/8 SC,AC,-,-,-,-,"Cloudy, haze"
+TEHRAN-MEHRABAD,22/11/2008,18Z,11.4,45%,1015.7 Hpa,calm.,,2/8,1/8 SC,AC,-,-,-,-,"Few clouds, haze"
+TEHRAN-MEHRABAD,22/11/2008,15Z,14.8,30%,1015.4 Hpa,290º (W ),7.2,3/8,1/8 SC,AC,CI,-,18.8,-,Scattered clouds
+TEHRAN-MEHRABAD,22/11/2008,12Z,17.4,23%,1013.3 Hpa,250º (W ),21.6,3/8,-,-,CI,-,-,-,Scattered clouds
+TEHRAN-MEHRABAD,22/11/2008,09Z,16.8,21%,1014.6 Hpa,300º (NW),21.6,6/8,1/8 SC,-,CI,-,-,-,Cloudy
+TEHRAN-MEHRABAD,22/11/2008,06Z,15.0,28%,1017.9 Hpa,300º (NW),32.4,5/8,1/8 CU,AC,CI,-,-,-,Cloudy
+TEHRAN-MEHRABAD,22/11/2008,03Z,10.0,50%,1016.1 Hpa,290º (W ),10.8,3/8,1/8 CU,-,CI,-,-,10.0,Scattered clouds
+TEHRAN-MEHRABAD,22/11/2008,00Z,12.4,42%,1013.5 Hpa,310º (NW),14.4,0/8,-,-,-,-,-,-,Clear
+TORBAT-HEYDARIEH,22/11/2008,21Z,4.2,,1017.5 Hpa,340º (N ),14.4,0/8,-,-,-,-,-,-,Clear
+TORBAT-HEYDARIEH,22/11/2008,18Z,5.0,54%,1019.3 Hpa,330º (NW),7.2,2/8,-,-,CI,-,-,-,Few clouds
+TORBAT-HEYDARIEH,22/11/2008,15Z,8.4,48%,1020.2 Hpa,calm.,,2/8,1/8 SC,-,CI,-,17.0,-,Few clouds
+TORBAT-HEYDARIEH,22/11/2008,12Z,15.4,32%,1016.6 Hpa,240º (SW),18.0,3/8,1/8 SC,-,CI,-,-,-,Scattered clouds
+TORBAT-HEYDARIEH,22/11/2008,09Z,15.6,21%,1019.9 Hpa,160º (S ),10.8,1/8,1/8 SC,-,CI,-,-,-,Few clouds
+TORBAT-HEYDARIEH,22/11/2008,06Z,11.6,32%,1019.6 Hpa,calm.,,1/8,1/8 CU,-,-,-,-,-,Few clouds
+TORBAT-HEYDARIEH,22/11/2008,03Z,1.2,51%,1020.2 Hpa,320º (NW),7.2,1/8,-,1/8 AC,-,-,-,1.2,Few clouds
+TORBAT-HEYDARIEH,22/11/2008,00Z,3.4,45%,1017.0 Hpa,330º (NW),10.8,1/8,-,1/8 AC,-,-,-,-,Few clouds
+YASOGE,22/11/2008,21Z,6.6,60%,1020.5 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+YASOGE,22/11/2008,18Z,9.6,45%,1020.1 Hpa,110º (E ),10.8,0/8,-,-,-,-,-,-,Clear
+YASOGE,22/11/2008,15Z,12.0,40%,1020.6 Hpa,120º (SE),7.2,0/8,-,-,-,-,18.4,-,Clear
+YASOGE,22/11/2008,12Z,17.6,,1017.4 Hpa,210º (SW),14.4,1/8,1/8 SC,-,-,-,-,-,"Few clouds, haze"
+YASOGE,22/11/2008,09Z,18.4,37%,1017.5 Hpa,calm.,,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+YASOGE,22/11/2008,03Z,5.0,71%,1021.9 Hpa,calm.,,5/8,-,-,CI,-,-,5.0,Cloudy
+YASOGE,22/11/2008,00Z,6.2,70%,1018.4 Hpa,calm.,,2/8,-,-,CI,-,-,-,Few clouds
+YAZD,22/11/2008,21Z,12.4,,-,calm.,,3/8,-,-,-,-,-,-,Scattered clouds
+YAZD,22/11/2008,18Z,13.4,34%,1016.2 Hpa,calm.,,4/8,-,1/8 AC,CI,-,-,-,"Scattered clouds, haze"
+YAZD,22/11/2008,15Z,17.8,24%,1015.0 Hpa,calm.,,4/8,1/8 SC,-,CS,-,-,-,"Scattered clouds, haze"
+YAZD,22/11/2008,12Z,22.6,16%,1012.6 Hpa,100º (E ),10.8,4/8,-,1/8 AC,CI,-,-,-,"Scattered clouds, haze"
+YAZD,22/11/2008,09Z,21.2,19%,1015.3 Hpa,100º (E ),14.4,4/8,-,1/8 AC,CI,-,-,-,"Scattered clouds, haze"
+YAZD,22/11/2008,06Z,,,-,120º (SE),0.0,8/8,-,-,-,-,-,-,Overcast
+YAZD,22/11/2008,03Z,10.8,41%,-,calm.,,7/8,2/8 SC,AC,CS,-,-,10.8,Cloudy
+YAZD,22/11/2008,00Z,14.4,41%,1014.8 Hpa,calm.,,6/8,-,-,CI,-,-,-,Cloudy
+ZABOL,22/11/2008,21Z,8.8,31%,1019.8 Hpa,calm.,,2/8,-,-,CI,-,-,-,Few clouds
+ZABOL,22/11/2008,18Z,12.2,23%,1020.4 Hpa,calm.,,4/8,-,-,CI,-,-,-,Scattered clouds
+ZABOL,22/11/2008,15Z,16.3,20%,1020.9 Hpa,calm.,,3/8,-,-,CI,-,23.1,-,Scattered clouds
+ZABOL,22/11/2008,12Z,21.9,11%,1018.3 Hpa,calm.,,4/8,-,-,CI,-,-,-,Scattered clouds
+ZABOL,22/11/2008,09Z,20.3,14%,1019.6 Hpa,080º (E ),7.2,5/8,-,-,CI,-,-,-,Cloudy
+ZABOL,22/11/2008,06Z,13.9,19%,1021.9 Hpa,040º (NE),14.4,4/8,1/8 SC,-,CI,-,-,-,Scattered clouds
+ZABOL,22/11/2008,03Z,4.2,32%,1021.2 Hpa,calm.,,3/8,-,-,CI,-,-,4.0,Scattered clouds
+ZABOL,22/11/2008,00Z,8.2,24%,1018.2 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+ZAHEDAN,22/11/2008,21Z,5.0,27%,1016.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+ZAHEDAN,22/11/2008,18Z,9.8,19%,1018.7 Hpa,200º (S ),7.2,3/8,-,-,CS,-,-,-,Scattered clouds
+ZAHEDAN,22/11/2008,15Z,15.4,15%,1020.7 Hpa,120º (SE),7.2,6/8,-,2/8 AC,CS,-,24.6,-,Cloudy
+ZAHEDAN,22/11/2008,12Z,18.3,16%,1018.0 Hpa,360º (N ),10.8,7/8,-,3/8 AC,CI,-,-,-,Cloudy
+ZAHEDAN,22/11/2008,09Z,24.5,10%,1015.0 Hpa,160º (S ),10.8,7/8,-,1/8 AC,CI,-,-,-,Cloudy
+ZAHEDAN,22/11/2008,06Z,16.0,18%,1018.9 Hpa,340º (N ),7.2,7/8,-,1/8 AC,CI,-,-,-,"Cloudy, haze"
+ZAHEDAN,22/11/2008,03Z,3.4,27%,1019.7 Hpa,calm.,,5/8,-,-,CI,-,-,2.1,Cloudy
+ZAHEDAN,22/11/2008,00Z,2.6,28%,1017.5 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+ZANJAN,22/11/2008,18Z,4.2,76%,1017.3 Hpa,calm.,,1/8,1/8 SC,-,-,-,-,-,Few clouds
+ZANJAN,22/11/2008,15Z,8.0,62%,1016.6 Hpa,calm.,,1/8,1/8 SC,-,-,-,11.8,-,Few clouds
+ZANJAN,22/11/2008,12Z,11.4,44%,1016.2 Hpa,240º (SW),18.0,3/8,3/8 CU,-,-,-,-,-,Scattered clouds
+ZANJAN,22/11/2008,09Z,10.6,47%,1015.8 Hpa,240º (SW),18.0,1/8,1/8 CU,-,-,-,-,-,Few clouds
+ZANJAN,22/11/2008,06Z,7.0,61%,1017.8 Hpa,calm.,,1/8,-,-,CI,-,-,-,Few clouds
+ZANJAN,22/11/2008,03Z,5.0,66%,1017.2 Hpa,calm.,,0/8,-,-,-,-,-,0.8,Clear
+ZANJAN,22/11/2008,00Z,2.0,74%,1017.3 Hpa,calm.,,1/8,-,1/8 AC,-,-,-,-,Few clouds

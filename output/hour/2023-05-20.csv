@@ -1,0 +1,607 @@
+Station ∆,Date,UTC time,Temp. (ºC),Rel. Hum. (%),Pressure/ Geopot.,Wind dir,Wins speed (Km/h),Clouds,Low clouds,Medium clouds,High clouds,Prec. (mm),Max temp. (ºC),Min temp. (ºC),Conditions
+ABADAN,20/05/2023,21Z,30.4,46%,1005.3 Hpa,120º (SE),18.0,7/8,7/8 CB,-,-,-,-,-,"Cloudy, thunderstorm no precipitation"
+ABADAN,20/05/2023,18Z,30.8,43%,1005.3 Hpa,180º (S ),14.4,7/8,7/8 CB,-,-,-,-,-,"Cloudy, haze"
+ABADAN,20/05/2023,15Z,35.2,27%,1003.3 Hpa,120º (SE),28.8,1/8,-,-,CI,-,37.9,27.7,Few clouds
+ABADAN,20/05/2023,12Z,36.6,24%,1005.3 Hpa,130º (SE),32.4,2/8,-,-,CI,-,-,-,Few clouds
+ABADAN,20/05/2023,09Z,35.6,31%,1006.8 Hpa,140º (SE),32.4,5/8,-,3/8 AC,CI,-,-,-,"Cloudy, dust"
+ABADAN,20/05/2023,06Z,33.8,41%,1006.8 Hpa,130º (SE),10.8,5/8,5/8 CB,-,-,-,-,-,"Cloudy, dust"
+ABADAN,20/05/2023,03Z,27.7,59%,1007.0 Hpa,160º (S ),14.4,8/8,4/8 CB,AC,,-,33.8,27.2,"Overcast, haze"
+ABADAN,20/05/2023,00Z,28.2,55%,1006.0 Hpa,100º (E ),10.8,0/8,-,-,-,-,-,-,Clear
+ABADEH,20/05/2023,21Z,16.1,47%,1003.8 Hpa,090º (E ),3.6,4/8,-,4/8 AC,-,-,-,-,Scattered clouds
+ABADEH,20/05/2023,18Z,18.1,43%,1005.8 Hpa,330º (NW),3.6,5/8,-,5/8 AC,-,-,-,-,Cloudy
+ABADEH,20/05/2023,15Z,20.1,36%,1007.8 Hpa,230º (SW),18.0,7/8,4/8 CB,AC,-,1.0(24h),25.4,14.0,Cloudy
+ABADEH,20/05/2023,12Z,24.9,23%,1003.9 Hpa,230º (SW),21.6,8/8,4/8 SC,AC,-,1.5(24h),-,-,Overcast
+ABADEH,20/05/2023,09Z,25.2,16%,1005.2 Hpa,250º (W ),28.8,4/8,2/8 CU,-,CI,1.5(24h),-,-,Scattered clouds
+ABADEH,20/05/2023,06Z,19.2,45%,1007.7 Hpa,250º (W ),21.6,2/8,-,-,CI,1.5(24h),-,-,Few clouds
+ABADEH,20/05/2023,03Z,13.5,67%,1008.5 Hpa,260º (W ),18.0,0/8,-,-,-,1.5(24h),18.1,12.1,Clear
+ABADEH,20/05/2023,00Z,13.5,71%,1006.7 Hpa,250º (W ),7.2,4/8,-,4/8 AC,-,1.5(24h),-,-,Scattered clouds
+ABU MUSA,20/05/2023,15Z,31.8,62%,1004.4 Hpa,330º (NW),7.2,4/8,2/8 CU,AC,-,-,37.2,28.4,"Scattered clouds, haze"
+ABU MUSA,20/05/2023,12Z,35.0,76%,1004.8 Hpa,260º (W ),10.8,2/8,2/8 CU,-,-,-,-,-,Few clouds
+ABU MUSA,20/05/2023,09Z,34.8,47%,1006.6 Hpa,330º (NW),7.2,4/8,1/8 CU,-,CI,-,-,-,"Scattered clouds, haze"
+ABU MUSA,20/05/2023,06Z,33.4,83%,1006.6 Hpa,170º (S ),14.4,2/8,2/8 CU,-,-,-,-,-,"Few clouds, haze"
+ABU MUSA,20/05/2023,03Z,28.8,77%,1005.5 Hpa,300º (NW),7.2,7/8,2/8 CU,AC,-,-,29.0,26.4,"Cloudy, haze"
+AHAR,20/05/2023,21Z,14.3,66%,1008.5 Hpa,250º (W ),18.0,4/8,3/8 SC,AC,-,11.8(24h),-,-,Scattered clouds
+AHAR,20/05/2023,18Z,13.2,84%,1011.5 Hpa,090º (E ),7.2,7/8,5/8 CB,AC,-,2.0(6h),-,-,"Cloudy, rain"
+AHAR,20/05/2023,15Z,15.7,67%,1012.7 Hpa,calm.,,7/8,4/8 CB,AC,CI,20.9(24h),21.2,12.7,Cloudy
+AHAR,20/05/2023,12Z,14.5,71%,1013.5 Hpa,240º (SW),18.0,8/8,5/8 CB,AC,,5.0(6h),-,-,"Overcast, thunderstorm"
+AHAR,20/05/2023,09Z,20.1,45%,1009.6 Hpa,calm.,,3/8,1/8 CU,-,CI,13.8(24h),-,-,Scattered clouds
+AHAR,20/05/2023,06Z,16.2,64%,1012.4 Hpa,250º (W ),10.8,7/8,4/8 CB,AC,-,0.1(6h),-,-,Cloudy
+AHAR,20/05/2023,03Z,12.5,84%,1010.4 Hpa,calm.,,7/8,4/8 CB,AC,-,13.8(24h),22.1,12.2,Cloudy
+AHAR,20/05/2023,00Z,12.5,89%,1010.7 Hpa,350º (N ),10.8,8/8,3/8 SC,AC,,9.0(6h),-,-,"Overcast, rain"
+AHWAZ,20/05/2023,21Z,31.3,35%,1004.6 Hpa,110º (E ),7.2,7/8,4/8 CB,AC,-,-,-,-,"Cloudy, thunderstorm no precipitation"
+AHWAZ,20/05/2023,18Z,32.7,28%,1004.2 Hpa,170º (S ),10.8,7/8,-,-,CI,-,-,-,Cloudy
+AHWAZ,20/05/2023,15Z,37.0,22%,1002.7 Hpa,150º (SE),14.4,2/8,-,-,CI,-,41.1,26.8,"Few clouds, haze"
+AHWAZ,20/05/2023,12Z,39.8,19%,1004.7 Hpa,180º (S ),18.0,3/8,-,1/8 AC,CI,-,-,-,"Scattered clouds, haze"
+AHWAZ,20/05/2023,09Z,39.0,21%,1005.8 Hpa,130º (SE),14.4,4/8,1/8 SC,AC,-,-,-,-,"Scattered clouds, haze"
+AHWAZ,20/05/2023,06Z,33.6,30%,1006.6 Hpa,110º (E ),14.4,7/8,4/8 CB,AC,-,-,-,-,"Cloudy, haze"
+AHWAZ,20/05/2023,03Z,26.8,42%,1006.4 Hpa,160º (S ),3.6,5/8,2/8 SC,-,CI,-,34.1,25.0,"Cloudy, haze"
+AHWAZ,20/05/2023,00Z,26.0,40%,1006.3 Hpa,090º (E ),3.6,3/8,-,-,CI,-,-,-,"Scattered clouds, haze"
+ALI-GOODARZ,20/05/2023,21Z,15.2,48%,1005.2 Hpa,050º (NE),10.8,5/8,2/8 SC,AC,-,1.5(24h),-,-,Cloudy
+ALI-GOODARZ,20/05/2023,18Z,16.6,45%,1005.4 Hpa,150º (SE),7.2,3/8,3/8 SC,-,-,1.5(24h),-,-,Scattered clouds
+ALI-GOODARZ,20/05/2023,15Z,20.2,37%,1006.8 Hpa,160º (S ),7.2,3/8,1/8 SC,-,CI,1.5(24h),22.0,11.1,Scattered clouds
+ALI-GOODARZ,20/05/2023,12Z,20.4,36%,1007.0 Hpa,260º (W ),14.4,5/8,5/8 CB,-,-,2.0(6h),-,-,Cloudy
+ALI-GOODARZ,20/05/2023,09Z,20.6,28%,1007.3 Hpa,150º (SE),10.8,6/8,5/8 CB,-,CI,-,-,-,"Cloudy, thunderstorm no precipitation"
+ALI-GOODARZ,20/05/2023,06Z,21.0,36%,1006.1 Hpa,calm.,,3/8,1/8 CU,-,CI,0.3(24h),-,-,Scattered clouds
+ALI-GOODARZ,20/05/2023,03Z,11.1,59%,1009.0 Hpa,100º (E ),21.6,2/8,-,-,CI,0.3(24h),20.6,10.2,Few clouds
+ALI-GOODARZ,20/05/2023,00Z,11.7,57%,1007.3 Hpa,160º (S ),14.4,0/8,-,-,-,0.3(24h),-,-,Clear
+ANZALI,20/05/2023,21Z,18.9,79%,1012.3 Hpa,180º (S ),3.6,8/8,4/8 SC,AC,,Tr(24h),-,-,"Overcast, haze"
+ANZALI,20/05/2023,18Z,19.5,70%,1015.9 Hpa,300º (NW),7.2,8/8,6/8 CB,AC,,Tr(6h),-,-,"Overcast, rain showers"
+ANZALI,20/05/2023,15Z,20.0,65%,1013.8 Hpa,040º (NE),3.6,7/8,5/8 CU/SC,AC,-,-,26.0,18.6,Cloudy
+ANZALI,20/05/2023,12Z,25.1,19%,1013.4 Hpa,050º (NE),10.8,0/8,-,-,-,-,-,-,Clear
+ANZALI,20/05/2023,09Z,25.7,56%,1013.4 Hpa,040º (NE),14.4,2/8,-,-,CI,-,-,-,Few clouds
+ANZALI,20/05/2023,06Z,22.5,22%,1013.4 Hpa,150º (SE),3.6,7/8,-,-,CI,-,-,-,"Cloudy, haze"
+ANZALI,20/05/2023,03Z,18.7,88%,1014.2 Hpa,220º (SW),3.6,6/8,-,-,CI,-,19.8,17.4,"Cloudy, mist"
+ANZALI,20/05/2023,00Z,18.1,90%,1015.7 Hpa,300º (NW),3.6,6/8,6/8 SC,-,-,-,-,-,Cloudy
+ARAK,20/05/2023,21Z,14.4,62%,1005.5 Hpa,050º (NE),3.6,5/8,2/8 SC,-,CI,0.4(24h),-,-,"Cloudy, dust"
+ARAK,20/05/2023,18Z,18.8,37%,1002.9 Hpa,250º (W ),3.6,4/8,1/8 SC,-,CI,0.4(24h),-,-,"Scattered clouds, dust"
+ARAK,20/05/2023,15Z,22.6,29%,1003.2 Hpa,030º (NE),3.6,3/8,2/8 CB,-,CI,0.4(24h),28.5,17.8,"Scattered clouds, dust"
+ARAK,20/05/2023,12Z,24.0,24%,1004.3 Hpa,200º (S ),14.4,7/8,2/8 CB,-,CI,0.4(6h),-,-,"Cloudy, dust"
+ARAK,20/05/2023,09Z,24.7,27%,1002.9 Hpa,060º (NE),10.8,6/8,3/8 CB,-,CI,0.4(24h),-,-,"Cloudy, dust"
+ARAK,20/05/2023,06Z,25.2,25%,1003.1 Hpa,060º (NE),7.2,3/8,-,-,CI,-,-,-,"Scattered clouds, haze"
+ARAK,20/05/2023,03Z,17.4,40%,1004.7 Hpa,220º (SW),3.6,5/8,1/8 SC,-,CI,-,24.3,14.4,Cloudy
+ARAK,20/05/2023,00Z,16.2,42%,1004.0 Hpa,160º (S ),3.6,3/8,1/8 SC,-,CI,-,-,-,Scattered clouds
+ARDEBIL,20/05/2023,21Z,14.0,87%,1006.9 Hpa,180º (S ),14.4,8/8,4/8 CB,AC,,5.9(24h),-,-,Overcast
+ARDEBIL,20/05/2023,18Z,13.2,100%,1010.7 Hpa,180º (S ),25.2,8/8,4/8 CB,AC,,6.0(6h),-,-,"Overcast, rain"
+ARDEBIL,20/05/2023,15Z,13.3,96%,1011.9 Hpa,calm.,,8/8,6/8 CB,AC,CS,4.9(24h),21.2,11.6,Overcast
+ARDEBIL,20/05/2023,12Z,18.6,65%,1007.3 Hpa,030º (NE),32.4,8/8,2/8 CU,-,CS,1.5(24h),-,-,Overcast
+ARDEBIL,20/05/2023,09Z,19.8,67%,1007.4 Hpa,330º (NW),18.0,8/8,2/8 CU,-,CS,1.5(24h),-,-,Overcast
+ARDEBIL,20/05/2023,06Z,18.0,75%,1008.6 Hpa,calm.,,8/8,2/8 SC,AC,CS,1.5(24h),-,-,Overcast
+ARDEBIL,20/05/2023,03Z,11.6,92%,1010.0 Hpa,Vble.,,8/8,2/8 SC,AC,CS,1.5(24h),18.2,10.2,"Overcast, fog"
+ARDEBIL,20/05/2023,00Z,11.2,95%,1008.8 Hpa,calm.,,4/8,1/8 CB,AC,CS,0.8(6h),-,-,Scattered clouds
+BABULSAR,20/05/2023,21Z,20.2,74%,1013.7 Hpa,300º (NW),7.2,0/8,-,-,-,-,-,-,Clear
+BABULSAR,20/05/2023,18Z,21.6,59%,1013.3 Hpa,310º (NW),7.2,3/8,-,3/8 AC,-,-,-,-,Scattered clouds
+BABULSAR,20/05/2023,15Z,22.0,53%,1011.6 Hpa,230º (SW),3.6,6/8,6/8 CU/SC,-,-,-,25.0,19.8,Cloudy
+BABULSAR,20/05/2023,12Z,23.0,68%,1012.4 Hpa,010º (N),10.8,1/8,1/8 CU,-,CI,-,-,-,Few clouds
+BABULSAR,20/05/2023,09Z,23.4,65%,1012.1 Hpa,010º (N),14.4,1/8,1/8 CU,-,-,-,-,-,Few clouds
+BABULSAR,20/05/2023,06Z,23.0,54%,1012.8 Hpa,260º (W ),7.2,0/8,-,-,-,-,-,-,Clear
+BABULSAR,20/05/2023,03Z,19.8,82%,1014.4 Hpa,250º (W ),7.2,1/8,-,1/8 AC,-,-,21.0,18.6,Few clouds
+BABULSAR,20/05/2023,00Z,19.4,91%,1014.9 Hpa,340º (N ),7.2,6/8,-,6/8 AC,-,-,-,-,Cloudy
+BAFT,20/05/2023,21Z,18.4,36%,1005.3 Hpa,calm.,,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+BAFT,20/05/2023,18Z,19.4,33%,1005.1 Hpa,300º (NW),14.4,4/8,1/8 CB,-,-,-,-,-,Scattered clouds
+BAFT,20/05/2023,15Z,21.6,27%,1005.4 Hpa,270º (W ),14.4,5/8,1/8 CB,-,-,-,24.6,14.4,Cloudy
+BAFT,20/05/2023,12Z,23.6,21%,1006.2 Hpa,190º (S ),18.0,5/8,1/8 CB,-,-,-,-,-,Cloudy
+BAFT,20/05/2023,09Z,23.0,24%,1005.3 Hpa,180º (S ),18.0,5/8,1/8 CB,-,-,-,-,-,Cloudy
+BAFT,20/05/2023,06Z,23.4,22%,1005.4 Hpa,250º (W ),25.2,1/8,1/8 CU,-,-,-,-,-,Few clouds
+BAFT,20/05/2023,03Z,17.4,43%,1006.1 Hpa,calm.,,1/8,-,-,CI,0.3(24h),27.6,14.4,Few clouds
+BAFT,20/05/2023,00Z,14.6,39%,1005.7 Hpa,calm.,,3/8,2/8 SC,AC,-,0.3(24h),-,-,Scattered clouds
+BAM,20/05/2023,21Z,29.3,21%,1001.1 Hpa,280º (W ),10.8,0/8,-,-,-,-,-,-,Clear
+BAM,20/05/2023,18Z,31.9,16%,1001.9 Hpa,240º (SW),7.2,2/8,2/8 SC,-,-,-,-,-,Few clouds
+BAM,20/05/2023,15Z,33.8,15%,1002.0 Hpa,160º (S ),7.2,5/8,5/8 CB,-,-,-,37.9,26.4,Cloudy
+BAM,20/05/2023,12Z,35.3,12%,1002.2 Hpa,calm.,,6/8,6/8 CB,-,-,-,-,-,Cloudy
+BAM,20/05/2023,09Z,37.7,9%,1001.4 Hpa,080º (E ),10.8,6/8,6/8 CB,-,-,-,-,-,Cloudy
+BAM,20/05/2023,06Z,35.0,11%,1003.7 Hpa,080º (E ),7.2,4/8,4/8 CU,-,-,-,-,-,Scattered clouds
+BAM,20/05/2023,03Z,29.8,19%,1004.0 Hpa,270º (W ),7.2,3/8,2/8 SC,-,CI,-,34.3,26.4,Scattered clouds
+BAM,20/05/2023,00Z,28.7,22%,1002.1 Hpa,280º (W ),14.4,1/8,1/8 SC,-,-,-,-,-,Few clouds
+BANDAR LENGEH,20/05/2023,21Z,29.4,59%,1007.1 Hpa,260º (W ),36.0,8/8,3/8 CB,AC,,-,-,-,"Overcast, dust storm"
+BANDAR LENGEH,20/05/2023,18Z,32.0,38%,1004.1 Hpa,260º (W ),10.8,2/8,-,-,CI,-,-,-,Few clouds
+BANDAR LENGEH,20/05/2023,15Z,33.2,46%,1005.1 Hpa,240º (SW),18.0,3/8,-,-,CI,-,38.0,-,Scattered clouds
+BANDAR LENGEH,20/05/2023,12Z,36.0,41%,1004.8 Hpa,310º (NW),10.8,3/8,-,3/8 AC,-,-,-,-,Scattered clouds
+BANDAR LENGEH,20/05/2023,09Z,34.0,50%,1006.8 Hpa,180º (S ),18.0,2/8,2/8 SC,-,-,-,-,-,"Few clouds, haze"
+BANDAR LENGEH,20/05/2023,06Z,32.1,61%,1008.0 Hpa,150º (SE),7.2,6/8,3/8 CB,AC,-,-,-,-,Cloudy
+BANDAR LENGEH,20/05/2023,03Z,31.7,62%,1006.7 Hpa,110º (E ),18.0,6/8,3/8 CB,AC,-,-,31.8,27.0,Cloudy
+BANDAR LENGEH,20/05/2023,00Z,27.4,70%,1004.7 Hpa,070º (E ),7.2,0/8,-,-,-,-,-,-,"Clear, haze"
+BANDAR-E-DAYYER,20/05/2023,21Z,28.6,66%,1006.1 Hpa,220º (SW),7.2,5/8,-,5/8 AC,-,-,-,-,Cloudy
+BANDAR-E-DAYYER,20/05/2023,18Z,28.9,71%,1006.6 Hpa,130º (SE),10.8,8/8,-,8/8 AC,,-,-,-,Overcast
+BANDAR-E-DAYYER,20/05/2023,15Z,31.1,56%,1005.4 Hpa,220º (SW),7.2,8/8,-,8/8 AC,,-,39.8,29.9,Overcast
+BANDAR-E-DAYYER,20/05/2023,12Z,39.8,58%,1004.9 Hpa,010º (N),3.6,7/8,3/8 SC,AC,-,-,-,-,Cloudy
+BANDAR-E-DAYYER,20/05/2023,09Z,32.1,55%,1008.6 Hpa,230º (SW),7.2,3/8,-,3/8 AC,-,-,-,-,Scattered clouds
+BANDAR-E-DAYYER,20/05/2023,06Z,34.2,79%,1007.3 Hpa,220º (SW),7.2,3/8,-,3/8 AC,-,-,-,-,Scattered clouds
+BANDAR-E-DAYYER,20/05/2023,03Z,33.6,29%,1005.7 Hpa,320º (NW),7.2,3/8,-,3/8 AC,-,-,36.0,30.8,Scattered clouds
+BANDAR-E-DAYYER,20/05/2023,00Z,32.4,31%,1004.7 Hpa,330º (NW),7.2,0/8,-,-,-,-,-,-,Clear
+BANDARABBASS,20/05/2023,21Z,29.2,66%,1005.3 Hpa,360º (N ),10.8,1/8,-,-,CI,-,-,-,Few clouds
+BANDARABBASS,20/05/2023,18Z,31.0,62%,1005.5 Hpa,080º (E ),14.4,1/8,-,-,CI,-,-,-,Few clouds
+BANDARABBASS,20/05/2023,15Z,32.9,53%,1004.4 Hpa,210º (SW),18.0,2/8,1/8 CU,-,CI,-,37.6,-,"Few clouds, haze"
+BANDARABBASS,20/05/2023,12Z,36.4,43%,1004.3 Hpa,190º (S ),21.6,1/8,1/8 CU,-,-,-,-,-,"Few clouds, haze"
+BANDARABBASS,20/05/2023,09Z,35.1,50%,1006.4 Hpa,190º (S ),18.0,5/8,4/8 SC,AC,-,-,-,-,"Cloudy, haze"
+BANDARABBASS,20/05/2023,06Z,36.4,33%,1007.4 Hpa,240º (SW),14.4,4/8,-,4/8 AC,-,-,-,-,"Scattered clouds, haze"
+BANDARABBASS,20/05/2023,03Z,29.6,61%,1006.4 Hpa,360º (N ),7.2,1/8,-,-,CI,-,32.1,26.9,"Few clouds, haze"
+BANDARABBASS,20/05/2023,00Z,27.0,74%,1005.7 Hpa,360º (N ),10.8,0/8,-,-,-,50.0(24h),-,-,Clear
+BIRJAND,20/05/2023,21Z,21.0,30%,1003.2 Hpa,110º (E ),10.8,0/8,-,-,-,-,-,-,Clear
+BIRJAND,20/05/2023,18Z,23.6,30%,1004.6 Hpa,360º (N ),28.8,4/8,1/8 CU,AC,CI,-,-,-,Scattered clouds
+BIRJAND,20/05/2023,15Z,27.3,17%,1004.1 Hpa,170º (S ),18.0,7/8,6/8 CB,AC,CS,-,33.4,21.9,Cloudy
+BIRJAND,20/05/2023,12Z,31.1,10%,1003.5 Hpa,230º (SW),10.8,5/8,4/8 CU,AC,CI,-,-,-,Cloudy
+BIRJAND,20/05/2023,09Z,30.5,11%,1004.4 Hpa,180º (S ),21.6,5/8,2/8 CU,AC,CI,-,-,-,Cloudy
+BIRJAND,20/05/2023,06Z,27.0,12%,1007.1 Hpa,calm.,,7/8,4/8 CB,AC,-,-,-,-,Cloudy
+BIRJAND,20/05/2023,03Z,21.9,12%,1006.0 Hpa,130º (SE),10.8,8/8,2/8 CB,AC,CI,-,28.2,15.6,Overcast
+BIRJAND,20/05/2023,00Z,17.4,15%,1006.1 Hpa,080º (E ),14.4,3/8,-,1/8 AC,CI,-,-,-,Scattered clouds
+BOJNOURD,20/05/2023,21Z,20.0,44%,1008.1 Hpa,Vble.,,4/8,-,-,CS,-,-,-,Scattered clouds
+BOJNOURD,20/05/2023,18Z,24.0,36%,1008.3 Hpa,Vble.,,5/8,-,-,CI,-,-,-,Cloudy
+BOJNOURD,20/05/2023,15Z,26.7,35%,1007.9 Hpa,310º (NW),7.2,4/8,1/8 CB,AC,CI,-,31.2,16.8,Scattered clouds
+BOJNOURD,20/05/2023,12Z,30.9,18%,1008.2 Hpa,020º (N),7.2,5/8,1/8 CU,-,CI,-,-,-,Cloudy
+BOJNOURD,20/05/2023,09Z,28.8,24%,1008.6 Hpa,360º (N ),10.8,6/8,-,-,CI,-,-,-,Cloudy
+BOJNOURD,20/05/2023,06Z,24.1,36%,1010.4 Hpa,calm.,,5/8,-,-,CI,-,-,-,Cloudy
+BOJNOURD,20/05/2023,03Z,17.8,60%,1011.1 Hpa,calm.,,5/8,-,0/8 AC,CS,-,25.6,13.8,Cloudy
+BOJNOURD,20/05/2023,00Z,14.3,68%,1010.8 Hpa,Vble.,,0/8,-,-,-,-,-,-,Clear
+BUSHEHR (AIRPORT),20/05/2023,21Z,27.9,36%,1005.5 Hpa,150º (SE),18.0,3/8,-,-,CI,-,-,-,Scattered clouds
+BUSHEHR (AIRPORT),20/05/2023,18Z,31.0,27%,1004.5 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BUSHEHR (AIRPORT),20/05/2023,15Z,32.2,35%,1004.8 Hpa,350º (N ),10.8,5/8,-,5/8 AC,-,-,35.6,29.6,Cloudy
+BUSHEHR (AIRPORT),20/05/2023,12Z,34.6,30%,1006.2 Hpa,060º (NE),7.2,3/8,-,3/8 AC,-,0.1(24h),-,-,Scattered clouds
+BUSHEHR (AIRPORT),20/05/2023,09Z,32.7,30%,1008.9 Hpa,180º (S ),28.8,8/8,5/8 SC,AC,,0.1(24h),-,-,Overcast
+BUSHEHR (AIRPORT),20/05/2023,06Z,33.5,34%,1008.1 Hpa,230º (SW),10.8,5/8,2/8 SC,AC,-,0.1(24h),-,-,Cloudy
+BUSHEHR (AIRPORT),20/05/2023,03Z,29.6,29%,1006.5 Hpa,110º (E ),10.8,5/8,3/8 SC,-,CI,0.1(24h),31.6,26.2,Cloudy
+BUSHEHR (AIRPORT),20/05/2023,00Z,28.2,33%,1005.0 Hpa,080º (E ),10.8,0/8,-,-,-,0.1(24h),-,-,Clear
+CHAHBAHAR,20/05/2023,21Z,29.6,91%,1004.3 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, mist"
+CHAHBAHAR,20/05/2023,18Z,30.0,89%,1005.5 Hpa,290º (W ),7.2,0/8,-,-,-,-,-,-,"Clear, mist"
+CHAHBAHAR,20/05/2023,15Z,30.8,1071%,1004.1 Hpa,180º (S ),14.4,2/8,-,-,CI,-,33.3,29.1,"Few clouds, mist"
+CHAHBAHAR,20/05/2023,12Z,32.8,1419%,1002.1 Hpa,170º (S ),14.4,0/8,-,-,-,-,-,-,"Clear, haze"
+CHAHBAHAR,20/05/2023,09Z,32.3,1454%,1004.4 Hpa,170º (S ),21.6,0/8,-,-,-,-,-,-,"Clear, haze"
+CHAHBAHAR,20/05/2023,06Z,32.3,71%,1006.3 Hpa,150º (SE),14.4,0/8,-,-,-,-,-,-,"Clear, haze"
+CHAHBAHAR,20/05/2023,03Z,29.1,1744%,1006.4 Hpa,calm.,,2/8,1/8 ST,-,CI,-,30.1,27.6,"Few clouds, mist"
+CHAHBAHAR,20/05/2023,00Z,27.9,93%,1005.5 Hpa,060º (NE),7.2,4/8,4/8 ST,-,-,-,-,-,"Scattered clouds, mist"
+ESFAHAN,20/05/2023,21Z,23.3,32%,1003.0 Hpa,270º (W ),14.4,3/8,1/8 SC,-,CI,-,-,-,Scattered clouds
+ESFAHAN,20/05/2023,18Z,23.9,32%,1003.1 Hpa,260º (W ),18.0,4/8,2/8 SC,-,CI,-,-,-,Scattered clouds
+ESFAHAN,20/05/2023,15Z,25.7,25%,1004.6 Hpa,260º (W ),25.2,6/8,3/8 SC,-,CI,-,31.2,19.6,Cloudy
+ESFAHAN,20/05/2023,12Z,29.6,14%,1002.5 Hpa,270º (W ),18.0,7/8,3/8 SC,AC,-,-,-,-,Cloudy
+ESFAHAN,20/05/2023,09Z,29.6,19%,1003.0 Hpa,250º (W ),10.8,3/8,3/8 CU,-,-,-,-,-,Scattered clouds
+ESFAHAN,20/05/2023,06Z,28.1,22%,1004.5 Hpa,250º (W ),3.6,1/8,1/8 SC,-,-,-,-,-,Few clouds
+ESFAHAN,20/05/2023,03Z,19.4,43%,1006.1 Hpa,130º (SE),3.6,3/8,3/8 SC,-,-,-,27.1,19.2,Scattered clouds
+ESFAHAN,20/05/2023,00Z,21.4,32%,1004.1 Hpa,100º (E ),7.2,0/8,-,-,-,-,-,-,Clear
+FASA,20/05/2023,21Z,19.0,44%,1006.6 Hpa,290º (W ),7.2,5/8,-,-,CI,Tr(24h),-,-,Cloudy
+FASA,20/05/2023,18Z,22.2,37%,1007.1 Hpa,320º (NW),7.2,6/8,2/8 SC,AC,CI,Tr(6h),-,-,Cloudy
+FASA,20/05/2023,15Z,26.6,29%,1008.2 Hpa,330º (NW),14.4,7/8,5/8 CB,AC,-,Tr(24h),31.8,18.6,Cloudy
+FASA,20/05/2023,12Z,31.0,19%,1006.5 Hpa,260º (W ),32.4,5/8,5/8 CB,AC,-,-,-,-,"Cloudy, dust"
+FASA,20/05/2023,09Z,31.0,18%,1006.5 Hpa,260º (W ),28.8,5/8,5/8 CB,-,-,-,-,-,"Cloudy, dust"
+FASA,20/05/2023,06Z,28.8,24%,1007.0 Hpa,170º (S ),18.0,2/8,2/8 CU,-,-,-,-,-,"Few clouds, haze"
+FASA,20/05/2023,03Z,18.6,48%,1007.4 Hpa,360º (N ),7.2,3/8,1/8 SC,AC,-,-,28.6,16.4,Scattered clouds
+FASA,20/05/2023,00Z,18.6,48%,1005.6 Hpa,calm.,,4/8,-,-,CI,-,-,-,Scattered clouds
+FERDOUS,20/05/2023,21Z,25.3,25%,1002.1 Hpa,090º (E ),14.4,2/8,2/8 SC,-,-,-,-,-,Few clouds
+FERDOUS,20/05/2023,18Z,25.3,27%,1004.6 Hpa,090º (E ),10.8,4/8,4/8 SC,AC,-,-,-,-,Scattered clouds
+FERDOUS,20/05/2023,15Z,27.7,24%,1004.7 Hpa,050º (NE),10.8,5/8,2/8 SC,AC,-,-,31.3,21.3,Cloudy
+FERDOUS,20/05/2023,12Z,28.9,21%,1004.8 Hpa,110º (E ),14.4,7/8,4/8 CB,AC,-,-,-,-,Cloudy
+FERDOUS,20/05/2023,09Z,30.7,14%,1003.9 Hpa,130º (SE),18.0,7/8,2/8 SC,AC,CI,-,-,-,Cloudy
+FERDOUS,20/05/2023,06Z,29.3,18%,1005.4 Hpa,160º (S ),14.4,6/8,1/8 SC,AC,CI,-,-,-,Cloudy
+FERDOUS,20/05/2023,03Z,21.4,19%,1006.5 Hpa,080º (E ),7.2,7/8,2/8 SC,AC,CI,-,29.6,20.2,Cloudy
+FERDOUS,20/05/2023,00Z,21.7,17%,1004.7 Hpa,070º (E ),3.6,5/8,1/8 SC,AC,CI,-,-,-,Cloudy
+GACH SARAN DU GUNBADAN,20/05/2023,21Z,24.3,37%,1006.3 Hpa,calm.,,4/8,4/8 SC,-,-,-,-,-,Scattered clouds
+GACH SARAN DU GUNBADAN,20/05/2023,18Z,26.3,34%,1005.7 Hpa,calm.,,7/8,3/8 SC,AC,-,-,-,-,Cloudy
+GACH SARAN DU GUNBADAN,20/05/2023,15Z,29.8,27%,1006.4 Hpa,140º (SE),10.8,7/8,3/8 SC,AC,-,Tr(24h),34.6,25.4,Cloudy
+GACH SARAN DU GUNBADAN,20/05/2023,12Z,32.3,22%,1007.9 Hpa,160º (S ),18.0,7/8,4/8 CB,AC,-,Tr(24h),-,-,Cloudy
+GACH SARAN DU GUNBADAN,20/05/2023,09Z,34.4,17%,1008.0 Hpa,060º (NE),14.4,6/8,2/8 SC,AC,-,Tr(24h),-,-,Cloudy
+GACH SARAN DU GUNBADAN,20/05/2023,06Z,29.3,30%,1009.3 Hpa,090º (E ),10.8,5/8,3/8 CU,AC,-,Tr(24h),-,-,Cloudy
+GACH SARAN DU GUNBADAN,20/05/2023,03Z,23.4,46%,1008.0 Hpa,140º (SE),7.2,2/8,2/8 CU,-,-,Tr(24h),27.9,22.1,Few clouds
+GACH SARAN DU GUNBADAN,20/05/2023,00Z,23.0,47%,1007.1 Hpa,110º (E ),10.8,0/8,-,-,-,Tr(24h),-,-,Clear
+GHARAKHIL,20/05/2023,18Z,18.5,71%,1014.3 Hpa,220º (SW),3.6,3/8,3/8 N/A,AC,-,-,-,-,Scattered clouds
+GHARAKHIL,20/05/2023,15Z,21.4,55%,1012.2 Hpa,270º (W ),3.6,7/8,3/8 SC,AC,-,-,27.4,19.6,Cloudy
+GHARAKHIL,20/05/2023,12Z,24.9,48%,1012.5 Hpa,350º (N ),14.4,3/8,1/8 CU,-,CI,-,-,-,Scattered clouds
+GHARAKHIL,20/05/2023,09Z,26.3,44%,1011.9 Hpa,350º (N ),14.4,0/8,-,-,-,-,-,-,Clear
+GHARAKHIL,20/05/2023,06Z,26.0,42%,1013.3 Hpa,220º (SW),7.2,0/8,-,-,-,-,-,-,Clear
+GHARAKHIL,20/05/2023,03Z,19.4,80%,1015.2 Hpa,180º (S ),3.6,7/8,7/8 SC,AC,-,-,20.6,18.4,Cloudy
+GHARAKHIL,20/05/2023,00Z,18.7,85%,1016.1 Hpa,240º (SW),3.6,6/8,6/8 SC,AC,-,-,-,-,Cloudy
+GHAZVIN,20/05/2023,21Z,17.4,66%,1006.0 Hpa,340º (N ),3.6,6/8,1/8 SC,AC,-,-,-,-,Cloudy
+GHAZVIN,20/05/2023,18Z,20.6,52%,1006.5 Hpa,330º (NW),7.2,7/8,3/8 SC,AC,-,-,-,-,Cloudy
+GHAZVIN,20/05/2023,15Z,26.1,30%,1003.9 Hpa,330º (NW),3.6,7/8,4/8 CB,AC,-,-,32.0,16.7,Cloudy
+GHAZVIN,20/05/2023,12Z,30.0,20%,1003.7 Hpa,100º (E ),14.4,7/8,4/8 CB,AC,-,-,-,-,Cloudy
+GHAZVIN,20/05/2023,09Z,28.6,25%,1005.1 Hpa,160º (S ),10.8,7/8,-,-,CI,-,-,-,Cloudy
+GHAZVIN,20/05/2023,06Z,22.8,46%,1007.2 Hpa,180º (S ),7.2,5/8,-,-,CI,-,-,-,Cloudy
+GHAZVIN,20/05/2023,03Z,16.7,55%,1007.3 Hpa,020º (N),3.6,7/8,-,-,CI,-,23.9,12.8,Cloudy
+GHAZVIN,20/05/2023,00Z,13.4,66%,1008.3 Hpa,360º (N ),3.6,3/8,-,3/8 AC,-,-,-,-,Scattered clouds
+GHUCHAN,20/05/2023,21Z,17.5,42%,1007.9 Hpa,090º (E ),21.6,5/8,-,-,CI,-,-,-,Cloudy
+GHUCHAN,20/05/2023,18Z,20.3,37%,1009.3 Hpa,090º (E ),18.0,5/8,1/8 SC,-,CI,-,-,-,Cloudy
+GHUCHAN,20/05/2023,15Z,24.0,28%,1009.4 Hpa,050º (NE),28.8,5/8,1/8 SC,-,CI,-,29.2,14.9,Cloudy
+GHUCHAN,20/05/2023,12Z,29.2,16%,1008.9 Hpa,120º (SE),25.2,6/8,1/8 CU,-,CI,-,-,-,Cloudy
+GHUCHAN,20/05/2023,09Z,28.3,19%,1008.6 Hpa,130º (SE),18.0,7/8,1/8 CU,-,CI,-,-,-,Cloudy
+GHUCHAN,20/05/2023,06Z,25.4,25%,1009.8 Hpa,060º (NE),10.8,5/8,-,-,CI,-,-,-,Cloudy
+GHUCHAN,20/05/2023,03Z,14.9,57%,1010.8 Hpa,calm.,,3/8,-,-,CI,-,29.0,9.2,Scattered clouds
+GHUCHAN,20/05/2023,00Z,10.4,62%,1010.8 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+GORGAN,20/05/2023,21Z,20.0,72%,1015.6 Hpa,260º (W ),10.8,5/8,2/8 SC,AC,-,-,-,-,Cloudy
+GORGAN,20/05/2023,18Z,19.6,79%,1014.2 Hpa,250º (W ),10.8,4/8,2/8 SC,AC,-,-,-,-,Scattered clouds
+GORGAN,20/05/2023,15Z,22.4,61%,1013.0 Hpa,270º (W ),18.0,4/8,1/8 CU,AC,CI,-,29.9,19.4,Scattered clouds
+GORGAN,20/05/2023,12Z,26.9,50%,1012.2 Hpa,260º (W ),28.8,5/8,2/8 CU,AC,CI,-,-,-,Cloudy
+GORGAN,20/05/2023,09Z,28.3,44%,1012.9 Hpa,120º (SE),10.8,1/8,1/8 CU,-,-,-,-,-,Few clouds
+GORGAN,20/05/2023,06Z,24.8,53%,1015.1 Hpa,calm.,,1/8,1/8 CU,-,-,-,-,-,Few clouds
+GORGAN,20/05/2023,03Z,19.4,83%,1016.1 Hpa,240º (SW),18.0,6/8,-,-,CI,-,22.7,18.0,Cloudy
+GORGAN,20/05/2023,00Z,18.9,88%,1015.9 Hpa,240º (SW),28.8,3/8,-,-,CI,-,-,-,Scattered clouds
+HAMEDAN,20/05/2023,21Z,9.4,91%,1011.1 Hpa,290º (W ),21.6,7/8,6/8 CB,AC,-,7.5(24h),-,-,"Cloudy, rain showers"
+HAMEDAN,20/05/2023,18Z,11.2,92%,1010.1 Hpa,330º (NW),14.4,7/8,4/8 CB,AC,-,2.0(6h),-,-,"Cloudy, rain"
+HAMEDAN,20/05/2023,15Z,20.9,40%,1005.2 Hpa,110º (E ),14.4,7/8,4/8 CB,AC,-,-,26.5,13.5,"Cloudy, thunderstorm"
+HAMEDAN,20/05/2023,12Z,23.2,28%,1004.5 Hpa,080º (E ),25.2,7/8,4/8 SC,AC,-,-,-,-,"Cloudy, thunderstorms"
+HAMEDAN,20/05/2023,09Z,25.3,26%,1004.2 Hpa,330º (NW),7.2,6/8,4/8 SC,-,CI,-,-,-,Cloudy
+HAMEDAN,20/05/2023,06Z,21.3,31%,1006.6 Hpa,330º (NW),7.2,4/8,3/8 SC,AC,-,-,-,-,Scattered clouds
+HAMEDAN,20/05/2023,03Z,13.0,59%,1007.1 Hpa,300º (NW),10.8,4/8,4/8 SC,-,-,-,21.8,10.3,Scattered clouds
+HAMEDAN,20/05/2023,00Z,13.0,59%,1005.6 Hpa,200º (S ),7.2,4/8,4/8 SC,-,-,-,-,-,Scattered clouds
+ILAM,20/05/2023,21Z,15.3,75%,1006.1 Hpa,140º (SE),18.0,5/8,4/8 CB,AC,-,12.0(24h),-,-,Cloudy
+ILAM,20/05/2023,18Z,15.6,74%,1008.5 Hpa,210º (SW),3.6,8/8,5/8 CB,AC,,7.0(6h),-,-,"Overcast, thunderstorm"
+ILAM,20/05/2023,15Z,19.5,63%,1007.2 Hpa,190º (S ),25.2,8/8,6/8 CB,AC,,0.2(24h),29.4,22.8,"Overcast, thunderstorm"
+ILAM,20/05/2023,12Z,27.8,26%,1004.0 Hpa,140º (SE),18.0,5/8,5/8 CB,-,-,-,-,-,"Cloudy, dust"
+ILAM,20/05/2023,09Z,27.7,28%,1005.1 Hpa,130º (SE),25.2,5/8,1/8 SC,AC,-,-,-,-,"Cloudy, dust"
+ILAM,20/05/2023,06Z,24.8,33%,1006.0 Hpa,130º (SE),18.0,8/8,4/8 CB,AC,,-,-,-,"Overcast, dust"
+ILAM,20/05/2023,03Z,21.5,41%,1005.1 Hpa,130º (SE),14.4,7/8,4/8 CB,AC,-,-,-,20.1,"Cloudy, haze"
+ILAM,20/05/2023,00Z,21.0,44%,1005.4 Hpa,140º (SE),7.2,3/8,-,3/8 AC,-,-,-,-,Scattered clouds
+IRANSHAHR,20/05/2023,21Z,33.4,20%,1003.8 Hpa,250º (W ),10.8,1/8,-,-,CI,-,-,-,Few clouds
+IRANSHAHR,20/05/2023,18Z,36.2,20%,1004.1 Hpa,260º (W ),21.6,1/8,-,-,CI,-,-,-,Few clouds
+IRANSHAHR,20/05/2023,15Z,39.4,13%,1002.6 Hpa,280º (W ),14.4,3/8,2/8 SC,-,CI,-,41.9,29.7,Scattered clouds
+IRANSHAHR,20/05/2023,12Z,41.2,13%,1002.0 Hpa,290º (W ),21.6,4/8,3/8 CU,-,CI,-,-,-,Scattered clouds
+IRANSHAHR,20/05/2023,09Z,40.3,15%,1003.8 Hpa,240º (SW),21.6,3/8,1/8 CU,-,CI,-,-,-,Scattered clouds
+IRANSHAHR,20/05/2023,06Z,36.7,17%,1006.2 Hpa,calm.,,4/8,-,-,CI,-,-,-,Scattered clouds
+IRANSHAHR,20/05/2023,03Z,29.7,23%,1006.7 Hpa,040º (NE),7.2,2/8,-,-,CI,-,38.4,26.0,Few clouds
+IRANSHAHR,20/05/2023,00Z,26.6,27%,1005.8 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+JASK,20/05/2023,21Z,30.6,77%,1004.8 Hpa,290º (W ),7.2,0/8,-,-,-,-,-,-,"Clear, haze"
+JASK,20/05/2023,18Z,30.9,81%,1005.6 Hpa,330º (NW),10.8,0/8,-,-,-,-,-,-,"Clear, mist"
+JASK,20/05/2023,15Z,31.2,88%,1005.2 Hpa,270º (W ),25.2,4/8,-,-,CI,-,32.4,26.7,"Scattered clouds, mist"
+JASK,20/05/2023,12Z,32.0,89%,1003.9 Hpa,210º (SW),14.4,0/8,-,-,-,-,-,-,"Clear, mist"
+JASK,20/05/2023,09Z,31.7,88%,1006.1 Hpa,200º (S ),18.0,0/8,-,-,-,-,-,-,"Clear, mist"
+JASK,20/05/2023,06Z,30.4,170%,1006.7 Hpa,130º (SE),18.0,0/8,-,-,-,-,-,-,"Clear, mist"
+JASK,20/05/2023,03Z,28.5,93%,1005.7 Hpa,080º (E ),10.8,0/8,-,-,-,-,31.5,26.7,"Clear, mist"
+JASK,20/05/2023,00Z,28.6,94%,1005.3 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, mist"
+KAHNUJ,20/05/2023,21Z,32.3,31%,1002.9 Hpa,190º (S ),21.6,0/8,-,-,-,-,-,-,Clear
+KAHNUJ,20/05/2023,18Z,35.2,26%,1003.5 Hpa,200º (S ),25.2,0/8,-,-,-,-,-,-,Clear
+KAHNUJ,20/05/2023,15Z,37.9,20%,1002.1 Hpa,190º (S ),21.6,1/8,1/8 SC,-,-,-,41.7,27.5,Few clouds
+KAHNUJ,20/05/2023,12Z,41.5,16%,1001.6 Hpa,210º (SW),32.4,2/8,2/8 SC,-,-,-,-,-,Few clouds
+KAHNUJ,20/05/2023,09Z,40.8,15%,1003.1 Hpa,210º (SW),28.8,2/8,2/8 SC,-,-,-,-,-,Few clouds
+KAHNUJ,20/05/2023,06Z,37.2,22%,1004.6 Hpa,180º (S ),14.4,0/8,-,-,-,-,-,-,Clear
+KAHNUJ,20/05/2023,03Z,29.9,30%,1004.1 Hpa,230º (SW),10.8,0/8,-,-,-,-,41.6,27.5,Clear
+KAHNUJ,20/05/2023,00Z,30.5,25%,1003.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KASHAN,20/05/2023,21Z,28.3,19%,1001.6 Hpa,320º (NW),3.6,6/8,3/8 SC,AC,-,-,-,-,Cloudy
+KASHAN,20/05/2023,18Z,28.4,21%,1001.5 Hpa,calm.,,6/8,3/8 SC,AC,-,-,-,-,Cloudy
+KASHAN,20/05/2023,15Z,32.7,12%,1001.6 Hpa,200º (S ),7.2,7/8,3/8 SC,AC,-,-,36.3,25.0,Cloudy
+KASHAN,20/05/2023,12Z,34.3,10%,1001.1 Hpa,220º (SW),3.6,4/8,2/8 SC,-,CI,-,-,-,Scattered clouds
+KASHAN,20/05/2023,09Z,33.8,9%,1002.8 Hpa,330º (NW),7.2,4/8,2/8 SC,-,CI,-,-,-,Scattered clouds
+KASHAN,20/05/2023,06Z,30.8,13%,1004.0 Hpa,310º (NW),14.4,0/8,-,-,-,-,-,-,Clear
+KASHAN,20/05/2023,03Z,24.8,19%,1004.1 Hpa,240º (SW),7.2,0/8,-,-,-,-,33.1,20.1,Clear
+KASHAN,20/05/2023,00Z,22.7,26%,1004.1 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KASHMAR,20/05/2023,21Z,24.5,30%,1006.4 Hpa,080º (E ),18.0,5/8,5/8 SC,-,-,-,-,-,Cloudy
+KASHMAR,20/05/2023,18Z,27.2,23%,1006.7 Hpa,090º (E ),14.4,6/8,6/8 SC,-,-,-,-,-,Cloudy
+KASHMAR,20/05/2023,15Z,31.3,12%,1004.9 Hpa,080º (E ),14.4,7/8,3/8 SC,AC,-,-,32.3,23.1,Cloudy
+KASHMAR,20/05/2023,12Z,31.8,13%,1005.0 Hpa,070º (E ),10.8,7/8,3/8 SC,AC,-,-,-,-,Cloudy
+KASHMAR,20/05/2023,09Z,29.4,16%,1005.5 Hpa,130º (SE),10.8,8/8,2/8 SC,AC,,-,-,-,Overcast
+KASHMAR,20/05/2023,06Z,29.4,16%,1006.5 Hpa,130º (SE),10.8,8/8,-,8/8 AC,,-,-,-,Overcast
+KASHMAR,20/05/2023,03Z,23.1,22%,1006.6 Hpa,080º (E ),7.2,5/8,-,-,CI,-,31.4,21.6,Cloudy
+KASHMAR,20/05/2023,00Z,24.2,17%,1005.4 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KERMAN,20/05/2023,21Z,21.3,36%,1003.2 Hpa,200º (S ),7.2,5/8,5/8 SC,-,-,-,-,-,Cloudy
+KERMAN,20/05/2023,18Z,24.1,26%,1003.5 Hpa,270º (W ),18.0,6/8,3/8 SC,AC,-,-,-,-,Cloudy
+KERMAN,20/05/2023,15Z,25.8,27%,1003.6 Hpa,210º (SW),7.2,7/8,4/8 CB,AC,-,-,29.9,17.8,Cloudy
+KERMAN,20/05/2023,12Z,27.0,30%,1003.1 Hpa,320º (NW),21.6,7/8,7/8 CB,-,-,-,-,-,Cloudy
+KERMAN,20/05/2023,09Z,29.6,21%,1002.2 Hpa,260º (W ),32.4,7/8,7/8 CB,-,-,-,-,-,Cloudy
+KERMAN,20/05/2023,06Z,27.6,23%,1003.8 Hpa,230º (SW),21.6,5/8,1/8 CU,AC,CI,-,-,-,Cloudy
+KERMAN,20/05/2023,03Z,20.4,42%,1004.9 Hpa,100º (E ),10.8,4/8,1/8 SC,AC,-,-,31.3,17.8,Scattered clouds
+KERMAN,20/05/2023,00Z,18.6,43%,1004.9 Hpa,160º (S ),7.2,3/8,1/8 SC,AC,-,-,-,-,Scattered clouds
+KERMANSHAH,20/05/2023,21Z,12.5,89%,1008.4 Hpa,110º (E ),32.4,7/8,7/8 CB,AC,-,40.3(24h),-,-,"Cloudy, rain"
+KERMANSHAH,20/05/2023,18Z,13.9,76%,1012.0 Hpa,340º (N ),25.2,8/8,-,-,-,14.0(6h),-,-,"Overcast, thunderstorm"
+KERMANSHAH,20/05/2023,15Z,20.5,41%,1007.1 Hpa,360º (N ),28.8,8/8,7/8 CB,AC,,-,30.1,-,"Overcast, thunderstorm no precipitation"
+KERMANSHAH,20/05/2023,12Z,29.8,17%,1003.1 Hpa,200º (S ),32.4,7/8,-,4/8 AC,CI,-,-,-,"Cloudy, haze"
+KERMANSHAH,20/05/2023,09Z,27.8,22%,1004.6 Hpa,160º (S ),36.0,6/8,-,3/8 AC,CI,-,-,-,"Cloudy, haze"
+KERMANSHAH,20/05/2023,06Z,24.9,28%,1007.1 Hpa,100º (E ),18.0,6/8,1/8 CU,-,CI,-,-,-,"Cloudy, haze"
+KERMANSHAH,20/05/2023,03Z,19.1,48%,1006.5 Hpa,100º (E ),14.4,6/8,-,1/8 AC,CI,-,31.4,16.1,"Cloudy, haze"
+KERMANSHAH,20/05/2023,00Z,18.4,43%,1006.3 Hpa,140º (SE),14.4,6/8,-,6/8 AC,-,-,-,-,Cloudy
+KHARG,20/05/2023,15Z,28.4,60%,1004.9 Hpa,090º (E ),7.2,6/8,2/8 SC,AC,-,-,34.2,27.5,Cloudy
+KHARG,20/05/2023,12Z,32.3,41%,1006.5 Hpa,calm.,,8/8,3/8 SC,AC,,-,-,-,Overcast
+KHARG,20/05/2023,09Z,33.0,32%,1008.6 Hpa,160º (S ),7.2,8/8,3/8 SC,AC,,-,-,-,Overcast
+KHARG,20/05/2023,06Z,34.1,32%,1008.2 Hpa,170º (S ),7.2,6/8,3/8 SC,AC,-,-,-,-,Cloudy
+KHARG,20/05/2023,03Z,27.5,58%,1007.1 Hpa,170º (S ),7.2,2/8,2/8 SC,-,-,-,30.7,25.8,Few clouds
+KHOR,20/05/2023,21Z,25.8,19%,1002.9 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KHOR,20/05/2023,18Z,27.5,18%,1004.1 Hpa,180º (S ),7.2,2/8,1/8 SC,-,CI,-,-,-,Few clouds
+KHOR,20/05/2023,15Z,32.2,18%,1003.1 Hpa,050º (NE),10.8,5/8,2/8 SC,AC,CI,-,35.6,27.5,Cloudy
+KHOR,20/05/2023,12Z,35.4,16%,1002.3 Hpa,050º (NE),10.8,3/8,2/8 SC,AC,-,-,-,-,Scattered clouds
+KHOR,20/05/2023,09Z,32.8,18%,1004.5 Hpa,350º (N ),7.2,6/8,5/8 SC,AC,-,-,-,-,Cloudy
+KHOR,20/05/2023,06Z,29.5,21%,1005.7 Hpa,150º (SE),10.8,7/8,4/8 SC,AC,-,-,-,-,Cloudy
+KHOR,20/05/2023,03Z,27.5,11%,1004.4 Hpa,270º (W ),7.2,6/8,5/8 SC,-,CI,-,33.4,24.9,Cloudy
+KHOR,20/05/2023,00Z,25.4,14%,1003.4 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KHORRAM ABAD,20/05/2023,21Z,14.0,94%,1012.3 Hpa,200º (S ),10.8,8/8,6/8 CB,AC,,6.2(24h),-,-,"Overcast, thunderstorm"
+KHORRAM ABAD,20/05/2023,18Z,22.0,39%,1004.5 Hpa,210º (SW),7.2,3/8,1/8 SC,-,CI,-,-,-,Scattered clouds
+KHORRAM ABAD,20/05/2023,15Z,27.7,24%,1004.5 Hpa,170º (S ),18.0,3/8,2/8 SC,-,CI,-,32.0,17.0,Scattered clouds
+KHORRAM ABAD,20/05/2023,12Z,30.0,21%,1004.6 Hpa,190º (S ),21.6,4/8,3/8 CB,AC,-,-,-,-,"Scattered clouds, dust"
+KHORRAM ABAD,20/05/2023,09Z,27.4,29%,1006.6 Hpa,100º (E ),10.8,5/8,5/8 CB,-,CI,-,-,-,"Cloudy, thunderstorms"
+KHORRAM ABAD,20/05/2023,06Z,26.6,33%,1007.1 Hpa,calm.,,5/8,-,-,CI,0.2(24h),-,-,"Cloudy, dust"
+KHORRAM ABAD,20/05/2023,03Z,17.0,63%,1007.6 Hpa,calm.,,5/8,-,2/8 AC,CI,0.2(24h),28.6,17.0,"Cloudy, dust"
+KHORRAM ABAD,20/05/2023,00Z,17.4,58%,1006.7 Hpa,130º (SE),10.8,5/8,-,3/8 AC,CI,0.2(24h),-,-,Cloudy
+KHOY,20/05/2023,21Z,14.6,71%,1009.4 Hpa,230º (SW),10.8,6/8,4/8 CB,-,CI,11.6(24h),-,-,Cloudy
+KHOY,20/05/2023,18Z,15.2,70%,1010.3 Hpa,calm.,,6/8,4/8 CB,-,CI,15.2(24h),-,-,Cloudy
+KHOY,20/05/2023,15Z,17.7,63%,1008.5 Hpa,calm.,,8/8,4/8 CB,AC,,16.4(24h),18.8,14.0,Overcast
+KHOY,20/05/2023,12Z,16.3,70%,1010.7 Hpa,190º (S ),18.0,8/8,4/8 CB,AC,,2.0(6h),-,-,Overcast
+KHOY,20/05/2023,09Z,17.4,67%,1010.8 Hpa,160º (S ),21.6,8/8,4/8 CB,AC,,18.6(24h),-,-,Overcast
+KHOY,20/05/2023,06Z,14.4,77%,1012.6 Hpa,calm.,,8/8,4/8 CB,AC,,10.0(6h),-,-,"Overcast, rain"
+KHOY,20/05/2023,03Z,13.2,90%,1012.1 Hpa,calm.,,8/8,3/8 CB,AC,,17.4(24h),21.4,12.0,"Overcast, rain"
+KHOY,20/05/2023,00Z,14.6,86%,1010.7 Hpa,330º (NW),10.8,8/8,3/8 CB,AC,,5.0(6h),-,-,"Overcast, rain showers"
+KISH ISLAND,20/05/2023,21Z,30.6,51%,1007.8 Hpa,180º (S ),36.0,5/8,2/8 CB,-,-,0.2(24h),-,-,Cloudy
+KISH ISLAND,20/05/2023,18Z,30.6,58%,1005.0 Hpa,280º (W ),7.2,2/8,-,-,CI,-,-,-,Few clouds
+KISH ISLAND,20/05/2023,15Z,32.0,52%,1004.9 Hpa,260º (W ),10.8,5/8,-,-,CI,-,41.4,31.0,Cloudy
+KISH ISLAND,20/05/2023,12Z,40.0,19%,1005.3 Hpa,300º (NW),21.6,3/8,-,-,CI,-,-,-,Scattered clouds
+KISH ISLAND,20/05/2023,09Z,39.2,23%,1007.1 Hpa,320º (NW),21.6,4/8,3/8 CB,-,CI,-,-,-,Scattered clouds
+KISH ISLAND,20/05/2023,06Z,36.8,25%,1007.7 Hpa,310º (NW),10.8,7/8,7/8 CB,AC,-,-,-,-,Cloudy
+KISH ISLAND,20/05/2023,03Z,31.2,50%,1006.1 Hpa,050º (NE),10.8,5/8,4/8 CB,-,-,-,32.0,27.0,Cloudy
+KISH ISLAND,20/05/2023,00Z,28.6,65%,1004.9 Hpa,calm.,,4/8,-,-,CI,-,-,-,Scattered clouds
+MAKKO,20/05/2023,21Z,12.0,91%,1009.8 Hpa,calm.,,3/8,3/8 SC,-,-,1.9(24h),-,-,Scattered clouds
+MAKKO,20/05/2023,18Z,12.8,87%,1010.3 Hpa,calm.,,7/8,7/8 SC,AC,-,1.9(24h),-,-,Cloudy
+MAKKO,20/05/2023,15Z,14.0,79%,1009.2 Hpa,070º (E ),21.6,7/8,7/8 SC,AC,-,1.9(24h),15.6,11.8,Cloudy
+MAKKO,20/05/2023,12Z,13.2,89%,1009.8 Hpa,090º (E ),21.6,7/8,7/8 SC,AC,-,-,-,-,Cloudy
+MAKKO,20/05/2023,09Z,13.0,84%,1010.8 Hpa,080º (E ),21.6,7/8,7/8 CB,AC,-,-,-,-,Cloudy
+MAKKO,20/05/2023,06Z,13.0,89%,1010.8 Hpa,100º (E ),25.2,8/8,6/8 CB,AC,,Tr(6h),-,-,Overcast
+MAKKO,20/05/2023,03Z,12.4,87%,1010.2 Hpa,calm.,,8/8,5/8 CB,AC,,0.3(24h),19.0,11.8,"Overcast, rain showers"
+MAKKO,20/05/2023,00Z,12.2,84%,1009.8 Hpa,300º (NW),7.2,7/8,7/8 CB,-,-,Tr(6h),-,-,Cloudy
+MARAGHEH,20/05/2023,21Z,12.9,69%,1009.5 Hpa,080º (E ),32.4,8/8,5/8 CB,AC,,20.0(24h),-,-,Overcast
+MARAGHEH,20/05/2023,18Z,13.1,73%,1011.3 Hpa,100º (E ),14.4,8/8,2/8 SC,-,CS,5.0(6h),-,-,Overcast
+MARAGHEH,20/05/2023,15Z,13.2,80%,1012.2 Hpa,120º (SE),7.2,8/8,3/8 CB,AC,,20.0(24h),19.2,12.6,"Overcast, rain"
+MARAGHEH,20/05/2023,12Z,18.0,63%,1009.5 Hpa,120º (SE),10.8,7/8,4/8 CB,AC,-,3.0(6h),-,-,"Cloudy, rain"
+MARAGHEH,20/05/2023,09Z,15.3,69%,1011.3 Hpa,270º (W ),36.0,8/8,5/8 CB,AC,,12.0(24h),-,-,Overcast
+MARAGHEH,20/05/2023,06Z,16.5,62%,1008.9 Hpa,060º (NE),7.2,7/8,3/8 ST,AC,CI,9.0(6h),-,-,"Cloudy, rain"
+MARAGHEH,20/05/2023,03Z,13.2,79%,1010.7 Hpa,310º (NW),10.8,8/8,4/8 ST,AC,,4.6(24h),26.6,13.2,"Overcast, rain"
+MARAGHEH,20/05/2023,00Z,15.4,59%,1006.4 Hpa,090º (E ),10.8,7/8,1/8 SC,AC,-,3.0(6h),-,-,"Cloudy, haze"
+MARAVEH-TAPPEH,20/05/2023,21Z,20.3,62%,1012.3 Hpa,190º (S ),18.0,4/8,1/8 SC,AC,-,-,-,-,Scattered clouds
+MARAVEH-TAPPEH,20/05/2023,18Z,24.5,51%,1011.4 Hpa,180º (S ),10.8,0/8,-,-,-,-,-,-,Clear
+MARAVEH-TAPPEH,20/05/2023,15Z,30.7,30%,1009.9 Hpa,270º (W ),10.8,0/8,-,-,-,-,32.8,19.4,Clear
+MARAVEH-TAPPEH,20/05/2023,12Z,32.6,30%,1009.7 Hpa,300º (NW),7.2,0/8,-,-,-,-,-,-,Clear
+MARAVEH-TAPPEH,20/05/2023,09Z,28.1,42%,1011.3 Hpa,340º (N ),7.2,0/8,-,-,-,-,-,-,Clear
+MARAVEH-TAPPEH,20/05/2023,06Z,23.2,56%,1014.2 Hpa,050º (NE),7.2,0/8,-,-,-,-,-,-,Clear
+MARAVEH-TAPPEH,20/05/2023,03Z,19.4,72%,1014.2 Hpa,180º (S ),21.6,1/8,1/8 SC,-,-,-,30.8,18.1,"Few clouds, haze"
+MARAVEH-TAPPEH,20/05/2023,00Z,20.0,56%,1012.8 Hpa,180º (S ),7.2,0/8,-,-,-,-,-,-,Clear
+MASHHAD,20/05/2023,21Z,20.8,48%,1009.1 Hpa,200º (S ),10.8,5/8,2/8 SC,-,CI,-,-,-,Cloudy
+MASHHAD,20/05/2023,18Z,23.2,44%,1009.8 Hpa,240º (SW),7.2,4/8,1/8 SC,-,CI,-,-,-,Scattered clouds
+MASHHAD,20/05/2023,15Z,27.1,36%,1009.2 Hpa,120º (SE),21.6,7/8,1/8 CB,-,CI,-,32.1,23.6,Cloudy
+MASHHAD,20/05/2023,12Z,31.0,29%,1008.6 Hpa,130º (SE),32.4,7/8,1/8 SC,-,CI,-,-,-,Cloudy
+MASHHAD,20/05/2023,09Z,30.7,28%,1008.8 Hpa,150º (SE),14.4,7/8,1/8 SC,-,CI,-,-,-,Cloudy
+MASHHAD,20/05/2023,06Z,28.2,32%,1009.8 Hpa,350º (N ),7.2,6/8,1/8 SC,-,CI,-,-,-,Cloudy
+MASHHAD,20/05/2023,03Z,23.6,40%,1009.4 Hpa,350º (N ),7.2,5/8,-,-,CI,-,27.5,17.4,Cloudy
+MASHHAD,20/05/2023,00Z,18.0,49%,1008.9 Hpa,290º (W ),7.2,1/8,-,-,CI,-,-,-,Few clouds
+MASJED-SOLEYMAN,20/05/2023,21Z,30.0,29%,1005.4 Hpa,190º (S ),3.6,0/8,-,-,-,-,-,-,Clear
+MASJED-SOLEYMAN,20/05/2023,18Z,31.1,25%,1003.8 Hpa,100º (E ),3.6,0/8,-,-,-,-,-,-,Clear
+MASJED-SOLEYMAN,20/05/2023,12Z,38.3,15%,1004.2 Hpa,270º (W ),10.8,0/8,-,-,-,-,-,-,Clear
+MASJED-SOLEYMAN,20/05/2023,09Z,35.9,19%,1005.7 Hpa,160º (S ),7.2,0/8,-,-,-,-,-,-,Clear
+MASJED-SOLEYMAN,20/05/2023,06Z,33.0,24%,1006.9 Hpa,140º (SE),10.8,0/8,-,-,-,-,-,-,Clear
+MASJED-SOLEYMAN,20/05/2023,03Z,26.8,40%,1006.2 Hpa,calm.,,0/8,-,-,-,-,34.1,24.6,Clear
+MASJED-SOLEYMAN,20/05/2023,00Z,25.8,36%,1006.0 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+MEYANEH,20/05/2023,21Z,13.0,80%,1010.9 Hpa,270º (W ),10.8,7/8,6/8 CB,-,CI,9.1(24h),-,-,Cloudy
+MEYANEH,20/05/2023,18Z,13.8,83%,1012.7 Hpa,180º (S ),14.4,7/8,5/8 CB,AC,CI,8.0(6h),-,-,"Cloudy, rain"
+MEYANEH,20/05/2023,15Z,15.4,87%,1013.6 Hpa,210º (SW),18.0,8/8,7/8 CB,AC,,5.1(24h),27.0,15.0,"Overcast, rain showers"
+MEYANEH,20/05/2023,12Z,16.0,74%,1010.0 Hpa,270º (W ),57.6,7/8,6/8 CB,AC,CI,0.4(6h),-,-,"Cloudy, thunderstorm"
+MEYANEH,20/05/2023,09Z,25.6,33%,1005.6 Hpa,060º (NE),10.8,7/8,2/8 CU,-,CI,0.9(24h),-,-,Cloudy
+MEYANEH,20/05/2023,06Z,20.0,54%,1009.2 Hpa,calm.,,7/8,2/8 SC,-,CI,0.9(24h),-,-,Cloudy
+MEYANEH,20/05/2023,03Z,15.0,75%,1008.8 Hpa,calm.,,7/8,2/8 SC,-,CI,0.9(24h),27.0,14.4,Cloudy
+MEYANEH,20/05/2023,00Z,16.6,58%,1008.4 Hpa,300º (NW),7.2,3/8,2/8 SC,-,CI,0.9(6h),-,-,Scattered clouds
+MOHABAD,20/05/2023,21Z,12.2,86%,1010.9 Hpa,calm.,,6/8,4/8 CB,AC,-,32.6(24h),-,-,Cloudy
+MOHABAD,20/05/2023,18Z,12.8,87%,1012.9 Hpa,calm.,,5/8,3/8 CB,AC,-,2.0(6h),-,-,Cloudy
+MOHABAD,20/05/2023,15Z,13.0,89%,1013.4 Hpa,calm.,,7/8,5/8 CB,AC,-,34.1(24h),15.2,11.6,Cloudy
+MOHABAD,20/05/2023,12Z,15.2,68%,1011.2 Hpa,290º (W ),7.2,8/8,5/8 CB,AC,,7.0(6h),-,-,Overcast
+MOHABAD,20/05/2023,09Z,12.6,93%,1013.6 Hpa,180º (S ),7.2,8/8,6/8 CB,AC,,29.8(24h),-,-,"Overcast, thunderstorm"
+MOHABAD,20/05/2023,06Z,12.4,86%,1011.0 Hpa,030º (NE),14.4,8/8,5/8 CB,AC,,18.0(6h),-,-,Overcast
+MOHABAD,20/05/2023,03Z,12.0,91%,1010.8 Hpa,030º (NE),18.0,8/8,5/8 CB,AC,,20.5(24h),26.2,11.8,"Overcast, rain"
+MOHABAD,20/05/2023,00Z,14.6,77%,1008.4 Hpa,010º (N),7.2,8/8,6/8 CB,AC,,9.0(6h),-,-,"Overcast, thunderstorm"
+NEHBANDAN,20/05/2023,21Z,25.5,8%,1001.8 Hpa,030º (NE),3.6,5/8,-,-,CI,-,-,-,Cloudy
+NEHBANDAN,20/05/2023,18Z,28.2,9%,1002.9 Hpa,360º (N ),3.6,4/8,-,3/8 AC,CI,-,-,-,Scattered clouds
+NEHBANDAN,20/05/2023,15Z,33.0,0%,1002.7 Hpa,calm.,,5/8,2/8 SC,AC,-,-,36.9,24.2,Cloudy
+NEHBANDAN,20/05/2023,12Z,36.4,0%,1003.0 Hpa,210º (SW),10.8,6/8,2/8 CU,AC,CI,-,-,-,Cloudy
+NEHBANDAN,20/05/2023,09Z,35.4,0%,1004.1 Hpa,calm.,,6/8,1/8 CU,AC,-,-,-,-,Cloudy
+NEHBANDAN,20/05/2023,06Z,34.2,0%,1004.7 Hpa,060º (NE),7.2,3/8,-,-,CI,-,-,-,Scattered clouds
+NEHBANDAN,20/05/2023,03Z,24.2,4%,1005.4 Hpa,210º (SW),3.6,4/8,-,4/8 AC,CC,-,32.2,19.4,Scattered clouds
+NEHBANDAN,20/05/2023,00Z,20.0,6%,1004.5 Hpa,160º (S ),3.6,0/8,-,-,-,-,-,-,Clear
+NOSHAHR,20/05/2023,21Z,19.6,75%,1013.3 Hpa,200º (S ),7.2,7/8,7/8 CB,-,-,0.1(24h),-,-,"Cloudy, rain showers"
+NOSHAHR,20/05/2023,18Z,19.8,77%,1013.8 Hpa,220º (SW),7.2,7/8,7/8 CB,-,-,-,-,-,Cloudy
+NOSHAHR,20/05/2023,15Z,20.8,73%,1011.7 Hpa,calm.,,7/8,7/8 CB,-,-,-,23.0,18.0,Cloudy
+NOSHAHR,20/05/2023,12Z,22.0,67%,1012.3 Hpa,050º (NE),10.8,7/8,7/8 CB,-,-,Tr(24h),-,-,Cloudy
+NOSHAHR,20/05/2023,09Z,22.0,62%,1012.4 Hpa,330º (NW),10.8,3/8,1/8 CU,-,CI,Tr(24h),-,-,Scattered clouds
+NOSHAHR,20/05/2023,06Z,22.0,56%,1012.6 Hpa,360º (N ),7.2,1/8,-,-,CI,Tr(24h),-,-,Few clouds
+NOSHAHR,20/05/2023,03Z,18.0,84%,1014.2 Hpa,calm.,,2/8,2/8 SC,-,-,Tr(24h),20.2,16.4,Few clouds
+NOSHAHR,20/05/2023,00Z,18.2,89%,1015.2 Hpa,calm.,,6/8,2/8 CB,-,CI,Tr(24h),-,-,Cloudy
+OMIDYEH-AGHAJARI,20/05/2023,21Z,26.2,42%,1006.1 Hpa,340º (N ),10.8,0/8,-,-,-,-,-,-,Clear
+OMIDYEH-AGHAJARI,20/05/2023,18Z,29.8,36%,1005.6 Hpa,160º (S ),7.2,2/8,-,-,CI,-,-,-,"Few clouds, haze"
+OMIDYEH-AGHAJARI,20/05/2023,15Z,37.0,21%,1005.1 Hpa,180º (S ),14.4,6/8,6/8 CB,-,-,-,39.8,25.6,"Cloudy, haze"
+OMIDYEH-AGHAJARI,20/05/2023,12Z,38.9,18%,1006.7 Hpa,190º (S ),36.0,7/8,7/8 CB,-,-,-,-,-,Cloudy
+OMIDYEH-AGHAJARI,20/05/2023,09Z,39.8,18%,1007.4 Hpa,140º (SE),21.6,4/8,4/8 CB,-,-,-,-,-,Scattered clouds
+OMIDYEH-AGHAJARI,20/05/2023,06Z,32.6,33%,1009.2 Hpa,090º (E ),14.4,6/8,6/8 CB,-,-,-,-,-,Cloudy
+OMIDYEH-AGHAJARI,20/05/2023,03Z,26.2,42%,1007.4 Hpa,calm.,,5/8,-,-,CI,-,34.4,25.6,Cloudy
+OMIDYEH-AGHAJARI,20/05/2023,00Z,25.6,46%,1006.9 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+ORUMIEH,20/05/2023,21Z,10.4,96%,1011.4 Hpa,200º (S ),7.2,6/8,6/8 CB,AC,-,24.2(24h),-,-,"Cloudy, rain showers"
+ORUMIEH,20/05/2023,18Z,11.6,80%,1011.7 Hpa,280º (W ),7.2,7/8,3/8 CB,-,CI,3.0(6h),-,-,Cloudy
+ORUMIEH,20/05/2023,15Z,11.5,92%,1011.6 Hpa,230º (SW),7.2,8/8,6/8 CB,AC,,24.1(24h),14.2,10.6,Overcast
+ORUMIEH,20/05/2023,12Z,12.2,87%,1011.9 Hpa,290º (W ),10.8,8/8,6/8 CB,AC,,5.0(6h),-,-,"Overcast, rain"
+ORUMIEH,20/05/2023,09Z,11.8,96%,1012.5 Hpa,270º (W ),10.8,8/8,6/8 CB,AC,,18.3(24h),-,-,"Overcast, rain"
+ORUMIEH,20/05/2023,06Z,11.4,91%,1012.3 Hpa,060º (NE),7.2,8/8,6/8 CB,AC,,6.0(6h),-,-,"Overcast, rain"
+ORUMIEH,20/05/2023,03Z,11.2,98%,1011.2 Hpa,270º (W ),7.2,8/8,6/8 CB,AC,,10.3(24h),14.2,11.1,"Overcast, rain"
+ORUMIEH,20/05/2023,00Z,14.2,74%,1007.7 Hpa,270º (W ),7.2,7/8,6/8 CB,AC,-,-,-,-,"Cloudy, lightning"
+PARS ABAD MOGHAN,20/05/2023,21Z,14.8,86%,1012.0 Hpa,140º (SE),7.2,8/8,5/8 SC,AC,,6.1(24h),-,-,Overcast
+PARS ABAD MOGHAN,20/05/2023,18Z,15.1,87%,1012.7 Hpa,170º (S ),10.8,8/8,5/8 SC,AC,,6.0(6h),-,-,Overcast
+PARS ABAD MOGHAN,20/05/2023,15Z,17.0,78%,1013.5 Hpa,170º (S ),10.8,8/8,8/8 CB,AC,,2.4(24h),26.6,16.2,"Overcast, rain"
+PARS ABAD MOGHAN,20/05/2023,12Z,26.4,40%,1010.8 Hpa,090º (E ),14.4,5/8,4/8 CB,-,CC,Tr(24h),-,-,Cloudy
+PARS ABAD MOGHAN,20/05/2023,09Z,23.7,70%,1011.8 Hpa,090º (E ),10.8,6/8,5/8 CB,-,CI,Tr(24h),-,-,Cloudy
+PARS ABAD MOGHAN,20/05/2023,06Z,19.9,92%,1013.2 Hpa,120º (SE),10.8,6/8,5/8 SC,-,CS,Tr(24h),-,-,Cloudy
+PARS ABAD MOGHAN,20/05/2023,03Z,16.2,96%,1011.8 Hpa,090º (E ),10.8,8/8,4/8 SC,AC,CI,Tr(24h),22.8,15.7,Overcast
+PARS ABAD MOGHAN,20/05/2023,00Z,17.1,93%,1012.7 Hpa,050º (NE),7.2,8/8,5/8 SC,AC,,Tr(6h),-,-,Overcast
+RAMSAR,20/05/2023,21Z,18.4,84%,1012.6 Hpa,calm.,,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+RAMSAR,20/05/2023,18Z,19.6,73%,1014.2 Hpa,320º (NW),3.6,7/8,4/8 CB,AC,-,-,-,-,Cloudy
+RAMSAR,20/05/2023,15Z,20.6,66%,1012.1 Hpa,360º (N ),7.2,7/8,4/8 SC,AC,-,-,22.6,18.0,Cloudy
+RAMSAR,20/05/2023,12Z,21.4,68%,1012.0 Hpa,030º (NE),10.8,6/8,2/8 CU,AC,-,-,-,-,Cloudy
+RAMSAR,20/05/2023,09Z,22.0,75%,1012.2 Hpa,070º (E ),14.4,4/8,1/8 CU,-,CI,-,-,-,Scattered clouds
+RAMSAR,20/05/2023,06Z,20.6,81%,1012.9 Hpa,020º (N),10.8,4/8,1/8 CU,-,CI,-,-,-,Scattered clouds
+RAMSAR,20/05/2023,03Z,18.0,89%,1013.8 Hpa,180º (S ),3.6,1/8,1/8 CU,-,-,-,19.6,17.2,Few clouds
+RAMSAR,20/05/2023,00Z,18.2,85%,1014.0 Hpa,calm.,,2/8,2/8 SC,-,-,-,-,-,Few clouds
+RASHT,20/05/2023,21Z,17.6,89%,1012.7 Hpa,calm.,,3/8,1/8 SC,-,CC,Tr(24h),-,-,Scattered clouds
+RASHT,20/05/2023,18Z,18.8,69%,1016.4 Hpa,240º (SW),3.6,6/8,3/8 CB,-,CI,Tr(6h),-,-,"Cloudy, rain showers"
+RASHT,20/05/2023,15Z,19.8,58%,1013.7 Hpa,calm.,,7/8,2/8 CU,-,CI,-,25.0,17.2,Cloudy
+RASHT,20/05/2023,12Z,22.8,58%,1012.7 Hpa,350º (N ),10.8,3/8,-,-,CI,-,-,-,Scattered clouds
+RASHT,20/05/2023,09Z,24.0,66%,1012.7 Hpa,350º (N ),10.8,3/8,2/8 CU,-,CI,-,-,-,Scattered clouds
+RASHT,20/05/2023,06Z,21.4,73%,1013.5 Hpa,050º (NE),7.2,6/8,-,-,CI,-,-,-,Cloudy
+RASHT,20/05/2023,03Z,17.2,95%,1014.6 Hpa,140º (SE),3.6,6/8,-,-,CC,-,20.3,16.0,"Cloudy, mist"
+RASHT,20/05/2023,00Z,16.2,98%,1015.7 Hpa,320º (NW),7.2,0/8,-,-,-,-,-,-,"Clear, mist"
+SABZEVAR,20/05/2023,21Z,24.6,25%,1005.5 Hpa,080º (E ),25.2,6/8,3/8 SC,-,CI,-,-,-,Cloudy
+SABZEVAR,20/05/2023,18Z,27.9,20%,1006.2 Hpa,100º (E ),28.8,6/8,3/8 SC,-,CI,-,-,-,Cloudy
+SABZEVAR,20/05/2023,15Z,31.6,12%,1005.0 Hpa,calm.,,7/8,4/8 SC,AC,CI,-,34.4,23.8,Cloudy
+SABZEVAR,20/05/2023,12Z,33.2,9%,1005.2 Hpa,110º (E ),14.4,8/8,4/8 CB,AC,CS,-,-,-,Overcast
+SABZEVAR,20/05/2023,09Z,34.1,10%,1004.9 Hpa,090º (E ),14.4,7/8,1/8 SC,AC,CI,-,-,-,Cloudy
+SABZEVAR,20/05/2023,06Z,29.2,16%,1006.4 Hpa,090º (E ),21.6,7/8,-,-,CI,-,-,-,Cloudy
+SABZEVAR,20/05/2023,03Z,23.8,20%,1007.4 Hpa,090º (E ),18.0,4/8,-,-,CI,-,31.8,22.1,Scattered clouds
+SABZEVAR,20/05/2023,00Z,22.5,23%,1006.5 Hpa,080º (E ),18.0,2/8,-,-,CI,-,-,-,Few clouds
+SAFI-ABAD DEZFUL,20/05/2023,21Z,26.1,62%,1006.4 Hpa,040º (NE),25.2,7/8,4/8 CB,AC,-,-,-,-,"Cloudy, dust"
+SAFI-ABAD DEZFUL,20/05/2023,18Z,28.5,43%,1004.0 Hpa,150º (SE),10.8,5/8,5/8 SC,-,-,-,-,-,"Cloudy, dust"
+SAFI-ABAD DEZFUL,20/05/2023,15Z,35.0,29%,1002.6 Hpa,150º (SE),18.0,0/8,-,-,-,-,39.6,24.4,Clear
+SAFI-ABAD DEZFUL,20/05/2023,12Z,39.3,20%,1004.4 Hpa,160º (S ),21.6,6/8,2/8 SC,AC,-,-,-,-,Cloudy
+SAFI-ABAD DEZFUL,20/05/2023,09Z,37.0,26%,1005.8 Hpa,110º (E ),18.0,5/8,2/8 SC,AC,-,-,-,-,Cloudy
+SAFI-ABAD DEZFUL,20/05/2023,06Z,33.6,36%,1007.1 Hpa,110º (E ),14.4,4/8,-,-,CS,-,-,-,"Scattered clouds, dust"
+SAFI-ABAD DEZFUL,20/05/2023,03Z,24.4,68%,1006.0 Hpa,100º (E ),3.6,0/8,-,-,-,-,35.0,23.5,Clear
+SAFI-ABAD DEZFUL,20/05/2023,00Z,25.6,55%,1006.4 Hpa,320º (NW),3.6,0/8,-,-,-,-,-,-,Clear
+SAGHEZ,20/05/2023,21Z,11.9,90%,1010.1 Hpa,230º (SW),14.4,8/8,8/8 CB,,,21.1(24h),-,-,"Overcast, rain"
+SAGHEZ,20/05/2023,18Z,12.0,91%,1013.1 Hpa,270º (W ),10.8,8/8,8/8 CB,,,12.0(6h),-,-,"Overcast, rain"
+SAGHEZ,20/05/2023,15Z,12.8,87%,1011.6 Hpa,020º (N),10.8,7/8,7/8 CB,-,-,20.2(24h),20.1,-,Cloudy
+SAGHEZ,20/05/2023,12Z,16.0,70%,1010.2 Hpa,080º (E ),10.8,7/8,7/8 CB,-,-,7.0(6h),-,-,"Cloudy, thunderstorm"
+SAGHEZ,20/05/2023,09Z,19.6,64%,1008.5 Hpa,330º (NW),18.0,7/8,7/8 CB,-,-,0.7(24h),-,-,Cloudy
+SAGHEZ,20/05/2023,06Z,16.2,68%,1010.5 Hpa,090º (E ),7.2,7/8,7/8 CB,-,-,0.5(6h),-,-,Cloudy
+SAGHEZ,20/05/2023,03Z,13.4,83%,1009.3 Hpa,330º (NW),10.8,7/8,7/8 CB,-,-,0.4(24h),24.9,12.6,"Cloudy, rain showers"
+SAGHEZ,20/05/2023,00Z,14.5,71%,1006.3 Hpa,320º (NW),7.2,5/8,5/8 CB,-,-,0.2(6h),-,-,"Cloudy, rain showers"
+SANANDAJ,20/05/2023,21Z,12.6,87%,1010.3 Hpa,calm.,,7/8,5/8 CB,AC,CI,21.8(24h),-,-,Cloudy
+SANANDAJ,20/05/2023,18Z,13.6,88%,1013.0 Hpa,170º (S ),10.8,8/8,6/8 CB,AC,,12.0(6h),-,-,"Overcast, thunderstorm"
+SANANDAJ,20/05/2023,15Z,15.3,80%,1011.9 Hpa,040º (NE),7.2,8/8,6/8 CB,AC,CI,3.0(24h),28.5,13.7,"Overcast, thunderstorms"
+SANANDAJ,20/05/2023,12Z,25.6,23%,1004.3 Hpa,180º (S ),21.6,8/8,5/8 CB,AC,CI,-,-,-,"Overcast, dust"
+SANANDAJ,20/05/2023,09Z,26.3,27%,1004.9 Hpa,180º (S ),21.6,6/8,3/8 CU,AC,CI,-,-,-,"Cloudy, dust"
+SANANDAJ,20/05/2023,06Z,21.1,40%,1007.3 Hpa,180º (S ),7.2,5/8,-,-,CI,-,-,-,"Cloudy, dust"
+SANANDAJ,20/05/2023,03Z,13.7,66%,1008.0 Hpa,calm.,,3/8,1/8 SC,-,CI,-,25.5,12.7,Scattered clouds
+SANANDAJ,20/05/2023,00Z,13.6,67%,1006.5 Hpa,calm.,,1/8,1/8 SC,-,-,-,-,-,Few clouds
+SARAB,20/05/2023,21Z,9.7,90%,1009.8 Hpa,calm.,,6/8,3/8 CB,AC,CI,10.3(24h),-,-,"Cloudy, mist"
+SARAB,20/05/2023,18Z,10.8,86%,1012.1 Hpa,100º (E ),7.2,8/8,5/8 CB,AC,,10.0(6h),-,-,"Overcast, rain"
+SARAB,20/05/2023,15Z,12.6,83%,1014.0 Hpa,010º (N),7.2,8/8,5/8 CB,AC,,5.6(24h),22.5,10.9,"Overcast, rain"
+SARAB,20/05/2023,12Z,12.2,81%,1013.8 Hpa,250º (W ),39.6,8/8,5/8 CB,AC,,0.8(6h),-,-,"Overcast, thunderstorm"
+SARAB,20/05/2023,09Z,19.9,50%,1009.0 Hpa,160º (S ),7.2,6/8,3/8 CB,AC,CI,1.1(24h),-,-,"Cloudy, haze"
+SARAB,20/05/2023,06Z,16.2,64%,1011.0 Hpa,300º (NW),14.4,7/8,3/8 CB,AC,CI,1.1(24h),-,-,Cloudy
+SARAB,20/05/2023,03Z,10.9,86%,1010.0 Hpa,calm.,,7/8,3/8 CB,AC,CI,1.1(24h),21.3,9.4,Cloudy
+SARAB,20/05/2023,00Z,10.1,88%,1011.3 Hpa,190º (S ),14.4,5/8,4/8 CB,AC,CI,1.1(24h),-,-,Cloudy
+SARAKHS,20/05/2023,21Z,22.2,38%,1009.8 Hpa,330º (NW),7.2,0/8,-,-,-,-,-,-,Clear
+SARAKHS,20/05/2023,18Z,26.1,34%,1012.1 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SARAKHS,20/05/2023,15Z,32.8,24%,1011.4 Hpa,calm.,,4/8,-,-,CI,-,37.3,23.1,Scattered clouds
+SARAKHS,20/05/2023,12Z,36.4,19%,1010.8 Hpa,320º (NW),10.8,5/8,0/8 SC,-,CI,-,-,-,Cloudy
+SARAKHS,20/05/2023,09Z,35.1,20%,1011.1 Hpa,260º (W ),28.8,7/8,2/8 SC,-,CI,-,-,-,Cloudy
+SARAKHS,20/05/2023,06Z,31.4,25%,1011.1 Hpa,330º (NW),18.0,3/8,-,-,CI,-,-,-,Scattered clouds
+SARAKHS,20/05/2023,03Z,23.1,42%,1010.4 Hpa,calm.,,0/8,-,-,-,-,33.2,18.9,Clear
+SARAKHS,20/05/2023,00Z,21.4,39%,1009.4 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SARAVAN,20/05/2023,21Z,27.9,31%,1003.7 Hpa,200º (S ),7.2,0/8,-,-,-,-,-,-,Clear
+SARAVAN,20/05/2023,18Z,31.2,24%,1004.7 Hpa,240º (SW),18.0,0/8,-,-,-,-,-,-,Clear
+SARAVAN,20/05/2023,15Z,33.0,24%,1004.4 Hpa,220º (SW),28.8,2/8,2/8 SC,-,-,-,38.7,25.8,"Few clouds, dust"
+SARAVAN,20/05/2023,12Z,37.6,11%,1003.1 Hpa,calm.,,6/8,3/8 CU,AC,-,-,-,-,Cloudy
+SARAVAN,20/05/2023,09Z,37.9,10%,1004.7 Hpa,200º (S ),14.4,2/8,2/8 CU,-,-,-,-,-,Few clouds
+SARAVAN,20/05/2023,06Z,34.4,14%,1006.0 Hpa,290º (W ),7.2,4/8,-,-,CI,-,-,-,Scattered clouds
+SARAVAN,20/05/2023,03Z,25.8,38%,1007.4 Hpa,calm.,,0/8,-,-,-,-,32.7,21.2,Clear
+SARAVAN,20/05/2023,00Z,24.4,40%,1005.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SEMNAN,20/05/2023,21Z,24.8,23%,1003.0 Hpa,350º (N ),3.6,0/8,-,-,-,-,-,-,Clear
+SEMNAN,20/05/2023,18Z,26.8,22%,1004.1 Hpa,070º (E ),3.6,3/8,-,3/8 AC,-,-,-,-,Scattered clouds
+SEMNAN,20/05/2023,15Z,30.0,17%,1002.9 Hpa,100º (E ),14.4,7/8,7/8 CB,-,-,-,34.4,26.8,Cloudy
+SEMNAN,20/05/2023,12Z,33.8,9%,1001.7 Hpa,120º (SE),10.8,6/8,5/8 SC,AC,CI,-,-,-,Cloudy
+SEMNAN,20/05/2023,09Z,32.6,10%,1003.1 Hpa,140º (SE),10.8,6/8,5/8 CB,AC,-,-,-,-,Cloudy
+SEMNAN,20/05/2023,06Z,31.4,12%,1004.3 Hpa,050º (NE),10.8,0/8,-,-,-,-,-,-,Clear
+SEMNAN,20/05/2023,03Z,27.0,19%,1004.5 Hpa,300º (NW),3.6,6/8,-,3/8 AC,CI,-,31.4,23.8,Cloudy
+SEMNAN,20/05/2023,00Z,24.8,21%,1004.7 Hpa,330º (NW),3.6,1/8,-,-,CI,-,-,-,Few clouds
+SHAHRE-KORD,20/05/2023,21Z,12.0,56%,1005.8 Hpa,270º (W ),7.2,2/8,-,-,CI,-,-,-,Few clouds
+SHAHRE-KORD,20/05/2023,18Z,16.0,45%,1006.0 Hpa,050º (NE),3.6,5/8,1/8 SC,-,CI,-,-,-,Cloudy
+SHAHRE-KORD,20/05/2023,15Z,19.8,30%,1007.7 Hpa,250º (W ),18.0,7/8,3/8 SC,-,CI,-,24.9,13.0,Cloudy
+SHAHRE-KORD,20/05/2023,12Z,22.8,25%,1007.0 Hpa,220º (SW),21.6,6/8,3/8 SC,AC,CI,-,-,-,Cloudy
+SHAHRE-KORD,20/05/2023,09Z,23.8,25%,1005.8 Hpa,260º (W ),18.0,4/8,3/8 CU/SC,-,CI,-,-,-,Scattered clouds
+SHAHRE-KORD,20/05/2023,06Z,21.1,32%,1007.0 Hpa,150º (SE),7.2,2/8,1/8 CU,-,CI,-,-,-,Few clouds
+SHAHRE-KORD,20/05/2023,03Z,13.0,52%,1008.2 Hpa,140º (SE),7.2,4/8,2/8 SC,AC,-,-,20.4,10.4,Scattered clouds
+SHAHRE-KORD,20/05/2023,00Z,11.6,54%,1006.6 Hpa,340º (N ),3.6,3/8,-,3/8 AC,-,-,-,-,Scattered clouds
+SHAHRUD,20/05/2023,21Z,23.2,32%,1003.3 Hpa,110º (E ),7.2,4/8,-,-,CI,-,-,-,Scattered clouds
+SHAHRUD,20/05/2023,18Z,24.6,26%,1005.2 Hpa,210º (SW),7.2,4/8,-,-,CI,-,-,-,Scattered clouds
+SHAHRUD,20/05/2023,15Z,27.4,23%,1005.5 Hpa,190º (S ),7.2,6/8,1/8 SC,-,CI,-,31.4,21.4,Cloudy
+SHAHRUD,20/05/2023,12Z,29.4,18%,1004.5 Hpa,150º (SE),18.0,6/8,5/8 CU/SC,-,CS,-,-,-,Cloudy
+SHAHRUD,20/05/2023,09Z,30.2,16%,1004.9 Hpa,030º (NE),10.8,3/8,1/8 CU,-,CI,-,-,-,Scattered clouds
+SHAHRUD,20/05/2023,06Z,26.4,22%,1006.3 Hpa,060º (NE),18.0,3/8,-,-,CI,-,-,-,Scattered clouds
+SHAHRUD,20/05/2023,03Z,21.2,31%,1007.2 Hpa,020º (N),18.0,6/8,-,-,CI,-,26.8,19.2,Cloudy
+SHAHRUD,20/05/2023,00Z,20.2,32%,1006.5 Hpa,360º (N ),7.2,2/8,-,-,CI,-,-,-,Few clouds
+SHIRAZ,20/05/2023,21Z,16.2,68%,1006.9 Hpa,calm.,,6/8,3/8 SC,-,CI,0.4(24h),-,-,Cloudy
+SHIRAZ,20/05/2023,18Z,16.6,73%,1007.9 Hpa,calm.,,6/8,3/8 SC,-,CI,0.4(6h),-,-,"Cloudy, haze"
+SHIRAZ,20/05/2023,15Z,19.8,58%,1009.7 Hpa,210º (SW),7.2,8/8,5/8 CB,AC,,0.4(24h),28.8,17.4,"Overcast, haze"
+SHIRAZ,20/05/2023,12Z,24.4,33%,1009.7 Hpa,250º (W ),14.4,8/8,5/8 CB,AC,,-,-,-,Overcast
+SHIRAZ,20/05/2023,09Z,27.4,24%,1006.9 Hpa,260º (W ),14.4,7/8,5/8 CB,AC,-,-,-,-,Cloudy
+SHIRAZ,20/05/2023,06Z,25.0,37%,1008.2 Hpa,calm.,,3/8,2/8 CU,AC,-,-,-,-,Scattered clouds
+SHIRAZ,20/05/2023,03Z,18.2,56%,1008.1 Hpa,calm.,,0/8,-,-,-,-,24.8,13.6,Clear
+SHIRAZ,20/05/2023,00Z,15.8,62%,1007.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SIRI ISLAND,20/05/2023,18Z,30.6,52%,1006.3 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, haze"
+SIRI ISLAND,20/05/2023,15Z,33.6,40%,1005.6 Hpa,290º (W ),10.8,4/8,-,-,CI,-,38.8,29.0,"Scattered clouds, haze"
+SIRI ISLAND,20/05/2023,12Z,36.4,70%,1006.0 Hpa,260º (W ),10.8,0/8,-,-,-,-,-,-,"Clear, haze"
+SIRI ISLAND,20/05/2023,09Z,32.6,62%,1007.7 Hpa,calm.,,4/8,2/8 SC,-,CI,-,-,-,"Scattered clouds, haze"
+SIRI ISLAND,20/05/2023,06Z,30.6,97%,1008.3 Hpa,140º (SE),7.2,5/8,2/8 SC,AC,-,-,-,-,"Cloudy, haze"
+SIRI ISLAND,20/05/2023,03Z,29.0,81%,1006.8 Hpa,calm.,,6/8,2/8 CB,AC,-,-,31.4,28.4,"Cloudy, mist"
+SIRJAN,20/05/2023,21Z,18.4,53%,1004.8 Hpa,080º (E ),10.8,6/8,3/8 SC,-,CI,-,-,-,Cloudy
+SIRJAN,20/05/2023,18Z,21.4,42%,1006.0 Hpa,300º (NW),21.6,6/8,3/8 SC,-,CI,-,-,-,Cloudy
+SIRJAN,20/05/2023,15Z,24.6,32%,1005.6 Hpa,040º (NE),14.4,7/8,3/8 SC,AC,CI,0.2(24h),30.7,19.7,Cloudy
+SIRJAN,20/05/2023,12Z,30.2,19%,1002.8 Hpa,220º (SW),18.0,5/8,5/8 CB,-,CI,0.2(24h),-,-,Cloudy
+SIRJAN,20/05/2023,09Z,29.4,21%,1004.2 Hpa,200º (S ),14.4,4/8,4/8 SC,-,CI,0.2(24h),-,-,Scattered clouds
+SIRJAN,20/05/2023,06Z,27.0,26%,1005.5 Hpa,240º (SW),14.4,2/8,2/8 CU,-,-,-,-,-,Few clouds
+SIRJAN,20/05/2023,03Z,19.7,43%,1004.7 Hpa,110º (E ),14.4,7/8,2/8 SC,-,CI,0.2(24h),27.6,18.8,Cloudy
+SIRJAN,20/05/2023,00Z,19.7,44%,1003.8 Hpa,150º (SE),14.4,0/8,-,-,-,0.2(24h),-,-,Clear
+TABAS,20/05/2023,21Z,27.6,27%,1002.1 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+TABAS,20/05/2023,18Z,31.5,20%,1003.2 Hpa,calm.,,2/8,-,-,CI,-,-,-,Few clouds
+TABAS,20/05/2023,15Z,34.3,16%,1002.8 Hpa,300º (NW),10.8,6/8,6/8 CB,-,-,-,38.1,26.7,Cloudy
+TABAS,20/05/2023,12Z,35.8,15%,1002.6 Hpa,090º (E ),10.8,4/8,4/8 CB,-,CI,-,-,-,Scattered clouds
+TABAS,20/05/2023,09Z,38.0,13%,1003.3 Hpa,050º (NE),3.6,6/8,4/8 CB,AC,-,-,-,-,Cloudy
+TABAS,20/05/2023,06Z,33.1,15%,1005.2 Hpa,250º (W ),10.8,7/8,-,2/8 AC,CI,-,-,-,Cloudy
+TABAS,20/05/2023,03Z,29.3,16%,1005.4 Hpa,320º (NW),3.6,7/8,3/8 CB,AC,-,-,35.5,24.9,"Cloudy, haze"
+TABAS,20/05/2023,00Z,29.0,12%,1004.5 Hpa,080º (E ),7.2,3/8,-,-,CI,-,-,-,Scattered clouds
+TABRIZ,20/05/2023,21Z,13.2,73%,1010.0 Hpa,100º (E ),7.2,5/8,3/8 CB,AC,CI,6.2(24h),-,-,Cloudy
+TABRIZ,20/05/2023,18Z,14.4,64%,1012.2 Hpa,100º (E ),10.8,8/8,3/8 CB,AC,CS,0.2(6h),-,-,Overcast
+TABRIZ,20/05/2023,15Z,14.4,65%,1015.2 Hpa,210º (SW),10.8,8/8,4/8 CB,AC,CS,13.7(24h),19.6,11.8,"Overcast, rain showers"
+TABRIZ,20/05/2023,12Z,14.6,77%,1011.8 Hpa,010º (N),18.0,8/8,3/8 CB,AC,CS,0.7(6h),-,-,"Overcast, distant precipitation"
+TABRIZ,20/05/2023,09Z,19.6,59%,1009.7 Hpa,210º (SW),7.2,7/8,2/8 CB,AC,CS,13.2(24h),-,-,Cloudy
+TABRIZ,20/05/2023,06Z,11.6,96%,1015.6 Hpa,160º (S ),3.6,8/8,6/8 CB,AC,,5.0(6h),-,-,"Overcast, rain"
+TABRIZ,20/05/2023,03Z,12.4,91%,1012.0 Hpa,210º (SW),14.4,8/8,5/8 CB,AC,,9.2(24h),25.4,12.3,"Overcast, rain showers"
+TABRIZ,20/05/2023,00Z,15.0,63%,1008.3 Hpa,070º (E ),18.0,7/8,5/8 CB,AC,-,1.0(6h),-,-,Cloudy
+TEHRAN-MEHRABAD,20/05/2023,21Z,21.0,44%,1004.8 Hpa,290º (W ),7.2,7/8,4/8 CB,AC,-,-,-,-,"Cloudy, haze"
+TEHRAN-MEHRABAD,20/05/2023,18Z,29.2,14%,1001.8 Hpa,120º (SE),18.0,6/8,4/8 CB,AC,-,-,-,-,Cloudy
+TEHRAN-MEHRABAD,20/05/2023,15Z,31.4,10%,1001.3 Hpa,160º (S ),18.0,5/8,3/8 SC,AC,CI,-,33.0,23.3,Cloudy
+TEHRAN-MEHRABAD,20/05/2023,12Z,32.5,9%,1001.6 Hpa,150º (SE),18.0,6/8,3/8 CU,AC,CI,-,-,-,Cloudy
+TEHRAN-MEHRABAD,20/05/2023,09Z,30.6,12%,1003.0 Hpa,150º (SE),14.4,5/8,1/8 CU,-,CS,-,-,-,Cloudy
+TEHRAN-MEHRABAD,20/05/2023,06Z,29.6,12%,1004.2 Hpa,100º (E ),10.8,5/8,-,1/8 AC,CS,-,-,-,Cloudy
+TEHRAN-MEHRABAD,20/05/2023,03Z,23.3,20%,1004.8 Hpa,330º (NW),7.2,6/8,-,2/8 AC,CI,-,29.0,21.2,Cloudy
+TEHRAN-MEHRABAD,20/05/2023,00Z,22.6,22%,1004.4 Hpa,010º (N),7.2,3/8,-,1/8 AC,CI,-,-,-,Scattered clouds
+TORBAT-HEYDARIEH,20/05/2023,21Z,19.8,26%,1006.0 Hpa,calm.,,5/8,-,5/8 AC,-,Tr(24h),-,-,Cloudy
+TORBAT-HEYDARIEH,20/05/2023,18Z,23.5,22%,1007.0 Hpa,calm.,,6/8,1/8 SC,AC,-,Tr(6h),-,-,"Cloudy, haze"
+TORBAT-HEYDARIEH,20/05/2023,15Z,26.5,17%,1005.8 Hpa,060º (NE),21.6,7/8,3/8 SC,-,CS,-,30.2,22.7,"Cloudy, haze"
+TORBAT-HEYDARIEH,20/05/2023,12Z,28.6,14%,1005.3 Hpa,100º (E ),14.4,7/8,2/8 SC,-,CI,-,-,-,"Cloudy, haze"
+TORBAT-HEYDARIEH,20/05/2023,09Z,29.5,11%,1004.8 Hpa,180º (S ),18.0,8/8,1/8 CU,-,CS,-,-,-,"Overcast, haze"
+TORBAT-HEYDARIEH,20/05/2023,06Z,25.4,18%,1006.8 Hpa,060º (NE),10.8,8/8,-,-,CS,-,-,-,Overcast
+TORBAT-HEYDARIEH,20/05/2023,03Z,22.7,20%,1006.5 Hpa,050º (NE),18.0,6/8,-,-,CI,-,27.7,20.3,Cloudy
+TORBAT-HEYDARIEH,20/05/2023,00Z,21.0,21%,1005.8 Hpa,050º (NE),14.4,2/8,-,-,CI,-,-,-,Few clouds
+YASOGE,20/05/2023,21Z,15.6,75%,1009.3 Hpa,calm.,,5/8,2/8 SC,AC,-,-,-,-,Cloudy
+YASOGE,20/05/2023,18Z,16.4,69%,1011.1 Hpa,310º (NW),7.2,4/8,2/8 SC,AC,-,0.6(24h),-,-,Scattered clouds
+YASOGE,20/05/2023,15Z,19.4,47%,1012.8 Hpa,calm.,,6/8,3/8 CU,AC,-,1.8(24h),25.2,11.6,Cloudy
+YASOGE,20/05/2023,12Z,23.0,29%,1011.2 Hpa,210º (SW),14.4,8/8,3/8 CU,AC,,1.8(24h),-,-,Overcast
+YASOGE,20/05/2023,09Z,24.6,29%,1010.7 Hpa,160º (S ),10.8,3/8,3/8 CU,-,-,1.8(24h),-,-,Scattered clouds
+YASOGE,20/05/2023,06Z,18.5,57%,1013.5 Hpa,calm.,,2/8,1/8 CU,-,CI,1.8(24h),-,-,Few clouds
+YASOGE,20/05/2023,03Z,11.6,100%,1014.0 Hpa,calm.,,0/8,-,-,-,1.8(24h),22.0,10.0,Clear
+YASOGE,20/05/2023,00Z,13.0,95%,1010.2 Hpa,calm.,,5/8,3/8 SC,AC,-,0.6(6h),-,-,Cloudy
+YAZD,20/05/2023,21Z,25.0,29%,1003.4 Hpa,050º (NE),3.6,3/8,-,3/8 AC,-,-,-,-,Scattered clouds
+YAZD,20/05/2023,18Z,28.2,24%,1004.1 Hpa,230º (SW),10.8,2/8,2/8 SC,-,-,-,-,-,Few clouds
+YAZD,20/05/2023,15Z,31.3,18%,1002.9 Hpa,270º (W ),10.8,7/8,4/8 CB,-,CI,-,32.8,23.4,Cloudy
+YAZD,20/05/2023,12Z,32.1,18%,1002.9 Hpa,260º (W ),3.6,5/8,5/8 CU/SC,-,CI,-,-,-,Cloudy
+YAZD,20/05/2023,09Z,30.4,22%,1004.0 Hpa,300º (NW),10.8,6/8,5/8 CU,-,CI,-,-,-,Cloudy
+YAZD,20/05/2023,06Z,28.4,26%,1005.0 Hpa,020º (N),7.2,6/8,2/8 CU,AC,CI,-,-,-,Cloudy
+YAZD,20/05/2023,03Z,23.6,35%,1005.8 Hpa,090º (E ),3.6,7/8,3/8 SC,AC,-,-,30.4,23.5,Cloudy
+YAZD,20/05/2023,00Z,24.1,32%,1004.6 Hpa,210º (SW),3.6,3/8,1/8 SC,AC,-,-,-,-,Scattered clouds
+ZABOL,20/05/2023,21Z,27.4,15%,1002.2 Hpa,340º (N ),21.6,0/8,-,-,-,-,-,-,Clear
+ZABOL,20/05/2023,18Z,30.2,12%,1003.3 Hpa,330º (NW),14.4,0/8,-,-,-,-,-,-,Clear
+ZABOL,20/05/2023,15Z,36.6,10%,1002.6 Hpa,calm.,,5/8,-,2/8 AC,CS,-,43.2,26.8,Cloudy
+ZABOL,20/05/2023,12Z,40.7,7%,1002.9 Hpa,360º (N ),18.0,6/8,-,3/8 AC,CI,-,-,-,Cloudy
+ZABOL,20/05/2023,09Z,42.0,7%,1004.3 Hpa,050º (NE),10.8,5/8,-,-,CI,-,-,-,Cloudy
+ZABOL,20/05/2023,06Z,37.6,11%,1005.7 Hpa,340º (N ),32.4,5/8,-,-,CI,-,-,-,Cloudy
+ZABOL,20/05/2023,03Z,26.8,17%,1006.0 Hpa,330º (NW),14.4,3/8,-,-,CI,-,35.9,21.8,Scattered clouds
+ZABOL,20/05/2023,00Z,24.4,14%,1004.3 Hpa,340º (N ),14.4,0/8,-,-,-,-,-,-,Clear
+ZAHEDAN,20/05/2023,21Z,24.0,18%,1002.1 Hpa,140º (SE),7.2,0/8,-,-,-,-,-,-,Clear
+ZAHEDAN,20/05/2023,18Z,25.1,15%,1003.5 Hpa,160º (S ),7.2,1/8,1/8 SC,-,-,-,-,-,Few clouds
+ZAHEDAN,20/05/2023,15Z,32.0,11%,1002.1 Hpa,070º (E ),10.8,3/8,3/8 SC,-,-,-,36.9,25.3,Scattered clouds
+ZAHEDAN,20/05/2023,12Z,34.6,9%,1002.7 Hpa,060º (NE),21.6,5/8,3/8 CU,-,CI,-,-,-,Cloudy
+ZAHEDAN,20/05/2023,09Z,35.9,9%,1002.1 Hpa,220º (SW),25.2,3/8,2/8 CU,-,CI,-,-,-,"Scattered clouds, whirls"
+ZAHEDAN,20/05/2023,06Z,31.5,12%,1004.4 Hpa,020º (N),10.8,5/8,-,-,CI,-,-,-,Cloudy
+ZAHEDAN,20/05/2023,03Z,25.3,17%,1005.0 Hpa,calm.,,4/8,-,-,CI,-,30.7,17.8,Scattered clouds
+ZAHEDAN,20/05/2023,00Z,18.2,19%,1005.2 Hpa,190º (S ),10.8,0/8,-,-,-,-,-,-,Clear
+ZANJAN,20/05/2023,21Z,10.8,91%,1007.7 Hpa,150º (SE),3.6,8/8,8/8 CB,AC,,7.9(24h),-,-,"Overcast, rain showers"
+ZANJAN,20/05/2023,18Z,10.4,88%,1011.8 Hpa,200º (S ),7.2,8/8,8/8 CB,AC,,6.0(6h),-,-,"Overcast, rain showers"
+ZANJAN,20/05/2023,15Z,16.2,57%,1008.8 Hpa,280º (W ),18.0,8/8,8/8 CB,AC,,-,26.8,12.3,Overcast
+ZANJAN,20/05/2023,12Z,23.6,28%,1004.1 Hpa,190º (S ),7.2,7/8,3/8 CB,AC,CI,2.6(24h),-,-,Cloudy
+ZANJAN,20/05/2023,09Z,23.9,34%,1005.0 Hpa,060º (NE),3.6,6/8,3/8 CU,-,CI,2.6(24h),-,-,Cloudy
+ZANJAN,20/05/2023,06Z,19.0,45%,1007.9 Hpa,250º (W ),10.8,6/8,1/8 CU,AC,CI,2.6(24h),-,-,Cloudy
+ZANJAN,20/05/2023,03Z,12.2,69%,1008.0 Hpa,060º (NE),7.2,7/8,1/8 SC,AC,CI,2.6(24h),19.8,10.0,Cloudy
+ZANJAN,20/05/2023,00Z,12.0,69%,1007.0 Hpa,090º (E ),7.2,6/8,5/8 CB,-,CI,2.6(24h),-,-,Cloudy

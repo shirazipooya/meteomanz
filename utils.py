@@ -46,8 +46,8 @@ def windscribe(
     action="connect",
 ):
     command = f'"{windscribe_cli_path}" {action}'
-    os.system(command) 
-    
+    os.system(command)
+
 
 def find_start_date(scale):
     """

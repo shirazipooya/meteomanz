@@ -1,0 +1,614 @@
+Station ∆,Date,UTC time,Temp. (ºC),Rel. Hum. (%),Pressure/ Geopot.,Wind dir,Wins speed (Km/h),Clouds,Low clouds,Medium clouds,High clouds,Prec. (mm),Max temp. (ºC),Min temp. (ºC),Conditions
+ABADAN,13/06/2009,21Z,35.2,31%,1004.7 Hpa,calm.,,,-,-,-,-,-,-,dust
+ABADAN,13/06/2009,18Z,37.0,22%,1004.4 Hpa,calm.,,6/8,-,-,CI,-,-,-,"Cloudy, dust"
+ABADAN,13/06/2009,15Z,41.2,21%,1003.6 Hpa,180º (S ),14.4,6/8,-,1/8 AC,CI,-,45.0,-,"Cloudy, dust"
+ABADAN,13/06/2009,12Z,44.0,18%,1003.6 Hpa,calm.,,6/8,2/8 SC,AC,-,-,-,-,"Cloudy, dust"
+ABADAN,13/06/2009,09Z,42.6,18%,1004.5 Hpa,180º (S ),18.0,7/8,2/8 SC,AC,-,-,-,-,"Cloudy, dust"
+ABADAN,13/06/2009,06Z,37.4,38%,1005.4 Hpa,200º (S ),7.2,6/8,-,-,CI,-,-,-,"Cloudy, dust"
+ABADAN,13/06/2009,03Z,41.2,15%,1001.3 Hpa,220º (SW),14.4,8/8,5/8 CB,AC,,-,47.6,-,"Overcast, dust"
+ABADAN,13/06/2009,00Z,34.6,21%,1002.0 Hpa,320º (NW),14.4,0/8,-,-,-,-,-,-,Clear
+ABADEH,13/06/2009,21Z,20.2,23%,1005.6 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+ABADEH,13/06/2009,18Z,24.4,17%,1005.4 Hpa,calm.,,4/8,4/8 SC,-,-,-,-,-,Scattered clouds
+ABADEH,13/06/2009,15Z,26.6,16%,1006.1 Hpa,320º (NW),7.2,5/8,5/8 CB,-,-,-,30.2,-,Cloudy
+ABADEH,13/06/2009,12Z,27.6,13%,1005.7 Hpa,200º (S ),21.6,7/8,5/8 CB,-,CI,-,-,-,Cloudy
+ABADEH,13/06/2009,09Z,29.0,4%,1006.1 Hpa,140º (SE),21.6,4/8,1/8 CU,-,CI,-,-,-,Scattered clouds
+ABADEH,13/06/2009,06Z,24.2,21%,1005.7 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+ABADEH,13/06/2009,03Z,15.4,32%,1007.8 Hpa,300º (NW),10.8,0/8,-,-,-,-,-,14.0,Clear
+ABADEH,13/06/2009,00Z,17.0,27%,1005.2 Hpa,270º (W ),7.2,0/8,-,-,-,-,-,-,Clear
+ABU MUSA,13/06/2009,15Z,33.0,69%,1003.2 Hpa,300º (NW),10.8,0/8,-,-,-,-,36.0,-,"Clear, haze"
+ABU MUSA,13/06/2009,12Z,35.4,73%,1003.4 Hpa,300º (NW),10.8,0/8,-,-,-,-,-,-,"Clear, haze"
+ABU MUSA,13/06/2009,09Z,34.4,55%,1004.8 Hpa,220º (SW),10.8,0/8,-,-,-,-,-,-,"Clear, haze"
+ABU MUSA,13/06/2009,06Z,33.0,84%,1004.9 Hpa,190º (S ),7.2,0/8,-,-,-,-,-,-,"Clear, haze"
+ABU MUSA,13/06/2009,03Z,30.6,85%,1003.2 Hpa,180º (S ),10.8,0/8,-,-,-,-,-,28.6,"Clear, mist"
+AHAR,13/06/2009,21Z,18.8,60%,1010.4 Hpa,270º (W ),25.2,7/8,5/8 CB,AC,-,-,-,-,"Cloudy, distant precipitation"
+AHAR,13/06/2009,18Z,20.8,36%,1010.5 Hpa,030º (NE),36.0,8/8,7/8 CB,AC,,Tr(6h),-,-,"Overcast, rain showers"
+AHAR,13/06/2009,15Z,21.6,39%,1011.1 Hpa,100º (E ),36.0,8/8,5/8 CB,AC,,-,29.6,-,"Overcast, distant precipitation"
+AHAR,13/06/2009,12Z,27.0,25%,1007.5 Hpa,150º (SE),18.0,7/8,5/8 CB,AC,CI,-,-,-,"Cloudy, thunderstorm no precipitation"
+AHAR,13/06/2009,09Z,27.6,29%,1007.3 Hpa,070º (E ),14.4,1/8,1/8 CU,-,-,-,-,-,Few clouds
+AHAR,13/06/2009,06Z,22.2,39%,1010.2 Hpa,140º (SE),7.2,1/8,-,-,CI,-,-,-,Few clouds
+AHAR,13/06/2009,03Z,14.6,69%,1011.4 Hpa,calm.,,0/8,-,-,-,-,-,13.6,Clear
+AHAR,13/06/2009,00Z,17.0,59%,1009.4 Hpa,calm.,,1/8,1/8 SC,-,-,-,-,-,Few clouds
+AHWAZ,13/06/2009,21Z,39.0,16%,1003.6 Hpa,330º (NW),18.0,4/8,-,-,CI,-,-,-,"Scattered clouds, dust"
+AHWAZ,13/06/2009,18Z,40.8,15%,1003.5 Hpa,240º (SW),14.4,2/8,2/8 SC,-,-,-,-,-,"Few clouds, dust"
+AHWAZ,13/06/2009,15Z,44.8,10%,1002.4 Hpa,230º (SW),7.2,6/8,3/8 SC,-,CI,-,47.4,-,"Cloudy, dust"
+AHWAZ,13/06/2009,12Z,47.2,9%,1002.8 Hpa,240º (SW),10.8,2/8,2/8 CU,-,-,-,-,-,"Few clouds, dust"
+AHWAZ,13/06/2009,09Z,44.6,10%,1004.3 Hpa,180º (S ),10.8,6/8,4/8 CU/SC,-,CI,-,-,-,"Cloudy, dust"
+AHWAZ,13/06/2009,06Z,40.2,15%,1004.5 Hpa,170º (S ),3.6,5/8,2/8 SC,-,CI,-,-,-,"Cloudy, dust"
+AHWAZ,13/06/2009,03Z,32.8,22%,1003.8 Hpa,110º (E ),3.6,3/8,1/8 SC,AC,-,-,-,32.2,"Scattered clouds, dust"
+AHWAZ,13/06/2009,00Z,32.4,24%,1002.6 Hpa,calm.,,3/8,-,-,CI,-,-,-,"Scattered clouds, dust"
+ALI-GOODARZ,13/06/2009,21Z,16.0,32%,1007.5 Hpa,150º (SE),14.4,0/8,-,-,-,-,-,-,Clear
+ALI-GOODARZ,13/06/2009,18Z,22.0,22%,1006.3 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, dust"
+ALI-GOODARZ,13/06/2009,15Z,27.8,15%,1006.4 Hpa,250º (W ),18.0,2/8,2/8 SC,-,-,-,31.0,-,"Few clouds, dust"
+ALI-GOODARZ,13/06/2009,12Z,29.4,14%,1005.8 Hpa,270º (W ),25.2,3/8,3/8 SC,-,-,-,-,-,"Scattered clouds, dust"
+ALI-GOODARZ,13/06/2009,09Z,28.8,16%,1005.8 Hpa,270º (W ),25.2,4/8,4/8 CU,-,-,-,-,-,"Scattered clouds, dust"
+ALI-GOODARZ,13/06/2009,06Z,24.8,19%,1006.7 Hpa,120º (SE),25.2,3/8,-,3/8 AC,-,-,-,-,"Scattered clouds, dust"
+ALI-GOODARZ,13/06/2009,03Z,11.4,45%,1008.3 Hpa,140º (SE),21.6,2/8,-,2/8 AC,-,-,-,12.8,Few clouds
+ALI-GOODARZ,13/06/2009,00Z,13.2,39%,1007.6 Hpa,120º (SE),21.6,0/8,-,-,-,-,-,-,Clear
+ANZALI,13/06/2009,21Z,24.6,89%,1010.2 Hpa,150º (SE),7.2,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+ANZALI,13/06/2009,18Z,25.4,85%,1012.6 Hpa,calm.,,6/8,4/8 CU,AC,-,-,-,-,Cloudy
+ANZALI,13/06/2009,15Z,25.2,88%,1011.0 Hpa,080º (E ),18.0,5/8,2/8 CU,-,CI,-,27.4,-,Cloudy
+ANZALI,13/06/2009,12Z,25.8,70%,1011.9 Hpa,060º (NE),18.0,6/8,2/8 CU,-,CI,-,-,-,Cloudy
+ANZALI,13/06/2009,09Z,26.4,81%,1012.4 Hpa,030º (NE),10.8,6/8,4/8 SC,AC,-,-,-,-,Cloudy
+ANZALI,13/06/2009,06Z,25.0,19%,1012.8 Hpa,080º (E ),10.8,6/8,4/8 SC,AC,-,-,-,-,Cloudy
+ANZALI,13/06/2009,03Z,23.0,87%,1012.1 Hpa,calm.,,5/8,3/8 CU,AC,-,-,-,21.4,Cloudy
+ANZALI,13/06/2009,00Z,21.4,92%,1012.7 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+ARAK,13/06/2009,21Z,20.0,37%,1006.7 Hpa,300º (NW),18.0,0/8,-,-,-,-,-,-,"Clear, haze"
+ARAK,13/06/2009,18Z,23.6,30%,1006.7 Hpa,050º (NE),7.2,1/8,1/8 SC,-,-,-,-,-,"Few clouds, haze"
+ARAK,13/06/2009,15Z,28.4,23%,1005.4 Hpa,070º (E ),18.0,1/8,1/8 CU,-,-,-,34.2,-,"Few clouds, haze"
+ARAK,13/06/2009,12Z,32.4,12%,1003.0 Hpa,260º (W ),18.0,3/8,3/8 CU,-,-,-,-,-,"Scattered clouds, haze"
+ARAK,13/06/2009,09Z,31.2,19%,1003.9 Hpa,360º (N ),18.0,4/8,4/8 CU,-,-,-,-,-,"Scattered clouds, haze"
+ARAK,13/06/2009,06Z,25.4,30%,1006.8 Hpa,050º (NE),10.8,1/8,-,1/8 AC,-,-,-,-,"Few clouds, haze"
+ARAK,13/06/2009,03Z,27.0,20%,1005.9 Hpa,040º (NE),18.0,5/8,5/8 CB,-,-,-,31.4,-,"Cloudy, haze"
+ARAK,13/06/2009,00Z,17.2,45%,1007.1 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+ARDEBIL,13/06/2009,21Z,15.6,65%,1009.3 Hpa,calm.,,7/8,4/8 CB,-,CI,-,-,-,Cloudy
+ARDEBIL,13/06/2009,18Z,19.0,53%,1010.9 Hpa,240º (SW),25.2,7/8,4/8 CB,-,CI,Tr(6h),-,-,"Cloudy, rain showers"
+ARDEBIL,13/06/2009,15Z,20.2,46%,1013.9 Hpa,360º (N ),25.2,7/8,3/8 CB,-,CI,-,27.4,-,"Cloudy, rain showers"
+ARDEBIL,13/06/2009,12Z,24.4,53%,1007.9 Hpa,090º (E ),43.2,6/8,4/8 CB,AC,-,-,-,-,Cloudy
+ARDEBIL,13/06/2009,09Z,27.2,39%,1007.9 Hpa,120º (SE),32.4,2/8,2/8 CU,-,-,-,-,-,Few clouds
+ARDEBIL,13/06/2009,06Z,23.2,50%,1009.7 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+ARDEBIL,13/06/2009,03Z,10.8,90%,1013.5 Hpa,calm.,,2/8,2/8 SC,-,-,-,-,10.0,Few clouds
+ARDEBIL,13/06/2009,00Z,13.4,87%,1011.4 Hpa,calm.,,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+BABULSAR,13/06/2009,21Z,25.4,83%,1011.6 Hpa,300º (NW),7.2,0/8,-,-,-,-,-,-,Clear
+BABULSAR,13/06/2009,18Z,25.0,81%,1010.4 Hpa,060º (NE),21.6,8/8,-,-,CS,-,-,-,Overcast
+BABULSAR,13/06/2009,15Z,27.8,78%,1010.0 Hpa,090º (E ),25.2,8/8,-,-,CS,-,28.6,-,Overcast
+BABULSAR,13/06/2009,12Z,28.2,70%,1010.4 Hpa,050º (NE),10.8,0/8,-,-,-,-,-,-,Clear
+BABULSAR,13/06/2009,09Z,28.0,69%,1012.1 Hpa,020º (N),14.4,0/8,-,-,-,-,-,-,Clear
+BABULSAR,13/06/2009,06Z,27.6,72%,1012.5 Hpa,360º (N ),10.8,0/8,-,-,-,-,-,-,Clear
+BABULSAR,13/06/2009,03Z,25.8,70%,1011.7 Hpa,calm.,,7/8,2/8 SC,AC,-,-,28.5,-,Cloudy
+BABULSAR,13/06/2009,00Z,23.0,87%,1012.4 Hpa,calm.,,6/8,-,-,CI,-,-,-,Cloudy
+BAFT,13/06/2009,21Z,21.2,24%,1003.2 Hpa,060º (NE),10.8,0/8,-,-,-,-,-,-,Clear
+BAFT,13/06/2009,18Z,22.6,19%,1001.7 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BAFT,13/06/2009,15Z,26.2,19%,1002.0 Hpa,calm.,,5/8,5/8 CU,-,CI,-,30.4,-,Cloudy
+BAFT,13/06/2009,12Z,29.6,11%,1001.3 Hpa,330º (NW),21.6,6/8,6/8 CB,-,-,-,-,-,Cloudy
+BAFT,13/06/2009,09Z,28.6,12%,1002.4 Hpa,300º (NW),18.0,4/8,4/8 CU,-,-,-,-,-,Scattered clouds
+BAFT,13/06/2009,06Z,26.0,20%,1003.5 Hpa,090º (E ),10.8,1/8,1/8 CU,-,-,-,-,-,Few clouds
+BAFT,13/06/2009,03Z,21.0,26%,1003.2 Hpa,calm.,,0/8,-,-,-,-,-,17.0,Clear
+BAFT,13/06/2009,00Z,18.6,27%,1002.0 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BAM,13/06/2009,21Z,29.4,21%,1002.0 Hpa,270º (W ),14.4,0/8,-,-,-,-,-,-,Clear
+BAM,13/06/2009,18Z,31.6,17%,1002.2 Hpa,290º (W ),18.0,1/8,-,-,CI,-,-,-,Few clouds
+BAM,13/06/2009,15Z,33.4,16%,1001.8 Hpa,290º (W ),18.0,4/8,2/8 SC,-,CI,-,38.2,-,Scattered clouds
+BAM,13/06/2009,12Z,36.4,13%,1001.7 Hpa,230º (SW),14.4,6/8,4/8 CB,AC,CI,-,-,-,Cloudy
+BAM,13/06/2009,09Z,37.0,12%,1001.9 Hpa,350º (N ),14.4,5/8,4/8 CB,-,CI,-,-,-,Cloudy
+BAM,13/06/2009,06Z,35.0,14%,1003.3 Hpa,360º (N ),18.0,0/8,-,-,-,-,-,-,Clear
+BAM,13/06/2009,03Z,29.8,19%,1003.3 Hpa,290º (W ),10.8,0/8,-,-,-,-,-,28.0,Clear
+BAM,13/06/2009,00Z,28.6,24%,1001.4 Hpa,270º (W ),7.2,1/8,-,1/8 AC,-,-,-,-,Few clouds
+BANDAR LENGEH,13/06/2009,21Z,30.4,38%,1003.4 Hpa,120º (SE),10.8,0/8,-,-,-,-,-,-,"Clear, haze"
+BANDAR LENGEH,13/06/2009,18Z,32.4,47%,1003.8 Hpa,280º (W ),14.4,0/8,-,-,-,-,-,-,"Clear, haze"
+BANDAR LENGEH,13/06/2009,15Z,34.2,49%,1003.3 Hpa,260º (W ),21.6,0/8,-,-,-,-,39.0,-,"Clear, haze"
+BANDAR LENGEH,13/06/2009,12Z,34.4,136%,1003.6 Hpa,210º (SW),21.6,0/8,-,-,-,-,-,-,"Clear, haze"
+BANDAR LENGEH,13/06/2009,09Z,38.0,31%,1004.9 Hpa,160º (S ),18.0,0/8,-,-,-,-,-,-,"Clear, haze"
+BANDAR LENGEH,13/06/2009,06Z,35.4,214%,1005.3 Hpa,120º (SE),10.8,0/8,-,-,-,-,-,-,"Clear, haze"
+BANDAR LENGEH,13/06/2009,03Z,31.0,72%,1004.0 Hpa,170º (S ),10.8,0/8,-,-,-,-,-,27.8,"Clear, haze"
+BANDAR LENGEH,13/06/2009,00Z,30.8,81%,1002.0 Hpa,120º (SE),10.8,0/8,-,-,-,-,-,-,"Clear, mist"
+BANDAR-E-DAYYER,13/06/2009,21Z,30.0,79%,1004.4 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, mist"
+BANDAR-E-DAYYER,13/06/2009,18Z,30.2,14%,1005.1 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, mist"
+BANDAR-E-DAYYER,13/06/2009,15Z,31.6,83%,1004.1 Hpa,calm.,,0/8,-,-,-,-,33.6,-,"Clear, mist"
+BANDAR-E-DAYYER,13/06/2009,12Z,32.8,86%,1004.2 Hpa,160º (S ),18.0,0/8,-,-,-,-,-,-,"Clear, dust"
+BANDAR-E-DAYYER,13/06/2009,09Z,33.6,55%,1004.7 Hpa,180º (S ),7.2,0/8,-,-,-,-,-,-,"Clear, haze"
+BANDAR-E-DAYYER,13/06/2009,06Z,31.2,13%,1004.9 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, haze"
+BANDAR-E-DAYYER,13/06/2009,03Z,28.0,65%,1003.5 Hpa,calm.,,0/8,-,-,-,-,-,26.6,"Clear, haze"
+BANDAR-E-DAYYER,13/06/2009,00Z,27.0,17%,1002.7 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, haze"
+BANDARABBASS,13/06/2009,21Z,29.5,80%,1004.2 Hpa,030º (NE),10.8,0/8,-,-,-,-,-,-,"Clear, mist"
+BANDARABBASS,13/06/2009,18Z,31.7,77%,1004.2 Hpa,180º (S ),18.0,0/8,-,-,-,-,-,-,"Clear, haze"
+BANDARABBASS,13/06/2009,15Z,34.1,62%,1002.5 Hpa,210º (SW),14.4,0/8,-,-,-,-,40.7,-,"Clear, haze"
+BANDARABBASS,13/06/2009,12Z,37.5,44%,1002.9 Hpa,190º (S ),21.6,0/8,-,-,-,-,-,-,"Clear, haze"
+BANDARABBASS,13/06/2009,09Z,39.4,30%,1004.7 Hpa,180º (S ),18.0,0/8,-,-,-,-,-,-,"Clear, haze"
+BANDARABBASS,13/06/2009,06Z,36.6,46%,1005.6 Hpa,110º (E ),7.2,0/8,-,-,-,-,-,-,"Clear, haze"
+BANDARABBASS,13/06/2009,03Z,30.4,67%,1004.6 Hpa,020º (N),7.2,0/8,-,-,-,-,-,28.6,"Clear, haze"
+BANDARABBASS,13/06/2009,00Z,29.3,75%,1003.3 Hpa,010º (N),10.8,0/8,-,-,-,-,-,-,"Clear, haze"
+BIRJAND,13/06/2009,21Z,20.8,36%,1006.5 Hpa,090º (E ),7.2,3/8,-,-,CI,-,-,-,Scattered clouds
+BIRJAND,13/06/2009,18Z,23.4,32%,1006.9 Hpa,040º (NE),10.8,0/8,-,-,-,-,-,-,Clear
+BIRJAND,13/06/2009,15Z,28.2,24%,1005.6 Hpa,340º (N ),10.8,1/8,1/8 SC,-,-,-,32.2,-,Few clouds
+BIRJAND,13/06/2009,12Z,31.2,18%,1004.7 Hpa,300º (NW),21.6,5/8,4/8 CU,AC,-,-,-,-,Cloudy
+BIRJAND,13/06/2009,09Z,30.4,20%,1005.6 Hpa,280º (W ),14.4,5/8,3/8 CU,AC,-,-,-,-,Cloudy
+BIRJAND,13/06/2009,06Z,27.0,29%,1006.8 Hpa,170º (S ),7.2,1/8,-,1/8 AC,-,-,-,-,Few clouds
+BIRJAND,13/06/2009,03Z,29.4,19%,1002.6 Hpa,310º (NW),14.4,1/8,1/8 SC,-,CI,-,32.4,-,Few clouds
+BIRJAND,13/06/2009,00Z,17.2,40%,1006.3 Hpa,090º (E ),7.2,0/8,-,-,-,-,-,-,Clear
+BOJNOURD,13/06/2009,21Z,16.6,82%,1011.8 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BOJNOURD,13/06/2009,18Z,19.8,80%,1012.1 Hpa,270º (W ),10.8,0/8,-,-,-,-,-,-,Clear
+BOJNOURD,13/06/2009,15Z,28.0,75%,1009.9 Hpa,calm.,,2/8,1/8 SC,-,CI,-,29.4,-,Few clouds
+BOJNOURD,13/06/2009,12Z,28.4,74%,1010.7 Hpa,090º (E ),7.2,6/8,2/8 CB,AC,-,-,-,-,Cloudy
+BOJNOURD,13/06/2009,09Z,29.4,65%,1010.5 Hpa,090º (E ),7.2,5/8,5/8 CB,-,-,-,-,-,Cloudy
+BOJNOURD,13/06/2009,06Z,25.0,57%,1012.6 Hpa,calm.,,1/8,1/8 CU,-,-,3.4(24h),-,-,"Few clouds, haze"
+BOJNOURD,13/06/2009,03Z,17.8,74%,1012.6 Hpa,calm.,,0/8,-,-,-,-,-,13.0,"Clear, haze"
+BOJNOURD,13/06/2009,00Z,14.8,81%,1012.8 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BUSHEHR,13/06/2009,21Z,31.8,67%,1004.5 Hpa,190º (S ),7.2,0/8,-,-,-,-,-,-,"Clear, dust"
+BUSHEHR,13/06/2009,18Z,33.2,145%,1004.8 Hpa,120º (SE),7.2,3/8,-,-,CI,-,-,-,"Scattered clouds, dust"
+BUSHEHR,13/06/2009,15Z,33.2,61%,1003.3 Hpa,280º (W ),18.0,4/8,-,-,CI,-,37.0,-,Scattered clouds
+BUSHEHR,13/06/2009,12Z,34.4,11%,1004.2 Hpa,290º (W ),14.4,0/8,-,-,-,-,-,-,Clear
+BUSHEHR,13/06/2009,09Z,34.6,67%,1005.2 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BUSHEHR,13/06/2009,06Z,35.0,10%,1005.0 Hpa,calm.,,2/8,-,-,CI,-,-,-,Few clouds
+BUSHEHR,13/06/2009,03Z,31.0,34%,1003.8 Hpa,calm.,,2/8,-,-,CI,-,-,30.6,"Few clouds, haze"
+BUSHEHR,13/06/2009,00Z,30.8,13%,1002.5 Hpa,120º (SE),14.4,3/8,-,-,CI,-,-,-,Scattered clouds
+BUSHEHR (AIRPORT),13/06/2009,21Z,31.6,48%,1004.4 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, haze"
+BUSHEHR (AIRPORT),13/06/2009,18Z,34.4,49%,1004.6 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, haze"
+BUSHEHR (AIRPORT),13/06/2009,15Z,33.8,53%,1003.4 Hpa,310º (NW),14.4,2/8,-,-,CI,-,39.0,-,Few clouds
+BUSHEHR (AIRPORT),13/06/2009,12Z,35.4,60%,1003.9 Hpa,260º (W ),14.4,0/8,-,-,-,-,-,-,Clear
+BUSHEHR (AIRPORT),13/06/2009,09Z,35.4,55%,1005.3 Hpa,240º (SW),14.4,0/8,-,-,-,-,-,-,Clear
+BUSHEHR (AIRPORT),13/06/2009,06Z,33.6,46%,1005.0 Hpa,350º (N ),7.2,0/8,-,-,-,-,-,-,Clear
+BUSHEHR (AIRPORT),13/06/2009,03Z,29.6,43%,1003.3 Hpa,calm.,,0/8,-,-,CI,-,-,29.0,"Clear, dust"
+BUSHEHR (AIRPORT),13/06/2009,00Z,31.4,31%,1002.4 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+CHAHBAHAR,13/06/2009,21Z,32.2,84%,1003.9 Hpa,120º (SE),14.4,0/8,0/8 CB,AC,CC,-,60.1,-,"Clear, mist"
+CHAHBAHAR,13/06/2009,18Z,32.6,79%,1003.2 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, haze"
+CHAHBAHAR,13/06/2009,15Z,33.0,78%,1001.8 Hpa,240º (SW),10.8,0/8,0/8 CB,AC,CI,-,70.2,-,"Clear, haze"
+CHAHBAHAR,13/06/2009,12Z,33.3,80%,1003.2 Hpa,200º (S ),14.4,0/8,0/8 CB,AC,CI,-,70.2,-,"Clear, mist"
+CHAHBAHAR,13/06/2009,09Z,33.4,81%,1003.8 Hpa,200º (S ),18.0,0/8,0/8 CB,AC,CI,-,70.2,-,"Clear, mist"
+CHAHBAHAR,13/06/2009,06Z,32.8,81%,1004.2 Hpa,180º (S ),7.2,0/8,0/8 CB,AC,CI,-,70.1,-,"Clear, mist"
+CHAHBAHAR,13/06/2009,03Z,32.0,79%,1003.8 Hpa,calm.,,0/8,0/8 CB,AC,CC,-,50.1,-,"Clear, haze"
+CHAHBAHAR,13/06/2009,00Z,30.0,91%,1002.7 Hpa,calm.,,0/8,0/8 CB,AC,CS,-,70.1,-,"Clear, mist"
+ESFAHAN,13/06/2009,21Z,22.2,31%,1006.9 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+ESFAHAN,13/06/2009,18Z,25.4,26%,1006.9 Hpa,080º (E ),7.2,0/8,-,-,-,-,-,-,Clear
+ESFAHAN,13/06/2009,15Z,27.8,23%,1005.7 Hpa,calm.,,3/8,3/8 CU,-,-,-,33.8,-,Scattered clouds
+ESFAHAN,13/06/2009,12Z,29.4,17%,1004.5 Hpa,270º (W ),21.6,7/8,1/8 CB,AC,-,Tr(6h),-,-,"Cloudy, rain showers"
+ESFAHAN,13/06/2009,09Z,31.6,18%,1004.9 Hpa,010º (N),10.8,0/8,-,-,-,-,-,-,"Clear, dust"
+ESFAHAN,13/06/2009,06Z,26.2,27%,1007.0 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, dust"
+ESFAHAN,13/06/2009,03Z,19.6,40%,1007.2 Hpa,calm.,,0/8,-,-,-,-,-,17.4,"Clear, dust"
+ESFAHAN,13/06/2009,00Z,19.8,33%,1005.4 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+FASA,13/06/2009,21Z,25.2,23%,1000.1 Hpa,340º (N ),18.0,0/8,-,-,-,-,-,-,"Clear, dust"
+FASA,13/06/2009,18Z,29.0,21%,1000.1 Hpa,calm.,,1/8,1/8 SC,-,-,-,-,-,"Few clouds, dust"
+FASA,13/06/2009,15Z,36.2,14%,1000.4 Hpa,310º (NW),7.2,1/8,1/8 CU,-,-,-,39.0,-,"Few clouds, dust"
+FASA,13/06/2009,12Z,38.2,11%,1000.3 Hpa,270º (W ),10.8,0/8,-,-,-,-,-,-,"Clear, dust"
+FASA,13/06/2009,09Z,36.0,13%,1002.8 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, dust"
+FASA,13/06/2009,06Z,33.0,18%,1003.3 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, dust"
+FASA,13/06/2009,03Z,18.6,33%,1003.3 Hpa,calm.,,0/8,-,-,-,-,-,16.8,"Clear, dust"
+FASA,13/06/2009,00Z,17.8,32%,1001.9 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, dust"
+FERDOUS,13/06/2009,21Z,23.0,33%,1008.1 Hpa,360º (N ),10.8,1/8,-,-,CI,-,-,-,Few clouds
+FERDOUS,13/06/2009,18Z,25.0,30%,1008.1 Hpa,090º (E ),10.8,2/8,1/8 SC,-,CI,-,-,-,Few clouds
+FERDOUS,13/06/2009,15Z,30.4,23%,-,330º (NW),18.0,3/8,3/8 SC,-,-,-,33.4,-,Scattered clouds
+FERDOUS,13/06/2009,12Z,31.2,17%,1005.6 Hpa,330º (NW),25.2,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+FERDOUS,13/06/2009,09Z,30.8,17%,1006.6 Hpa,280º (W ),21.6,2/8,2/8 SC,-,-,-,-,-,Few clouds
+FERDOUS,13/06/2009,06Z,27.8,27%,1008.3 Hpa,170º (S ),7.2,3/8,1/8 SC,AC,-,-,-,-,Scattered clouds
+FERDOUS,13/06/2009,03Z,23.0,32%,1007.2 Hpa,030º (NE),7.2,3/8,2/8 SC,-,CI,-,-,20.0,Scattered clouds
+FERDOUS,13/06/2009,00Z,22.0,33%,1004.2 Hpa,030º (NE),10.8,4/8,3/8 SC,AC,-,-,-,-,Scattered clouds
+GACH SARAN DU GUNBADAN,13/06/2009,21Z,32.4,22%,1001.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+GACH SARAN DU GUNBADAN,13/06/2009,18Z,33.8,17%,1001.9 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+GACH SARAN DU GUNBADAN,13/06/2009,15Z,38.2,15%,1001.0 Hpa,270º (W ),18.0,0/8,-,-,-,-,40.8,-,Clear
+GACH SARAN DU GUNBADAN,13/06/2009,12Z,41.2,10%,1000.1 Hpa,290º (W ),21.6,0/8,-,-,-,-,-,-,Clear
+GACH SARAN DU GUNBADAN,13/06/2009,09Z,41.0,22%,1000.9 Hpa,330º (NW),14.4,0/8,-,-,-,-,-,-,Clear
+GACH SARAN DU GUNBADAN,13/06/2009,06Z,36.0,15%,1002.6 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+GACH SARAN DU GUNBADAN,13/06/2009,03Z,26.4,24%,1002.1 Hpa,calm.,,0/8,-,-,-,-,-,26.4,Clear
+GACH SARAN DU GUNBADAN,13/06/2009,00Z,29.0,19%,1000.1 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+GHARAKHIL,13/06/2009,21Z,23.4,92%,1012.2 Hpa,300º (NW),10.8,3/8,-,-,CI,-,-,-,Scattered clouds
+GHARAKHIL,13/06/2009,18Z,24.4,86%,1010.9 Hpa,calm.,,7/8,-,4/8 AC,CS,-,-,-,Cloudy
+GHARAKHIL,13/06/2009,15Z,26.8,74%,1010.3 Hpa,060º (NE),10.8,7/8,-,3/8 AC,CS,-,31.4,-,Cloudy
+GHARAKHIL,13/06/2009,12Z,30.0,67%,1010.7 Hpa,330º (NW),14.4,5/8,-,-,CI,-,-,-,Cloudy
+GHARAKHIL,13/06/2009,09Z,30.2,65%,1011.5 Hpa,040º (NE),10.8,0/8,-,-,-,-,-,-,Clear
+GHARAKHIL,13/06/2009,06Z,27.6,63%,1011.7 Hpa,030º (NE),7.2,0/8,-,-,-,-,-,-,Clear
+GHARAKHIL,13/06/2009,03Z,21.6,85%,1012.0 Hpa,180º (S ),7.2,1/8,-,1/8 AC,-,-,-,20.2,Few clouds
+GHARAKHIL,13/06/2009,00Z,21.6,98%,1011.9 Hpa,210º (SW),7.2,3/8,-,1/8 AC,CI,-,-,-,Scattered clouds
+GHAZVIN,13/06/2009,21Z,17.2,51%,1011.3 Hpa,330º (NW),7.2,4/8,-,4/8 AC,-,-,-,-,Scattered clouds
+GHAZVIN,13/06/2009,18Z,18.8,51%,1011.0 Hpa,270º (W ),7.2,6/8,-,6/8 AC,-,Tr(6h),-,-,Cloudy
+GHAZVIN,13/06/2009,15Z,23.0,36%,1011.8 Hpa,120º (SE),14.4,8/8,4/8 CB,AC,,-,30.0,-,Overcast
+GHAZVIN,13/06/2009,12Z,30.0,22%,1007.7 Hpa,330º (NW),7.2,6/8,-,6/8 AC,-,-,-,-,Cloudy
+GHAZVIN,13/06/2009,09Z,26.0,36%,1009.2 Hpa,150º (SE),7.2,8/8,5/8 CB,AC,,-,-,-,Overcast
+GHAZVIN,13/06/2009,06Z,26.0,33%,1010.1 Hpa,180º (S ),10.8,4/8,-,-,CI,0.3(24h),-,-,Scattered clouds
+GHAZVIN,13/06/2009,03Z,16.6,52%,1011.6 Hpa,calm.,,1/8,-,1/8 AC,-,-,-,13.6,Few clouds
+GHAZVIN,13/06/2009,00Z,15.6,55%,1009.4 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+GHUCHAN,13/06/2009,21Z,12.4,73%,1012.8 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+GHUCHAN,13/06/2009,18Z,15.0,81%,1010.7 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+GHUCHAN,13/06/2009,15Z,23.2,62%,1009.4 Hpa,calm.,,4/8,1/8 SC,-,CI,-,28.4,-,Scattered clouds
+GHUCHAN,13/06/2009,12Z,24.6,39%,1011.4 Hpa,calm.,,7/8,7/8 CU/SC,-,-,5.0(6h),-,-,Cloudy
+GHUCHAN,13/06/2009,09Z,20.0,53%,1011.7 Hpa,240º (SW),14.4,6/8,6/8 CB,-,-,-,-,-,"Cloudy, rain showers"
+GHUCHAN,13/06/2009,06Z,25.0,36%,1010.2 Hpa,300º (NW),14.4,1/8,1/8 CU,-,-,-,-,-,Few clouds
+GHUCHAN,13/06/2009,03Z,16.4,69%,1010.6 Hpa,calm.,,1/8,-,-,CI,-,-,9.0,Few clouds
+GHUCHAN,13/06/2009,00Z,10.0,80%,1011.4 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+HAMEDAN,13/06/2009,21Z,12.9,62%,1009.7 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+HAMEDAN,13/06/2009,18Z,15.3,62%,1012.2 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+HAMEDAN,13/06/2009,15Z,27.3,22%,1006.7 Hpa,090º (E ),25.2,2/8,2/8 SC,-,-,-,31.7,-,"Few clouds, dust"
+HAMEDAN,13/06/2009,12Z,30.3,14%,1004.7 Hpa,260º (W ),25.2,2/8,2/8 CU/SC,-,-,-,-,-,"Few clouds, dust"
+HAMEDAN,13/06/2009,09Z,30.2,29%,1004.2 Hpa,calm.,,4/8,1/8 SC,AC,-,-,-,-,Scattered clouds
+HAMEDAN,13/06/2009,06Z,20.0,48%,1008.4 Hpa,calm.,,4/8,1/8 SC,AC,-,-,-,-,Scattered clouds
+HAMEDAN,13/06/2009,03Z,25.8,21%,1007.0 Hpa,360º (N ),7.2,6/8,3/8 SC,-,CI,-,30.3,-,"Cloudy, haze"
+HAMEDAN,13/06/2009,00Z,11.7,67%,1010.1 Hpa,calm.,,2/8,2/8 SC,-,-,-,-,-,Few clouds
+ILAM,13/06/2009,21Z,25.2,24%,1004.5 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+ILAM,13/06/2009,18Z,28.0,21%,1004.0 Hpa,230º (SW),7.2,0/8,-,-,-,-,-,-,Clear
+ILAM,13/06/2009,15Z,31.8,17%,1004.5 Hpa,220º (SW),28.8,0/8,-,-,-,-,35.2,-,Clear
+ILAM,13/06/2009,12Z,33.2,15%,1004.5 Hpa,240º (SW),21.6,0/8,-,-,-,-,-,-,Clear
+ILAM,13/06/2009,09Z,33.0,15%,1004.3 Hpa,160º (S ),28.8,0/8,-,-,-,-,-,-,"Clear, haze"
+ILAM,13/06/2009,06Z,31.2,20%,1002.9 Hpa,140º (SE),14.4,0/8,-,-,-,-,-,-,"Clear, haze"
+ILAM,13/06/2009,03Z,23.6,22%,1002.2 Hpa,140º (SE),7.2,0/8,-,-,-,-,-,21.4,"Clear, dust"
+ILAM,13/06/2009,00Z,22.2,32%,1002.3 Hpa,120º (SE),10.8,0/8,-,-,-,-,-,-,"Clear, haze"
+IRANSHAHR,13/06/2009,21Z,35.6,11%,1001.1 Hpa,080º (E ),10.8,2/8,-,2/8 AC,-,-,-,-,"Few clouds, haze"
+IRANSHAHR,13/06/2009,18Z,37.8,10%,1001.6 Hpa,010º (N),10.8,2/8,1/8 SC,-,CI,-,-,-,"Few clouds, haze"
+IRANSHAHR,13/06/2009,15Z,41.0,9%,1000.4 Hpa,290º (W ),14.4,2/8,2/8 SC,-,CI,-,43.7,-,"Few clouds, haze"
+IRANSHAHR,13/06/2009,12Z,43.4,8%,999.8 Hpa,300º (NW),14.4,1/8,1/8 CU,-,-,-,-,-,"Few clouds, haze"
+IRANSHAHR,13/06/2009,09Z,42.2,11%,1001.6 Hpa,290º (W ),14.4,1/8,1/8 CU,-,-,-,-,-,"Few clouds, haze"
+IRANSHAHR,13/06/2009,06Z,38.5,14%,1004.0 Hpa,260º (W ),10.8,0/8,-,-,-,-,-,-,"Clear, haze"
+IRANSHAHR,13/06/2009,03Z,33.0,15%,1003.8 Hpa,040º (NE),7.2,0/8,-,-,-,-,-,29.8,"Clear, haze"
+IRANSHAHR,13/06/2009,00Z,32.2,15%,1002.0 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+JASK,13/06/2009,21Z,32.6,71%,1003.7 Hpa,240º (SW),10.8,0/8,-,-,-,-,-,-,"Clear, haze"
+JASK,13/06/2009,18Z,33.0,397%,1003.5 Hpa,280º (W ),18.0,0/8,-,-,-,-,-,-,"Clear, haze"
+JASK,13/06/2009,15Z,33.2,83%,1002.8 Hpa,250º (W ),14.4,0/8,-,-,-,-,34.4,-,"Clear, mist"
+JASK,13/06/2009,12Z,34.4,367%,1003.3 Hpa,200º (S ),18.0,0/8,-,-,-,-,-,-,"Clear, haze"
+JASK,13/06/2009,09Z,33.2,86%,1004.7 Hpa,150º (SE),18.0,0/8,-,-,-,-,-,-,"Clear, mist"
+JASK,13/06/2009,06Z,33.2,393%,1005.6 Hpa,080º (E ),14.4,0/8,-,-,-,-,-,-,"Clear, haze"
+JASK,13/06/2009,03Z,29.8,97%,1004.7 Hpa,060º (NE),25.2,0/8,-,-,-,-,-,29.8,"Clear, mist"
+JASK,13/06/2009,00Z,31.0,165%,1003.0 Hpa,070º (E ),21.6,0/8,-,-,-,-,-,-,"Clear, mist"
+KAHNUJ,13/06/2009,21Z,34.0,31%,1000.1 Hpa,240º (SW),14.4,0/8,-,-,-,-,-,-,Clear
+KAHNUJ,13/06/2009,18Z,35.6,30%,999.9 Hpa,210º (SW),14.4,0/8,-,-,-,-,-,-,Clear
+KAHNUJ,13/06/2009,15Z,39.6,27%,998.8 Hpa,210º (SW),10.8,4/8,-,-,CI,-,43.6,-,Scattered clouds
+KAHNUJ,13/06/2009,12Z,42.8,22%,997.6 Hpa,270º (W ),18.0,0/8,-,-,-,-,-,-,Clear
+KAHNUJ,13/06/2009,09Z,41.8,24%,999.5 Hpa,210º (SW),32.4,0/8,-,-,-,-,-,-,Clear
+KAHNUJ,13/06/2009,06Z,37.0,31%,1000.9 Hpa,210º (SW),14.4,0/8,-,-,-,-,-,-,Clear
+KAHNUJ,13/06/2009,03Z,30.0,42%,1000.9 Hpa,calm.,,0/8,-,-,-,-,-,29.0,Clear
+KAHNUJ,13/06/2009,00Z,31.0,38%,997.6 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KASHAN,13/06/2009,21Z,25.4,32%,1010.1 Hpa,270º (W ),7.2,0/8,-,-,-,-,-,-,Clear
+KASHAN,13/06/2009,18Z,28.4,23%,1010.9 Hpa,120º (SE),14.4,2/8,2/8 SC,-,-,-,-,-,Few clouds
+KASHAN,13/06/2009,15Z,32.2,19%,1008.6 Hpa,090º (E ),10.8,2/8,2/8 SC,-,-,-,35.4,-,Few clouds
+KASHAN,13/06/2009,12Z,34.6,17%,1005.7 Hpa,330º (NW),25.2,5/8,5/8 CB,-,-,-,-,-,"Cloudy, thunderstorm no precipitation"
+KASHAN,13/06/2009,09Z,33.8,18%,1008.0 Hpa,180º (S ),10.8,1/8,1/8 SC,-,-,-,-,-,Few clouds
+KASHAN,13/06/2009,06Z,28.8,28%,1010.7 Hpa,calm.,,2/8,-,2/8 AC,-,-,-,-,Few clouds
+KASHAN,13/06/2009,03Z,33.6,18%,1005.6 Hpa,280º (W ),14.4,4/8,4/8 SC,-,-,-,35.8,-,Scattered clouds
+KASHAN,13/06/2009,00Z,24.2,34%,1008.7 Hpa,calm.,,1/8,1/8 SC,-,-,-,-,-,Few clouds
+KASHMAR,13/06/2009,21Z,21.4,39%,1009.1 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KASHMAR,13/06/2009,18Z,25.2,28%,1008.5 Hpa,calm.,,1/8,1/8 SC,-,-,-,-,-,Few clouds
+KASHMAR,13/06/2009,15Z,27.6,25%,1008.1 Hpa,030º (NE),14.4,5/8,5/8 CB,-,-,-,32.6,-,Cloudy
+KASHMAR,13/06/2009,12Z,26.2,34%,1007.7 Hpa,130º (SE),21.6,6/8,6/8 CB,-,-,Tr(6h),-,-,"Cloudy, thunderstorms"
+KASHMAR,13/06/2009,09Z,30.6,21%,1007.4 Hpa,080º (E ),10.8,3/8,3/8 CU,-,-,-,-,-,Scattered clouds
+KASHMAR,13/06/2009,06Z,29.0,23%,1008.6 Hpa,100º (E ),7.2,1/8,1/8 CU,-,CI,-,-,-,Few clouds
+KASHMAR,13/06/2009,03Z,22.6,39%,1008.0 Hpa,calm.,,4/8,2/8 SC,-,CI,-,-,19.8,Scattered clouds
+KASHMAR,13/06/2009,00Z,23.4,33%,1006.4 Hpa,calm.,,4/8,1/8 SC,-,CI,-,-,-,Scattered clouds
+KERMAN,13/06/2009,21Z,20.4,31%,1005.4 Hpa,270º (W ),7.2,2/8,2/8 CU,-,-,-,-,-,Few clouds
+KERMAN,13/06/2009,18Z,24.6,24%,1005.1 Hpa,150º (SE),7.2,3/8,3/8 CB,-,-,-,-,-,Scattered clouds
+KERMAN,13/06/2009,15Z,29.2,18%,1003.4 Hpa,060º (NE),18.0,4/8,4/8 CB,-,-,-,33.4,-,"Scattered clouds, thunderstorm no precipitation"
+KERMAN,13/06/2009,12Z,32.6,15%,1002.2 Hpa,360º (N ),18.0,4/8,3/8 CB,-,CI,-,-,-,Scattered clouds
+KERMAN,13/06/2009,09Z,31.6,16%,1004.2 Hpa,040º (NE),18.0,3/8,3/8 CU,-,-,-,-,-,Scattered clouds
+KERMAN,13/06/2009,06Z,28.6,21%,1005.1 Hpa,340º (N ),14.4,0/8,-,-,-,-,-,-,Clear
+KERMAN,13/06/2009,03Z,22.2,29%,1004.7 Hpa,calm.,,1/8,-,-,CI,-,-,19.4,Few clouds
+KERMAN,13/06/2009,00Z,20.8,30%,1003.6 Hpa,070º (E ),14.4,1/8,-,-,CI,-,-,-,Few clouds
+KERMANSHAH,13/06/2009,21Z,19.3,22%,1005.2 Hpa,140º (SE),7.2,0/8,-,-,-,-,-,-,Clear
+KERMANSHAH,13/06/2009,18Z,25.3,16%,1005.1 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KERMANSHAH,13/06/2009,15Z,33.2,7%,1004.8 Hpa,220º (SW),28.8,0/8,-,-,-,-,36.6,-,Clear
+KERMANSHAH,13/06/2009,12Z,35.9,6%,1003.9 Hpa,280º (W ),28.8,1/8,1/8 CU,-,-,-,-,-,"Few clouds, dust"
+KERMANSHAH,13/06/2009,09Z,35.0,8%,1003.6 Hpa,220º (SW),18.0,0/8,-,-,-,-,-,-,"Clear, dust"
+KERMANSHAH,13/06/2009,06Z,31.0,17%,1004.5 Hpa,130º (SE),21.6,0/8,-,-,-,-,-,-,"Clear, dust"
+KERMANSHAH,13/06/2009,03Z,20.2,30%,1004.9 Hpa,120º (SE),7.2,0/8,-,-,-,-,-,19.1,Clear
+KERMANSHAH,13/06/2009,00Z,21.0,28%,1003.7 Hpa,calm.,,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+KHARG,13/06/2009,15Z,36.2,39%,1003.2 Hpa,270º (W ),10.8,2/8,-,-,CI,-,39.8,-,"Few clouds, dust"
+KHARG,13/06/2009,12Z,37.2,43%,1003.8 Hpa,270º (W ),21.6,0/8,-,-,-,-,-,-,"Clear, dust"
+KHARG,13/06/2009,09Z,39.2,35%,1004.7 Hpa,300º (NW),7.2,0/8,-,-,-,-,-,-,"Clear, dust"
+KHARG,13/06/2009,06Z,35.4,50%,1004.7 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, dust"
+KHARG,13/06/2009,03Z,30.8,50%,1003.5 Hpa,calm.,,0/8,-,-,-,-,-,30.2,"Clear, dust"
+KHOR,13/06/2009,21Z,30.2,18%,1006.7 Hpa,260º (W ),7.2,1/8,1/8 SC,-,-,-,-,-,Few clouds
+KHOR,13/06/2009,18Z,32.4,14%,1007.8 Hpa,300º (NW),7.2,5/8,5/8 SC,-,-,-,-,-,Cloudy
+KHOR,13/06/2009,15Z,34.8,12%,1005.8 Hpa,calm.,,7/8,1/8 SC,AC,-,-,36.4,-,Cloudy
+KHOR,13/06/2009,12Z,35.6,13%,1005.5 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KHOR,13/06/2009,09Z,34.0,14%,1007.9 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KHOR,13/06/2009,06Z,30.4,19%,1009.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KHOR,13/06/2009,03Z,25.4,30%,1008.5 Hpa,calm.,,3/8,1/8 SC,AC,-,-,-,25.0,Scattered clouds
+KHOR,13/06/2009,00Z,25.6,27%,1007.5 Hpa,320º (NW),7.2,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+KHORRAM ABAD,13/06/2009,21Z,22.0,20%,1005.7 Hpa,150º (SE),7.2,0/8,-,-,-,-,-,-,Clear
+KHORRAM ABAD,13/06/2009,18Z,26.4,16%,1005.8 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KHORRAM ABAD,13/06/2009,15Z,34.4,8%,1005.0 Hpa,240º (SW),21.6,1/8,1/8 SC,-,-,-,37.0,-,Few clouds
+KHORRAM ABAD,13/06/2009,12Z,37.0,7%,1004.2 Hpa,210º (SW),21.6,1/8,1/8 SC,-,-,-,-,-,Few clouds
+KHORRAM ABAD,13/06/2009,09Z,36.6,10%,1004.2 Hpa,180º (S ),25.2,1/8,1/8 CU,-,-,-,-,-,"Few clouds, dust"
+KHORRAM ABAD,13/06/2009,06Z,32.6,15%,1004.3 Hpa,050º (NE),14.4,0/8,-,-,-,-,-,-,"Clear, dust"
+KHORRAM ABAD,13/06/2009,03Z,19.8,34%,1006.0 Hpa,calm.,,0/8,-,-,-,-,-,19.0,"Clear, dust"
+KHORRAM ABAD,13/06/2009,00Z,21.0,28%,1004.6 Hpa,130º (SE),7.2,2/8,-,2/8 AC,-,-,-,-,Few clouds
+KHOY,13/06/2009,21Z,21.4,44%,1009.3 Hpa,330º (NW),18.0,8/8,CB,-,-,-,-,-,Overcast
+KHOY,13/06/2009,18Z,23.0,34%,1008.4 Hpa,050º (NE),25.2,8/8,CB,-,-,-,-,-,Overcast
+KHOY,13/06/2009,15Z,26.0,25%,1007.0 Hpa,290º (W ),25.2,7/8,CB,-,-,-,32.0,-,Cloudy
+KHOY,13/06/2009,12Z,31.4,25%,1005.2 Hpa,040º (NE),14.4,4/8,4/8 CB,-,-,-,-,-,"Scattered clouds, haze"
+KHOY,13/06/2009,09Z,28.2,28%,1007.8 Hpa,Vble.,,4/8,2/8 CU,-,CI,-,-,-,"Scattered clouds, haze"
+KHOY,13/06/2009,06Z,23.8,42%,1010.0 Hpa,Vble.,,8/8,2/8 SC,-,CS,-,-,-,Overcast
+KHOY,13/06/2009,03Z,16.2,70%,1011.0 Hpa,calm.,,2/8,2/8 SC,-,-,-,-,15.0,Few clouds
+KHOY,13/06/2009,00Z,17.6,61%,1009.9 Hpa,190º (S ),7.2,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+KISH ISLAND,13/06/2009,18Z,31.0,66%,1004.4 Hpa,250º (W ),10.8,0/8,-,-,-,-,-,-,"Clear, haze"
+KISH ISLAND,13/06/2009,15Z,33.8,47%,1003.8 Hpa,270º (W ),10.8,0/8,-,-,-,-,38.0,-,"Clear, haze"
+KISH ISLAND,13/06/2009,12Z,36.0,38%,1004.0 Hpa,260º (W ),14.4,0/8,-,-,-,-,-,-,"Clear, haze"
+KISH ISLAND,13/06/2009,09Z,36.6,33%,1005.2 Hpa,180º (S ),7.2,0/8,-,-,-,-,-,-,"Clear, haze"
+KISH ISLAND,13/06/2009,06Z,33.0,62%,1005.6 Hpa,150º (SE),14.4,0/8,-,-,-,-,-,-,"Clear, haze"
+KISH ISLAND,13/06/2009,03Z,28.8,83%,1003.7 Hpa,180º (S ),7.2,0/8,-,-,-,-,-,27.0,"Clear, mist"
+KISH ISLAND,13/06/2009,00Z,28.0,86%,1001.8 Hpa,270º (W ),7.2,0/8,-,-,-,-,-,-,"Clear, mist"
+KONARAK,13/06/2009,21Z,31.8,76%,1004.6 Hpa,110º (E ),14.4,0/8,-,-,-,-,-,-,"Clear, haze"
+KONARAK,13/06/2009,18Z,32.6,71%,1004.3 Hpa,240º (SW),7.2,0/8,-,-,-,-,-,-,"Clear, haze"
+KONARAK,13/06/2009,15Z,34.4,60%,1002.4 Hpa,230º (SW),21.6,0/8,-,-,-,-,39.4,-,"Clear, dust"
+KONARAK,13/06/2009,12Z,37.6,43%,1002.2 Hpa,210º (SW),21.6,0/8,-,-,-,-,-,-,"Clear, dust"
+KONARAK,13/06/2009,09Z,39.0,42%,1003.8 Hpa,220º (SW),18.0,0/8,-,-,-,-,-,-,Clear
+KONARAK,13/06/2009,06Z,,,1005.7 Hpa,240º (SW),0.0,0/8,-,-,-,-,-,-,"Clear, haze"
+KONARAK,13/06/2009,03Z,30.8,82%,1005.4 Hpa,calm.,,0/8,-,-,-,-,-,28.6,"Clear, mist"
+MAKKO,13/06/2009,21Z,18.2,49%,1010.6 Hpa,070º (E ),18.0,5/8,3/8 SC,-,CI,-,-,-,"Cloudy, haze"
+MAKKO,13/06/2009,18Z,20.0,35%,1009.2 Hpa,060º (NE),21.6,6/8,4/8 CB,-,CI,-,-,-,"Cloudy, haze"
+MAKKO,13/06/2009,15Z,21.0,34%,1010.9 Hpa,270º (W ),36.0,7/8,7/8 CB,-,-,-,26.0,-,"Cloudy, haze"
+MAKKO,13/06/2009,12Z,23.4,22%,1010.4 Hpa,250º (W ),46.8,5/8,5/8 CB,-,-,Tr(6h),-,-,"Cloudy, rain, previous thunderstorm"
+MAKKO,13/06/2009,09Z,24.4,34%,1009.4 Hpa,120º (SE),10.8,0/8,-,-,-,-,-,-,"Clear, haze"
+MAKKO,13/06/2009,06Z,20.6,44%,1010.8 Hpa,120º (SE),7.2,0/8,-,-,-,Tr(24h),-,-,"Clear, haze"
+MAKKO,13/06/2009,03Z,14.2,67%,1011.2 Hpa,040º (NE),7.2,0/8,-,-,-,-,-,12.8,"Clear, haze"
+MAKKO,13/06/2009,00Z,15.4,63%,1011.2 Hpa,250º (W ),7.2,4/8,1/8 SC,-,CI,-,-,-,"Scattered clouds, haze"
+MARAGHEH,13/06/2009,21Z,22.8,31%,1005.9 Hpa,090º (E ),32.4,2/8,1/8 SC,-,CI,-,-,-,Few clouds
+MARAGHEH,13/06/2009,18Z,25.0,25%,1005.0 Hpa,090º (E ),18.0,4/8,1/8 SC,-,CI,-,-,-,Scattered clouds
+MARAGHEH,13/06/2009,15Z,30.4,25%,1004.7 Hpa,290º (W ),10.8,5/8,1/8 SC,-,CI,-,31.4,-,Cloudy
+MARAGHEH,13/06/2009,12Z,30.4,25%,1005.2 Hpa,360º (N ),7.2,4/8,3/8 SC,-,CI,-,-,-,Scattered clouds
+MARAGHEH,13/06/2009,09Z,28.4,27%,1006.9 Hpa,290º (W ),7.2,3/8,2/8 SC,-,CI,-,-,-,Scattered clouds
+MARAGHEH,13/06/2009,06Z,26.8,27%,1007.0 Hpa,130º (SE),21.6,3/8,1/8 SC,AC,-,-,-,-,Scattered clouds
+MARAGHEH,13/06/2009,03Z,16.8,54%,1009.5 Hpa,calm.,,3/8,3/8 SC,-,-,-,16.8,-,Scattered clouds
+MARAGHEH,13/06/2009,00Z,18.4,48%,1008.3 Hpa,150º (SE),10.8,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+MARAVEH-TAPPEH,13/06/2009,21Z,26.4,31%,1010.7 Hpa,130º (SE),10.8,0/8,-,-,-,-,-,-,Clear
+MARAVEH-TAPPEH,13/06/2009,18Z,29.0,25%,1011.3 Hpa,150º (SE),18.0,0/8,-,-,-,-,-,-,Clear
+MARAVEH-TAPPEH,13/06/2009,15Z,34.8,16%,1009.9 Hpa,360º (N ),18.0,1/8,1/8 CU,-,-,-,37.6,-,Few clouds
+MARAVEH-TAPPEH,13/06/2009,12Z,36.0,16%,1010.2 Hpa,350º (N ),21.6,3/8,3/8 CU,-,-,-,-,-,Scattered clouds
+MARAVEH-TAPPEH,13/06/2009,09Z,35.4,19%,1011.1 Hpa,270º (W ),10.8,2/8,2/8 CU,-,-,-,-,-,Few clouds
+MARAVEH-TAPPEH,13/06/2009,06Z,30.2,34%,1012.7 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+MARAVEH-TAPPEH,13/06/2009,03Z,24.6,50%,1012.5 Hpa,calm.,,0/8,-,-,-,-,-,21.6,Clear
+MARAVEH-TAPPEH,13/06/2009,00Z,21.6,50%,1012.1 Hpa,160º (S ),18.0,0/8,-,-,-,-,-,-,Clear
+MASHHAD,13/06/2009,21Z,21.4,46%,1010.0 Hpa,calm.,,1/8,-,-,CI,-,-,-,Few clouds
+MASHHAD,13/06/2009,18Z,22.8,38%,1011.5 Hpa,120º (SE),7.2,3/8,1/8 SC,-,CI,-,-,-,Scattered clouds
+MASHHAD,13/06/2009,15Z,27.8,34%,1010.3 Hpa,calm.,,5/8,2/8 SC,-,CI,-,32.8,-,Cloudy
+MASHHAD,13/06/2009,12Z,27.4,29%,1011.8 Hpa,050º (NE),10.8,7/8,4/8 CB,-,CI,-,-,-,Cloudy
+MASHHAD,13/06/2009,09Z,31.0,20%,1009.4 Hpa,080º (E ),18.0,,7/8 CB,-,-,-,-,-,-
+MASHHAD,13/06/2009,06Z,29.4,26%,1009.6 Hpa,340º (N ),14.4,3/8,3/8 CU,-,-,-,-,-,Scattered clouds
+MASHHAD,13/06/2009,03Z,20.8,55%,1010.5 Hpa,070º (E ),7.2,1/8,-,-,CI,-,-,16.4,Few clouds
+MASHHAD,13/06/2009,00Z,17.8,64%,1009.7 Hpa,calm.,,1/8,-,-,CI,-,-,-,Few clouds
+MASJED-SOLEYMAN,13/06/2009,21Z,36.4,17%,1003.0 Hpa,calm.,,3/8,-,-,CI,-,-,-,"Scattered clouds, dust"
+MASJED-SOLEYMAN,13/06/2009,18Z,39.0,17%,1002.2 Hpa,calm.,,3/8,-,-,CI,-,-,-,"Scattered clouds, dust"
+MASJED-SOLEYMAN,13/06/2009,15Z,42.8,9%,1001.2 Hpa,270º (W ),14.4,4/8,-,4/8 AC,-,-,45.0,-,"Scattered clouds, dust"
+MASJED-SOLEYMAN,13/06/2009,12Z,44.6,9%,1001.8 Hpa,270º (W ),18.0,4/8,-,4/8 AC,-,-,-,-,"Scattered clouds, dust"
+MASJED-SOLEYMAN,13/06/2009,09Z,43.2,8%,1002.7 Hpa,210º (SW),14.4,4/8,-,4/8 AC,-,-,-,-,"Scattered clouds, dust"
+MASJED-SOLEYMAN,13/06/2009,06Z,39.0,14%,1003.7 Hpa,calm.,,4/8,-,4/8 AC,-,-,-,-,"Scattered clouds, dust"
+MASJED-SOLEYMAN,13/06/2009,03Z,32.4,25%,1003.0 Hpa,calm.,,2/8,2/8 SC,-,-,-,-,29.2,"Few clouds, dust"
+MASJED-SOLEYMAN,13/06/2009,00Z,34.4,20%,1001.8 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, dust"
+MEYANEH,13/06/2009,21Z,21.4,42%,1008.4 Hpa,calm.,,6/8,3/8 SC,AC,CI,-,-,-,Cloudy
+MEYANEH,13/06/2009,18Z,23.6,32%,1008.4 Hpa,090º (E ),25.2,7/8,7/8 CB,-,-,-,-,-,Cloudy
+MEYANEH,13/06/2009,15Z,32.0,17%,1005.5 Hpa,080º (E ),7.2,6/8,3/8 CB,AC,CI,-,33.0,-,Cloudy
+MEYANEH,13/06/2009,12Z,30.0,29%,1005.3 Hpa,calm.,,6/8,3/8 CB,AC,CI,-,-,-,Cloudy
+MEYANEH,13/06/2009,09Z,31.6,31%,1006.0 Hpa,090º (E ),7.2,4/8,-,2/8 AC,CI,-,-,-,Scattered clouds
+MEYANEH,13/06/2009,06Z,24.8,37%,1009.5 Hpa,360º (N ),7.2,2/8,-,1/8 AC,CI,-,-,-,Few clouds
+MEYANEH,13/06/2009,03Z,19.0,48%,1009.6 Hpa,calm.,,0/8,-,-,-,-,-,17.6,Clear
+MEYANEH,13/06/2009,00Z,20.0,44%,1008.4 Hpa,300º (NW),10.8,2/8,-,2/8 AC,-,-,-,-,Few clouds
+MOHABAD,13/06/2009,21Z,,0%,1007.1 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+MOHABAD,13/06/2009,18Z,23.2,41%,1006.1 Hpa,calm.,,2/8,2/8 SC,-,-,-,-,-,Few clouds
+MOHABAD,13/06/2009,15Z,29.2,27%,1004.1 Hpa,360º (N ),10.8,6/8,3/8 SC,AC,-,-,31.0,-,Cloudy
+MOHABAD,13/06/2009,12Z,30.6,26%,1005.2 Hpa,360º (N ),10.8,2/8,2/8 CU,-,-,-,-,-,Few clouds
+MOHABAD,13/06/2009,09Z,27.4,32%,1007.4 Hpa,calm.,,2/8,2/8 CU,-,-,-,-,-,Few clouds
+MOHABAD,13/06/2009,06Z,22.8,46%,1009.0 Hpa,calm.,,3/8,2/8 CU,-,CI,1.8(24h),-,-,Scattered clouds
+MOHABAD,13/06/2009,03Z,16.2,69%,1010.4 Hpa,calm.,,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+MOHABAD,13/06/2009,00Z,15.2,68%,1009.3 Hpa,180º (S ),14.4,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+NEHBANDAN,13/06/2009,21Z,25.8,23%,1007.2 Hpa,270º (W ),25.2,0/8,-,-,-,-,-,-,Clear
+NEHBANDAN,13/06/2009,18Z,28.0,22%,1007.2 Hpa,030º (NE),14.4,0/8,-,-,-,-,-,-,Clear
+NEHBANDAN,13/06/2009,15Z,32.4,16%,1005.8 Hpa,030º (NE),14.4,3/8,3/8 CU,AC,-,-,36.4,-,Scattered clouds
+NEHBANDAN,13/06/2009,12Z,35.0,11%,1005.1 Hpa,300º (NW),28.8,5/8,5/8 CB,-,-,-,-,-,Cloudy
+NEHBANDAN,13/06/2009,09Z,32.8,17%,1006.3 Hpa,180º (S ),18.0,6/8,6/8 CB,-,-,-,-,-,"Cloudy, rain showers"
+NEHBANDAN,13/06/2009,06Z,30.4,21%,1008.8 Hpa,080º (E ),10.8,1/8,1/8 CU,AC,-,Tr(24h),-,-,Few clouds
+NEHBANDAN,13/06/2009,03Z,22.2,35%,1010.0 Hpa,calm.,,3/8,2/8 CU,-,CC,-,-,20.2,Scattered clouds
+NEHBANDAN,13/06/2009,00Z,22.0,32%,1007.3 Hpa,040º (NE),10.8,0/8,-,-,-,-,-,-,Clear
+NOSHAHR,13/06/2009,21Z,12.8,169%,1010.2 Hpa,350º (N ),7.2,8/8,-,3/8 AC,CS,-,-,-,Overcast
+NOSHAHR,13/06/2009,18Z,24.2,89%,1011.9 Hpa,300º (NW),25.2,8/8,3/8 CB,AC,CS,0.5(6h),-,-,Overcast
+NOSHAHR,13/06/2009,15Z,25.4,77%,1010.0 Hpa,calm.,,8/8,3/8 CB,-,CS,-,27.8,-,"Overcast, lightning"
+NOSHAHR,13/06/2009,12Z,25.8,82%,1011.9 Hpa,Vble.,,8/8,3/8 SC,-,CS,-,-,-,"Overcast, thunderstorm no precipitation"
+NOSHAHR,13/06/2009,09Z,25.8,85%,1011.8 Hpa,080º (E ),14.4,1/8,-,-,CI,-,-,-,Few clouds
+NOSHAHR,13/06/2009,06Z,25.8,76%,1012.4 Hpa,060º (NE),10.8,0/8,-,-,-,-,-,-,Clear
+NOSHAHR,13/06/2009,03Z,21.4,87%,1011.8 Hpa,calm.,,1/8,1/8 SC,-,-,-,-,19.8,Few clouds
+NOSHAHR,13/06/2009,00Z,21.4,90%,1011.3 Hpa,calm.,,6/8,2/8 SC,AC,CI,-,-,-,Cloudy
+OMIDYEH-AGHAJARI,13/06/2009,21Z,36.0,28%,1005.0 Hpa,calm.,,1/8,-,-,CI,-,-,-,Few clouds
+OMIDYEH-AGHAJARI,13/06/2009,18Z,39.2,19%,1004.8 Hpa,calm.,,1/8,1/8 SC,-,-,-,-,-,Few clouds
+OMIDYEH-AGHAJARI,13/06/2009,15Z,43.4,10%,-,240º (SW),32.4,3/8,-,-,-,-,-,-,Scattered clouds
+OMIDYEH-AGHAJARI,13/06/2009,12Z,47.0,10%,1004.0 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+OMIDYEH-AGHAJARI,13/06/2009,09Z,45.0,10%,1005.2 Hpa,270º (W ),10.8,0/8,-,-,-,-,-,-,"Clear, dust"
+OMIDYEH-AGHAJARI,13/06/2009,06Z,40.0,17%,1005.5 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, dust"
+OMIDYEH-AGHAJARI,13/06/2009,03Z,30.0,35%,1004.4 Hpa,calm.,,1/8,-,-,-,-,-,-,"Few clouds, dust"
+OMIDYEH-AGHAJARI,13/06/2009,00Z,30.8,29%,1003.3 Hpa,180º (S ),14.4,3/8,-,-,CI,-,-,-,Scattered clouds
+ORUMIEH,13/06/2009,21Z,18.6,56%,1008.1 Hpa,270º (W ),7.2,2/8,2/8 SC,-,-,-,-,-,Few clouds
+ORUMIEH,13/06/2009,18Z,21.4,45%,1007.1 Hpa,050º (NE),10.8,5/8,4/8 CB,-,CI,Tr(6h),-,-,Cloudy
+ORUMIEH,13/06/2009,15Z,24.8,46%,1007.1 Hpa,Vble.,,6/8,5/8 CB,AC,-,-,29.0,-,Cloudy
+ORUMIEH,13/06/2009,12Z,28.2,31%,1007.1 Hpa,360º (N ),7.2,4/8,4/8 CB,-,-,-,-,-,Scattered clouds
+ORUMIEH,13/06/2009,09Z,26.0,36%,1009.1 Hpa,090º (E ),7.2,2/8,1/8 SC,-,CI,-,-,-,Few clouds
+ORUMIEH,13/06/2009,06Z,22.8,48%,1010.0 Hpa,030º (NE),10.8,2/8,1/8 SC,-,CI,-,-,-,"Few clouds, haze"
+ORUMIEH,13/06/2009,03Z,23.2,51%,1009.3 Hpa,100º (E ),7.2,6/8,6/8 CB,AC,-,-,26.2,-,Cloudy
+ORUMIEH,13/06/2009,00Z,12.4,78%,1011.2 Hpa,260º (W ),10.8,5/8,5/8 CB,-,-,-,-,-,Cloudy
+PARS ABAD MOGHAN,13/06/2009,21Z,22.8,82%,1011.5 Hpa,calm.,,4/8,-,-,CS,-,-,-,Scattered clouds
+PARS ABAD MOGHAN,13/06/2009,18Z,24.0,81%,1010.8 Hpa,080º (E ),18.0,6/8,-,-,CS,-,-,-,Cloudy
+PARS ABAD MOGHAN,13/06/2009,15Z,31.0,42%,1009.6 Hpa,090º (E ),14.4,8/8,-,-,CS,-,35.0,-,Overcast
+PARS ABAD MOGHAN,13/06/2009,12Z,34.2,37%,1009.1 Hpa,030º (NE),18.0,0/8,-,-,-,-,-,-,Clear
+PARS ABAD MOGHAN,13/06/2009,09Z,31.6,45%,1011.4 Hpa,030º (NE),10.8,0/8,-,-,-,-,-,-,Clear
+PARS ABAD MOGHAN,13/06/2009,06Z,27.0,59%,1012.6 Hpa,300º (NW),7.2,0/8,-,-,-,-,-,-,Clear
+PARS ABAD MOGHAN,13/06/2009,03Z,20.0,86%,1012.4 Hpa,210º (SW),10.8,2/8,-,2/8 AC,-,-,-,19.2,Few clouds
+PARS ABAD MOGHAN,13/06/2009,00Z,20.0,76%,1010.7 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+RAMSAR,13/06/2009,21Z,24.2,89%,1009.8 Hpa,calm.,,2/8,2/8 SC,-,-,-,-,-,"Few clouds, mist"
+RAMSAR,13/06/2009,18Z,24.4,89%,1012.0 Hpa,calm.,,2/8,2/8 SC,-,-,-,-,-,"Few clouds, mist"
+RAMSAR,13/06/2009,15Z,25.0,83%,1009.0 Hpa,210º (SW),7.2,8/8,3/8 CB,AC,,-,26.8,-,"Overcast, mist"
+RAMSAR,13/06/2009,12Z,26.0,84%,1010.8 Hpa,090º (E ),10.8,8/8,4/8 CB,AC,,-,-,-,"Overcast, mist"
+RAMSAR,13/06/2009,09Z,26.0,84%,1010.8 Hpa,090º (E ),7.2,1/8,1/8 CU,-,-,-,-,-,Few clouds
+RAMSAR,13/06/2009,06Z,24.8,80%,1012.0 Hpa,110º (E ),10.8,0/8,-,-,-,-,-,-,Clear
+RAMSAR,13/06/2009,03Z,22.2,82%,1011.9 Hpa,calm.,,1/8,1/8 CU,-,-,-,-,21.0,"Few clouds, mist"
+RAMSAR,13/06/2009,00Z,21.4,90%,1011.1 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+RASHT,13/06/2009,21Z,24.0,94%,1009.9 Hpa,030º (NE),10.8,0/8,-,-,-,-,-,-,"Clear, mist"
+RASHT,13/06/2009,18Z,25.2,85%,1013.0 Hpa,calm.,,3/8,3/8 CB,-,-,Tr(6h),-,-,"Scattered clouds, mist"
+RASHT,13/06/2009,15Z,26.8,78%,1011.8 Hpa,070º (E ),7.2,8/8,3/8 SC,-,CI,-,31.4,-,Overcast
+RASHT,13/06/2009,12Z,29.2,73%,1011.3 Hpa,010º (N),7.2,8/8,2/8 CU,AC,,-,-,-,Overcast
+RASHT,13/06/2009,09Z,29.6,64%,1012.4 Hpa,Vble.,,3/8,-,-,CI,-,-,-,Scattered clouds
+RASHT,13/06/2009,06Z,26.2,77%,1012.6 Hpa,090º (E ),10.8,0/8,-,-,-,-,-,-,"Clear, haze"
+RASHT,13/06/2009,03Z,22.2,92%,1012.6 Hpa,Vble.,,5/8,3/8 SC,AC,-,-,-,21.2,"Cloudy, mist"
+RASHT,13/06/2009,00Z,22.0,91%,1011.8 Hpa,Vble.,,1/8,-,0/8 AC,-,-,-,-,"Few clouds, mist"
+SABZEVAR,13/06/2009,21Z,21.4,37%,1010.2 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SABZEVAR,13/06/2009,18Z,25.4,28%,1009.9 Hpa,060º (NE),18.0,0/8,-,-,-,-,-,-,Clear
+SABZEVAR,13/06/2009,15Z,29.6,20%,1009.0 Hpa,060º (NE),21.6,2/8,1/8 SC,-,CI,-,32.4,-,Few clouds
+SABZEVAR,13/06/2009,12Z,30.4,19%,1009.2 Hpa,060º (NE),32.4,7/8,7/8 CB,-,-,-,-,-,"Cloudy, thunderstorms"
+SABZEVAR,13/06/2009,09Z,31.8,18%,1008.6 Hpa,calm.,,5/8,5/8 CB,-,-,-,-,-,Cloudy
+SABZEVAR,13/06/2009,06Z,29.0,23%,1010.2 Hpa,090º (E ),10.8,2/8,1/8 CU,-,CI,-,-,-,Few clouds
+SABZEVAR,13/06/2009,03Z,28.6,26%,1008.2 Hpa,360º (N ),21.6,5/8,3/8 CB,-,CI,-,32.6,-,Cloudy
+SABZEVAR,13/06/2009,00Z,20.2,44%,1009.1 Hpa,070º (E ),7.2,5/8,-,-,CI,-,-,-,Cloudy
+SAFI-ABAD DEZFUL,13/06/2009,21Z,33.0,43%,1004.0 Hpa,260º (W ),7.2,0/8,-,-,-,-,-,-,Clear
+SAFI-ABAD DEZFUL,13/06/2009,18Z,34.4,47%,1003.5 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SAFI-ABAD DEZFUL,13/06/2009,15Z,43.4,58%,1002.7 Hpa,calm.,,1/8,1/8 CU,-,-,-,46.6,-,Few clouds
+SAFI-ABAD DEZFUL,13/06/2009,12Z,45.6,15%,1003.4 Hpa,200º (S ),7.2,1/8,-,1/8 AC,-,-,-,-,Few clouds
+SAFI-ABAD DEZFUL,13/06/2009,09Z,44.2,15%,1004.2 Hpa,150º (SE),10.8,0/8,-,-,-,-,-,-,"Clear, dust"
+SAFI-ABAD DEZFUL,13/06/2009,06Z,39.0,19%,1004.4 Hpa,120º (SE),18.0,0/8,-,-,-,-,-,-,"Clear, dust"
+SAFI-ABAD DEZFUL,13/06/2009,03Z,29.0,64%,1004.1 Hpa,040º (NE),7.2,3/8,-,3/8 AC,-,-,-,29.0,"Scattered clouds, dust"
+SAFI-ABAD DEZFUL,13/06/2009,00Z,30.4,45%,1003.2 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SAGHEZ,13/06/2009,21Z,19.4,31%,1005.0 Hpa,100º (E ),7.2,0/8,-,-,-,-,-,-,Clear
+SAGHEZ,13/06/2009,18Z,18.4,28%,1006.4 Hpa,150º (SE),10.8,0/8,-,-,-,-,-,-,Clear
+SAGHEZ,13/06/2009,15Z,30.6,13%,1004.2 Hpa,210º (SW),18.0,1/8,1/8 CU,-,-,-,33.0,-,Few clouds
+SAGHEZ,13/06/2009,12Z,33.0,14%,1003.3 Hpa,210º (SW),14.4,3/8,3/8 CU,-,-,-,-,-,Scattered clouds
+SAGHEZ,13/06/2009,09Z,29.2,23%,1005.9 Hpa,calm.,,2/8,2/8 CU,-,-,-,-,-,Few clouds
+SAGHEZ,13/06/2009,06Z,23.4,39%,1008.0 Hpa,calm.,,3/8,3/8 CU,-,-,-,-,-,Scattered clouds
+SAGHEZ,13/06/2009,03Z,13.6,68%,1009.2 Hpa,calm.,,2/8,2/8 SC,-,-,-,-,13.0,Few clouds
+SAGHEZ,13/06/2009,00Z,13.4,57%,1009.1 Hpa,calm.,,4/8,4/8 CB,-,-,-,-,-,Scattered clouds
+SANANDAJ,13/06/2009,21Z,22.6,28%,1004.6 Hpa,030º (NE),10.8,0/8,-,-,-,-,-,-,Clear
+SANANDAJ,13/06/2009,18Z,23.6,18%,1005.8 Hpa,030º (NE),7.2,0/8,-,-,-,-,-,-,Clear
+SANANDAJ,13/06/2009,15Z,32.8,7%,1003.5 Hpa,200º (S ),21.6,1/8,1/8 CU,-,-,-,35.4,-,Few clouds
+SANANDAJ,13/06/2009,12Z,34.0,10%,1002.6 Hpa,240º (SW),18.0,5/8,5/8 CU,-,-,-,-,-,"Cloudy, dust"
+SANANDAJ,13/06/2009,09Z,31.4,20%,1004.2 Hpa,170º (S ),7.2,1/8,1/8 CU,-,-,-,-,-,Few clouds
+SANANDAJ,13/06/2009,06Z,24.4,31%,1007.8 Hpa,calm.,,4/8,-,4/8 AC,-,-,-,-,Scattered clouds
+SANANDAJ,13/06/2009,03Z,14.4,58%,1008.1 Hpa,calm.,,3/8,2/8 SC,AC,-,-,-,13.4,Scattered clouds
+SANANDAJ,13/06/2009,00Z,17.8,39%,1006.0 Hpa,calm.,,1/8,1/8 SC,-,-,-,-,-,Few clouds
+SARAB,13/06/2009,21Z,14.2,58%,1010.0 Hpa,310º (NW),14.4,2/8,1/8 SC,-,CI,-,-,-,Few clouds
+SARAB,13/06/2009,18Z,17.0,45%,1010.2 Hpa,080º (E ),18.0,6/8,2/8 CB,AC,CS,0.2(6h),-,-,Cloudy
+SARAB,13/06/2009,15Z,20.6,35%,1012.8 Hpa,060º (NE),21.6,7/8,5/8 CB,AC,CI,-,29.0,-,Cloudy
+SARAB,13/06/2009,12Z,27.4,21%,1007.6 Hpa,190º (S ),21.6,5/8,5/8 CB,-,CI,-,-,-,Cloudy
+SARAB,13/06/2009,09Z,26.8,24%,1008.7 Hpa,060º (NE),10.8,3/8,1/8 CU,-,CI,-,-,-,Scattered clouds
+SARAB,13/06/2009,06Z,22.4,38%,1009.6 Hpa,130º (SE),10.8,1/8,-,-,CI,-,-,-,Few clouds
+SARAB,13/06/2009,03Z,9.8,81%,1013.2 Hpa,Vble.,,1/8,-,-,CI,-,-,7.8,Few clouds
+SARAB,13/06/2009,00Z,11.2,70%,1011.8 Hpa,Vble.,,0/8,-,-,-,-,-,-,Clear
+SARAKHS,13/06/2009,21Z,24.6,43%,1009.9 Hpa,calm.,,1/8,1/8 SC,-,-,-,-,-,Few clouds
+SARAKHS,13/06/2009,18Z,24.6,50%,1011.0 Hpa,calm.,,3/8,1/8 SC,-,CI,1.0(6h),-,-,Scattered clouds
+SARAKHS,13/06/2009,15Z,29.0,32%,1010.9 Hpa,090º (E ),18.0,7/8,5/8 CB,-,CI,-,38.4,-,"Cloudy, rain showers"
+SARAKHS,13/06/2009,12Z,37.2,17%,1008.2 Hpa,300º (NW),7.2,5/8,3/8 CB,-,CI,-,-,-,Cloudy
+SARAKHS,13/06/2009,09Z,37.4,17%,1009.0 Hpa,350º (N ),25.2,2/8,2/8 CU,-,CI,-,-,-,Few clouds
+SARAKHS,13/06/2009,06Z,34.4,21%,1010.0 Hpa,330º (NW),18.0,1/8,-,-,CI,-,-,-,Few clouds
+SARAKHS,13/06/2009,03Z,26.6,34%,1009.6 Hpa,300º (NW),14.4,0/8,-,-,-,-,-,23.4,Clear
+SARAKHS,13/06/2009,00Z,23.8,37%,1008.6 Hpa,290º (W ),14.4,0/8,-,-,-,-,-,-,Clear
+SARAVAN,13/06/2009,21Z,23.8,28%,1006.0 Hpa,270º (W ),7.2,0/8,-,-,-,-,-,-,Clear
+SARAVAN,13/06/2009,18Z,26.4,24%,1006.0 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SARAVAN,13/06/2009,15Z,32.5,17%,1005.1 Hpa,040º (NE),18.0,3/8,3/8 CB,-,-,-,37.1,-,Scattered clouds
+SARAVAN,13/06/2009,12Z,34.3,16%,1004.7 Hpa,020º (N),28.8,6/8,6/8 CB,-,-,-,-,-,Cloudy
+SARAVAN,13/06/2009,09Z,36.1,14%,1004.0 Hpa,020º (N),21.6,5/8,5/8 CB,-,-,-,-,-,Cloudy
+SARAVAN,13/06/2009,06Z,34.4,19%,1005.2 Hpa,330º (NW),7.2,0/8,-,-,-,-,-,-,Clear
+SARAVAN,13/06/2009,03Z,24.6,34%,1007.0 Hpa,300º (NW),7.2,0/8,-,-,-,-,-,23.8,Clear
+SARAVAN,13/06/2009,00Z,24.2,33%,1005.2 Hpa,330º (NW),7.2,0/8,-,-,-,-,-,-,Clear
+SEMNAN,13/06/2009,21Z,25.0,31%,1008.2 Hpa,calm.,,3/8,1/8 SC,-,CI,-,-,-,Scattered clouds
+SEMNAN,13/06/2009,18Z,27.0,29%,1008.5 Hpa,010º (N),14.4,7/8,2/8 SC,AC,-,-,-,-,Cloudy
+SEMNAN,13/06/2009,15Z,29.4,23%,1007.0 Hpa,360º (N ),25.2,7/8,3/8 SC,AC,-,-,33.6,-,Cloudy
+SEMNAN,13/06/2009,12Z,31.0,21%,1008.0 Hpa,240º (SW),36.0,8/8,4/8 CB,AC,,-,-,-,Overcast
+SEMNAN,13/06/2009,09Z,31.0,20%,1008.3 Hpa,240º (SW),10.8,1/8,1/8 CU,-,-,-,-,-,Few clouds
+SEMNAN,13/06/2009,06Z,28.2,30%,1009.7 Hpa,calm.,,0/8,-,-,-,7.5(24h),-,-,Clear
+SEMNAN,13/06/2009,03Z,20.4,50%,1011.5 Hpa,320º (NW),7.2,2/8,1/8 SC,-,CI,-,-,18.2,Few clouds
+SEMNAN,13/06/2009,00Z,19.0,55%,1011.1 Hpa,300º (NW),10.8,2/8,1/8 SC,-,CI,-,-,-,Few clouds
+SHAHRE-KORD,13/06/2009,21Z,14.2,39%,1009.2 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SHAHRE-KORD,13/06/2009,18Z,19.2,29%,1008.9 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SHAHRE-KORD,13/06/2009,15Z,26.0,22%,1009.5 Hpa,240º (SW),18.0,2/8,2/8 SC,-,-,-,30.0,-,Few clouds
+SHAHRE-KORD,13/06/2009,12Z,29.0,18%,1008.3 Hpa,250º (W ),18.0,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+SHAHRE-KORD,13/06/2009,09Z,28.8,20%,1008.8 Hpa,230º (SW),25.2,5/8,2/8 CU,-,CI,-,-,-,Cloudy
+SHAHRE-KORD,13/06/2009,06Z,23.0,34%,1008.7 Hpa,340º (N ),7.2,0/8,-,-,-,-,-,-,Clear
+SHAHRE-KORD,13/06/2009,03Z,6.8,69%,1011.7 Hpa,calm.,,0/8,-,-,-,-,-,5.2,Clear
+SHAHRE-KORD,13/06/2009,00Z,8.0,59%,1023.7 Hpa,330º (NW),10.8,0/8,-,-,-,-,-,-,Clear
+SHAHRUD,13/06/2009,21Z,22.0,43%,1009.3 Hpa,010º (N),10.8,2/8,-,-,CI,-,-,-,Few clouds
+SHAHRUD,13/06/2009,18Z,24.6,38%,1009.9 Hpa,350º (N ),10.8,2/8,-,-,CI,-,-,-,Few clouds
+SHAHRUD,13/06/2009,15Z,27.4,34%,1008.8 Hpa,060º (NE),14.4,6/8,4/8 CB,-,CI,-,30.8,-,Cloudy
+SHAHRUD,13/06/2009,12Z,30.0,22%,1007.7 Hpa,110º (E ),14.4,5/8,4/8 CU,-,CI,-,-,-,Cloudy
+SHAHRUD,13/06/2009,09Z,28.2,29%,1009.9 Hpa,090º (E ),14.4,3/8,2/8 CU,-,CI,-,-,-,Scattered clouds
+SHAHRUD,13/06/2009,06Z,25.2,35%,1011.3 Hpa,090º (E ),7.2,2/8,1/8 CU,-,CI,2.8(24h),-,-,Few clouds
+SHAHRUD,13/06/2009,03Z,19.4,63%,1011.9 Hpa,220º (SW),14.4,7/8,7/8 CB,-,-,-,29.0,-,"Cloudy, thunderstorm"
+SHAHRUD,13/06/2009,00Z,17.8,64%,1009.4 Hpa,330º (NW),7.2,3/8,1/8 SC,-,CI,-,-,-,Scattered clouds
+SHIRAZ,13/06/2009,21Z,28.2,20%,1002.2 Hpa,350º (N ),21.6,0/8,-,-,-,-,-,-,"Clear, dust"
+SHIRAZ,13/06/2009,18Z,30.0,21%,1002.8 Hpa,300º (NW),7.2,0/8,-,-,-,-,-,-,"Clear, dust"
+SHIRAZ,13/06/2009,15Z,34.2,15%,1002.7 Hpa,310º (NW),10.8,3/8,3/8 CU,-,-,-,36.8,-,Scattered clouds
+SHIRAZ,13/06/2009,12Z,36.0,11%,1002.0 Hpa,300º (NW),7.2,1/8,1/8 CU,-,-,-,-,-,Few clouds
+SHIRAZ,13/06/2009,09Z,34.2,12%,1002.8 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SHIRAZ,13/06/2009,06Z,31.2,15%,1004.2 Hpa,030º (NE),7.2,0/8,-,-,-,-,-,-,Clear
+SHIRAZ,13/06/2009,03Z,19.6,38%,1004.6 Hpa,calm.,,1/8,-,-,CI,-,-,19.4,Few clouds
+SHIRAZ,13/06/2009,00Z,21.6,26%,1002.4 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SIRI ISLAND,13/06/2009,15Z,36.4,28%,1003.5 Hpa,300º (NW),14.4,0/8,-,-,-,-,36.8,-,"Clear, haze"
+SIRI ISLAND,13/06/2009,12Z,36.0,10%,1004.2 Hpa,330º (NW),10.8,0/8,-,-,-,-,-,-,"Clear, haze"
+SIRI ISLAND,13/06/2009,09Z,34.2,62%,1005.4 Hpa,030º (NE),10.8,0/8,-,-,-,-,-,-,"Clear, haze"
+SIRI ISLAND,13/06/2009,06Z,33.8,81%,1005.6 Hpa,200º (S ),7.2,0/8,-,-,-,-,-,-,"Clear, haze"
+SIRI ISLAND,13/06/2009,03Z,30.4,79%,1004.4 Hpa,220º (SW),7.2,0/8,-,-,-,-,-,29.6,"Clear, mist"
+SIRJAN,13/06/2009,21Z,22.6,26%,1002.9 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SIRJAN,13/06/2009,18Z,27.0,16%,1002.5 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SIRJAN,13/06/2009,15Z,31.6,14%,1002.0 Hpa,360º (N ),21.6,3/8,3/8 SC,-,-,-,34.0,-,Scattered clouds
+SIRJAN,13/06/2009,12Z,33.4,12%,1001.8 Hpa,320º (NW),25.2,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+SIRJAN,13/06/2009,09Z,32.0,16%,1002.6 Hpa,calm.,,2/8,2/8 CU,-,-,-,-,-,Few clouds
+SIRJAN,13/06/2009,06Z,27.4,21%,1004.4 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SIRJAN,13/06/2009,03Z,18.4,31%,1005.0 Hpa,calm.,,0/8,-,-,-,-,-,15.2,Clear
+SIRJAN,13/06/2009,00Z,19.0,26%,1002.2 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+TABAS,13/06/2009,21Z,28.6,21%,1007.5 Hpa,300º (NW),7.2,1/8,-,-,CI,-,-,-,Few clouds
+TABAS,13/06/2009,18Z,32.0,14%,1006.8 Hpa,030º (NE),18.0,0/8,-,-,-,-,-,-,Clear
+TABAS,13/06/2009,15Z,35.5,9%,1004.2 Hpa,220º (SW),18.0,3/8,1/8 CU,AC,CI,-,37.8,-,Scattered clouds
+TABAS,13/06/2009,12Z,37.0,11%,1004.4 Hpa,300º (NW),14.4,1/8,1/8 CU,AC,-,-,-,-,Few clouds
+TABAS,13/06/2009,09Z,36.0,10%,1005.6 Hpa,320º (NW),21.6,1/8,1/8 CU,AC,CI,-,-,-,Few clouds
+TABAS,13/06/2009,06Z,34.2,13%,1006.1 Hpa,300º (NW),18.0,5/8,-,1/8 AC,CI,-,-,-,"Cloudy, dust"
+TABAS,13/06/2009,03Z,27.6,21%,1006.2 Hpa,120º (SE),10.8,1/8,-,1/8 AC,-,-,-,24.8,"Few clouds, dust"
+TABAS,13/06/2009,00Z,25.2,28%,1004.9 Hpa,090º (E ),7.2,1/8,-,1/8 AC,-,-,-,-,Few clouds
+TABRIZ,13/06/2009,21Z,21.8,40%,1007.5 Hpa,070º (E ),14.4,7/8,4/8 CB,-,CI,-,-,-,"Cloudy, lightning"
+TABRIZ,13/06/2009,18Z,24.2,29%,1008.0 Hpa,040º (NE),32.4,7/8,4/8 CB,AC,CI,-,-,-,"Cloudy, thunderstorm no precipitation"
+TABRIZ,13/06/2009,15Z,29.8,23%,1005.8 Hpa,080º (E ),32.4,6/8,4/8 CB,AC,CI,-,33.4,-,"Cloudy, haze"
+TABRIZ,13/06/2009,12Z,33.2,20%,1004.0 Hpa,130º (SE),21.6,6/8,5/8 CB,-,CI,-,-,-,"Cloudy, haze"
+TABRIZ,13/06/2009,09Z,30.4,24%,1006.9 Hpa,360º (N ),14.4,2/8,1/8 CU,-,CI,-,-,-,Few clouds
+TABRIZ,13/06/2009,06Z,25.6,35%,1008.4 Hpa,100º (E ),25.2,2/8,1/8 CU,-,CI,Tr(24h),-,-,Few clouds
+TABRIZ,13/06/2009,03Z,18.0,55%,1009.6 Hpa,110º (E ),7.2,0/8,-,-,-,-,-,16.6,"Clear, haze"
+TABRIZ,13/06/2009,00Z,18.6,51%,1008.6 Hpa,100º (E ),7.2,2/8,1/8 SC,-,CI,Tr(6h),-,-,"Few clouds, haze"
+TEHRAN-MEHRABAD,13/06/2009,21Z,24.0,39%,1009.1 Hpa,320º (NW),7.2,0/8,-,-,-,-,-,-,Clear
+TEHRAN-MEHRABAD,13/06/2009,18Z,27.0,25%,1007.8 Hpa,300º (NW),7.2,5/8,4/8 CB,AC,CI,Tr(6h),-,-,Cloudy
+TEHRAN-MEHRABAD,13/06/2009,15Z,30.0,21%,1007.8 Hpa,320º (NW),28.8,7/8,6/8 CB,AC,CI,-,32.6,-,Cloudy
+TEHRAN-MEHRABAD,13/06/2009,12Z,31.2,23%,1005.9 Hpa,360º (N ),28.8,7/8,4/8 CB,AC,CI,-,-,-,"Cloudy, dust"
+TEHRAN-MEHRABAD,13/06/2009,09Z,31.0,25%,1006.8 Hpa,060º (NE),14.4,7/8,3/8 CB,AC,CI,-,-,-,Cloudy
+TEHRAN-MEHRABAD,13/06/2009,06Z,29.2,26%,1009.2 Hpa,120º (SE),10.8,1/8,-,-,CI,1.2(24h),-,-,Few clouds
+TEHRAN-MEHRABAD,13/06/2009,03Z,24.0,40%,1009.0 Hpa,090º (E ),10.8,0/8,-,-,-,-,-,21.4,"Clear, haze"
+TEHRAN-MEHRABAD,13/06/2009,00Z,21.6,47%,1008.2 Hpa,010º (N),7.2,2/8,2/8 CU,-,-,-,-,-,Few clouds
+TORBAT-HEYDARIEH,13/06/2009,21Z,19.4,36%,1008.1 Hpa,180º (S ),7.2,0/8,-,-,-,-,-,-,Clear
+TORBAT-HEYDARIEH,13/06/2009,18Z,20.0,29%,1008.3 Hpa,calm.,,1/8,1/8 SC,-,-,-,-,-,Few clouds
+TORBAT-HEYDARIEH,13/06/2009,15Z,23.8,25%,1009.1 Hpa,030º (NE),18.0,4/8,4/8 CB,-,-,-,28.6,-,Scattered clouds
+TORBAT-HEYDARIEH,13/06/2009,12Z,25.6,23%,1008.5 Hpa,030º (NE),36.0,7/8,7/8 CB,-,-,-,-,-,Cloudy
+TORBAT-HEYDARIEH,13/06/2009,09Z,28.0,20%,1007.6 Hpa,080º (E ),18.0,5/8,5/8 CB,-,-,-,-,-,Cloudy
+TORBAT-HEYDARIEH,13/06/2009,06Z,26.4,23%,1007.9 Hpa,calm.,,1/8,1/8 CU,-,-,Tr(24h),-,-,Few clouds
+TORBAT-HEYDARIEH,13/06/2009,03Z,23.4,28%,1007.2 Hpa,030º (NE),18.0,6/8,5/8 CB,-,CI,-,28.2,-,Cloudy
+TORBAT-HEYDARIEH,13/06/2009,00Z,16.4,47%,1008.2 Hpa,010º (N),10.8,0/8,-,-,-,-,-,-,Clear
+YASOGE,13/06/2009,21Z,17.4,52%,1008.6 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+YASOGE,13/06/2009,18Z,18.8,41%,1010.5 Hpa,110º (E ),7.2,0/8,-,-,-,-,-,-,Clear
+YASOGE,13/06/2009,15Z,26.4,23%,1009.7 Hpa,090º (E ),10.8,3/8,3/8 SC,-,-,-,32.8,-,Scattered clouds
+YASOGE,13/06/2009,12Z,30.6,12%,1007.2 Hpa,290º (W ),32.4,6/8,6/8 CB,-,-,-,-,-,"Cloudy, thunderstorm no precipitation"
+YASOGE,13/06/2009,09Z,31.6,12%,1007.5 Hpa,300º (NW),18.0,5/8,1/8 CU,-,CI,-,-,-,Cloudy
+YASOGE,13/06/2009,06Z,25.2,22%,1010.5 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+YASOGE,13/06/2009,03Z,17.4,35%,1009.2 Hpa,calm.,,0/8,-,-,-,-,-,14.0,"Clear, dust"
+YASOGE,13/06/2009,00Z,16.2,36%,1007.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+YAZD,13/06/2009,21Z,27.0,17%,1008.2 Hpa,280º (W ),10.8,1/8,-,1/8 AC,-,-,-,-,"Few clouds, haze"
+YAZD,13/06/2009,18Z,28.8,19%,1008.8 Hpa,010º (N),21.6,3/8,-,3/8 AC,-,-,-,-,"Scattered clouds, dust"
+YAZD,13/06/2009,15Z,34.0,8%,1006.2 Hpa,320º (NW),21.6,8/8,4/8 CB,AC,,-,37.0,-,"Overcast, dust"
+YAZD,13/06/2009,12Z,36.4,7%,1004.6 Hpa,210º (SW),14.4,3/8,1/8 CU,-,CI,-,-,-,"Scattered clouds, dust"
+YAZD,13/06/2009,09Z,34.4,11%,1006.5 Hpa,250º (W ),10.8,2/8,1/8 CU,-,CI,-,-,-,Few clouds
+YAZD,13/06/2009,06Z,30.4,18%,1008.2 Hpa,calm.,,1/8,1/8 CU,-,CI,-,-,-,Few clouds
+YAZD,13/06/2009,03Z,36.4,9%,1003.2 Hpa,340º (N ),10.8,3/8,2/8 SC,-,CI,-,-,-,"Scattered clouds, dust"
+YAZD,13/06/2009,00Z,23.8,25%,1007.0 Hpa,310º (NW),14.4,0/8,-,-,-,-,-,-,"Clear, haze"
+ZABOL,13/06/2009,21Z,27.8,30%,1005.1 Hpa,320º (NW),18.0,0/8,-,-,-,-,-,-,Clear
+ZABOL,13/06/2009,18Z,29.3,27%,1004.9 Hpa,310º (NW),14.4,0/8,-,-,-,-,-,-,Clear
+ZABOL,13/06/2009,15Z,35.1,20%,1002.0 Hpa,340º (N ),25.2,2/8,-,-,CI,-,39.2,-,Few clouds
+ZABOL,13/06/2009,12Z,38.7,14%,1003.3 Hpa,330º (NW),36.0,3/8,2/8 SC,-,CI,-,-,-,Scattered clouds
+ZABOL,13/06/2009,09Z,37.0,17%,1005.6 Hpa,320º (NW),21.6,0/8,-,-,-,-,-,-,Clear
+ZABOL,13/06/2009,06Z,34.0,21%,1007.0 Hpa,330º (NW),28.8,0/8,-,-,-,-,-,-,Clear
+ZABOL,13/06/2009,03Z,28.6,35%,1007.1 Hpa,300º (NW),21.6,2/8,2/8 SC,-,-,-,-,24.9,Few clouds
+ZABOL,13/06/2009,00Z,26.4,35%,1005.1 Hpa,320º (NW),25.2,0/8,-,-,-,-,-,-,Clear
+ZAHEDAN,13/06/2009,21Z,21.0,27%,1004.8 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+ZAHEDAN,13/06/2009,18Z,27.7,19%,1004.4 Hpa,010º (N),14.4,1/8,-,-,-,-,-,-,Few clouds
+ZAHEDAN,13/06/2009,15Z,30.4,17%,1002.5 Hpa,030º (NE),10.8,2/8,2/8 SC,-,-,-,35.0,-,Few clouds
+ZAHEDAN,13/06/2009,12Z,33.2,14%,1002.2 Hpa,330º (NW),18.0,5/8,3/8 CB,-,CI,-,-,-,Cloudy
+ZAHEDAN,13/06/2009,09Z,33.1,14%,1003.1 Hpa,320º (NW),18.0,4/8,2/8 CB,AC,CI,-,-,-,Scattered clouds
+ZAHEDAN,13/06/2009,06Z,28.3,21%,1005.6 Hpa,350º (N ),10.8,4/8,2/8 CB,AC,CI,-,-,-,Scattered clouds
+ZAHEDAN,13/06/2009,03Z,25.5,24%,1005.1 Hpa,360º (N ),14.4,3/8,1/8 CU,AC,CI,-,-,19.2,Scattered clouds
+ZAHEDAN,13/06/2009,00Z,21.9,25%,1003.8 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+ZANJAN,13/06/2009,21Z,15.4,63%,1011.2 Hpa,090º (E ),10.8,0/8,-,-,-,-,-,-,Clear
+ZANJAN,13/06/2009,18Z,19.0,49%,1009.3 Hpa,090º (E ),7.2,5/8,1/8 CU,AC,CI,Tr(6h),-,-,Cloudy
+ZANJAN,13/06/2009,15Z,24.2,37%,1010.2 Hpa,110º (E ),18.0,6/8,4/8 CB,AC,CI,-,27.0,-,Cloudy
+ZANJAN,13/06/2009,12Z,25.2,39%,1009.1 Hpa,090º (E ),14.4,6/8,4/8 CB,AC,CI,Tr(6h),-,-,Cloudy
+ZANJAN,13/06/2009,09Z,23.2,40%,1010.1 Hpa,060º (NE),10.8,8/8,5/8 CB,AC,CI,-,-,-,Overcast
+ZANJAN,13/06/2009,06Z,24.8,29%,1008.6 Hpa,090º (E ),18.0,3/8,1/8 CU,-,CI,-,-,-,Scattered clouds
+ZANJAN,13/06/2009,03Z,23.4,30%,1010.9 Hpa,090º (E ),14.4,8/8,6/8 CB,-,CS,-,29.4,-,Overcast
+ZANJAN,13/06/2009,00Z,13.0,68%,1009.6 Hpa,090º (E ),7.2,0/8,-,-,-,-,-,-,Clear

@@ -1,0 +1,610 @@
+Station ∆,Date,UTC time,Temp. (ºC),Rel. Hum. (%),Pressure/ Geopot.,Wind dir,Wins speed (Km/h),Clouds,Low clouds,Medium clouds,High clouds,Prec. (mm),Max temp. (ºC),Min temp. (ºC),Conditions
+ABADAN,26/10/2019,21Z,22.0,83%,1010.8 Hpa,010º (N),18.0,7/8,6/8 CB,AC,-,-,-,-,"Cloudy, thunderstorm no precipitation"
+ABADAN,26/10/2019,18Z,26.9,46%,1011.0 Hpa,150º (SE),7.2,0/8,-,-,-,-,-,-,Clear
+ABADAN,26/10/2019,15Z,29.0,57%,1010.8 Hpa,020º (N),10.8,4/8,3/8 CU/SC,AC,-,-,32.7,-,Scattered clouds
+ABADAN,26/10/2019,12Z,32.1,42%,1010.8 Hpa,350º (N ),14.4,4/8,2/8 CU/SC,AC,-,-,-,-,Scattered clouds
+ABADAN,26/10/2019,09Z,31.6,42%,1012.6 Hpa,360º (N ),7.2,6/8,4/8 CB,AC,-,-,-,-,Cloudy
+ABADAN,26/10/2019,06Z,27.8,58%,1013.8 Hpa,040º (NE),7.2,2/8,-,2/8 AC,-,-,-,-,"Few clouds, haze"
+ABADAN,26/10/2019,03Z,23.5,66%,1012.9 Hpa,010º (N),7.2,6/8,4/8 CB,AC,-,-,-,23.4,Cloudy
+ABADAN,26/10/2019,00Z,23.7,71%,1011.5 Hpa,030º (NE),7.2,7/8,5/8 CB,AC,-,Tr(6h),-,-,Cloudy
+ABADEH,26/10/2019,21Z,12.9,52%,1010.7 Hpa,310º (NW),7.2,5/8,3/8 SC,AC,-,-,-,-,Cloudy
+ABADEH,26/10/2019,18Z,14.9,49%,1011.0 Hpa,330º (NW),3.6,6/8,4/8 CB,AC,-,Tr(6h),-,-,Cloudy
+ABADEH,26/10/2019,15Z,17.1,33%,1011.2 Hpa,120º (SE),3.6,6/8,3/8 SC,AC,-,-,22.4,-,Cloudy
+ABADEH,26/10/2019,12Z,22.0,19%,1009.4 Hpa,300º (NW),10.8,6/8,4/8 CB,AC,-,-,-,-,Cloudy
+ABADEH,26/10/2019,09Z,19.1,31%,1011.5 Hpa,250º (W ),18.0,7/8,3/8 CU,AC,-,-,-,-,Cloudy
+ABADEH,26/10/2019,06Z,17.4,39%,1012.2 Hpa,280º (W ),14.4,4/8,-,4/8 AC,-,-,-,-,Scattered clouds
+ABADEH,26/10/2019,03Z,12.2,51%,1011.8 Hpa,230º (SW),7.2,0/8,-,-,-,-,-,6.5,Clear
+ABADEH,26/10/2019,00Z,8.5,60%,1011.6 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+ABU MUSA,26/10/2019,15Z,30.2,65%,1009.4 Hpa,300º (NW),10.8,0/8,-,-,-,-,33.2,-,"Clear, haze"
+ABU MUSA,26/10/2019,12Z,32.0,89%,1009.1 Hpa,330º (NW),10.8,0/8,-,-,-,-,-,-,"Clear, haze"
+ABU MUSA,26/10/2019,09Z,32.2,64%,1010.6 Hpa,320º (NW),10.8,0/8,-,-,-,-,-,-,"Clear, haze"
+ABU MUSA,26/10/2019,06Z,31.0,94%,1012.1 Hpa,190º (S ),14.4,1/8,1/8 ST,-,-,-,-,-,"Few clouds, haze"
+ABU MUSA,26/10/2019,03Z,25.2,89%,1010.2 Hpa,120º (SE),7.2,1/8,-,1/8 AC,-,-,-,24.6,"Few clouds, mist"
+AHAR,26/10/2019,21Z,8.0,87%,1019.5 Hpa,340º (N ),7.2,5/8,2/8 SC,AC,-,-,-,-,Cloudy
+AHAR,26/10/2019,18Z,8.4,84%,1020.1 Hpa,calm.,,2/8,2/8 SC,-,-,-,-,-,Few clouds
+AHAR,26/10/2019,15Z,11.2,76%,1018.5 Hpa,070º (E ),7.2,5/8,3/8 SC,-,CI,-,15.6,-,Cloudy
+AHAR,26/10/2019,12Z,14.6,58%,1017.5 Hpa,110º (E ),10.8,5/8,2/8 CU,-,CI,-,-,-,Cloudy
+AHAR,26/10/2019,09Z,13.6,63%,1018.6 Hpa,130º (SE),10.8,6/8,5/8 CU,-,CI,-,-,-,Cloudy
+AHAR,26/10/2019,06Z,11.2,79%,1019.8 Hpa,110º (E ),7.2,7/8,7/8 ST,-,-,-,-,-,Cloudy
+AHAR,26/10/2019,03Z,9.8,90%,1018.2 Hpa,calm.,,7/8,7/8 ST,-,-,-,-,7.5,Cloudy
+AHAR,26/10/2019,00Z,7.6,92%,1017.9 Hpa,calm.,,7/8,7/8 ST,-,-,-,-,-,"Cloudy, mist"
+AHWAZ,26/10/2019,21Z,22.3,75%,1012.0 Hpa,300º (NW),14.4,8/8,4/8 CB,AC,,-,-,-,"Overcast, rain showers"
+AHWAZ,26/10/2019,18Z,25.5,49%,1010.2 Hpa,300º (NW),3.6,6/8,4/8 CB,AC,-,Tr(6h),-,-,"Cloudy, haze"
+AHWAZ,26/10/2019,15Z,28.5,39%,1009.9 Hpa,320º (NW),3.6,7/8,6/8 CB,AC,-,-,33.7,-,"Cloudy, rain"
+AHWAZ,26/10/2019,12Z,31.8,34%,1009.4 Hpa,010º (N),7.2,7/8,6/8 CB,AC,-,-,-,-,Cloudy
+AHWAZ,26/10/2019,09Z,33.7,31%,1011.0 Hpa,340º (N ),7.2,6/8,3/8 SC,-,CI,-,-,-,Cloudy
+AHWAZ,26/10/2019,06Z,29.8,45%,1012.9 Hpa,020º (N),3.6,0/8,-,-,-,Tr(24h),-,-,Clear
+AHWAZ,26/10/2019,03Z,22.6,61%,1012.9 Hpa,020º (N),3.6,5/8,2/8 SC,AC,-,-,-,22.4,Cloudy
+AHWAZ,26/10/2019,00Z,23.5,54%,1011.6 Hpa,320º (NW),7.2,5/8,2/8 SC,AC,-,-,-,-,Cloudy
+ALI-GOODARZ,26/10/2019,21Z,6.6,87%,1013.5 Hpa,080º (E ),7.2,4/8,4/8 SC,-,-,-,-,-,Scattered clouds
+ALI-GOODARZ,26/10/2019,18Z,8.4,78%,1015.0 Hpa,130º (SE),21.6,4/8,4/8 SC,-,-,0.2(6h),-,-,Scattered clouds
+ALI-GOODARZ,26/10/2019,15Z,9.3,75%,1017.0 Hpa,110º (E ),21.6,4/8,4/8 SC,-,-,-,16.6,-,Scattered clouds
+ALI-GOODARZ,26/10/2019,12Z,15.0,43%,1012.1 Hpa,180º (S ),14.4,6/8,4/8 CB,AC,-,-,-,-,Cloudy
+ALI-GOODARZ,26/10/2019,09Z,15.5,52%,1012.4 Hpa,300º (NW),14.4,4/8,4/8 CB,-,-,-,-,-,Scattered clouds
+ALI-GOODARZ,26/10/2019,06Z,11.8,71%,1015.8 Hpa,340º (N ),7.2,3/8,3/8 SC,-,-,12.3(24h),-,-,Scattered clouds
+ALI-GOODARZ,26/10/2019,03Z,6.7,95%,1016.5 Hpa,010º (N),10.8,5/8,5/8 ST,-,-,-,-,6.6,"Cloudy, mist"
+ALI-GOODARZ,26/10/2019,00Z,8.1,92%,1014.8 Hpa,300º (NW),3.6,5/8,5/8 ST,-,-,Tr(6h),-,-,Cloudy
+ANZALI,26/10/2019,21Z,16.7,96%,1019.7 Hpa,230º (SW),3.6,5/8,3/8 SC,AC,-,-,-,-,Cloudy
+ANZALI,26/10/2019,18Z,17.1,95%,1019.8 Hpa,250º (W ),3.6,4/8,3/8 SC,AC,-,-,-,-,Scattered clouds
+ANZALI,26/10/2019,15Z,17.8,93%,1019.6 Hpa,calm.,,8/8,5/8 CB,AC,,-,19.3,-,Overcast
+ANZALI,26/10/2019,12Z,18.1,205%,1019.4 Hpa,360º (N ),7.2,8/8,6/8 CB,AC,,10.0(6h),-,-,"Overcast, mist"
+ANZALI,26/10/2019,09Z,17.8,97%,1020.0 Hpa,300º (NW),10.8,8/8,6/8 CB,AC,,-,-,-,"Overcast, rain"
+ANZALI,26/10/2019,06Z,17.2,217%,1020.3 Hpa,280º (W ),7.2,8/8,6/8 CB,AC,,16.0(6h),-,-,"Overcast, rain"
+ANZALI,26/10/2019,03Z,16.9,98%,1018.8 Hpa,calm.,,8/8,5/8 CB,AC,,-,-,16.7,"Overcast, rain"
+ARAK,26/10/2019,21Z,10.2,85%,1014.8 Hpa,calm.,,3/8,3/8 SC,-,-,-,-,-,"Scattered clouds, mist"
+ARAK,26/10/2019,18Z,10.2,87%,1015.6 Hpa,calm.,,3/8,3/8 SC,-,-,0.7(6h),-,-,Scattered clouds
+ARAK,26/10/2019,15Z,13.8,77%,1015.0 Hpa,180º (S ),14.4,8/8,4/8 CB,AC,,-,17.0,-,"Overcast, rain showers"
+ARAK,26/10/2019,12Z,15.6,62%,1013.7 Hpa,calm.,,4/8,4/8 CU,-,-,-,-,-,"Scattered clouds, haze"
+ARAK,26/10/2019,09Z,14.4,68%,1015.2 Hpa,350º (N ),7.2,3/8,3/8 CU,-,-,-,-,-,Scattered clouds
+ARAK,26/10/2019,06Z,12.2,70%,1017.4 Hpa,calm.,,3/8,3/8 SC,-,-,Tr(6h),-,-,"Scattered clouds, haze"
+ARAK,26/10/2019,03Z,7.8,94%,1016.8 Hpa,calm.,,3/8,3/8 SC,-,-,-,-,7.6,"Scattered clouds, mist"
+ARAK,26/10/2019,00Z,9.0,96%,1014.8 Hpa,calm.,,7/8,5/8 CB,AC,-,13.0(6h),-,-,"Cloudy, rain"
+ARDEBIL,26/10/2019,21Z,8.8,97%,1017.3 Hpa,calm.,,7/8,7/8 ST,-,-,-,-,-,"Cloudy, fog"
+ARDEBIL,26/10/2019,18Z,9.0,97%,1017.6 Hpa,calm.,,8/8,8/8 ST,,,-,-,-,"Overcast, fog"
+ARDEBIL,26/10/2019,15Z,9.6,94%,1017.4 Hpa,calm.,,8/8,8/8 ST,,,-,13.0,-,"Overcast, fog"
+ARDEBIL,26/10/2019,12Z,12.2,77%,1016.3 Hpa,040º (NE),14.4,7/8,5/8 ST,-,CI,0.4(6h),-,-,Cloudy
+ARDEBIL,26/10/2019,09Z,11.0,90%,1017.6 Hpa,calm.,,8/8,8/8 CB,,,-,-,-,"Overcast, rain showers"
+ARDEBIL,26/10/2019,06Z,9.4,94%,1018.5 Hpa,360º (N ),7.2,8/8,8/8 ST,,,-,-,-,"Overcast, mist"
+ARDEBIL,26/10/2019,03Z,8.8,97%,1017.4 Hpa,calm.,,8/8,8/8 ST,,,-,-,8.4,"Overcast, fog"
+ARDEBIL,26/10/2019,00Z,8.4,94%,1016.3 Hpa,calm.,,8/8,8/8 ST,,,-,-,-,"Overcast, fog"
+BABULSAR,26/10/2019,21Z,17.2,95%,1019.0 Hpa,calm.,,7/8,6/8 ST,AC,-,-,-,-,Cloudy
+BABULSAR,26/10/2019,18Z,17.8,93%,1019.5 Hpa,200º (S ),3.6,7/8,3/8 ST,AC,-,0.3(6h),-,-,Cloudy
+BABULSAR,26/10/2019,15Z,18.4,89%,1019.5 Hpa,190º (S ),3.6,8/8,6/8 CB,AC,,-,20.5,-,"Overcast, drizzle"
+BABULSAR,26/10/2019,12Z,20.0,72%,1018.4 Hpa,290º (W ),7.2,8/8,5/8 CB,AC,,0.3(6h),-,-,"Overcast, rain showers"
+BABULSAR,26/10/2019,09Z,20.0,79%,1018.6 Hpa,290º (W ),7.2,8/8,3/8 CB,AC,,-,-,-,"Overcast, rain showers"
+BABULSAR,26/10/2019,06Z,20.0,77%,1019.9 Hpa,calm.,,7/8,4/8 ST,AC,-,-,-,-,Cloudy
+BABULSAR,26/10/2019,03Z,17.2,98%,1017.5 Hpa,calm.,,7/8,3/8 ST,AC,-,-,-,16.8,Cloudy
+BABULSAR,26/10/2019,00Z,17.2,98%,1017.5 Hpa,calm.,,7/8,3/8 ST,AC,-,-,-,-,Cloudy
+BAFT,26/10/2019,21Z,13.0,47%,1009.4 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BAFT,26/10/2019,18Z,14.6,39%,1010.1 Hpa,calm.,,2/8,2/8 SC,-,-,-,-,-,Few clouds
+BAFT,26/10/2019,15Z,17.0,35%,1010.5 Hpa,240º (SW),10.8,2/8,2/8 SC,-,-,-,21.8,-,Few clouds
+BAFT,26/10/2019,12Z,20.8,22%,1008.3 Hpa,240º (SW),25.2,3/8,3/8 CU,-,-,-,-,-,Scattered clouds
+BAFT,26/10/2019,09Z,21.0,24%,1009.0 Hpa,210º (SW),10.8,3/8,3/8 CU,-,-,-,-,-,Scattered clouds
+BAFT,26/10/2019,06Z,18.0,36%,1011.0 Hpa,calm.,,1/8,1/8 CU,-,-,-,-,-,Few clouds
+BAFT,26/10/2019,03Z,11.8,52%,1011.4 Hpa,030º (NE),10.8,2/8,-,2/8 AC,-,-,-,10.0,Few clouds
+BAFT,26/10/2019,00Z,11.8,52%,1009.6 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BAM,26/10/2019,21Z,21.7,36%,1008.8 Hpa,270º (W ),7.2,0/8,-,-,-,-,-,-,Clear
+BAM,26/10/2019,18Z,24.5,30%,1008.9 Hpa,280º (W ),10.8,0/8,-,-,-,-,-,-,Clear
+BAM,26/10/2019,15Z,26.3,20%,1008.8 Hpa,340º (N ),7.2,0/8,-,-,-,-,31.0,-,Clear
+BAM,26/10/2019,12Z,30.0,16%,1006.5 Hpa,080º (E ),7.2,1/8,-,-,CI,-,-,-,Few clouds
+BAM,26/10/2019,09Z,29.1,17%,1008.2 Hpa,110º (E ),10.8,1/8,-,-,CI,-,-,-,Few clouds
+BAM,26/10/2019,06Z,26.9,20%,1011.2 Hpa,040º (NE),7.2,1/8,-,1/8 AC,-,-,-,-,Few clouds
+BAM,26/10/2019,03Z,20.7,31%,1011.2 Hpa,270º (W ),7.2,0/8,-,-,-,-,-,20.3,Clear
+BAM,26/10/2019,00Z,21.1,30%,1008.9 Hpa,280º (W ),7.2,0/8,-,-,-,-,-,-,Clear
+BANDAR LENGEH,26/10/2019,21Z,26.8,71%,1010.0 Hpa,320º (NW),7.2,0/8,-,-,-,-,-,-,"Clear, haze"
+BANDAR LENGEH,26/10/2019,18Z,28.3,70%,1010.5 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, haze"
+BANDAR LENGEH,26/10/2019,15Z,29.9,63%,1009.5 Hpa,270º (W ),10.8,0/8,-,-,-,-,34.1,-,"Clear, haze"
+BANDAR LENGEH,26/10/2019,12Z,32.3,63%,1008.9 Hpa,240º (SW),14.4,0/8,-,-,-,-,-,-,"Clear, haze"
+BANDAR LENGEH,26/10/2019,09Z,32.2,67%,1011.1 Hpa,220º (SW),10.8,0/8,-,-,-,-,-,-,"Clear, haze"
+BANDAR LENGEH,26/10/2019,06Z,30.6,51%,1012.7 Hpa,030º (NE),7.2,0/8,-,-,-,-,-,-,"Clear, haze"
+BANDAR LENGEH,26/10/2019,03Z,25.8,74%,1010.6 Hpa,270º (W ),7.2,1/8,-,1/8 AC,-,-,-,25.6,"Few clouds, haze"
+BANDAR LENGEH,26/10/2019,00Z,26.5,58%,1009.7 Hpa,160º (S ),10.8,0/8,-,-,-,-,-,-,"Clear, haze"
+BANDAR-E-DAYYER,26/10/2019,21Z,28.9,69%,1010.1 Hpa,340º (N ),3.6,0/8,-,-,-,-,-,-,Clear
+BANDAR-E-DAYYER,26/10/2019,18Z,29.3,64%,1011.0 Hpa,010º (N),3.6,2/8,-,2/8 AC,-,-,-,-,Few clouds
+BANDAR-E-DAYYER,26/10/2019,15Z,31.5,60%,1010.1 Hpa,250º (W ),3.6,3/8,-,3/8 AC,-,-,34.0,-,Scattered clouds
+BANDAR-E-DAYYER,26/10/2019,12Z,33.3,83%,1009.8 Hpa,220º (SW),10.8,0/8,-,-,-,-,-,-,Clear
+BANDAR-E-DAYYER,26/10/2019,09Z,33.7,55%,1011.7 Hpa,210º (SW),10.8,0/8,-,-,-,-,-,-,Clear
+BANDAR-E-DAYYER,26/10/2019,06Z,32.3,87%,1013.0 Hpa,010º (N),3.6,0/8,-,-,-,-,-,-,Clear
+BANDAR-E-DAYYER,26/10/2019,03Z,26.8,72%,1011.8 Hpa,320º (NW),7.2,2/8,-,2/8 AC,-,-,-,25.0,"Few clouds, haze"
+BANDAR-E-DAYYER,26/10/2019,00Z,27.1,76%,1010.5 Hpa,330º (NW),7.2,2/8,-,2/8 AC,-,-,-,-,Few clouds
+BANDARABBASS,26/10/2019,21Z,25.2,83%,1009.9 Hpa,360º (N ),7.2,0/8,-,-,-,-,-,-,"Clear, mist"
+BANDARABBASS,26/10/2019,18Z,29.2,69%,1009.9 Hpa,210º (SW),7.2,0/8,-,-,-,-,-,-,"Clear, haze"
+BANDARABBASS,26/10/2019,15Z,30.3,73%,1009.1 Hpa,210º (SW),18.0,0/8,-,-,-,-,34.0,-,"Clear, haze"
+BANDARABBASS,26/10/2019,12Z,32.1,67%,1008.5 Hpa,180º (S ),21.6,1/8,1/8 CU,-,-,-,-,-,"Few clouds, haze"
+BANDARABBASS,26/10/2019,09Z,33.1,58%,1010.4 Hpa,190º (S ),18.0,1/8,1/8 CU,-,-,-,-,-,"Few clouds, haze"
+BANDARABBASS,26/10/2019,06Z,32.8,57%,1012.2 Hpa,060º (NE),7.2,0/8,-,-,-,-,-,-,"Clear, haze"
+BANDARABBASS,26/10/2019,03Z,25.3,83%,1011.5 Hpa,330º (NW),7.2,1/8,-,1/8 AC,-,-,-,24.9,"Few clouds, mist"
+BANDARABBASS,26/10/2019,00Z,25.3,82%,1009.9 Hpa,340º (N ),7.2,0/8,-,-,-,-,-,-,"Clear, mist"
+BIRJAND,26/10/2019,21Z,15.1,47%,1010.8 Hpa,040º (NE),14.4,6/8,3/8 SC,AC,-,-,-,-,Cloudy
+BIRJAND,26/10/2019,18Z,16.5,45%,1012.1 Hpa,060º (NE),7.2,6/8,4/8 SC,AC,-,Tr(6h),-,-,Cloudy
+BIRJAND,26/10/2019,15Z,19.2,31%,1012.2 Hpa,360º (N ),14.4,6/8,4/8 SC,AC,-,-,25.7,-,Cloudy
+BIRJAND,26/10/2019,12Z,23.2,19%,1009.4 Hpa,280º (W ),28.8,8/8,4/8 CB,AC,,-,-,-,Overcast
+BIRJAND,26/10/2019,09Z,24.8,17%,1008.7 Hpa,270º (W ),28.8,7/8,4/8 CU,AC,CI,-,-,-,Cloudy
+BIRJAND,26/10/2019,06Z,21.6,19%,1012.3 Hpa,120º (SE),18.0,6/8,1/8 SC,AC,-,-,-,-,Cloudy
+BIRJAND,26/10/2019,03Z,15.6,25%,1012.6 Hpa,080º (E ),25.2,6/8,-,6/8 AC,CI,-,-,13.3,Cloudy
+BIRJAND,26/10/2019,00Z,13.7,28%,1011.5 Hpa,080º (E ),14.4,4/8,-,-,CI,-,-,-,Scattered clouds
+BOJNOURD,26/10/2019,21Z,9.8,89%,1017.8 Hpa,calm.,,1/8,-,1/8 AC,-,-,-,-,Few clouds
+BOJNOURD,26/10/2019,18Z,13.2,76%,1017.9 Hpa,calm.,,6/8,-,2/8 AC,CI,-,-,-,Cloudy
+BOJNOURD,26/10/2019,15Z,15.2,51%,1019.1 Hpa,340º (N ),7.2,7/8,2/8 SC,AC,CI,-,20.0,-,Cloudy
+BOJNOURD,26/10/2019,12Z,18.8,36%,1016.5 Hpa,290º (W ),7.2,7/8,1/8 CU,AC,CI,-,-,-,Cloudy
+BOJNOURD,26/10/2019,09Z,19.4,31%,1016.6 Hpa,040º (NE),7.2,7/8,1/8 CU,AC,CI,-,-,-,Cloudy
+BOJNOURD,26/10/2019,06Z,15.2,47%,1019.0 Hpa,110º (E ),7.2,5/8,1/8 CU,-,CI,Tr(24h),-,-,Cloudy
+BOJNOURD,26/10/2019,03Z,4.4,93%,1020.6 Hpa,calm.,,3/8,-,0/8 AC,CI,-,-,4.4,"Scattered clouds, mist"
+BOJNOURD,26/10/2019,00Z,5.2,93%,1019.5 Hpa,330º (NW),3.6,3/8,-,-,CC,-,-,-,"Scattered clouds, mist"
+BUSHEHR (AIRPORT),26/10/2019,21Z,29.8,48%,1009.0 Hpa,calm.,,3/8,-,-,CI,-,-,-,Scattered clouds
+BUSHEHR (AIRPORT),26/10/2019,18Z,29.8,54%,1010.2 Hpa,calm.,,7/8,2/8 SC,AC,-,-,-,-,Cloudy
+BUSHEHR (AIRPORT),26/10/2019,15Z,31.4,51%,1008.7 Hpa,340º (N ),14.4,4/8,1/8 SC,AC,-,-,35.6,-,Scattered clouds
+BUSHEHR (AIRPORT),26/10/2019,12Z,33.2,42%,1008.8 Hpa,300º (NW),10.8,1/8,1/8 SC,-,-,-,-,-,Few clouds
+BUSHEHR (AIRPORT),26/10/2019,09Z,33.9,32%,1010.8 Hpa,340º (N ),10.8,5/8,2/8 SC,AC,-,-,-,-,Cloudy
+BUSHEHR (AIRPORT),26/10/2019,06Z,30.9,31%,1012.5 Hpa,040º (NE),10.8,4/8,2/8 SC,AC,-,-,-,-,"Scattered clouds, haze"
+BUSHEHR (AIRPORT),26/10/2019,03Z,26.8,39%,1011.5 Hpa,calm.,,2/8,2/8 SC,-,-,-,-,25.6,Few clouds
+BUSHEHR (AIRPORT),26/10/2019,00Z,28.6,46%,1010.7 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+CHAHBAHAR,26/10/2019,21Z,26.8,46%,1011.1 Hpa,030º (NE),7.2,0/8,-,-,-,-,-,-,Clear
+CHAHBAHAR,26/10/2019,18Z,27.2,76%,1011.4 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+CHAHBAHAR,26/10/2019,15Z,29.1,1181%,1010.8 Hpa,calm.,,0/8,-,-,-,-,32.5,-,Clear
+CHAHBAHAR,26/10/2019,12Z,32.1,,1009.9 Hpa,250º (W ),10.8,0/8,-,-,-,-,-,-,Clear
+CHAHBAHAR,26/10/2019,09Z,32.3,1459%,1011.2 Hpa,200º (S ),7.2,0/8,-,-,-,-,-,-,Clear
+CHAHBAHAR,26/10/2019,06Z,31.2,52%,1013.3 Hpa,280º (W ),7.2,0/8,-,-,-,-,-,-,Clear
+CHAHBAHAR,26/10/2019,03Z,24.9,19%,1012.1 Hpa,340º (N ),7.2,0/8,-,-,-,-,-,24.6,Clear
+CHAHBAHAR,26/10/2019,00Z,25.3,73%,1010.7 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+ESFAHAN,26/10/2019,21Z,14.6,49%,1011.9 Hpa,calm.,,2/8,-,-,CI,-,-,-,Few clouds
+ESFAHAN,26/10/2019,18Z,17.4,39%,1011.9 Hpa,230º (SW),7.2,3/8,1/8 SC,AC,-,-,-,-,Scattered clouds
+ESFAHAN,26/10/2019,15Z,17.8,40%,1012.2 Hpa,calm.,,2/8,2/8 SC,-,-,-,22.2,-,Few clouds
+ESFAHAN,26/10/2019,12Z,21.6,32%,1010.2 Hpa,140º (SE),7.2,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+ESFAHAN,26/10/2019,09Z,19.2,46%,1012.9 Hpa,calm.,,3/8,3/8 SC,-,-,-,-,-,"Scattered clouds, haze"
+ESFAHAN,26/10/2019,06Z,16.6,57%,1014.9 Hpa,200º (S ),18.0,6/8,3/8 SC,AC,-,0.9(24h),-,-,"Cloudy, haze"
+ESFAHAN,26/10/2019,03Z,10.8,76%,1013.6 Hpa,calm.,,7/8,4/8 SC,AC,-,-,-,10.0,Cloudy
+ESFAHAN,26/10/2019,00Z,10.6,90%,1012.5 Hpa,calm.,,4/8,4/8 SC,-,-,0.8(6h),-,-,Scattered clouds
+FASA,26/10/2019,21Z,16.0,44%,1005.5 Hpa,calm.,,3/8,-,3/8 AC,-,-,-,-,Scattered clouds
+FASA,26/10/2019,18Z,18.4,36%,1006.7 Hpa,310º (NW),7.2,0/8,-,-,-,-,-,-,Clear
+FASA,26/10/2019,15Z,23.6,26%,1006.3 Hpa,230º (SW),10.8,3/8,3/8 SC,-,-,-,28.6,-,Scattered clouds
+FASA,26/10/2019,12Z,28.2,15%,1004.8 Hpa,200º (S ),21.6,4/8,3/8 SC,-,CI,-,-,-,Scattered clouds
+FASA,26/10/2019,09Z,27.4,17%,1006.2 Hpa,190º (S ),25.2,2/8,-,-,CI,-,-,-,"Few clouds, dust"
+FASA,26/10/2019,06Z,23.0,26%,1007.9 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, haze"
+FASA,26/10/2019,03Z,12.4,51%,1009.0 Hpa,250º (W ),7.2,0/8,-,-,-,-,-,12.0,Clear
+FASA,26/10/2019,00Z,12.8,48%,1007.1 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+FERDOUS,26/10/2019,21Z,12.3,59%,1014.0 Hpa,060º (NE),7.2,1/8,-,1/8 AC,-,-,-,-,Few clouds
+FERDOUS,26/10/2019,18Z,14.5,56%,1014.8 Hpa,calm.,,3/8,1/8 SC,AC,-,-,-,-,Scattered clouds
+FERDOUS,26/10/2019,15Z,17.3,49%,1013.8 Hpa,290º (W ),10.8,6/8,3/8 SC,AC,-,-,21.6,-,Cloudy
+FERDOUS,26/10/2019,12Z,20.0,41%,1011.5 Hpa,300º (NW),10.8,7/8,1/8 SC,AC,CI,-,-,-,Cloudy
+FERDOUS,26/10/2019,09Z,20.1,39%,1011.5 Hpa,250º (W ),7.2,6/8,3/8 SC,AC,-,-,-,-,Cloudy
+FERDOUS,26/10/2019,06Z,16.7,53%,1014.1 Hpa,300º (NW),10.8,6/8,2/8 SC,AC,-,Tr(6h),-,-,Cloudy
+FERDOUS,26/10/2019,03Z,14.3,57%,1014.4 Hpa,280º (W ),7.2,7/8,2/8 SC,AC,-,-,-,14.3,Cloudy
+FERDOUS,26/10/2019,00Z,15.2,57%,1012.4 Hpa,calm.,,8/8,3/8 SC,AC,,Tr(6h),-,-,"Overcast, rain"
+GACH SARAN DU GUNBADAN,26/10/2019,21Z,25.0,27%,1006.2 Hpa,calm.,,5/8,3/8 SC,AC,-,-,-,-,Cloudy
+GACH SARAN DU GUNBADAN,26/10/2019,18Z,22.9,33%,1007.5 Hpa,calm.,,5/8,3/8 SC,AC,-,-,-,-,Cloudy
+GACH SARAN DU GUNBADAN,26/10/2019,15Z,26.7,24%,1006.6 Hpa,calm.,,5/8,3/8 SC,AC,-,-,31.3,-,Cloudy
+GACH SARAN DU GUNBADAN,26/10/2019,12Z,29.5,23%,1005.7 Hpa,calm.,,5/8,3/8 SC,AC,-,-,-,-,Cloudy
+GACH SARAN DU GUNBADAN,26/10/2019,09Z,29.5,21%,1007.9 Hpa,270º (W ),14.4,5/8,1/8 CU,AC,-,-,-,-,Cloudy
+GACH SARAN DU GUNBADAN,26/10/2019,06Z,26.8,30%,1009.9 Hpa,calm.,,6/8,4/8 CB,AC,-,-,-,-,Cloudy
+GACH SARAN DU GUNBADAN,26/10/2019,03Z,24.7,31%,1008.8 Hpa,calm.,,5/8,3/8 SC,AC,-,-,-,21.6,Cloudy
+GACH SARAN DU GUNBADAN,26/10/2019,00Z,25.2,29%,1007.6 Hpa,calm.,,5/8,3/8 SC,AC,-,-,-,-,Cloudy
+GHARAKHIL,26/10/2019,21Z,16.0,95%,1018.7 Hpa,calm.,,8/8,3/8 SC,AC,,-,-,-,Overcast
+GHARAKHIL,26/10/2019,18Z,16.8,95%,1019.3 Hpa,170º (S ),7.2,8/8,4/8 SC,AC,,-,-,-,Overcast
+GHARAKHIL,26/10/2019,15Z,17.8,95%,1018.9 Hpa,calm.,,8/8,4/8 SC,AC,,-,19.6,-,Overcast
+GHARAKHIL,26/10/2019,12Z,18.6,92%,1018.0 Hpa,calm.,,8/8,4/8 SC,AC,,0.1(6h),-,-,"Overcast, rain"
+GHARAKHIL,26/10/2019,09Z,19.2,84%,1018.2 Hpa,calm.,,8/8,4/8 SC,AC,,-,-,-,Overcast
+GHARAKHIL,26/10/2019,06Z,18.4,93%,1018.5 Hpa,calm.,,8/8,3/8 SC,AC,,-,-,-,Overcast
+GHARAKHIL,26/10/2019,03Z,16.6,93%,1018.1 Hpa,calm.,,6/8,2/8 SC,AC,CI,-,-,16.0,Cloudy
+GHARAKHIL,26/10/2019,00Z,17.0,89%,1018.1 Hpa,calm.,,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+GHAZVIN,26/10/2019,21Z,8.5,100%,1016.9 Hpa,100º (E ),7.2,5/8,1/8 ST,AC,-,-,-,-,"Cloudy, mist"
+GHAZVIN,26/10/2019,18Z,10.2,97%,1016.8 Hpa,calm.,,5/8,-,5/8 AC,-,Tr(6h),-,-,Cloudy
+GHAZVIN,26/10/2019,15Z,12.6,92%,1016.2 Hpa,080º (E ),7.2,7/8,3/8 SC,AC,-,-,16.1,-,"Cloudy, rain"
+GHAZVIN,26/10/2019,12Z,15.3,72%,1014.3 Hpa,250º (W ),7.2,7/8,5/8 CB,AC,-,-,-,-,Cloudy
+GHAZVIN,26/10/2019,09Z,14.3,81%,1015.8 Hpa,040º (NE),7.2,7/8,3/8 CB,AC,-,-,-,-,"Cloudy, mist"
+GHAZVIN,26/10/2019,06Z,12.5,89%,1017.2 Hpa,210º (SW),7.2,8/8,6/8 CB,AC,,5.0(6h),-,-,"Overcast, mist"
+GHAZVIN,26/10/2019,03Z,10.1,98%,1015.4 Hpa,calm.,,8/8,1/8 SC,AC,,-,-,10.1,"Overcast, rain"
+GHAZVIN,26/10/2019,00Z,12.3,96%,1013.0 Hpa,calm.,,6/8,-,6/8 AC,-,-,-,-,"Cloudy, mist"
+GHUCHAN,26/10/2019,21Z,9.8,56%,1017.8 Hpa,130º (SE),14.4,7/8,4/8 SC,AC,-,-,-,-,Cloudy
+GHUCHAN,26/10/2019,18Z,10.9,46%,1018.3 Hpa,120º (SE),18.0,7/8,3/8 SC,AC,-,-,-,-,Cloudy
+GHUCHAN,26/10/2019,15Z,13.0,36%,1019.1 Hpa,110º (E ),25.2,7/8,3/8 SC,AC,-,-,16.8,-,Cloudy
+GHUCHAN,26/10/2019,12Z,15.5,32%,1015.7 Hpa,130º (SE),28.8,6/8,4/8 CU/SC,AC,CI,-,-,-,Cloudy
+GHUCHAN,26/10/2019,09Z,16.0,27%,1016.1 Hpa,130º (SE),25.2,4/8,4/8 CU/SC,-,CI,-,-,-,Scattered clouds
+GHUCHAN,26/10/2019,06Z,13.3,31%,1018.5 Hpa,130º (SE),21.6,4/8,3/8 CU/SC,-,CI,-,-,-,Scattered clouds
+GHUCHAN,26/10/2019,03Z,6.1,45%,1019.7 Hpa,060º (NE),10.8,2/8,2/8 SC,-,-,-,-,5.1,Few clouds
+GHUCHAN,26/10/2019,00Z,10.1,37%,1017.5 Hpa,090º (E ),18.0,4/8,4/8 SC,-,-,-,-,-,Scattered clouds
+GORGAN,26/10/2019,21Z,15.1,91%,1020.7 Hpa,calm.,,3/8,2/8 SC,AC,-,-,-,-,Scattered clouds
+GORGAN,26/10/2019,18Z,16.5,89%,1021.3 Hpa,180º (S ),7.2,5/8,2/8 SC,AC,-,-,-,-,Cloudy
+GORGAN,26/10/2019,15Z,18.0,85%,1020.9 Hpa,190º (S ),10.8,5/8,3/8 SC,AC,-,-,20.8,-,Cloudy
+GORGAN,26/10/2019,12Z,20.6,71%,1019.8 Hpa,250º (W ),10.8,7/8,3/8 CU,AC,-,-,-,-,Cloudy
+GORGAN,26/10/2019,09Z,20.4,74%,1019.9 Hpa,calm.,,7/8,2/8 CU,AC,-,-,-,-,Cloudy
+GORGAN,26/10/2019,06Z,18.1,96%,1020.4 Hpa,calm.,,7/8,2/8 SC,AC,-,-,-,-,"Cloudy, mist"
+GORGAN,26/10/2019,03Z,14.1,98%,1019.8 Hpa,calm.,,2/8,-,2/8 AC,-,-,-,13.1,"Few clouds, mist"
+GORGAN,26/10/2019,00Z,15.1,98%,1019.0 Hpa,calm.,,2/8,-,2/8 AC,-,-,-,-,Few clouds
+HAMEDAN,26/10/2019,21Z,7.2,95%,1014.4 Hpa,260º (W ),3.6,7/8,2/8 SC,AC,CI,-,-,-,Cloudy
+HAMEDAN,26/10/2019,18Z,8.9,91%,1015.0 Hpa,170º (S ),7.2,5/8,2/8 SC,AC,-,-,-,-,Cloudy
+HAMEDAN,26/10/2019,15Z,10.6,77%,1015.2 Hpa,220º (SW),3.6,1/8,1/8 SC,-,-,-,17.0,-,Few clouds
+HAMEDAN,26/10/2019,12Z,16.8,48%,1011.8 Hpa,050º (NE),7.2,4/8,4/8 SC,-,-,-,-,-,Scattered clouds
+HAMEDAN,26/10/2019,09Z,14.8,60%,1013.9 Hpa,230º (SW),3.6,5/8,5/8 CB,-,-,-,-,-,Cloudy
+HAMEDAN,26/10/2019,06Z,11.2,77%,1016.0 Hpa,190º (S ),3.6,5/8,5/8 SC,AC,-,2.0(6h),-,-,Cloudy
+HAMEDAN,26/10/2019,03Z,6.8,95%,1016.5 Hpa,020º (N),10.8,8/8,6/8 CB,AC,,-,-,6.6,"Overcast, rain"
+HAMEDAN,26/10/2019,00Z,8.1,95%,1013.9 Hpa,020º (N),3.6,8/8,6/8 CB,AC,,6.0(6h),-,-,"Overcast, rain"
+ILAM,26/10/2019,21Z,12.6,85%,1012.7 Hpa,100º (E ),7.2,2/8,-,2/8 AC,-,-,-,-,Few clouds
+ILAM,26/10/2019,18Z,14.6,81%,1013.7 Hpa,100º (E ),3.6,5/8,-,5/8 AC,-,-,-,-,Cloudy
+ILAM,26/10/2019,15Z,15.6,70%,1015.2 Hpa,calm.,,4/8,4/8 CB,-,CI,-,21.1,-,Scattered clouds
+ILAM,26/10/2019,12Z,20.9,51%,1013.4 Hpa,270º (W ),10.8,4/8,4/8 CB,-,-,-,-,-,Scattered clouds
+ILAM,26/10/2019,09Z,21.0,50%,1014.8 Hpa,150º (SE),7.2,5/8,2/8 CB,AC,-,-,-,-,Cloudy
+ILAM,26/10/2019,06Z,15.9,72%,1016.5 Hpa,130º (SE),7.2,3/8,2/8 CU,AC,-,26.6(24h),-,-,Scattered clouds
+ILAM,26/10/2019,03Z,10.0,92%,1017.2 Hpa,090º (E ),7.2,1/8,-,1/8 AC,-,-,-,10.0,Few clouds
+ILAM,26/10/2019,00Z,10.7,94%,1014.6 Hpa,110º (E ),7.2,2/8,2/8 SC,-,-,-,-,-,Few clouds
+IRANSHAHR,26/10/2019,21Z,25.0,25%,1009.4 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+IRANSHAHR,26/10/2019,18Z,26.6,23%,1009.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+IRANSHAHR,26/10/2019,15Z,31.4,17%,1009.1 Hpa,330º (NW),7.2,1/8,1/8 SC,-,-,-,35.8,-,Few clouds
+IRANSHAHR,26/10/2019,12Z,35.2,14%,1007.6 Hpa,280º (W ),10.8,1/8,1/8 CU,-,-,-,-,-,Few clouds
+IRANSHAHR,26/10/2019,09Z,35.1,15%,1009.1 Hpa,240º (SW),7.2,0/8,-,-,-,-,-,-,Clear
+IRANSHAHR,26/10/2019,06Z,31.6,16%,1012.2 Hpa,090º (E ),10.8,0/8,-,-,-,-,-,-,Clear
+IRANSHAHR,26/10/2019,03Z,22.1,27%,1012.1 Hpa,calm.,,0/8,-,-,-,-,-,20.5,Clear
+IRANSHAHR,26/10/2019,00Z,22.3,27%,1010.3 Hpa,360º (N ),7.2,0/8,-,-,-,-,-,-,Clear
+JASK,26/10/2019,21Z,28.3,83%,1009.9 Hpa,250º (W ),7.2,0/8,-,-,-,-,-,-,"Clear, mist"
+JASK,26/10/2019,18Z,28.4,81%,1010.2 Hpa,300º (NW),3.7,0/8,-,-,-,-,-,-,"Clear, mist"
+JASK,26/10/2019,15Z,28.9,80%,1009.3 Hpa,260º (W ),7.2,0/8,-,-,-,-,31.0,-,"Clear, mist"
+JASK,26/10/2019,12Z,30.3,170%,1008.6 Hpa,240º (SW),5.6,0/8,-,-,-,-,-,-,"Clear, mist"
+JASK,26/10/2019,09Z,30.2,82%,1010.2 Hpa,160º (S ),10.8,0/8,-,-,-,-,-,-,"Clear, mist"
+JASK,26/10/2019,06Z,28.5,190%,1012.4 Hpa,100º (E ),14.4,0/8,-,-,-,-,-,-,"Clear, mist"
+JASK,26/10/2019,03Z,26.7,83%,1010.9 Hpa,calm.,,0/8,-,-,-,-,-,26.0,"Clear, mist"
+JASK,26/10/2019,00Z,27.3,80%,1009.6 Hpa,350º (N ),7.2,0/8,-,-,-,-,-,-,"Clear, mist"
+KAHNUJ,26/10/2019,21Z,26.4,48%,1005.7 Hpa,280º (W ),10.8,0/8,-,-,-,-,-,-,Clear
+KAHNUJ,26/10/2019,18Z,28.0,42%,1005.5 Hpa,270º (W ),21.6,0/8,-,-,-,-,-,-,Clear
+KAHNUJ,26/10/2019,15Z,30.9,24%,1004.9 Hpa,250º (W ),14.4,0/8,-,-,-,-,36.0,-,Clear
+KAHNUJ,26/10/2019,12Z,34.6,25%,1003.4 Hpa,240º (SW),18.0,0/8,-,-,-,-,-,-,Clear
+KAHNUJ,26/10/2019,09Z,34.9,20%,1005.4 Hpa,250º (W ),7.2,0/8,-,-,-,-,-,-,Clear
+KAHNUJ,26/10/2019,06Z,31.1,39%,1008.1 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KAHNUJ,26/10/2019,03Z,23.6,51%,1007.3 Hpa,120º (SE),10.8,0/8,-,-,-,-,-,22.9,Clear
+KAHNUJ,26/10/2019,00Z,24.4,47%,1005.8 Hpa,270º (W ),7.2,0/8,-,-,-,-,-,-,Clear
+KASHAN,26/10/2019,21Z,13.4,100%,1015.1 Hpa,260º (W ),3.6,4/8,4/8 SC,-,-,-,-,-,"Scattered clouds, mist"
+KASHAN,26/10/2019,18Z,15.7,100%,1015.5 Hpa,calm.,,5/8,5/8 SC,-,-,1.0(6h),-,-,Cloudy
+KASHAN,26/10/2019,15Z,18.0,76%,1014.8 Hpa,calm.,,7/8,7/8 SC,AC,-,-,19.8,-,Cloudy
+KASHAN,26/10/2019,12Z,18.8,67%,1013.4 Hpa,350º (N ),3.6,7/8,7/8 SC,AC,-,-,-,-,Cloudy
+KASHAN,26/10/2019,09Z,17.8,78%,1014.8 Hpa,050º (NE),7.2,4/8,4/8 SC,-,-,-,-,-,Scattered clouds
+KASHAN,26/10/2019,06Z,15.1,100%,1016.5 Hpa,060º (NE),3.6,4/8,4/8 SC,-,-,5.4(24h),-,-,Scattered clouds
+KASHAN,26/10/2019,03Z,12.5,100%,1014.8 Hpa,360º (N ),3.6,5/8,3/8 SC,AC,-,-,-,12.4,"Cloudy, mist"
+KASHAN,26/10/2019,00Z,14.3,100%,1013.3 Hpa,020º (N),3.6,8/8,4/8 SC,AC,,1.0(6h),-,-,"Overcast, mist"
+KASHMAR,26/10/2019,21Z,14.4,67%,1016.6 Hpa,090º (E ),14.4,5/8,5/8 SC,-,-,-,-,-,Cloudy
+KASHMAR,26/10/2019,18Z,14.5,65%,1017.7 Hpa,calm.,,5/8,5/8 SC,-,-,-,-,-,Cloudy
+KASHMAR,26/10/2019,15Z,13.7,84%,1016.7 Hpa,calm.,,5/8,4/8 SC,AC,-,-,16.9,-,Cloudy
+KASHMAR,26/10/2019,12Z,16.5,79%,1015.4 Hpa,calm.,,5/8,5/8 CB,-,-,3.0(6h),-,-,Cloudy
+KASHMAR,26/10/2019,09Z,13.0,96%,1016.9 Hpa,110º (E ),7.2,7/8,3/8 ST,AC,-,-,-,-,"Cloudy, rain"
+KASHMAR,26/10/2019,06Z,10.4,88%,1019.4 Hpa,calm.,,8/8,4/8 ST,AC,,3.0(6h),-,-,"Overcast, rain"
+KASHMAR,26/10/2019,03Z,14.2,39%,1017.6 Hpa,150º (SE),10.8,7/8,3/8 ST,AC,-,-,-,13.3,Cloudy
+KASHMAR,26/10/2019,00Z,14.6,43%,1016.9 Hpa,calm.,,6/8,6/8 SC,-,-,Tr(6h),-,-,"Cloudy, rain"
+KERMAN,26/10/2019,21Z,15.8,27%,1009.5 Hpa,360º (N ),7.2,3/8,2/8 SC,AC,-,-,-,-,Scattered clouds
+KERMAN,26/10/2019,18Z,19.6,17%,1009.3 Hpa,020º (N),7.2,3/8,2/8 SC,AC,-,-,-,-,Scattered clouds
+KERMAN,26/10/2019,15Z,21.4,13%,1011.0 Hpa,320º (NW),10.8,6/8,2/8 CB,AC,-,-,26.6,-,Cloudy
+KERMAN,26/10/2019,12Z,24.8,11%,1007.1 Hpa,220º (SW),18.0,6/8,2/8 CB,AC,-,-,-,-,Cloudy
+KERMAN,26/10/2019,09Z,24.0,14%,1007.9 Hpa,260º (W ),10.8,3/8,1/8 CU,AC,-,-,-,-,Scattered clouds
+KERMAN,26/10/2019,06Z,19.2,24%,1011.4 Hpa,090º (E ),7.2,0/8,-,-,-,-,-,-,Clear
+KERMAN,26/10/2019,03Z,11.6,45%,1012.7 Hpa,140º (SE),7.2,0/8,-,-,-,-,-,11.6,Clear
+KERMAN,26/10/2019,00Z,15.3,33%,1009.5 Hpa,160º (S ),18.0,4/8,1/8 SC,AC,-,-,-,-,Scattered clouds
+KERMANSHAH,26/10/2019,21Z,11.6,88%,1013.6 Hpa,calm.,,7/8,6/8 CB,AC,-,-,-,-,"Cloudy, rain showers"
+KERMANSHAH,26/10/2019,18Z,14.3,65%,1014.1 Hpa,350º (N ),10.8,4/8,2/8 SC,AC,-,-,-,-,Scattered clouds
+KERMANSHAH,26/10/2019,15Z,14.7,60%,1015.2 Hpa,290º (W ),32.4,6/8,6/8 CB,AC,-,-,20.5,-,Cloudy
+KERMANSHAH,26/10/2019,12Z,19.6,37%,1013.4 Hpa,270º (W ),7.2,5/8,5/8 CB,-,-,-,-,-,Cloudy
+KERMANSHAH,26/10/2019,09Z,18.0,51%,1015.6 Hpa,150º (SE),7.2,3/8,3/8 CU,-,-,-,-,-,Scattered clouds
+KERMANSHAH,26/10/2019,06Z,13.9,82%,1018.0 Hpa,120º (SE),10.8,3/8,3/8 ST,-,-,35.9(24h),-,-,Scattered clouds
+KERMANSHAH,26/10/2019,03Z,9.3,97%,1016.6 Hpa,100º (E ),7.2,2/8,1/8 SC,AC,CI,-,-,9.0,Few clouds
+KERMANSHAH,26/10/2019,00Z,10.9,95%,1014.7 Hpa,110º (E ),7.2,6/8,2/8 CB,AC,-,9.0(6h),-,-,"Cloudy, rain"
+KHARG,26/10/2019,15Z,31.5,51%,1009.3 Hpa,270º (W ),21.6,1/8,1/8 SC,-,-,-,33.5,-,Few clouds
+KHARG,26/10/2019,12Z,32.9,44%,1009.6 Hpa,300º (NW),5.6,1/8,-,-,CI,-,-,-,Few clouds
+KHARG,26/10/2019,09Z,32.8,38%,1011.5 Hpa,360º (N ),10.8,4/8,-,4/8 AC,-,-,-,-,Scattered clouds
+KHARG,26/10/2019,06Z,31.5,44%,1012.9 Hpa,340º (N ),18.0,6/8,4/8 CB,AC,-,-,-,-,Cloudy
+KHARG,26/10/2019,03Z,30.4,51%,1011.9 Hpa,320º (NW),32.4,2/8,2/8 SC,-,-,-,-,26.3,Few clouds
+KHOR,26/10/2019,21Z,13.8,72%,1015.0 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KHOR,26/10/2019,18Z,15.4,65%,1015.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KHOR,26/10/2019,15Z,20.7,47%,1013.9 Hpa,calm.,,2/8,1/8 SC,AC,-,-,25.5,-,Few clouds
+KHOR,26/10/2019,12Z,24.4,39%,1011.7 Hpa,350º (N ),10.8,4/8,3/8 SC,AC,-,-,-,-,Scattered clouds
+KHOR,26/10/2019,09Z,23.6,41%,1012.8 Hpa,calm.,,2/8,1/8 SC,AC,-,-,-,-,Few clouds
+KHOR,26/10/2019,06Z,20.8,54%,1014.3 Hpa,calm.,,3/8,-,1/8 AC,CI,Tr(24h),-,-,Scattered clouds
+KHOR,26/10/2019,03Z,15.8,74%,1013.4 Hpa,calm.,,7/8,4/8 SC,AC,-,-,-,15.6,Cloudy
+KHOR,26/10/2019,00Z,16.0,66%,1012.9 Hpa,calm.,,8/8,4/8 SC,AC,,Tr(6h),-,-,Overcast
+KHORRAM ABAD,26/10/2019,21Z,14.2,81%,1013.2 Hpa,100º (E ),7.2,3/8,-,3/8 AC,-,-,-,-,Scattered clouds
+KHORRAM ABAD,26/10/2019,18Z,14.1,81%,1015.2 Hpa,calm.,,1/8,-,1/8 AC,-,1.0(6h),-,-,Few clouds
+KHORRAM ABAD,26/10/2019,15Z,16.9,82%,1014.0 Hpa,120º (SE),7.2,5/8,5/8 CB,-,-,-,21.7,-,"Cloudy, thunderstorm no precipitation"
+KHORRAM ABAD,26/10/2019,12Z,21.6,52%,1012.5 Hpa,260º (W ),14.4,3/8,3/8 CB,-,-,-,-,-,Scattered clouds
+KHORRAM ABAD,26/10/2019,09Z,20.3,58%,1014.9 Hpa,310º (NW),3.6,2/8,2/8 CU,-,-,-,-,-,Few clouds
+KHORRAM ABAD,26/10/2019,06Z,15.2,77%,1017.9 Hpa,calm.,,3/8,2/8 ST,AC,-,11.0(24h),-,-,Scattered clouds
+KHORRAM ABAD,26/10/2019,03Z,10.9,94%,1017.4 Hpa,130º (SE),7.2,5/8,3/8 SC,AC,-,-,-,10.7,Cloudy
+KHORRAM ABAD,26/10/2019,00Z,12.1,88%,1016.0 Hpa,080º (E ),7.2,4/8,2/8 SC,AC,-,8.0(6h),-,-,Scattered clouds
+KHOY,26/10/2019,21Z,9.6,78%,1016.4 Hpa,calm.,,4/8,4/8 SC,-,-,-,-,-,Scattered clouds
+KHOY,26/10/2019,18Z,12.0,70%,1016.0 Hpa,calm.,,7/8,4/8 CB,-,CI,-,-,-,Cloudy
+KHOY,26/10/2019,15Z,16.0,51%,1015.5 Hpa,calm.,,6/8,4/8 CB,-,CI,-,19.6,-,Cloudy
+KHOY,26/10/2019,12Z,19.6,43%,1013.9 Hpa,calm.,,1/8,1/8 CU,-,-,-,-,-,Few clouds
+KHOY,26/10/2019,09Z,17.1,52%,1016.5 Hpa,calm.,,5/8,2/8 SC,AC,-,-,-,-,Cloudy
+KHOY,26/10/2019,06Z,14.5,67%,1017.4 Hpa,calm.,,4/8,2/8 SC,AC,-,-,-,-,Scattered clouds
+KHOY,26/10/2019,03Z,8.0,86%,1016.1 Hpa,calm.,,2/8,2/8 SC,-,-,-,-,7.8,Few clouds
+KHOY,26/10/2019,00Z,9.8,85%,1014.8 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KISH ISLAND,26/10/2019,21Z,27.4,75%,1009.6 Hpa,Vble.,,0/8,-,-,-,-,-,-,"Clear, haze"
+KISH ISLAND,26/10/2019,18Z,28.6,67%,1010.4 Hpa,Vble.,,0/8,-,-,-,-,-,-,"Clear, haze"
+KISH ISLAND,26/10/2019,15Z,29.8,60%,1009.8 Hpa,280º (W ),7.2,0/8,-,-,-,-,34.2,-,"Clear, haze"
+KISH ISLAND,26/10/2019,12Z,33.0,61%,1009.6 Hpa,260º (W ),9.3,0/8,-,-,-,-,-,-,"Clear, haze"
+KISH ISLAND,26/10/2019,09Z,34.0,62%,1010.8 Hpa,230º (SW),18.0,0/8,-,-,-,-,-,-,"Clear, haze"
+KISH ISLAND,26/10/2019,06Z,31.8,61%,1012.1 Hpa,280º (W ),7.2,0/8,-,-,-,-,-,-,"Clear, haze"
+KISH ISLAND,26/10/2019,03Z,26.4,85%,1011.1 Hpa,290º (W ),10.8,0/8,-,-,-,-,-,26.4,"Clear, mist"
+KISH ISLAND,26/10/2019,00Z,27.0,85%,1009.7 Hpa,290º (W ),7.2,0/8,-,-,-,-,-,-,"Clear, mist"
+KONARAK,26/10/2019,15Z,28.0,56%,1009.7 Hpa,calm.,,0/8,-,-,-,-,36.3,-,Clear
+KONARAK,26/10/2019,12Z,34.3,29%,1008.9 Hpa,210º (SW),7.4,0/8,-,-,-,-,-,-,Clear
+KONARAK,26/10/2019,00Z,22.0,80%,1010.0 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, mist"
+MAKKO,26/10/2019,21Z,7.4,73%,1017.8 Hpa,calm.,,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+MAKKO,26/10/2019,18Z,11.2,62%,1017.2 Hpa,calm.,,4/8,4/8 SC,-,-,-,-,-,Scattered clouds
+MAKKO,26/10/2019,15Z,12.4,60%,1017.5 Hpa,calm.,,4/8,4/8 SC,-,-,-,17.2,-,Scattered clouds
+MAKKO,26/10/2019,12Z,17.0,46%,1015.0 Hpa,calm.,,2/8,2/8 SC,-,-,-,-,-,Few clouds
+MAKKO,26/10/2019,09Z,14.5,53%,1017.4 Hpa,calm.,,6/8,6/8 SC,-,-,-,-,-,Cloudy
+MAKKO,26/10/2019,06Z,12.6,57%,1017.6 Hpa,calm.,,6/8,6/8 SC,-,-,-,-,-,Cloudy
+MAKKO,26/10/2019,03Z,6.0,81%,1017.2 Hpa,calm.,,0/8,-,-,-,-,-,5.2,Clear
+MAKKO,26/10/2019,00Z,7.0,78%,1016.2 Hpa,calm.,,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+MARAGHEH,26/10/2019,21Z,10.4,74%,1014.7 Hpa,110º (E ),18.0,2/8,-,-,CI,-,-,-,Few clouds
+MARAGHEH,26/10/2019,18Z,12.2,67%,1016.0 Hpa,100º (E ),18.0,4/8,-,1/8 AC,CI,-,-,-,Scattered clouds
+MARAGHEH,26/10/2019,15Z,12.7,63%,1015.5 Hpa,080º (E ),7.2,1/8,1/8 SC,-,CI,-,20.6,-,Few clouds
+MARAGHEH,26/10/2019,12Z,15.9,55%,1013.9 Hpa,060º (NE),10.8,7/8,6/8 CB,AC,-,Tr(6h),-,-,"Cloudy, rain showers"
+MARAGHEH,26/10/2019,09Z,18.6,49%,1014.2 Hpa,210º (SW),7.2,7/8,4/8 CB,AC,CI,-,-,-,Cloudy
+MARAGHEH,26/10/2019,06Z,12.9,71%,1017.2 Hpa,200º (S ),3.6,8/8,5/8 CB,AC,CS,-,-,-,"Overcast, haze"
+MARAGHEH,26/10/2019,03Z,10.0,76%,1015.4 Hpa,080º (E ),10.8,7/8,3/8 SC,AC,CI,-,-,9.5,Cloudy
+MARAGHEH,26/10/2019,00Z,10.4,74%,1013.5 Hpa,080º (E ),14.4,0/8,-,-,-,-,-,-,Clear
+MARAVEH-TAPPEH,26/10/2019,21Z,15.7,79%,1020.1 Hpa,160º (S ),10.8,2/8,2/8 SC,-,-,-,-,-,Few clouds
+MARAVEH-TAPPEH,26/10/2019,18Z,16.1,80%,1020.5 Hpa,180º (S ),14.4,3/8,-,-,CS,-,-,-,Scattered clouds
+MARAVEH-TAPPEH,26/10/2019,15Z,17.3,77%,1020.0 Hpa,200º (S ),10.8,7/8,3/8 SC,-,CI,-,21.1,-,Cloudy
+MARAVEH-TAPPEH,26/10/2019,12Z,19.8,56%,1018.4 Hpa,280º (W ),10.8,7/8,2/8 SC,-,CI,-,-,-,Cloudy
+MARAVEH-TAPPEH,26/10/2019,09Z,20.3,62%,1018.1 Hpa,270º (W ),7.2,6/8,-,-,CI,-,-,-,Cloudy
+MARAVEH-TAPPEH,26/10/2019,06Z,17.4,72%,1019.8 Hpa,calm.,,6/8,-,-,CI,0.1(24h),-,-,Cloudy
+MARAVEH-TAPPEH,26/10/2019,03Z,13.5,80%,1019.4 Hpa,160º (S ),10.8,3/8,-,-,CI,-,-,12.9,Scattered clouds
+MARAVEH-TAPPEH,26/10/2019,00Z,13.3,87%,1019.0 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+MASHHAD,26/10/2019,21Z,10.3,71%,1019.1 Hpa,150º (SE),7.2,8/8,3/8 SC,AC,,-,-,-,"Overcast, rain"
+MASHHAD,26/10/2019,18Z,11.8,48%,1019.2 Hpa,180º (S ),7.2,7/8,3/8 SC,AC,-,0.2(6h),-,-,Cloudy
+MASHHAD,26/10/2019,15Z,13.1,55%,1019.2 Hpa,160º (S ),7.2,7/8,3/8 SC,AC,-,-,17.1,-,"Cloudy, rain"
+MASHHAD,26/10/2019,12Z,13.5,60%,1018.1 Hpa,130º (SE),7.2,7/8,4/8 CB,AC,-,0.9(12h),-,-,"Cloudy, rain"
+MASHHAD,26/10/2019,09Z,16.5,23%,1018.4 Hpa,120º (SE),21.6,7/8,2/8 SC,AC,-,-,-,-,Cloudy
+MASHHAD,26/10/2019,06Z,16.2,25%,1019.9 Hpa,120º (SE),7.2,6/8,1/8 SC,AC,CI,Tr(24h),-,-,Cloudy
+MASHHAD,26/10/2019,03Z,12.0,32%,1019.1 Hpa,180º (S ),7.2,6/8,3/8 SC,AC,-,-,-,10.4,Cloudy
+MASHHAD,26/10/2019,00Z,11.6,32%,1018.3 Hpa,calm.,,4/8,3/8 SC,AC,-,-,-,-,Scattered clouds
+MASJED-SOLEYMAN,26/10/2019,21Z,25.2,37%,1010.2 Hpa,200º (S ),7.2,5/8,3/8 SC,AC,-,-,-,-,Cloudy
+MASJED-SOLEYMAN,26/10/2019,18Z,25.5,41%,1010.0 Hpa,160º (S ),1.9,6/8,4/8 SC,AC,-,-,-,-,Cloudy
+MASJED-SOLEYMAN,26/10/2019,15Z,27.8,32%,1009.8 Hpa,320º (NW),7.2,6/8,4/8 SC,AC,-,-,32.5,-,Cloudy
+MASJED-SOLEYMAN,26/10/2019,12Z,31.7,25%,1009.3 Hpa,150º (SE),1.9,5/8,3/8 SC,AC,-,-,-,-,Cloudy
+MASJED-SOLEYMAN,26/10/2019,09Z,30.5,30%,1011.3 Hpa,100º (E ),7.2,4/8,-,-,CI,-,-,-,Scattered clouds
+MASJED-SOLEYMAN,26/10/2019,06Z,26.1,44%,1013.1 Hpa,090º (E ),10.8,1/8,-,-,CI,0.3(6h),-,-,"Few clouds, haze"
+MASJED-SOLEYMAN,26/10/2019,03Z,19.8,80%,1012.9 Hpa,140º (SE),3.6,4/8,4/8 CU,-,-,-,-,19.8,"Scattered clouds, mist"
+MASJED-SOLEYMAN,26/10/2019,00Z,20.5,68%,1012.0 Hpa,350º (N ),3.6,3/8,3/8 CU/SC,-,-,-,-,-,"Scattered clouds, haze"
+MEYANEH,26/10/2019,21Z,11.0,95%,1016.8 Hpa,calm.,,8/8,4/8 CB,AC,,-,-,-,Overcast
+MEYANEH,26/10/2019,18Z,11.6,88%,1018.1 Hpa,090º (E ),7.2,8/8,5/8 CB,AC,,2.0(6h),-,-,"Overcast, rain"
+MEYANEH,26/10/2019,15Z,15.2,56%,1016.4 Hpa,calm.,,7/8,3/8 CU,AC,CI,-,18.4,-,Cloudy
+MEYANEH,26/10/2019,12Z,17.6,56%,1014.7 Hpa,calm.,,7/8,3/8 CB,-,CI,-,-,-,Cloudy
+MEYANEH,26/10/2019,09Z,17.2,61%,1016.1 Hpa,calm.,,7/8,2/8 CU,-,CI,-,-,-,Cloudy
+MEYANEH,26/10/2019,06Z,13.6,72%,1017.6 Hpa,calm.,,8/8,3/8 SC,AC,,-,-,-,Overcast
+MEYANEH,26/10/2019,03Z,10.4,88%,1016.4 Hpa,calm.,,4/8,1/8 SC,-,CI,-,-,10.4,Scattered clouds
+MEYANEH,26/10/2019,00Z,12.0,84%,1014.1 Hpa,calm.,,3/8,-,-,CI,-,-,-,Scattered clouds
+MOHABAD,26/10/2019,21Z,11.5,81%,1015.0 Hpa,calm.,,8/8,4/8 SC,AC,,-,-,-,Overcast
+MOHABAD,26/10/2019,18Z,11.8,80%,1015.9 Hpa,220º (SW),7.2,8/8,5/8 CB,AC,,2.0(6h),-,-,Overcast
+MOHABAD,26/10/2019,15Z,13.5,60%,1015.2 Hpa,270º (W ),18.0,5/8,5/8 CB,-,-,-,18.0,-,Cloudy
+MOHABAD,26/10/2019,12Z,16.6,48%,1013.0 Hpa,calm.,,6/8,6/8 CB,-,-,-,-,-,Cloudy
+MOHABAD,26/10/2019,09Z,17.1,51%,1014.8 Hpa,050º (NE),18.0,5/8,5/8 CB,-,-,-,-,-,Cloudy
+MOHABAD,26/10/2019,06Z,13.6,69%,1016.4 Hpa,300º (NW),7.2,6/8,4/8 SC,AC,-,-,-,-,Cloudy
+MOHABAD,26/10/2019,03Z,11.4,74%,1015.8 Hpa,calm.,,5/8,4/8 SC,AC,-,-,-,11.0,Cloudy
+MOHABAD,26/10/2019,00Z,12.7,73%,1013.7 Hpa,calm.,,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+NEHBANDAN,26/10/2019,21Z,16.6,19%,1011.8 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+NEHBANDAN,26/10/2019,18Z,18.8,17%,1012.2 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+NEHBANDAN,26/10/2019,15Z,21.1,14%,1013.3 Hpa,calm.,,3/8,-,3/8 AC,-,-,26.6,-,Scattered clouds
+NEHBANDAN,26/10/2019,12Z,24.6,11%,1010.8 Hpa,120º (SE),18.0,4/8,1/8 CU,AC,-,-,-,-,Scattered clouds
+NEHBANDAN,26/10/2019,09Z,24.7,12%,1011.4 Hpa,100º (E ),10.8,3/8,-,3/8 AC,-,-,-,-,Scattered clouds
+NEHBANDAN,26/10/2019,06Z,22.8,13%,1014.1 Hpa,120º (SE),14.4,2/8,-,2/8 AC,-,-,-,-,Few clouds
+NEHBANDAN,26/10/2019,03Z,12.4,26%,1015.1 Hpa,calm.,,0/8,-,-,-,-,-,11.1,Clear
+NEHBANDAN,26/10/2019,00Z,12.6,23%,1013.0 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+NOSHAHR,26/10/2019,21Z,16.6,93%,1018.9 Hpa,calm.,,7/8,6/8 SC,AC,-,-,-,-,Cloudy
+NOSHAHR,26/10/2019,18Z,17.2,91%,1019.1 Hpa,calm.,,7/8,6/8 SC,AC,-,0.1(6h),-,-,Cloudy
+NOSHAHR,26/10/2019,15Z,17.6,92%,1019.1 Hpa,280º (W ),3.6,8/8,8/8 CB,,,-,20.6,-,Overcast
+NOSHAHR,26/10/2019,12Z,18.8,90%,1018.5 Hpa,310º (NW),14.4,7/8,7/8 CU/SC,AC,-,0.3(6h),-,-,Cloudy
+NOSHAHR,26/10/2019,09Z,19.0,90%,1018.9 Hpa,280º (W ),7.2,8/8,7/8 CB,AC,,-,-,-,"Overcast, drizzle"
+NOSHAHR,26/10/2019,06Z,17.6,93%,1018.8 Hpa,240º (SW),3.6,8/8,7/8 CB,AC,,12.0(6h),-,-,"Overcast, drizzle"
+NOSHAHR,26/10/2019,03Z,17.3,98%,1018.4 Hpa,270º (W ),3.6,8/8,6/8 CB,AC,,-,-,16.4,"Overcast, rain"
+NOSHAHR,26/10/2019,00Z,17.5,96%,1018.3 Hpa,270º (W ),3.6,6/8,3/8 SC,AC,-,-,-,-,Cloudy
+OMIDYEH-AGHAJARI,26/10/2019,21Z,26.8,41%,1011.5 Hpa,320º (NW),39.6,8/8,5/8 CB,AC,,-,-,-,"Overcast, duststorm"
+OMIDYEH-AGHAJARI,26/10/2019,18Z,25.7,35%,1011.8 Hpa,330º (NW),5.6,5/8,2/8 CB,AC,-,-,-,-,Cloudy
+OMIDYEH-AGHAJARI,26/10/2019,15Z,29.8,28%,1011.6 Hpa,360º (N ),10.8,4/8,2/8 SC,AC,-,-,36.3,-,Scattered clouds
+OMIDYEH-AGHAJARI,26/10/2019,12Z,33.2,25%,1011.4 Hpa,330º (NW),16.7,6/8,5/8 CB,AC,-,-,-,-,Cloudy
+OMIDYEH-AGHAJARI,26/10/2019,09Z,36.3,20%,1011.0 Hpa,070º (E ),14.4,4/8,2/8 SC,AC,-,-,-,-,Scattered clouds
+OMIDYEH-AGHAJARI,26/10/2019,06Z,30.8,32%,1014.3 Hpa,310º (NW),7.2,4/8,4/8 CU,-,-,-,-,-,Scattered clouds
+OMIDYEH-AGHAJARI,26/10/2019,03Z,23.9,45%,1012.9 Hpa,240º (SW),7.2,4/8,4/8 SC,-,-,-,-,23.9,Scattered clouds
+OMIDYEH-AGHAJARI,26/10/2019,00Z,25.9,41%,1012.7 Hpa,040º (NE),14.4,7/8,7/8 CB,-,-,-,-,-,Cloudy
+ORUMIEH,26/10/2019,21Z,7.8,84%,1015.4 Hpa,280º (W ),10.8,6/8,6/8 CB,-,-,-,-,-,Cloudy
+ORUMIEH,26/10/2019,18Z,8.6,81%,1016.5 Hpa,260º (W ),7.2,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+ORUMIEH,26/10/2019,15Z,9.8,78%,1016.6 Hpa,250º (W ),7.2,3/8,3/8 SC,-,-,-,17.4,-,Scattered clouds
+ORUMIEH,26/10/2019,12Z,16.0,54%,1014.6 Hpa,calm.,,7/8,7/8 CB,-,-,-,-,-,Cloudy
+ORUMIEH,26/10/2019,09Z,16.4,53%,1015.1 Hpa,080º (E ),7.2,5/8,5/8 CB,-,-,-,-,-,Cloudy
+ORUMIEH,26/10/2019,06Z,12.4,73%,1016.9 Hpa,260º (W ),7.2,7/8,7/8 CB,-,-,Tr(24h),-,-,Cloudy
+ORUMIEH,26/10/2019,03Z,8.4,84%,1016.5 Hpa,260º (W ),7.2,6/8,3/8 SC,-,CI,-,-,7.8,Cloudy
+ORUMIEH,26/10/2019,00Z,8.0,84%,1014.6 Hpa,280º (W ),7.2,1/8,1/8 SC,-,-,Tr(6h),-,-,Few clouds
+PARS ABAD MOGHAN,26/10/2019,21Z,11.2,84%,1019.8 Hpa,270º (W ),7.2,0/8,-,-,-,-,-,-,Clear
+PARS ABAD MOGHAN,26/10/2019,18Z,11.3,81%,1019.9 Hpa,210º (SW),7.2,0/8,-,-,-,-,-,-,Clear
+PARS ABAD MOGHAN,26/10/2019,15Z,18.2,62%,1018.9 Hpa,110º (E ),7.2,0/8,-,-,-,-,22.6,-,Clear
+PARS ABAD MOGHAN,26/10/2019,12Z,22.2,51%,1018.4 Hpa,090º (E ),10.8,3/8,1/8 SC,-,CI,-,-,-,Scattered clouds
+PARS ABAD MOGHAN,26/10/2019,09Z,21.0,61%,1019.7 Hpa,080º (E ),7.2,1/8,1/8 SC,-,-,-,-,-,Few clouds
+PARS ABAD MOGHAN,26/10/2019,06Z,13.4,96%,1020.6 Hpa,290º (W ),7.2,6/8,6/8 ST,-,-,-,-,-,"Cloudy, mist"
+PARS ABAD MOGHAN,26/10/2019,03Z,9.4,96%,1019.6 Hpa,270º (W ),7.2,8/8,6/8 ST,AC,,-,-,7.4,"Overcast, mist"
+PARS ABAD MOGHAN,26/10/2019,00Z,8.4,92%,1018.7 Hpa,250º (W ),7.2,0/8,-,-,-,-,-,-,Clear
+RAMSAR,26/10/2019,21Z,16.6,89%,1018.4 Hpa,230º (SW),3.6,7/8,3/8 SC,AC,-,-,-,-,Cloudy
+RAMSAR,26/10/2019,18Z,16.4,91%,1018.9 Hpa,240º (SW),3.6,8/8,3/8 SC,AC,,2.0(6h),-,-,Overcast
+RAMSAR,26/10/2019,15Z,17.2,95%,1018.5 Hpa,calm.,,8/8,3/8 SC,AC,,-,19.0,-,"Overcast, rain"
+RAMSAR,26/10/2019,12Z,18.0,92%,1018.1 Hpa,calm.,,8/8,6/8 CB,AC,,2.0(6h),-,-,"Overcast, rain"
+RAMSAR,26/10/2019,09Z,18.6,92%,1018.5 Hpa,300º (NW),10.8,8/8,5/8 CB,AC,,-,-,-,"Overcast, rain"
+RAMSAR,26/10/2019,06Z,17.4,95%,1018.7 Hpa,calm.,,8/8,6/8 CB,AC,,1.0(6h),-,-,"Overcast, rain"
+RAMSAR,26/10/2019,03Z,17.4,93%,1017.9 Hpa,calm.,,8/8,6/8 CB,AC,,-,-,17.4,"Overcast, mist"
+RAMSAR,26/10/2019,00Z,17.6,89%,1017.9 Hpa,calm.,,7/8,5/8 CB,AC,-,-,-,-,Cloudy
+RASHT,26/10/2019,21Z,16.0,98%,1019.5 Hpa,calm.,,5/8,3/8 SC,AC,-,-,-,-,"Cloudy, fog"
+RASHT,26/10/2019,18Z,16.4,98%,1020.0 Hpa,calm.,,6/8,3/8 SC,AC,-,-,-,-,Cloudy
+RASHT,26/10/2019,15Z,17.0,95%,1019.2 Hpa,calm.,,7/8,5/8 CB,AC,-,-,18.2,-,"Cloudy, mist"
+RASHT,26/10/2019,12Z,18.2,88%,1019.2 Hpa,240º (SW),7.2,8/8,5/8 CB,AC,,14.0(6h),-,-,"Overcast, rain"
+RASHT,26/10/2019,09Z,17.4,98%,1020.1 Hpa,240º (SW),10.8,8/8,6/8 CB,AC,,-,-,-,"Overcast, rain"
+RASHT,26/10/2019,06Z,17.2,98%,1020.1 Hpa,250º (W ),7.2,8/8,6/8 CB,AC,,10.0(6h),-,-,"Overcast, rain"
+RASHT,26/10/2019,03Z,16.6,98%,1018.4 Hpa,calm.,,8/8,5/8 CB,AC,,-,-,16.4,"Overcast, rain"
+RASHT,26/10/2019,00Z,17.0,93%,1018.1 Hpa,calm.,,6/8,3/8 SC,AC,-,-,-,-,"Cloudy, mist"
+SABZEVAR,26/10/2019,21Z,12.6,53%,1016.3 Hpa,080º (E ),21.6,8/8,2/8 SC,AC,-,-,-,-,Overcast
+SABZEVAR,26/10/2019,18Z,13.6,67%,1016.5 Hpa,090º (E ),14.4,8/8,3/8 SC,AC,,Tr(6h),-,-,Overcast
+SABZEVAR,26/10/2019,15Z,15.4,58%,1016.3 Hpa,070º (E ),10.8,8/8,2/8 SC,AC,,-,19.7,-,Overcast
+SABZEVAR,26/10/2019,12Z,17.1,55%,1014.8 Hpa,090º (E ),7.2,8/8,3/8 SC,AC,,Tr(6h),-,-,"Overcast, rain"
+SABZEVAR,26/10/2019,09Z,19.1,35%,1014.6 Hpa,080º (E ),14.4,8/8,2/8 SC,AC,,-,-,-,Overcast
+SABZEVAR,26/10/2019,06Z,16.6,23%,1016.3 Hpa,110º (E ),18.0,7/8,1/8 SC,AC,-,-,-,-,Cloudy
+SABZEVAR,26/10/2019,03Z,13.5,27%,1016.1 Hpa,080º (E ),14.4,6/8,3/8 SC,-,CI,-,-,12.4,Cloudy
+SABZEVAR,26/10/2019,00Z,13.6,36%,1015.7 Hpa,090º (E ),10.8,4/8,4/8 SC,-,-,-,-,-,Scattered clouds
+SAFI-ABAD DEZFUL,26/10/2019,21Z,23.4,64%,1012.0 Hpa,230º (SW),7.2,8/8,6/8 CB,AC,,-,-,-,Overcast
+SAFI-ABAD DEZFUL,26/10/2019,18Z,24.1,60%,1011.2 Hpa,010º (N),3.7,6/8,4/8 SC,AC,-,-,-,-,Cloudy
+SAFI-ABAD DEZFUL,26/10/2019,15Z,26.7,49%,1011.0 Hpa,340º (N ),7.2,4/8,4/8 SC,-,-,-,32.1,-,Scattered clouds
+SAFI-ABAD DEZFUL,26/10/2019,12Z,31.9,31%,1010.5 Hpa,200º (S ),3.7,0/8,-,-,-,-,-,-,Clear
+SAFI-ABAD DEZFUL,26/10/2019,09Z,30.8,36%,1012.7 Hpa,120º (SE),7.2,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+SAFI-ABAD DEZFUL,26/10/2019,06Z,25.6,53%,1014.5 Hpa,100º (E ),3.6,1/8,-,1/8 AC,-,Tr(24h),-,-,Few clouds
+SAFI-ABAD DEZFUL,26/10/2019,03Z,18.6,79%,1013.8 Hpa,calm.,,1/8,-,1/8 AC,-,-,-,18.2,Few clouds
+SAFI-ABAD DEZFUL,26/10/2019,00Z,20.3,71%,1013.5 Hpa,calm.,,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+SAGHEZ,26/10/2019,21Z,7.8,93%,1016.2 Hpa,calm.,,3/8,3/8 CU,-,-,-,-,-,Scattered clouds
+SAGHEZ,26/10/2019,18Z,10.6,87%,1016.9 Hpa,calm.,,6/8,6/8 CB,-,-,-,-,-,Cloudy
+SAGHEZ,26/10/2019,15Z,11.6,84%,1016.0 Hpa,340º (N ),14.4,6/8,6/8 CB,-,-,-,17.6,-,"Cloudy, rain showers"
+SAGHEZ,26/10/2019,12Z,16.0,54%,1013.9 Hpa,calm.,,6/8,6/8 CB,-,-,-,-,-,Cloudy
+SAGHEZ,26/10/2019,09Z,15.2,60%,1015.1 Hpa,170º (S ),7.2,5/8,5/8 CU/SC,-,-,-,-,-,Cloudy
+SAGHEZ,26/10/2019,06Z,11.6,74%,1017.5 Hpa,190º (S ),3.6,7/8,5/8 ST,AC,-,0.6(6h),-,-,Cloudy
+SAGHEZ,26/10/2019,03Z,9.4,87%,1016.5 Hpa,200º (S ),3.6,8/8,5/8 ST,AC,,-,-,9.0,"Overcast, rain"
+SAGHEZ,26/10/2019,00Z,9.1,87%,1015.0 Hpa,270º (W ),14.4,8/8,5/8 CB,AC,,3.0(6h),-,-,"Overcast, rain"
+SANANDAJ,26/10/2019,21Z,11.6,69%,1014.4 Hpa,060º (NE),7.2,2/8,2/8 SC,-,-,-,-,-,Few clouds
+SANANDAJ,26/10/2019,18Z,12.8,65%,1015.4 Hpa,020º (N),10.8,2/8,2/8 SC,-,-,-,-,-,Few clouds
+SANANDAJ,26/10/2019,15Z,14.6,65%,1014.2 Hpa,130º (SE),3.6,4/8,4/8 CB,-,-,-,19.6,-,Scattered clouds
+SANANDAJ,26/10/2019,12Z,18.3,43%,1016.7 Hpa,280º (W ),14.4,5/8,4/8 CB,AC,-,-,-,-,Cloudy
+SANANDAJ,26/10/2019,09Z,17.1,52%,1015.2 Hpa,140º (SE),3.6,4/8,2/8 ST,AC,CI,-,-,-,Scattered clouds
+SANANDAJ,26/10/2019,06Z,12.7,75%,1016.7 Hpa,200º (S ),3.6,4/8,2/8 CU,AC,CI,21.2(24h),-,-,Scattered clouds
+SANANDAJ,26/10/2019,03Z,8.9,91%,1016.6 Hpa,350º (N ),3.6,4/8,3/8 ST,AC,-,-,-,8.8,Scattered clouds
+SANANDAJ,26/10/2019,00Z,9.7,89%,1015.0 Hpa,160º (S ),3.6,7/8,3/8 ST,AC,-,21.0(6h),-,-,"Cloudy, rain"
+SARAB,26/10/2019,21Z,7.8,87%,1017.8 Hpa,calm.,,6/8,4/8 CB,AC,-,-,-,-,Cloudy
+SARAB,26/10/2019,18Z,8.2,89%,1018.2 Hpa,calm.,,6/8,4/8 CB,AC,-,2.0(6h),-,-,Cloudy
+SARAB,26/10/2019,15Z,9.2,80%,1019.4 Hpa,160º (S ),7.2,7/8,5/8 CB,AC,-,-,13.6,-,"Cloudy, lightning"
+SARAB,26/10/2019,12Z,12.8,60%,1016.1 Hpa,130º (SE),10.8,7/8,5/8 CB,AC,-,-,-,-,"Cloudy, distant precipitation"
+SARAB,26/10/2019,09Z,12.6,56%,1017.6 Hpa,150º (SE),10.8,6/8,4/8 CB,AC,CI,-,-,-,"Cloudy, haze"
+SARAB,26/10/2019,06Z,10.4,70%,1018.5 Hpa,340º (N ),7.2,6/8,2/8 CB,AC,CI,-,-,-,"Cloudy, haze"
+SARAB,26/10/2019,03Z,4.4,93%,1018.5 Hpa,calm.,,5/8,3/8 CB,AC,-,-,-,4.2,Cloudy
+SARAB,26/10/2019,00Z,6.6,86%,1016.0 Hpa,calm.,,4/8,3/8 CB,AC,-,-,-,-,Scattered clouds
+SARAKHS,26/10/2019,21Z,12.9,70%,1019.4 Hpa,180º (S ),7.2,7/8,5/8 SC,-,CI,-,-,-,Cloudy
+SARAKHS,26/10/2019,18Z,14.2,69%,1020.4 Hpa,220º (SW),10.8,7/8,3/8 SC,-,CI,-,-,-,Cloudy
+SARAKHS,26/10/2019,15Z,17.2,43%,1020.0 Hpa,210º (SW),10.8,7/8,4/8 CB,-,CI,-,23.5,-,Cloudy
+SARAKHS,26/10/2019,12Z,21.9,21%,1018.6 Hpa,calm.,,7/8,3/8 SC,-,CI,-,-,-,Cloudy
+SARAKHS,26/10/2019,09Z,22.6,20%,1019.3 Hpa,calm.,,7/8,2/8 SC,-,CI,-,-,-,Cloudy
+SARAKHS,26/10/2019,06Z,18.6,32%,1021.7 Hpa,calm.,,4/8,2/8 SC,-,CI,-,-,-,Scattered clouds
+SARAKHS,26/10/2019,03Z,13.1,38%,1020.8 Hpa,280º (W ),7.2,5/8,3/8 SC,-,CI,-,-,12.8,Cloudy
+SARAKHS,26/10/2019,00Z,14.2,45%,1019.5 Hpa,calm.,,3/8,-,-,CI,-,-,-,Scattered clouds
+SARAVAN,26/10/2019,21Z,18.2,28%,1012.8 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SARAVAN,26/10/2019,18Z,22.4,22%,1013.2 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SARAVAN,26/10/2019,15Z,25.7,19%,1013.7 Hpa,calm.,,0/8,-,-,-,-,30.8,-,Clear
+SARAVAN,26/10/2019,12Z,30.3,15%,1011.5 Hpa,180º (S ),7.2,0/8,-,-,-,-,-,-,Clear
+SARAVAN,26/10/2019,09Z,29.2,16%,1012.7 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SARAVAN,26/10/2019,06Z,25.8,20%,1015.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SARAVAN,26/10/2019,03Z,16.0,34%,1016.5 Hpa,calm.,,0/8,-,-,-,-,-,14.3,Clear
+SARAVAN,26/10/2019,00Z,15.9,32%,1014.1 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SEMNAN,26/10/2019,21Z,12.2,95%,1016.6 Hpa,calm.,,3/8,2/8 SC,AC,-,-,-,-,Scattered clouds
+SEMNAN,26/10/2019,18Z,14.4,83%,1016.4 Hpa,220º (SW),3.6,5/8,1/8 SC,AC,-,1.0(6h),-,-,Cloudy
+SEMNAN,26/10/2019,15Z,13.6,88%,1016.0 Hpa,320º (NW),3.6,8/8,2/8 ST,AC,,-,16.8,-,"Overcast, rain"
+SEMNAN,26/10/2019,12Z,16.0,76%,1015.1 Hpa,170º (S ),3.6,7/8,4/8 CU/SC,AC,-,8.0(6h),-,-,Cloudy
+SEMNAN,26/10/2019,09Z,13.8,88%,1016.6 Hpa,090º (E ),3.6,8/8,5/8 ST,AC,,-,-,-,"Overcast, rain"
+SEMNAN,26/10/2019,06Z,12.6,95%,1016.7 Hpa,250º (W ),7.2,8/8,3/8 SC,AC,,10.0(6h),-,-,"Overcast, rain"
+SEMNAN,26/10/2019,03Z,12.6,93%,1015.6 Hpa,030º (NE),3.6,8/8,3/8 SC,AC,,-,-,12.4,"Overcast, rain"
+SEMNAN,26/10/2019,00Z,13.0,91%,1014.7 Hpa,calm.,,5/8,1/8 SC,-,CI,-,-,-,Cloudy
+SHAHRE-KORD,26/10/2019,21Z,9.8,70%,1012.2 Hpa,360º (N ),7.2,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+SHAHRE-KORD,26/10/2019,18Z,12.1,58%,1013.7 Hpa,200º (S ),14.4,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+SHAHRE-KORD,26/10/2019,15Z,14.0,46%,1013.2 Hpa,250º (W ),10.8,3/8,3/8 SC,-,-,-,19.1,-,Scattered clouds
+SHAHRE-KORD,26/10/2019,12Z,17.3,29%,1011.7 Hpa,260º (W ),21.6,4/8,4/8 SC,-,-,-,-,-,Scattered clouds
+SHAHRE-KORD,26/10/2019,09Z,17.9,34%,1013.1 Hpa,260º (W ),25.2,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+SHAHRE-KORD,26/10/2019,06Z,14.5,59%,1015.0 Hpa,050º (NE),3.6,2/8,2/8 SC,-,-,1.7(24h),-,-,Few clouds
+SHAHRE-KORD,26/10/2019,03Z,11.2,67%,1013.5 Hpa,260º (W ),18.0,7/8,5/8 CB,AC,-,-,-,8.3,Cloudy
+SHAHRE-KORD,26/10/2019,00Z,10.4,74%,1012.0 Hpa,220º (SW),14.4,2/8,2/8 SC,-,-,0.5(6h),-,-,Few clouds
+SHAHRUD,26/10/2019,21Z,9.0,92%,1017.7 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SHAHRUD,26/10/2019,18Z,10.2,92%,1017.2 Hpa,calm.,,6/8,2/8 SC,-,CI,-,-,-,Cloudy
+SHAHRUD,26/10/2019,15Z,11.0,90%,1017.2 Hpa,060º (NE),7.2,7/8,4/8 SC,AC,-,-,14.6,-,Cloudy
+SHAHRUD,26/10/2019,12Z,11.6,92%,1016.9 Hpa,030º (NE),10.8,8/8,4/8 ST,AC,,1.0(6h),-,-,"Overcast, drizzle"
+SHAHRUD,26/10/2019,09Z,13.6,66%,1016.2 Hpa,060º (NE),7.2,8/8,4/8 SC,AC,,-,-,-,"Overcast, rain"
+SHAHRUD,26/10/2019,06Z,14.2,57%,1016.7 Hpa,060º (NE),14.4,6/8,3/8 SC,-,CS,-,-,-,Cloudy
+SHAHRUD,26/10/2019,03Z,11.6,77%,1016.3 Hpa,050º (NE),7.2,7/8,2/8 SC,-,CI,-,-,10.2,Cloudy
+SHAHRUD,26/10/2019,00Z,11.0,85%,1015.8 Hpa,010º (N),10.8,2/8,1/8 SC,-,CI,-,-,-,Few clouds
+SHIRAZ,26/10/2019,21Z,13.6,51%,1011.6 Hpa,calm.,,3/8,2/8 SC,-,CI,-,-,-,Scattered clouds
+SHIRAZ,26/10/2019,18Z,18.0,37%,1012.1 Hpa,300º (NW),7.2,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+SHIRAZ,26/10/2019,15Z,21.0,28%,1012.7 Hpa,calm.,,5/8,3/8 SC,AC,-,-,26.8,-,Cloudy
+SHIRAZ,26/10/2019,12Z,24.2,22%,1009.9 Hpa,270º (W ),14.4,7/8,5/8 CB,AC,-,-,-,-,Cloudy
+SHIRAZ,26/10/2019,09Z,24.8,21%,1010.5 Hpa,260º (W ),14.4,6/8,4/8 CB,AC,-,-,-,-,Cloudy
+SHIRAZ,26/10/2019,06Z,22.2,26%,1012.4 Hpa,calm.,,2/8,1/8 SC,AC,-,-,-,-,Few clouds
+SHIRAZ,26/10/2019,03Z,12.6,54%,1013.2 Hpa,calm.,,1/8,1/8 SC,-,-,-,-,12.2,Few clouds
+SHIRAZ,26/10/2019,00Z,17.2,37%,1010.7 Hpa,280º (W ),7.2,4/8,1/8 SC,AC,-,-,-,-,Scattered clouds
+SIRI ISLAND,26/10/2019,15Z,31.0,72%,1010.1 Hpa,300º (NW),7.2,2/8,2/8 SC,-,-,-,33.8,-,"Few clouds, haze"
+SIRI ISLAND,26/10/2019,12Z,33.6,82%,1009.2 Hpa,260º (W ),5.6,1/8,-,-,CI,-,-,-,"Few clouds, haze"
+SIRI ISLAND,26/10/2019,09Z,33.2,66%,1011.2 Hpa,250º (W ),7.2,1/8,-,-,CI,-,-,-,"Few clouds, haze"
+SIRI ISLAND,26/10/2019,06Z,32.2,88%,1012.6 Hpa,140º (SE),7.2,1/8,-,-,CI,-,-,-,"Few clouds, haze"
+SIRI ISLAND,26/10/2019,03Z,27.0,87%,1010.7 Hpa,330º (NW),7.2,1/8,1/8 ST,-,-,-,-,26.8,"Few clouds, mist"
+SIRJAN,26/10/2019,21Z,13.2,38%,1009.9 Hpa,calm.,,3/8,3/8 SC,-,-,-,-,-,Scattered clouds
+SIRJAN,26/10/2019,18Z,15.9,34%,1009.9 Hpa,330º (NW),7.2,0/8,-,-,-,-,-,-,Clear
+SIRJAN,26/10/2019,15Z,23.0,22%,1010.1 Hpa,calm.,,5/8,2/8 SC,AC,-,-,26.4,-,Cloudy
+SIRJAN,26/10/2019,12Z,26.0,20%,1006.5 Hpa,210º (SW),14.4,5/8,2/8 SC,AC,-,-,-,-,Cloudy
+SIRJAN,26/10/2019,09Z,25.2,23%,1007.7 Hpa,200º (S ),21.6,0/8,-,-,-,-,-,-,Clear
+SIRJAN,26/10/2019,06Z,22.1,29%,1010.2 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SIRJAN,26/10/2019,03Z,9.0,50%,1013.4 Hpa,calm.,,0/8,-,-,-,-,-,8.8,Clear
+SIRJAN,26/10/2019,00Z,16.1,40%,1009.2 Hpa,120º (SE),10.8,0/8,-,-,-,-,-,-,Clear
+TABAS,26/10/2019,21Z,17.6,43%,1013.6 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+TABAS,26/10/2019,18Z,21.8,35%,1013.4 Hpa,310º (NW),7.2,3/8,2/8 SC,AC,-,-,-,-,Scattered clouds
+TABAS,26/10/2019,15Z,24.1,32%,1012.5 Hpa,300º (NW),7.2,6/8,4/8 SC,AC,-,-,28.0,-,Cloudy
+TABAS,26/10/2019,12Z,26.4,25%,1011.0 Hpa,calm.,,7/8,6/8 CU,AC,-,-,-,-,Cloudy
+TABAS,26/10/2019,09Z,26.9,24%,1011.0 Hpa,260º (W ),7.2,5/8,3/8 CU,AC,-,-,-,-,Cloudy
+TABAS,26/10/2019,06Z,24.0,34%,1013.2 Hpa,250º (W ),7.2,6/8,3/8 CU,AC,-,-,-,-,Cloudy
+TABAS,26/10/2019,03Z,19.2,48%,1012.9 Hpa,calm.,,7/8,4/8 CU,AC,-,-,-,19.2,Cloudy
+TABAS,26/10/2019,00Z,21.5,37%,1011.8 Hpa,290º (W ),10.8,8/8,2/8 SC,AC,,-,-,-,Overcast
+TABRIZ,26/10/2019,21Z,11.0,70%,1017.3 Hpa,060º (NE),7.2,1/8,1/8 SC,-,-,-,-,-,Few clouds
+TABRIZ,26/10/2019,18Z,12.0,64%,1018.1 Hpa,080º (E ),7.2,2/8,2/8 CB,-,-,-,-,-,Few clouds
+TABRIZ,26/10/2019,15Z,14.0,53%,1017.6 Hpa,090º (E ),18.0,4/8,4/8 CB,-,-,-,17.8,-,Scattered clouds
+TABRIZ,26/10/2019,12Z,17.2,42%,1016.4 Hpa,150º (SE),10.8,6/8,5/8 CB,-,CI,Tr(6h),-,-,Cloudy
+TABRIZ,26/10/2019,09Z,15.6,49%,1017.7 Hpa,100º (E ),7.2,7/8,3/8 CB,AC,CI,-,-,-,Cloudy
+TABRIZ,26/10/2019,06Z,11.8,64%,1018.5 Hpa,080º (E ),10.8,8/8,3/8 CB,AC,,Tr(6h),-,-,"Overcast, rain showers"
+TABRIZ,26/10/2019,03Z,8.6,83%,1018.1 Hpa,Vble.,,6/8,1/8 SC,AC,CI,-,-,6.6,Cloudy
+TABRIZ,26/10/2019,00Z,7.0,86%,1017.7 Hpa,Vble.,,1/8,1/8 SC,-,CI,-,-,-,Few clouds
+TEHRAN-MEHRABAD,26/10/2019,21Z,12.2,83%,1017.2 Hpa,calm.,,4/8,2/8 SC,AC,-,-,-,-,"Scattered clouds, mist"
+TEHRAN-MEHRABAD,26/10/2019,18Z,13.2,75%,1017.4 Hpa,calm.,,5/8,2/8 SC,AC,-,-,-,-,"Cloudy, haze"
+TEHRAN-MEHRABAD,26/10/2019,15Z,15.0,64%,1015.9 Hpa,calm.,,7/8,3/8 SC,AC,-,-,16.0,-,"Cloudy, haze"
+TEHRAN-MEHRABAD,26/10/2019,12Z,15.7,60%,1015.0 Hpa,calm.,,6/8,3/8 CB,AC,-,Tr(6h),-,-,"Cloudy, haze"
+TEHRAN-MEHRABAD,26/10/2019,09Z,14.3,64%,1016.7 Hpa,140º (SE),10.8,7/8,5/8 CB,AC,-,-,-,-,"Cloudy, haze"
+TEHRAN-MEHRABAD,26/10/2019,06Z,11.9,88%,1017.4 Hpa,300º (NW),7.2,8/8,4/8 SC,AC,,19.0(6h),-,-,"Overcast, rain"
+TEHRAN-MEHRABAD,26/10/2019,03Z,11.7,92%,1015.9 Hpa,290º (W ),10.8,8/8,5/8 SC,AC,,-,-,11.6,"Overcast, rain"
+TEHRAN-MEHRABAD,26/10/2019,00Z,13.2,90%,1014.0 Hpa,calm.,,8/8,5/8 ST,AC,,Tr(6h),-,-,"Overcast, rain"
+TORBAT-HEYDARIEH,26/10/2019,21Z,8.0,94%,1017.8 Hpa,calm.,,1/8,1/8 SC,-,-,-,-,-,Few clouds
+TORBAT-HEYDARIEH,26/10/2019,18Z,10.6,88%,1018.0 Hpa,calm.,,3/8,3/8 SC,-,-,-,-,-,"Scattered clouds, mist"
+TORBAT-HEYDARIEH,26/10/2019,15Z,10.9,89%,1016.7 Hpa,calm.,,4/8,4/8 SC,-,-,-,13.8,-,"Scattered clouds, mist"
+TORBAT-HEYDARIEH,26/10/2019,12Z,13.5,79%,1015.0 Hpa,calm.,,7/8,6/8 CB,AC,-,6.0(6h),-,-,Cloudy
+TORBAT-HEYDARIEH,26/10/2019,09Z,9.9,95%,1017.1 Hpa,calm.,,8/8,7/8 ST,AC,,-,-,-,"Overcast, rain"
+TORBAT-HEYDARIEH,26/10/2019,06Z,8.1,89%,1019.1 Hpa,330º (NW),7.2,8/8,6/8 CB,AC,,4.0(6h),-,-,"Overcast, rain"
+TORBAT-HEYDARIEH,26/10/2019,03Z,9.6,53%,1017.2 Hpa,070º (E ),7.2,8/8,5/8 SC,AC,,-,-,9.5,"Overcast, rain"
+TORBAT-HEYDARIEH,26/10/2019,00Z,10.7,35%,1015.0 Hpa,080º (E ),7.2,8/8,5/8 SC,AC,,Tr(6h),-,-,"Overcast, rain"
+YASOGE,26/10/2019,21Z,11.6,71%,1012.5 Hpa,calm.,,6/8,3/8 CB,AC,-,-,-,-,Cloudy
+YASOGE,26/10/2019,18Z,12.6,64%,1015.3 Hpa,calm.,,5/8,3/8 SC,AC,-,0.1(6h),-,-,Cloudy
+YASOGE,26/10/2019,15Z,15.4,51%,1014.9 Hpa,100º (E ),7.2,7/8,5/8 CB,AC,-,-,19.8,-,Cloudy
+YASOGE,26/10/2019,12Z,17.6,46%,1013.7 Hpa,120º (SE),10.8,7/8,5/8 CB,AC,-,-,-,-,Cloudy
+YASOGE,26/10/2019,09Z,19.8,33%,1013.8 Hpa,230º (SW),7.2,5/8,5/8 SC,AC,-,-,-,-,Cloudy
+YASOGE,26/10/2019,06Z,13.2,68%,1016.9 Hpa,calm.,,8/8,5/8 CB,AC,,0.2(6h),-,-,Overcast
+YASOGE,26/10/2019,03Z,11.0,83%,1015.1 Hpa,calm.,,7/8,1/8 CB,AC,-,-,-,11.0,Cloudy
+YASOGE,26/10/2019,00Z,12.4,68%,1013.2 Hpa,calm.,,5/8,1/8 CB,-,-,0.1(6h),-,-,Cloudy
+YAZD,26/10/2019,21Z,16.5,59%,1013.2 Hpa,270º (W ),10.8,6/8,-,4/8 AC,CI,-,-,-,Cloudy
+YAZD,26/10/2019,18Z,17.3,54%,1013.9 Hpa,280º (W ),10.8,4/8,-,1/8 AC,CI,-,-,-,Scattered clouds
+YAZD,26/10/2019,15Z,20.0,47%,1013.2 Hpa,290º (W ),7.2,4/8,1/8 SC,AC,CI,-,23.5,-,Scattered clouds
+YAZD,26/10/2019,12Z,22.6,37%,1011.5 Hpa,330º (NW),18.0,4/8,1/8 SC,AC,CI,-,-,-,Scattered clouds
+YAZD,26/10/2019,09Z,22.1,39%,1012.1 Hpa,020º (N),7.2,6/8,1/8 CU,AC,CI,-,-,-,Cloudy
+YAZD,26/10/2019,06Z,19.0,48%,1013.8 Hpa,150º (SE),14.4,6/8,1/8 SC,AC,CI,-,-,-,Cloudy
+YAZD,26/10/2019,03Z,14.0,68%,1013.6 Hpa,130º (SE),7.2,4/8,-,3/8 AC,CI,-,-,13.6,"Scattered clouds, haze"
+YAZD,26/10/2019,00Z,15.0,67%,1012.0 Hpa,140º (SE),7.2,6/8,2/8 SC,AC,CS,-,-,-,"Cloudy, haze"
+ZABOL,26/10/2019,21Z,19.7,31%,1013.2 Hpa,350º (N ),25.2,4/8,-,3/8 AC,CI,-,-,-,Scattered clouds
+ZABOL,26/10/2019,18Z,21.8,25%,1013.3 Hpa,340º (N ),7.4,5/8,-,3/8 AC,CI,-,-,-,Cloudy
+ZABOL,26/10/2019,15Z,25.0,22%,1012.7 Hpa,040º (NE),7.2,4/8,-,2/8 AC,CI,-,29.7,-,Scattered clouds
+ZABOL,26/10/2019,12Z,29.6,16%,1011.0 Hpa,100º (E ),7.4,4/8,-,-,CI,-,-,-,Scattered clouds
+ZABOL,26/10/2019,09Z,28.6,15%,1012.8 Hpa,080º (E ),10.8,2/8,-,-,CI,-,-,-,Few clouds
+ZABOL,26/10/2019,06Z,24.4,15%,1016.6 Hpa,360º (N ),14.4,3/8,-,1/8 AC,CC,-,-,-,Scattered clouds
+ZABOL,26/10/2019,03Z,13.8,28%,1017.3 Hpa,010º (N),14.4,2/8,-,2/8 AC,CC,-,-,13.1,Few clouds
+ZABOL,26/10/2019,00Z,15.6,26%,1015.0 Hpa,340º (N ),14.4,0/8,-,-,-,-,-,-,Clear
+ZAHEDAN,26/10/2019,21Z,16.7,29%,1010.6 Hpa,250º (W ),7.2,1/8,-,1/8 AC,-,-,-,-,Few clouds
+ZAHEDAN,26/10/2019,18Z,20.3,24%,1011.1 Hpa,170º (S ),14.4,1/8,-,1/8 AC,-,-,-,-,Few clouds
+ZAHEDAN,26/10/2019,15Z,23.1,22%,1012.9 Hpa,140º (SE),18.0,2/8,1/8 SC,AC,-,-,27.6,-,Few clouds
+ZAHEDAN,26/10/2019,12Z,26.8,19%,1009.9 Hpa,140º (SE),28.8,4/8,3/8 CU,-,CC,-,-,-,Scattered clouds
+ZAHEDAN,26/10/2019,09Z,27.2,19%,1010.5 Hpa,130º (SE),21.6,1/8,1/8 CU,AC,CC,-,-,-,Few clouds
+ZAHEDAN,26/10/2019,06Z,23.8,23%,1013.2 Hpa,020º (N),7.2,1/8,-,1/8 AC,-,-,-,-,Few clouds
+ZAHEDAN,26/10/2019,03Z,11.1,39%,1015.8 Hpa,calm.,,0/8,-,-,-,-,-,9.6,Clear
+ZAHEDAN,26/10/2019,00Z,11.4,38%,1013.4 Hpa,230º (SW),7.2,0/8,-,-,-,-,-,-,Clear
+ZANJAN,26/10/2019,21Z,8.9,94%,1015.7 Hpa,calm.,,8/8,5/8 CB,AC,,-,-,-,"Overcast, rain"
+ZANJAN,26/10/2019,18Z,9.2,89%,1017.4 Hpa,calm.,,7/8,4/8 ST,AC,-,-,-,-,Cloudy
+ZANJAN,26/10/2019,15Z,9.7,82%,1016.7 Hpa,140º (SE),3.6,5/8,4/8 ST,AC,CI,-,15.5,-,Cloudy
+ZANJAN,26/10/2019,12Z,13.3,62%,1015.0 Hpa,250º (W ),7.2,7/8,4/8 CB,AC,CI,-,-,-,Cloudy
+ZANJAN,26/10/2019,09Z,15.0,57%,1015.5 Hpa,270º (W ),7.2,4/8,4/8 CB,AC,-,-,-,-,Scattered clouds
+ZANJAN,26/10/2019,06Z,10.7,85%,1017.5 Hpa,270º (W ),7.2,8/8,6/8 CB,AC,,Tr(24h),-,-,"Overcast, mist"
+ZANJAN,26/10/2019,03Z,9.8,85%,1015.2 Hpa,290º (W ),3.6,8/8,6/8 CB,AC,,-,-,8.4,"Overcast, mist"
+ZANJAN,26/10/2019,00Z,9.5,92%,1013.6 Hpa,100º (E ),3.6,8/8,4/8 ST,AC,,-,-,-,"Overcast, mist"

@@ -1,0 +1,558 @@
+Station ∆,Date,UTC time,Temp. (ºC),Rel. Hum. (%),Pressure/ Geopot.,Wind dir,Wins speed (Km/h),Clouds,Low clouds,Medium clouds,High clouds,Prec. (mm),Max temp. (ºC),Min temp. (ºC),Conditions
+ABADAN,20/11/2007,21Z,25.0,68%,1016.4 Hpa,210º (SW),18.0,0/8,-,-,-,-,-,-,Clear
+ABADAN,20/11/2007,18Z,25.4,66%,1016.7 Hpa,180º (S ),14.4,0/8,-,-,-,-,-,-,Clear
+ABADAN,20/11/2007,15Z,,0%,1015.9 Hpa,180º (S ),14.4,1/8,1/8 SC,-,-,-,32.8,-,"Few clouds, haze"
+ABADAN,20/11/2007,12Z,29.8,34%,1015.3 Hpa,180º (S ),18.0,1/8,-,-,CI,-,-,-,"Few clouds, haze"
+ABADAN,20/11/2007,09Z,30.2,36%,1017.2 Hpa,010º (N),10.8,0/8,-,-,CI,-,-,-,"Clear, haze"
+ABADAN,20/11/2007,06Z,25.6,80%,1017.4 Hpa,130º (SE),14.4,3/8,-,-,CI,-,-,-,"Scattered clouds, mist"
+ABADAN,20/11/2007,03Z,16.2,75%,1016.6 Hpa,120º (SE),7.2,1/8,-,1/8 AC,-,-,-,14.2,Few clouds
+ABADAN,20/11/2007,00Z,16.2,57%,1016.6 Hpa,calm.,,1/8,-,1/8 AC,-,-,-,-,Few clouds
+ABADEH,20/11/2007,21Z,7.4,53%,1019.1 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+ABADEH,20/11/2007,18Z,11.2,43%,1019.6 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+ABADEH,20/11/2007,15Z,13.6,31%,1021.8 Hpa,230º (SW),21.6,3/8,1/8 SC,-,CI,-,18.0,-,Scattered clouds
+ABADEH,20/11/2007,12Z,17.0,20%,1018.0 Hpa,250º (W ),25.2,7/8,4/8 SC,-,CI,-,-,-,Cloudy
+ABADEH,20/11/2007,09Z,17.6,24%,1017.6 Hpa,calm.,,5/8,1/8 CU,-,CI,-,-,-,Cloudy
+ABADEH,20/11/2007,06Z,12.6,42%,1020.6 Hpa,calm.,,4/8,-,-,CI,-,-,-,Scattered clouds
+ABADEH,20/11/2007,03Z,2.6,69%,1022.1 Hpa,calm.,,2/8,-,-,CI,-,-,2.6,Few clouds
+ABADEH,20/11/2007,00Z,4.8,66%,1019.2 Hpa,calm.,,1/8,-,-,CI,-,-,-,Few clouds
+ABU MUSA,20/11/2007,15Z,27.0,84%,1018.1 Hpa,270º (W ),7.2,1/8,1/8 SC,-,-,-,29.2,-,"Few clouds, mist"
+ABU MUSA,20/11/2007,12Z,28.6,109%,1017.5 Hpa,300º (NW),10.8,1/8,1/8 SC,-,-,-,-,-,"Few clouds, haze"
+ABU MUSA,20/11/2007,09Z,28.6,76%,1018.9 Hpa,180º (S ),7.2,1/8,1/8 SC,-,-,-,-,-,"Few clouds, haze"
+ABU MUSA,20/11/2007,06Z,28.2,111%,1020.3 Hpa,160º (S ),14.4,1/8,1/8 SC,-,-,-,-,-,"Few clouds, mist"
+ABU MUSA,20/11/2007,03Z,23.0,87%,1018.6 Hpa,090º (E ),7.2,0/8,-,-,-,-,-,23.0,"Clear, mist"
+AHAR,20/11/2007,21Z,9.6,50%,1016.0 Hpa,240º (SW),10.8,6/8,-,6/8 AC,-,-,-,-,Cloudy
+AHAR,20/11/2007,18Z,5.4,68%,1020.3 Hpa,calm.,,8/8,-,-,CS,-,-,-,Overcast
+AHAR,20/11/2007,15Z,7.6,66%,1020.1 Hpa,360º (N ),7.2,8/8,-,3/8 AC,CS,-,13.8,-,Overcast
+AHAR,20/11/2007,12Z,12.0,50%,1018.9 Hpa,130º (SE),10.8,6/8,-,-,CI,-,-,-,Cloudy
+AHAR,20/11/2007,09Z,8.6,55%,1020.0 Hpa,100º (E ),10.8,7/8,-,1/8 AC,CS,-,-,-,Cloudy
+AHAR,20/11/2007,06Z,3.8,69%,1022.8 Hpa,calm.,,7/8,-,1/8 AC,CI,-,-,-,Cloudy
+AHAR,20/11/2007,03Z,2.8,68%,1021.2 Hpa,calm.,,3/8,-,-,CI,-,-,1.8,Scattered clouds
+AHAR,20/11/2007,00Z,2.0,70%,1019.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+AHWAZ,20/11/2007,21Z,25.4,47%,1016.5 Hpa,140º (SE),14.4,3/8,-,-,CI,-,-,-,Scattered clouds
+AHWAZ,20/11/2007,18Z,25.4,67%,1017.1 Hpa,120º (SE),14.4,7/8,4/8 SC,AC,-,-,-,-,"Cloudy, haze"
+AHWAZ,20/11/2007,15Z,27.4,48%,1016.7 Hpa,150º (SE),14.4,5/8,2/8 SC,AC,-,-,31.8,-,"Cloudy, haze"
+AHWAZ,20/11/2007,12Z,30.8,32%,1015.5 Hpa,150º (SE),21.6,1/8,-,1/8 AC,-,-,-,-,"Few clouds, dust"
+AHWAZ,20/11/2007,09Z,29.4,44%,1017.5 Hpa,150º (SE),21.6,6/8,3/8 SC,AC,-,-,-,-,"Cloudy, dust"
+AHWAZ,20/11/2007,06Z,26.6,34%,1018.6 Hpa,150º (SE),18.0,7/8,2/8 SC,AC,CI,-,-,-,"Cloudy, haze"
+AHWAZ,20/11/2007,03Z,21.4,83%,1017.0 Hpa,120º (SE),7.2,4/8,4/8 SC,-,-,-,-,18.4,"Scattered clouds, mist"
+AHWAZ,20/11/2007,00Z,19.4,73%,1016.3 Hpa,110º (E ),7.2,3/8,-,3/8 AC,-,-,-,-,"Scattered clouds, haze"
+ALI-GOODARZ,20/11/2007,21Z,6.0,86%,1019.0 Hpa,100º (E ),10.8,4/8,4/8 SC,-,-,-,-,-,Scattered clouds
+ALI-GOODARZ,20/11/2007,18Z,9.0,60%,1020.3 Hpa,300º (NW),18.0,6/8,4/8 CB,AC,-,0.4(6h),-,-,Cloudy
+ALI-GOODARZ,20/11/2007,15Z,7.8,77%,1020.9 Hpa,120º (SE),18.0,6/8,4/8 SC,AC,CI,-,15.0,-,Cloudy
+ALI-GOODARZ,20/11/2007,12Z,9.0,78%,1020.9 Hpa,280º (W ),21.6,8/8,4/8 CB,AC,,2.0(6h),-,-,"Overcast, rain showers"
+ALI-GOODARZ,20/11/2007,09Z,13.8,37%,1016.8 Hpa,180º (S ),18.0,7/8,5/8 CU,-,CI,-,-,-,Cloudy
+ALI-GOODARZ,20/11/2007,06Z,13.0,39%,1018.9 Hpa,180º (S ),21.6,7/8,4/8 CU,AC,CI,-,-,-,Cloudy
+ALI-GOODARZ,20/11/2007,03Z,9.2,34%,1018.0 Hpa,090º (E ),18.0,3/8,2/8 SC,-,CI,-,-,8.2,Scattered clouds
+ALI-GOODARZ,20/11/2007,00Z,10.2,31%,1015.6 Hpa,120º (SE),14.4,5/8,2/8 SC,-,CI,-,-,-,Cloudy
+ANZALI,20/11/2007,21Z,15.0,93%,1018.8 Hpa,calm.,,7/8,3/8 SC,AC,-,-,-,-,Cloudy
+ANZALI,20/11/2007,18Z,14.6,93%,1020.4 Hpa,calm.,,7/8,3/8 SC,AC,-,-,-,-,Cloudy
+ANZALI,20/11/2007,15Z,15.6,89%,1021.3 Hpa,050º (NE),10.8,6/8,3/8 SC,AC,-,-,16.4,-,Cloudy
+ANZALI,20/11/2007,12Z,16.0,68%,1021.0 Hpa,020º (N),14.4,8/8,5/8 SC,AC,,-,-,-,Overcast
+ANZALI,20/11/2007,09Z,16.0,89%,1023.2 Hpa,020º (N),14.4,8/8,5/8 CB,AC,-,-,-,-,Overcast
+ANZALI,20/11/2007,06Z,14.2,76%,1022.6 Hpa,150º (SE),10.8,7/8,4/8 SC,AC,-,-,-,-,Cloudy
+ANZALI,20/11/2007,03Z,13.6,95%,1021.8 Hpa,calm.,,6/8,2/8 CU,AC,-,-,-,13.6,Cloudy
+ANZALI,20/11/2007,00Z,14.2,93%,1021.5 Hpa,calm.,,3/8,-,-,CI,-,-,-,Scattered clouds
+ARAK,20/11/2007,21Z,8.8,88%,1018.0 Hpa,150º (SE),7.2,4/8,3/8 SC,-,CI,-,-,-,"Scattered clouds, haze"
+ARAK,20/11/2007,18Z,6.8,92%,1021.3 Hpa,calm.,,8/8,4/8 CB,AC,,1.0(6h),-,-,"Overcast, mist"
+ARAK,20/11/2007,15Z,7.8,87%,1022.8 Hpa,calm.,,8/8,4/8 CB,AC,,-,17.8,-,"Overcast, rain showers"
+ARAK,20/11/2007,12Z,9.8,78%,1020.4 Hpa,270º (W ),21.6,8/8,5/8 CB,AC,,2.0(6h),-,-,"Overcast, rain showers"
+ARAK,20/11/2007,09Z,15.4,41%,1017.3 Hpa,300º (NW),25.2,8/8,4/8 CB,AC,,-,-,-,Overcast
+ARAK,20/11/2007,06Z,14.4,27%,1018.1 Hpa,calm.,,7/8,2/8 SC,-,CI,-,-,-,Cloudy
+ARAK,20/11/2007,03Z,8.2,42%,1018.1 Hpa,calm.,,3/8,1/8 SC,-,CI,-,-,6.6,Scattered clouds
+ARAK,20/11/2007,00Z,11.0,35%,1015.1 Hpa,280º (W ),18.0,3/8,1/8 SC,AC,-,-,-,-,Scattered clouds
+ARDEBIL,20/11/2007,21Z,9.4,73%,1016.3 Hpa,230º (SW),39.6,7/8,-,4/8 AC,CI,-,-,-,"Cloudy, dust"
+ARDEBIL,20/11/2007,18Z,11.6,49%,1016.6 Hpa,230º (SW),36.0,6/8,-,1/8 AC,CC,-,-,-,"Cloudy, dust"
+ARDEBIL,20/11/2007,15Z,8.0,79%,1018.3 Hpa,calm.,,7/8,2/8 SC,AC,CI,-,12.8,-,Cloudy
+ARDEBIL,20/11/2007,12Z,11.4,59%,1016.8 Hpa,calm.,,4/8,-,1/8 AC,CI,-,-,-,Scattered clouds
+ARDEBIL,20/11/2007,09Z,8.8,77%,1019.4 Hpa,calm.,,8/8,4/8 ST,AC,CI,-,-,-,"Overcast, haze"
+ARDEBIL,20/11/2007,06Z,4.2,93%,1022.8 Hpa,calm.,,8/8,8/8 ST,,,-,-,-,"Overcast, mist"
+ARDEBIL,20/11/2007,03Z,5.2,93%,1021.6 Hpa,calm.,,8/8,8/8 ST,,,-,-,5.0,Overcast
+ARDEBIL,20/11/2007,00Z,5.8,94%,1018.8 Hpa,calm.,,8/8,8/8 ST,,,-,-,-,Overcast
+BABULSAR,20/11/2007,21Z,12.0,89%,1018.1 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BABULSAR,20/11/2007,18Z,14.4,77%,1019.4 Hpa,120º (SE),7.2,4/8,-,-,CS,-,-,-,Scattered clouds
+BABULSAR,20/11/2007,15Z,15.8,74%,1020.0 Hpa,calm.,,8/8,-,-,CS,-,19.0,-,Overcast
+BABULSAR,20/11/2007,12Z,17.8,59%,1020.5 Hpa,calm.,,8/8,-,-,CS,-,-,-,Overcast
+BABULSAR,20/11/2007,09Z,17.4,58%,1021.5 Hpa,120º (SE),10.8,8/8,-,-,CS,-,-,-,Overcast
+BABULSAR,20/11/2007,06Z,13.4,77%,-,130º (SE),7.2,8/8,-,-,CS,23.0(9h),-,-,Overcast
+BABULSAR,20/11/2007,03Z,10.4,92%,1022.8 Hpa,calm.,,2/8,-,-,CI,-,-,9.8,Few clouds
+BABULSAR,20/11/2007,00Z,10.8,92%,1022.0 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BAFT,20/11/2007,21Z,7.0,41%,1019.7 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BAFT,20/11/2007,18Z,7.8,38%,1021.2 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BAFT,20/11/2007,15Z,11.8,34%,1022.9 Hpa,calm.,,0/8,-,-,-,-,17.6,-,Clear
+BAFT,20/11/2007,12Z,17.4,25%,1019.1 Hpa,210º (SW),10.8,0/8,-,-,-,-,-,-,Clear
+BAFT,20/11/2007,09Z,16.2,27%,1019.9 Hpa,240º (SW),10.8,0/8,-,-,-,-,-,-,Clear
+BAFT,20/11/2007,06Z,13.8,43%,1021.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BAFT,20/11/2007,03Z,4.4,61%,1023.7 Hpa,calm.,,0/8,-,-,-,-,-,4.0,Clear
+BAFT,20/11/2007,00Z,5.0,49%,1019.7 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BAM,20/11/2007,21Z,19.4,36%,1012.9 Hpa,290º (W ),25.2,0/8,-,-,-,-,-,-,Clear
+BAM,20/11/2007,18Z,19.6,30%,1014.5 Hpa,300º (NW),18.0,0/8,-,-,-,-,-,-,Clear
+BAM,20/11/2007,15Z,22.4,30%,1014.5 Hpa,060º (NE),10.8,0/8,-,-,-,-,28.6,-,Clear
+BAM,20/11/2007,12Z,27.8,11%,1012.7 Hpa,150º (SE),18.0,0/8,-,-,-,-,-,-,Clear
+BAM,20/11/2007,09Z,28.4,11%,1013.9 Hpa,120º (SE),18.0,0/8,-,-,-,-,-,-,Clear
+BAM,20/11/2007,06Z,23.4,18%,1017.4 Hpa,280º (W ),25.2,0/8,-,-,-,-,-,-,Clear
+BAM,20/11/2007,03Z,16.2,25%,1016.6 Hpa,270º (W ),25.2,0/8,-,-,-,-,-,14.8,Clear
+BAM,20/11/2007,00Z,16.6,31%,1014.2 Hpa,270º (W ),21.6,0/8,-,-,-,-,-,-,Clear
+BANDAR LENGEH,20/11/2007,21Z,23.4,84%,1018.6 Hpa,360º (N ),7.2,0/8,-,-,-,-,-,-,"Clear, mist"
+BANDAR LENGEH,20/11/2007,18Z,24.4,79%,1019.2 Hpa,360º (N ),7.2,0/8,-,-,-,-,-,-,"Clear, mist"
+BANDAR LENGEH,20/11/2007,15Z,26.0,79%,1018.6 Hpa,270º (W ),7.2,0/8,-,-,-,-,29.2,-,"Clear, haze"
+BANDAR LENGEH,20/11/2007,12Z,28.0,74%,1017.7 Hpa,150º (SE),18.0,1/8,1/8 CU,-,-,-,-,-,"Few clouds, haze"
+BANDAR LENGEH,20/11/2007,09Z,28.0,74%,1019.0 Hpa,120º (SE),14.4,0/8,-,-,-,-,-,-,"Clear, haze"
+BANDAR LENGEH,20/11/2007,06Z,27.0,81%,1020.5 Hpa,100º (E ),18.0,0/8,-,-,-,-,-,-,"Clear, mist"
+BANDAR LENGEH,20/11/2007,03Z,22.0,85%,1018.4 Hpa,060º (NE),14.4,0/8,-,-,-,-,-,20.4,"Clear, mist"
+BANDAR LENGEH,20/11/2007,00Z,22.0,82%,1017.4 Hpa,350º (N ),7.2,0/8,-,-,-,-,-,-,"Clear, mist"
+BANDARABBASS,20/11/2007,21Z,22.4,89%,1019.3 Hpa,020º (N),7.2,0/8,-,-,-,-,-,-,"Clear, mist"
+BANDARABBASS,20/11/2007,18Z,23.4,84%,1019.3 Hpa,050º (NE),7.2,0/8,-,-,-,-,-,-,"Clear, mist"
+BANDARABBASS,20/11/2007,15Z,26.6,79%,1018.2 Hpa,250º (W ),10.8,0/8,-,-,-,-,30.0,-,"Clear, mist"
+BANDARABBASS,20/11/2007,12Z,28.8,65%,1017.4 Hpa,210º (SW),14.4,1/8,1/8 CU,-,-,-,-,-,"Few clouds, haze"
+BANDARABBASS,20/11/2007,09Z,29.6,64%,1019.1 Hpa,180º (S ),18.0,2/8,2/8 SC,-,-,-,-,-,"Few clouds, haze"
+BANDARABBASS,20/11/2007,06Z,26.6,82%,1021.5 Hpa,090º (E ),14.4,5/8,5/8 SC,-,-,-,-,-,"Cloudy, mist"
+BANDARABBASS,20/11/2007,03Z,22.8,92%,1019.3 Hpa,360º (N ),7.2,5/8,5/8 SC,-,-,-,-,22.0,"Cloudy, mist"
+BANDARABBASS,20/11/2007,00Z,22.8,89%,1018.0 Hpa,020º (N),7.2,0/8,-,-,-,-,-,-,"Clear, mist"
+BIRJAND,20/11/2007,21Z,5.6,58%,1020.4 Hpa,calm.,,1/8,-,-,CI,-,-,-,Few clouds
+BIRJAND,20/11/2007,18Z,10.4,37%,1020.5 Hpa,090º (E ),7.2,5/8,-,-,CI,-,-,-,Cloudy
+BIRJAND,20/11/2007,15Z,15.0,33%,1022.7 Hpa,270º (W ),7.2,3/8,-,-,CI,-,22.6,-,Scattered clouds
+BIRJAND,20/11/2007,12Z,22.0,18%,1019.0 Hpa,270º (W ),14.4,5/8,2/8 SC,AC,CI,-,-,-,Cloudy
+BIRJAND,20/11/2007,09Z,22.8,28%,1019.5 Hpa,calm.,,3/8,1/8 SC,AC,-,-,-,-,Scattered clouds
+BIRJAND,20/11/2007,06Z,18.2,33%,1023.0 Hpa,calm.,,2/8,-,2/8 AC,-,-,-,-,Few clouds
+BIRJAND,20/11/2007,03Z,5.4,60%,1024.3 Hpa,090º (E ),7.2,2/8,1/8 SC,AC,-,-,-,4.8,Few clouds
+BIRJAND,20/11/2007,00Z,5.8,55%,1020.2 Hpa,calm.,,2/8,2/8 SC,-,-,-,-,-,Few clouds
+BOJNOURD,20/11/2007,21Z,8.2,69%,1019.0 Hpa,calm.,,4/8,-,4/8 AC,-,-,-,-,Scattered clouds
+BOJNOURD,20/11/2007,18Z,8.6,84%,1021.4 Hpa,calm.,,5/8,3/8 SC,AC,-,-,-,-,"Cloudy, mist"
+BOJNOURD,20/11/2007,15Z,10.6,67%,1023.0 Hpa,calm.,,5/8,-,-,CS,-,15.4,-,"Cloudy, haze"
+BOJNOURD,20/11/2007,12Z,15.0,60%,1021.3 Hpa,calm.,,8/8,2/8 ST,AC,,-,-,-,"Overcast, haze"
+BOJNOURD,20/11/2007,09Z,14.4,61%,1022.5 Hpa,calm.,,6/8,-,-,CI,-,-,-,"Cloudy, haze"
+BOJNOURD,20/11/2007,06Z,8.6,77%,1025.7 Hpa,calm.,,4/8,-,-,CS,-,-,-,"Scattered clouds, haze"
+BOJNOURD,20/11/2007,03Z,1.8,93%,1026.1 Hpa,calm.,,5/8,4/8 SC,-,CI,-,-,1.4,"Cloudy, mist"
+BOJNOURD,20/11/2007,00Z,4.6,64%,1013.5 Hpa,250º (W ),7.2,1/8,-,1/8 AC,-,-,-,-,Few clouds
+BUSHEHR,20/11/2007,18Z,26.0,220%,1019.7 Hpa,180º (S ),10.8,0/8,-,-,-,-,-,-,Clear
+BUSHEHR,20/11/2007,15Z,26.4,82%,1018.8 Hpa,190º (S ),10.8,0/8,-,-,-,-,29.6,-,Clear
+BUSHEHR,20/11/2007,12Z,28.6,190%,1017.9 Hpa,190º (S ),18.0,1/8,-,1/8 AC,-,-,-,-,Few clouds
+BUSHEHR,20/11/2007,09Z,29.2,60%,1019.3 Hpa,200º (S ),18.0,0/8,-,-,-,-,-,-,Clear
+BUSHEHR,20/11/2007,06Z,27.8,16%,1020.3 Hpa,180º (S ),7.2,0/8,-,-,-,-,-,-,Clear
+BUSHEHR,20/11/2007,03Z,21.8,59%,1018.4 Hpa,calm.,,0/8,-,-,-,-,-,20.8,Clear
+BUSHEHR,20/11/2007,00Z,24.0,143%,1017.5 Hpa,180º (S ),10.8,0/8,-,-,-,-,-,-,"Clear, mist"
+CHAHBAHAR,20/11/2007,21Z,23.2,86%,1019.7 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, haze"
+CHAHBAHAR,20/11/2007,15Z,26.4,75%,1020.2 Hpa,180º (S ),10.8,0/8,0/8 CU,AC,-,-,80.1,-,Clear
+CHAHBAHAR,20/11/2007,09Z,29.2,69%,1019.3 Hpa,160º (S ),7.2,1/8,0/8 CU,AC,CI,-,80.1,-,"Few clouds, haze"
+CHAHBAHAR,20/11/2007,03Z,22.4,90%,1021.0 Hpa,calm.,,0/8,0/8 CU,AC,CI,-,80.1,-,"Clear, mist"
+ESFAHAN,20/11/2007,21Z,10.8,56%,1017.9 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+ESFAHAN,20/11/2007,18Z,14.4,42%,1018.9 Hpa,230º (SW),7.2,3/8,1/8 SC,-,CI,-,-,-,Scattered clouds
+ESFAHAN,20/11/2007,15Z,16.8,35%,1019.7 Hpa,260º (W ),10.8,4/8,4/8 SC,AC,-,-,20.6,-,Scattered clouds
+ESFAHAN,20/11/2007,12Z,17.6,33%,1017.2 Hpa,240º (SW),21.6,6/8,3/8 CB,AC,-,-,-,-,Cloudy
+ESFAHAN,20/11/2007,09Z,20.0,28%,1016.5 Hpa,090º (E ),14.4,5/8,3/8 CU,-,CI,-,-,-,Cloudy
+ESFAHAN,20/11/2007,06Z,13.0,48%,1019.5 Hpa,calm.,,6/8,1/8 SC,-,CI,-,-,-,Cloudy
+ESFAHAN,20/11/2007,03Z,7.0,68%,1019.2 Hpa,calm.,,4/8,-,-,CI,-,-,6.8,Scattered clouds
+ESFAHAN,20/11/2007,00Z,10.0,52%,1016.1 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+FASA,20/11/2007,21Z,8.0,56%,1019.2 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+FASA,20/11/2007,18Z,11.2,49%,1019.8 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+FASA,20/11/2007,15Z,16.2,33%,1020.4 Hpa,220º (SW),7.2,0/8,-,-,-,-,24.2,-,Clear
+FASA,20/11/2007,12Z,23.6,20%,1017.1 Hpa,210º (SW),7.2,0/8,-,-,-,-,-,-,Clear
+FASA,20/11/2007,09Z,23.8,23%,1018.0 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+FASA,20/11/2007,06Z,18.0,36%,1021.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+FASA,20/11/2007,03Z,5.8,69%,1021.7 Hpa,350º (N ),7.2,0/8,-,-,-,-,-,5.4,Clear
+FASA,20/11/2007,00Z,7.0,60%,1018.4 Hpa,360º (N ),7.2,0/8,-,-,-,-,-,-,Clear
+FERDOUS,20/11/2007,21Z,11.0,48%,1019.0 Hpa,060º (NE),7.2,2/8,-,2/8 AC,-,-,-,-,Few clouds
+FERDOUS,20/11/2007,18Z,13.2,46%,1020.0 Hpa,060º (NE),7.2,6/8,1/8 SC,AC,CI,-,-,-,Cloudy
+FERDOUS,20/11/2007,15Z,17.4,41%,1024.4 Hpa,310º (NW),10.8,7/8,3/8 SC,AC,CI,-,23.6,-,Cloudy
+FERDOUS,20/11/2007,12Z,23.2,33%,1017.5 Hpa,200º (S ),18.0,5/8,2/8 SC,-,CI,-,-,-,Cloudy
+FERDOUS,20/11/2007,09Z,22.4,37%,1021.0 Hpa,160º (S ),18.0,3/8,1/8 SC,-,CI,-,-,-,Scattered clouds
+FERDOUS,20/11/2007,06Z,18.2,49%,1022.1 Hpa,110º (E ),18.0,4/8,2/8 SC,AC,CI,-,-,-,Scattered clouds
+FERDOUS,20/11/2007,03Z,12.0,52%,011 m(1000 Hpa),050º (NE),10.8,5/8,3/8 SC,AC,CI,-,-,10.8,Cloudy
+FERDOUS,20/11/2007,00Z,12.4,53%,1018.8 Hpa,080º (E ),7.2,3/8,2/8 SC,AC,-,-,-,-,Scattered clouds
+GACH SARAN DU GUNBADAN,20/11/2007,21Z,14.8,51%,1017.9 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+GACH SARAN DU GUNBADAN,20/11/2007,18Z,16.2,44%,1018.6 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+GACH SARAN DU GUNBADAN,20/11/2007,12Z,26.8,22%,1015.2 Hpa,270º (W ),10.8,3/8,3/8 CU,-,-,-,-,-,Scattered clouds
+GACH SARAN DU GUNBADAN,20/11/2007,09Z,28.0,19%,1017.0 Hpa,150º (SE),14.4,5/8,-,-,CI,-,-,-,Cloudy
+GACH SARAN DU GUNBADAN,20/11/2007,06Z,22.4,30%,1018.4 Hpa,140º (SE),14.4,2/8,-,-,CI,-,-,-,Few clouds
+GACH SARAN DU GUNBADAN,20/11/2007,03Z,14.0,64%,1016.9 Hpa,calm.,,0/8,-,-,-,-,-,14.0,Clear
+GACH SARAN DU GUNBADAN,20/11/2007,00Z,16.0,51%,1015.2 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+GHARAKHIL,20/11/2007,21Z,10.2,97%,1018.4 Hpa,calm.,,5/8,1/8 SC,AC,-,-,-,-,Cloudy
+GHARAKHIL,20/11/2007,18Z,11.6,94%,1019.5 Hpa,190º (S ),7.2,1/8,-,1/8 AC,CI,-,-,-,Few clouds
+GHARAKHIL,20/11/2007,15Z,14.0,84%,1020.1 Hpa,140º (SE),7.2,8/8,-,8/8 AC,,-,17.4,-,Overcast
+GHARAKHIL,20/11/2007,12Z,17.0,66%,1020.4 Hpa,calm.,,5/8,-,-,CI,-,-,-,Cloudy
+GHARAKHIL,20/11/2007,09Z,15.6,74%,1021.5 Hpa,calm.,,7/8,-,1/8 AC,CS,-,-,-,Cloudy
+GHARAKHIL,20/11/2007,06Z,12.0,92%,1023.7 Hpa,calm.,,3/8,-,3/8 AC,-,-,-,-,"Scattered clouds, mist"
+GHARAKHIL,20/11/2007,03Z,7.8,100%,1022.4 Hpa,calm.,,1/8,-,1/8 AC,-,-,-,7.8,Few clouds
+GHARAKHIL,20/11/2007,00Z,8.8,97%,1021.1 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+GHAZVIN,20/11/2007,21Z,8.2,87%,1020.4 Hpa,Vble.,,6/8,3/8 CB,AC,-,-,-,-,"Cloudy, rain showers"
+GHAZVIN,20/11/2007,18Z,9.0,2172%,1022.1 Hpa,120º (SE),10.8,7/8,3/8 CB,AC,-,0.2(6h),-,-,Cloudy
+GHAZVIN,20/11/2007,15Z,11.2,57%,1022.6 Hpa,130º (SE),28.8,7/8,4/8 CB,AC,-,-,16.5,-,Cloudy
+GHAZVIN,20/11/2007,12Z,15.0,37%,1020.2 Hpa,180º (S ),14.4,8/8,4/8 CU/SC,AC,,-,-,-,"Overcast, haze"
+GHAZVIN,20/11/2007,09Z,15.0,39%,1019.9 Hpa,160º (S ),10.8,7/8,-,1/8 AC,CS,-,-,-,"Cloudy, haze"
+GHAZVIN,20/11/2007,06Z,12.2,46%,1022.0 Hpa,100º (E ),10.8,7/8,-,-,CI,-,-,-,"Cloudy, haze"
+GHAZVIN,20/11/2007,03Z,8.2,50%,1020.4 Hpa,calm.,,3/8,-,2/8 AC,CI,-,7.4,-,Scattered clouds
+GHAZVIN,20/11/2007,00Z,8.6,50%,1017.4 Hpa,calm.,,3/8,-,3/8 AC,-,-,-,-,Scattered clouds
+GHUCHAN,20/11/2007,21Z,6.2,66%,1018.0 Hpa,070º (E ),14.4,0/8,-,-,-,-,-,-,Clear
+GHUCHAN,20/11/2007,18Z,8.8,65%,1018.8 Hpa,030º (NE),25.2,0/8,-,-,-,-,-,-,Clear
+GHUCHAN,20/11/2007,15Z,12.0,56%,1019.6 Hpa,060º (NE),18.0,5/8,1/8 SC,AC,CI,-,16.2,-,Cloudy
+GHUCHAN,20/11/2007,12Z,15.0,49%,1019.1 Hpa,120º (SE),21.6,8/8,1/8 SC,AC,CI,-,-,-,Overcast
+GHUCHAN,20/11/2007,09Z,15.0,42%,1020.2 Hpa,090º (E ),36.0,2/8,-,0/8 AC,-,-,-,-,Few clouds
+GHUCHAN,20/11/2007,06Z,10.0,71%,1023.4 Hpa,060º (NE),21.6,1/8,-,0/8 AC,-,-,-,-,Few clouds
+GHUCHAN,20/11/2007,03Z,2.6,73%,1022.8 Hpa,060º (NE),18.0,0/8,-,-,-,-,-,-1.0,Clear
+GHUCHAN,20/11/2007,00Z,0.0,60%,1019.9 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+HAMEDAN,20/11/2007,21Z,4.3,96%,1022.4 Hpa,calm.,,7/8,2/8 SC,AC,-,-,-,-,"Cloudy, mist"
+HAMEDAN,20/11/2007,18Z,6.4,91%,1023.3 Hpa,calm.,,7/8,5/8 CB,AC,-,4.0(6h),-,-,"Cloudy, rain"
+HAMEDAN,20/11/2007,15Z,7.2,82%,1025.3 Hpa,240º (SW),14.4,7/8,6/8 CB,AC,-,-,11.9,-,"Cloudy, rain"
+HAMEDAN,20/11/2007,12Z,7.8,79%,1024.0 Hpa,050º (NE),7.2,8/8,5/8 CB,AC,,0.6(6h),-,-,"Overcast, rain"
+HAMEDAN,20/11/2007,09Z,8.2,62%,1023.6 Hpa,calm.,,8/8,4/8 CB,AC,,-,-,-,Overcast
+HAMEDAN,20/11/2007,06Z,6.0,49%,1023.5 Hpa,calm.,,7/8,2/8 SC,-,CI,-,-,-,Cloudy
+HAMEDAN,20/11/2007,03Z,2.6,65%,1022.6 Hpa,calm.,,5/8,2/8 SC,-,CI,-,-,2.1,Cloudy
+HAMEDAN,20/11/2007,00Z,4.4,56%,1019.6 Hpa,calm.,,2/8,2/8 SC,-,-,-,-,-,Few clouds
+ILAM,20/11/2007,21Z,11.4,68%,1016.5 Hpa,210º (SW),7.2,6/8,3/8 SC,AC,-,-,-,-,Cloudy
+ILAM,20/11/2007,18Z,12.4,67%,1016.8 Hpa,140º (SE),14.4,6/8,3/8 SC,AC,-,1.0(6h),-,-,Cloudy
+ILAM,20/11/2007,15Z,13.8,61%,1016.1 Hpa,160º (S ),14.4,8/8,4/8 CB,AC,,-,15.4,-,Overcast
+ILAM,20/11/2007,12Z,14.6,60%,1017.2 Hpa,150º (SE),28.8,6/8,3/8 SC,AC,-,1.0(6h),-,-,Cloudy
+ILAM,20/11/2007,09Z,14.0,55%,1019.1 Hpa,150º (SE),10.8,8/8,1/8 CB,AC,,-,-,-,Overcast
+ILAM,20/11/2007,06Z,14.4,40%,1020.9 Hpa,140º (SE),36.0,8/8,2/8 CB,AC,,-,-,-,Overcast
+ILAM,20/11/2007,03Z,10.2,55%,1018.8 Hpa,120º (SE),14.4,7/8,4/8 SC,-,CI,-,-,9.0,"Cloudy, haze"
+ILAM,20/11/2007,00Z,9.6,54%,1016.7 Hpa,120º (SE),10.8,3/8,-,-,CI,-,-,-,Scattered clouds
+IRANSHAHR,20/11/2007,21Z,19.2,32%,1019.9 Hpa,040º (NE),7.2,0/8,-,-,-,-,-,-,Clear
+IRANSHAHR,20/11/2007,18Z,21.1,32%,1019.8 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+IRANSHAHR,20/11/2007,15Z,25.3,24%,1018.0 Hpa,calm.,,0/8,-,-,-,-,31.1,-,Clear
+IRANSHAHR,20/11/2007,12Z,30.1,20%,1016.0 Hpa,250º (W ),7.2,0/8,-,-,-,-,-,-,Clear
+IRANSHAHR,20/11/2007,09Z,29.6,25%,1017.6 Hpa,250º (W ),14.4,1/8,1/8 CU,-,-,-,-,-,"Few clouds, haze"
+IRANSHAHR,20/11/2007,06Z,26.2,31%,1021.2 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, haze"
+IRANSHAHR,20/11/2007,03Z,17.5,45%,1021.8 Hpa,020º (N),10.8,0/8,-,-,-,-,-,17.3,Clear
+IRANSHAHR,20/11/2007,00Z,17.9,38%,1019.9 Hpa,010º (N),14.4,0/8,-,-,-,-,-,-,Clear
+JASK,20/11/2007,21Z,26.2,79%,1019.1 Hpa,160º (S ),7.2,0/8,-,-,-,-,-,-,"Clear, haze"
+JASK,20/11/2007,18Z,25.2,971%,1019.4 Hpa,010º (N),7.2,0/8,-,-,-,-,-,-,"Clear, haze"
+JASK,20/11/2007,15Z,26.4,76%,1018.7 Hpa,calm.,,0/8,-,-,-,-,28.8,-,"Clear, haze"
+JASK,20/11/2007,12Z,28.0,327%,1018.3 Hpa,190º (S ),10.8,1/8,1/8 CU,-,-,-,-,-,"Few clouds, haze"
+JASK,20/11/2007,09Z,28.2,76%,1019.5 Hpa,130º (SE),7.2,0/8,-,-,-,-,-,-,"Clear, haze"
+JASK,20/11/2007,06Z,26.6,355%,1021.5 Hpa,060º (NE),14.4,0/8,-,-,-,-,-,-,"Clear, mist"
+JASK,20/11/2007,03Z,23.2,91%,1019.3 Hpa,050º (NE),14.4,0/8,-,-,-,-,-,23.0,"Clear, mist"
+JASK,20/11/2007,00Z,24.4,20%,1017.9 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, mist"
+KASHAN,20/11/2007,21Z,10.0,80%,1024.5 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KASHAN,20/11/2007,18Z,11.6,72%,1025.5 Hpa,calm.,,3/8,-,3/8 AC,-,-,-,-,Scattered clouds
+KASHAN,20/11/2007,15Z,15.4,47%,1024.8 Hpa,calm.,,7/8,3/8 SC,AC,-,-,19.0,-,Cloudy
+KASHAN,20/11/2007,12Z,18.0,34%,1020.8 Hpa,calm.,,8/8,3/8 SC,AC,,-,-,-,Overcast
+KASHAN,20/11/2007,09Z,18.0,32%,1021.3 Hpa,360º (N ),7.2,6/8,2/8 SC,-,CI,-,-,-,Cloudy
+KASHAN,20/11/2007,06Z,13.2,43%,1023.5 Hpa,calm.,,3/8,-,-,CI,-,-,-,Scattered clouds
+KASHAN,20/11/2007,03Z,8.2,53%,1022.5 Hpa,calm.,,0/8,-,-,-,-,-,7.8,Clear
+KASHAN,20/11/2007,00Z,9.2,53%,1020.2 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KASHMAR,20/11/2007,21Z,13.8,41%,1018.2 Hpa,calm.,,4/8,-,-,CS,-,-,-,Scattered clouds
+KASHMAR,20/11/2007,18Z,16.0,37%,1019.6 Hpa,calm.,,7/8,-,-,CI,-,-,-,Cloudy
+KASHMAR,20/11/2007,15Z,16.2,42%,1020.1 Hpa,calm.,,5/8,1/8 SC,-,CI,-,21.2,-,Cloudy
+KASHMAR,20/11/2007,12Z,20.6,28%,1018.9 Hpa,calm.,,5/8,1/8 SC,-,CI,-,-,-,Cloudy
+KASHMAR,20/11/2007,09Z,20.6,29%,1019.5 Hpa,calm.,,3/8,1/8 SC,-,CI,-,-,-,Scattered clouds
+KASHMAR,20/11/2007,06Z,15.4,62%,1022.6 Hpa,calm.,,4/8,3/8 SC,AC,-,0.1(6h),-,-,Scattered clouds
+KASHMAR,20/11/2007,03Z,12.2,44%,1021.6 Hpa,calm.,,5/8,4/8 SC,-,CI,-,-,9.8,Cloudy
+KASHMAR,20/11/2007,00Z,11.6,49%,1019.4 Hpa,calm.,,2/8,2/8 SC,-,CI,-,-,-,Few clouds
+KERMAN,20/11/2007,21Z,5.8,41%,1020.9 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KERMAN,20/11/2007,18Z,9.0,33%,1022.0 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KERMAN,20/11/2007,15Z,15.6,28%,1022.9 Hpa,calm.,,0/8,-,-,-,-,22.6,-,Clear
+KERMAN,20/11/2007,12Z,22.0,22%,1018.9 Hpa,calm.,,1/8,-,-,CI,-,-,-,Few clouds
+KERMAN,20/11/2007,09Z,20.4,26%,1020.9 Hpa,240º (SW),10.8,0/8,-,-,-,-,-,-,Clear
+KERMAN,20/11/2007,06Z,13.8,31%,1025.6 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KERMAN,20/11/2007,03Z,2.6,46%,1024.8 Hpa,100º (E ),7.2,1/8,-,-,-,-,-,2.0,Few clouds
+KERMAN,20/11/2007,00Z,3.8,44%,1020.5 Hpa,120º (SE),7.2,0/8,-,-,-,-,-,-,Clear
+KERMANSHAH,20/11/2007,21Z,14.2,60%,1018.8 Hpa,090º (E ),28.8,7/8,4/8 CB,AC,-,-,-,-,Cloudy
+KERMANSHAH,20/11/2007,18Z,12.8,64%,1018.3 Hpa,110º (E ),28.8,7/8,4/8 CB,AC,-,1.0(6h),-,-,"Cloudy, rain"
+KERMANSHAH,20/11/2007,15Z,12.8,67%,1021.3 Hpa,090º (E ),25.2,8/8,4/8 CB,AC,,-,13.9,-,"Overcast, rain"
+KERMANSHAH,20/11/2007,12Z,12.5,69%,1021.6 Hpa,110º (E ),21.6,7/8,-,-,-,5.0(6h),-,-,Cloudy
+KERMANSHAH,20/11/2007,09Z,9.0,89%,1024.4 Hpa,050º (NE),10.8,8/8,5/8 CB,AC,,-,-,-,"Overcast, rain showers"
+KERMANSHAH,20/11/2007,06Z,13.9,39%,1022.1 Hpa,300º (NW),7.2,8/8,4/8 CB,AC,CI,-,-,-,Overcast
+KERMANSHAH,20/11/2007,03Z,5.6,61%,1020.4 Hpa,150º (SE),7.2,5/8,-,-,CI,-,-,5.4,Cloudy
+KERMANSHAH,20/11/2007,00Z,5.7,48%,1018.7 Hpa,calm.,,2/8,2/8 SC,-,-,-,-,-,Few clouds
+KHARG,20/11/2007,15Z,26.2,81%,1017.6 Hpa,180º (S ),10.8,0/8,-,-,-,-,29.2,-,Clear
+KHARG,20/11/2007,12Z,28.2,65%,1017.2 Hpa,180º (S ),18.0,0/8,-,-,-,-,-,-,Clear
+KHARG,20/11/2007,09Z,29.0,62%,1018.7 Hpa,180º (S ),18.0,1/8,-,-,CI,-,-,-,Few clouds
+KHARG,20/11/2007,06Z,26.0,69%,1019.4 Hpa,150º (SE),18.0,0/8,-,-,-,-,-,-,Clear
+KHARG,20/11/2007,03Z,26.0,76%,1017.8 Hpa,180º (S ),10.8,0/8,-,-,-,-,-,24.6,Clear
+KHOR,20/11/2007,21Z,16.0,41%,1018.6 Hpa,280º (W ),7.2,0/8,-,-,-,-,-,-,Clear
+KHOR,20/11/2007,18Z,20.4,25%,1018.8 Hpa,290º (W ),10.8,5/8,-,2/8 AC,CI,-,-,-,Cloudy
+KHOR,20/11/2007,15Z,18.6,35%,1018.7 Hpa,calm.,,4/8,-,-,CI,-,25.8,-,Scattered clouds
+KHOR,20/11/2007,12Z,25.0,24%,1016.2 Hpa,calm.,,7/8,-,-,CS,-,-,-,Cloudy
+KHOR,20/11/2007,09Z,23.2,32%,1017.8 Hpa,calm.,,5/8,-,-,CI,-,-,-,Cloudy
+KHOR,20/11/2007,06Z,17.0,53%,1020.3 Hpa,calm.,,4/8,-,-,CI,Tr(24h),-,-,Scattered clouds
+KHOR,20/11/2007,03Z,12.4,62%,1019.3 Hpa,calm.,,4/8,1/8 SC,-,CI,-,-,12.4,Scattered clouds
+KHOR,20/11/2007,00Z,14.4,60%,1016.8 Hpa,calm.,,5/8,2/8 SC,AC,-,-,-,-,Cloudy
+KHORRAM ABAD,20/11/2007,21Z,10.6,97%,1020.3 Hpa,calm.,,5/8,3/8 CB,AC,-,-,-,-,Cloudy
+KHORRAM ABAD,20/11/2007,18Z,11.4,95%,1021.9 Hpa,290º (W ),7.2,5/8,3/8 SC,AC,-,7.0(6h),-,-,"Cloudy, thunderstorms"
+KHORRAM ABAD,20/11/2007,15Z,11.2,100%,1025.0 Hpa,290º (W ),7.2,8/8,5/8 CB,AC,,-,16.4,-,"Overcast, rain"
+KHORRAM ABAD,20/11/2007,12Z,13.6,78%,1021.5 Hpa,300º (NW),14.4,8/8,5/8 CB,AC,,2.0(6h),-,-,Overcast
+KHORRAM ABAD,20/11/2007,09Z,15.2,56%,1021.8 Hpa,290º (W ),21.6,8/8,5/8 CB,AC,,-,-,-,"Overcast, rain showers"
+KHORRAM ABAD,20/11/2007,06Z,11.6,61%,1022.9 Hpa,350º (N ),14.4,8/8,5/8 CB,AC,,-,-,-,Overcast
+KHORRAM ABAD,20/11/2007,03Z,6.6,72%,1020.5 Hpa,calm.,,5/8,2/8 CU,AC,CI,-,-,6.0,Cloudy
+KHORRAM ABAD,20/11/2007,00Z,7.4,73%,1018.6 Hpa,260º (W ),7.2,2/8,-,-,CI,-,-,-,Few clouds
+KHOY,20/11/2007,21Z,4.8,64%,1016.3 Hpa,calm.,,7/8,4/8 CB,AC,-,-,-,-,Cloudy
+KHOY,20/11/2007,18Z,7.0,60%,1018.1 Hpa,calm.,,4/8,2/8 SC,-,CS,-,-,-,Scattered clouds
+KHOY,20/11/2007,15Z,9.2,51%,1018.7 Hpa,calm.,,6/8,3/8 SC,-,CS,-,13.0,-,"Cloudy, haze"
+KHOY,20/11/2007,12Z,12.6,43%,1017.8 Hpa,calm.,,7/8,3/8 SC,-,CI,-,-,-,Cloudy
+KHOY,20/11/2007,09Z,10.6,45%,1019.5 Hpa,070º (E ),7.2,7/8,4/8 SC,AC,-,-,-,-,"Cloudy, haze"
+KHOY,20/11/2007,06Z,6.2,64%,1022.1 Hpa,180º (S ),10.8,8/8,3/8 SC,AC,,-,-,-,Overcast
+KHOY,20/11/2007,03Z,2.6,70%,1020.4 Hpa,calm.,,4/8,-,-,CI,-,-,2.2,Scattered clouds
+KHOY,20/11/2007,00Z,4.6,69%,1018.4 Hpa,calm.,,3/8,-,-,CI,-,-,-,Scattered clouds
+KISH ISLAND,20/11/2007,21Z,24.2,81%,1018.4 Hpa,310º (NW),7.2,0/8,-,-,-,-,-,-,"Clear, mist"
+KISH ISLAND,20/11/2007,18Z,24.8,75%,1019.3 Hpa,310º (NW),7.2,0/8,-,-,-,-,-,-,"Clear, haze"
+KISH ISLAND,20/11/2007,15Z,26.4,69%,1018.6 Hpa,280º (W ),7.2,0/8,-,-,-,-,30.8,-,"Clear, haze"
+KISH ISLAND,20/11/2007,12Z,30.0,43%,1017.4 Hpa,170º (S ),10.8,0/8,-,-,-,-,-,-,"Clear, haze"
+KISH ISLAND,20/11/2007,09Z,29.6,54%,1018.8 Hpa,120º (SE),18.0,0/8,-,-,-,-,-,-,"Clear, haze"
+KISH ISLAND,20/11/2007,06Z,28.4,55%,1020.5 Hpa,090º (E ),10.8,0/8,-,-,-,-,-,-,"Clear, haze"
+KISH ISLAND,20/11/2007,03Z,24.4,72%,1018.8 Hpa,calm.,,0/8,-,-,-,-,-,23.8,"Clear, haze"
+KISH ISLAND,20/11/2007,00Z,25.0,81%,1016.9 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, mist"
+KONARAK,20/11/2007,21Z,20.6,85%,1019.2 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KONARAK,20/11/2007,18Z,22.0,79%,1020.2 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KONARAK,20/11/2007,12Z,30.0,50%,1018.2 Hpa,160º (S ),18.0,1/8,1/8 SC,-,-,-,-,-,Few clouds
+KONARAK,20/11/2007,09Z,-50.4,48425%,-,150º (SE),14.4,1/8,-,-,-,-,-,-,Few clouds
+KONARAK,20/11/2007,06Z,26.4,73%,1022.0 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, haze"
+KONARAK,20/11/2007,03Z,17.8,100%,1019.9 Hpa,calm.,,0/8,-,-,-,-,-,17.8,Clear
+MAKKO,20/11/2007,21Z,2.8,77%,1017.3 Hpa,calm.,,3/8,3/8 SC,-,CI,-,-,-,Scattered clouds
+MAKKO,20/11/2007,18Z,5.0,73%,1019.1 Hpa,calm.,,8/8,4/8 SC,AC,CI,-,-,-,Overcast
+MAKKO,20/11/2007,15Z,8.0,57%,1010.6 Hpa,calm.,,6/8,3/8 SC,AC,-,-,9.5,-,Cloudy
+MAKKO,20/11/2007,12Z,9.2,52%,1018.6 Hpa,120º (SE),7.2,7/8,3/8 CB,AC,-,-,-,-,Cloudy
+MAKKO,20/11/2007,09Z,8.0,59%,1019.8 Hpa,calm.,,8/8,4/8 CB,AC,,-,-,-,Overcast
+MAKKO,20/11/2007,06Z,5.0,71%,1022.1 Hpa,calm.,,8/8,3/8 SC,AC,CI,-,-,-,Overcast
+MAKKO,20/11/2007,03Z,4.8,68%,1020.9 Hpa,calm.,,7/8,3/8 SC,-,CI,-,-,3.8,Cloudy
+MAKKO,20/11/2007,00Z,5.0,68%,1019.6 Hpa,calm.,,7/8,3/8 SC,-,CI,-,-,-,Cloudy
+MARAGHEH,20/11/2007,21Z,9.2,84%,1015.2 Hpa,120º (SE),7.2,7/8,2/8 CB,AC,-,-,-,-,"Cloudy, rain"
+MARAGHEH,20/11/2007,18Z,12.0,48%,1017.0 Hpa,180º (S ),10.8,6/8,2/8 SC,-,CI,-,-,-,Cloudy
+MARAGHEH,20/11/2007,15Z,14.2,34%,1016.9 Hpa,calm.,,6/8,2/8 SC,-,CI,-,18.6,-,Cloudy
+MARAGHEH,20/11/2007,12Z,18.2,20%,1015.3 Hpa,210º (SW),21.6,5/8,2/8 SC,-,CI,-,-,-,Cloudy
+MARAGHEH,20/11/2007,09Z,16.2,32%,1017.6 Hpa,210º (SW),14.4,4/8,2/8 SC,-,CI,-,-,-,Scattered clouds
+MARAGHEH,20/11/2007,06Z,9.8,25%,1020.5 Hpa,090º (E ),14.4,8/8,1/8 SC,AC,CI,-,-,-,Overcast
+MARAGHEH,20/11/2007,03Z,5.8,32%,1020.3 Hpa,100º (E ),18.0,6/8,-,-,CI,-,-,5.2,Cloudy
+MARAGHEH,20/11/2007,00Z,5.4,28%,1018.5 Hpa,070º (E ),18.0,2/8,-,-,CI,-,-,-,Few clouds
+MASHHAD,20/11/2007,21Z,8.0,56%,1020.7 Hpa,calm.,,5/8,-,1/8 AC,CI,-,-,-,"Cloudy, haze"
+MASHHAD,20/11/2007,18Z,11.2,43%,1022.1 Hpa,calm.,,7/8,1/8 SC,AC,CI,-,-,-,"Cloudy, haze"
+MASHHAD,20/11/2007,15Z,12.2,43%,1023.3 Hpa,210º (SW),7.2,7/8,2/8 SC,-,CI,-,16.8,-,"Cloudy, haze"
+MASHHAD,20/11/2007,12Z,15.6,37%,1022.5 Hpa,calm.,,7/8,3/8 SC,-,CI,-,-,-,"Cloudy, haze"
+MASHHAD,20/11/2007,09Z,16.0,41%,1021.8 Hpa,180º (S ),7.2,5/8,2/8 SC,-,CI,-,-,-,"Cloudy, haze"
+MASHHAD,20/11/2007,06Z,11.8,52%,1025.2 Hpa,calm.,,5/8,-,-,CI,Tr(24h),-,-,"Cloudy, haze"
+MASHHAD,20/11/2007,03Z,6.2,64%,1024.3 Hpa,calm.,,5/8,1/8 SC,-,CI,-,-,6.0,"Cloudy, haze"
+MASHHAD,20/11/2007,00Z,6.8,59%,1021.0 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, haze"
+MASJED-SOLEYMAN,20/11/2007,21Z,23.0,31%,1016.6 Hpa,150º (SE),14.4,6/8,-,3/8 AC,CI,-,-,-,Cloudy
+MASJED-SOLEYMAN,20/11/2007,18Z,24.0,44%,1017.3 Hpa,120º (SE),10.8,6/8,-,6/8 AC,-,-,-,-,Cloudy
+MASJED-SOLEYMAN,20/11/2007,15Z,26.8,42%,1016.1 Hpa,150º (SE),14.4,3/8,-,3/8 AC,-,-,28.8,-,Scattered clouds
+MASJED-SOLEYMAN,20/11/2007,12Z,28.0,36%,1015.0 Hpa,150º (SE),18.0,7/8,3/8 SC,AC,-,-,-,-,"Cloudy, dust"
+MASJED-SOLEYMAN,20/11/2007,09Z,24.6,46%,1017.2 Hpa,180º (S ),14.4,7/8,3/8 SC,AC,-,-,-,-,Cloudy
+MASJED-SOLEYMAN,20/11/2007,06Z,23.0,55%,1017.8 Hpa,calm.,,6/8,3/8 SC,AC,-,-,-,-,Cloudy
+MASJED-SOLEYMAN,20/11/2007,03Z,21.0,68%,1016.2 Hpa,calm.,,3/8,3/8 SC,-,-,-,-,17.4,Scattered clouds
+MASJED-SOLEYMAN,20/11/2007,00Z,21.4,69%,1015.7 Hpa,calm.,,8/8,-,5/8 AC,CS,-,-,-,Overcast
+MOHABAD,20/11/2007,21Z,9.6,73%,1014.0 Hpa,calm.,,6/8,4/8 CB,AC,-,-,-,-,"Cloudy, thunderstorm, hail"
+MOHABAD,20/11/2007,18Z,11.0,68%,1017.1 Hpa,180º (S ),7.2,6/8,3/8 SC,AC,-,-,-,-,Cloudy
+MOHABAD,20/11/2007,15Z,13.4,36%,1017.6 Hpa,220º (SW),18.0,2/8,2/8 SC,-,-,-,18.8,-,Few clouds
+MOHABAD,20/11/2007,12Z,18.0,22%,1014.6 Hpa,210º (SW),18.0,3/8,3/8 CU,-,-,-,-,-,Scattered clouds
+MOHABAD,20/11/2007,09Z,17.0,26%,1016.3 Hpa,210º (SW),18.0,1/8,1/8 CU,-,-,-,-,-,Few clouds
+MOHABAD,20/11/2007,06Z,9.0,47%,1019.6 Hpa,calm.,,7/8,2/8 SC,AC,-,-,-,-,Cloudy
+MOHABAD,20/11/2007,03Z,4.8,51%,1019.4 Hpa,calm.,,6/8,2/8 SC,AC,-,-,-,4.8,Cloudy
+MOHABAD,20/11/2007,00Z,7.6,46%,1017.1 Hpa,calm.,,4/8,1/8 SC,AC,-,-,-,-,Scattered clouds
+NEHBANDAN,20/11/2007,21Z,11.0,37%,1022.1 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+NEHBANDAN,20/11/2007,18Z,15.6,30%,1023.4 Hpa,calm.,,1/8,-,-,CI,-,-,-,Few clouds
+NEHBANDAN,20/11/2007,15Z,19.0,25%,1024.3 Hpa,130º (SE),14.4,0/8,-,-,-,-,25.8,-,Clear
+NEHBANDAN,20/11/2007,12Z,24.4,23%,1021.6 Hpa,180º (S ),10.8,2/8,1/8 CU,-,CI,-,-,-,Few clouds
+NEHBANDAN,20/11/2007,09Z,24.0,29%,1022.5 Hpa,calm.,,1/8,1/8 CU,-,CI,-,-,-,Few clouds
+NEHBANDAN,20/11/2007,06Z,17.4,32%,1026.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+NEHBANDAN,20/11/2007,03Z,7.0,49%,1025.7 Hpa,calm.,,0/8,-,-,-,-,-,6.8,Clear
+NEHBANDAN,20/11/2007,00Z,7.8,47%,1022.4 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+NOSHAHR,20/11/2007,21Z,10.8,89%,1017.5 Hpa,190º (S ),7.2,3/8,2/8 ST,AC,-,-,-,-,Scattered clouds
+NOSHAHR,20/11/2007,18Z,12.2,90%,1019.2 Hpa,Vble.,,5/8,2/8 SC,AC,-,-,-,-,Cloudy
+NOSHAHR,20/11/2007,15Z,14.2,86%,1019.4 Hpa,Vble.,,5/8,3/8 SC,AC,-,-,17.8,-,Cloudy
+NOSHAHR,20/11/2007,12Z,17.4,66%,1020.2 Hpa,090º (E ),14.4,8/8,4/8 CB,AC,,-,-,-,Overcast
+NOSHAHR,20/11/2007,09Z,17.6,64%,1020.7 Hpa,110º (E ),21.6,7/8,3/8 CU/SC,AC,CI,-,-,-,Cloudy
+NOSHAHR,20/11/2007,06Z,16.6,77%,1022.6 Hpa,Vble.,,7/8,3/8 CB,AC,CI,-,-,-,Cloudy
+NOSHAHR,20/11/2007,03Z,11.2,89%,1021.4 Hpa,190º (S ),7.2,7/8,4/8 CB,AC,-,-,-,10.4,Cloudy
+NOSHAHR,20/11/2007,00Z,12.8,90%,1020.7 Hpa,calm.,,2/8,1/8 SC,AC,-,-,-,-,Few clouds
+OMIDYEH-AGHAJARI,20/11/2007,21Z,20.8,53%,1018.9 Hpa,140º (SE),14.4,0/8,-,-,-,-,-,-,Clear
+OMIDYEH-AGHAJARI,20/11/2007,18Z,23.2,65%,1019.2 Hpa,130º (SE),14.4,0/8,-,-,-,-,-,-,Clear
+OMIDYEH-AGHAJARI,20/11/2007,15Z,24.6,48%,1018.8 Hpa,170º (S ),14.4,0/8,-,-,-,-,32.2,-,Clear
+OMIDYEH-AGHAJARI,20/11/2007,12Z,31.6,32%,1017.6 Hpa,170º (S ),28.8,0/8,-,-,-,-,-,-,Clear
+OMIDYEH-AGHAJARI,20/11/2007,09Z,31.8,32%,1019.3 Hpa,160º (S ),21.6,4/8,-,-,CI,-,-,-,Scattered clouds
+OMIDYEH-AGHAJARI,20/11/2007,06Z,28.0,30%,1019.7 Hpa,140º (SE),28.8,1/8,-,-,CI,-,-,-,Few clouds
+OMIDYEH-AGHAJARI,20/11/2007,03Z,18.8,59%,1018.2 Hpa,150º (SE),10.8,3/8,1/8 SC,-,CI,-,18.8,-,Scattered clouds
+OMIDYEH-AGHAJARI,20/11/2007,00Z,22.4,64%,1017.9 Hpa,130º (SE),18.0,2/8,2/8 SC,-,-,-,-,-,Few clouds
+ORUMIEH,20/11/2007,21Z,6.8,92%,1015.9 Hpa,270º (W ),10.8,8/8,6/8 CB,AC,,-,-,-,"Overcast, rain showers"
+ORUMIEH,20/11/2007,18Z,3.4,60%,1019.1 Hpa,280º (W ),7.2,6/8,3/8 SC,-,CI,-,-,-,"Cloudy, haze"
+ORUMIEH,20/11/2007,15Z,8.2,47%,1018.5 Hpa,360º (N ),7.2,5/8,2/8 SC,-,CI,-,15.4,-,"Cloudy, haze"
+ORUMIEH,20/11/2007,12Z,15.2,29%,1016.8 Hpa,060º (NE),10.8,6/8,2/8 SC,-,CI,-,-,-,"Cloudy, haze"
+ORUMIEH,20/11/2007,09Z,13.2,39%,1019.1 Hpa,090º (E ),10.8,6/8,2/8 SC,-,CI,-,-,-,"Cloudy, haze"
+ORUMIEH,20/11/2007,06Z,7.0,60%,1022.2 Hpa,150º (SE),7.2,8/8,2/8 SC,AC,,-,-,-,"Overcast, haze"
+ORUMIEH,20/11/2007,03Z,4.8,65%,1021.1 Hpa,270º (W ),7.2,7/8,1/8 SC,-,CI,-,-,3.4,"Cloudy, haze"
+ORUMIEH,20/11/2007,00Z,4.4,64%,1019.3 Hpa,270º (W ),7.2,7/8,1/8 SC,-,CI,-,-,-,"Cloudy, haze"
+PARS ABAD MOGHAN,20/11/2007,21Z,8.4,94%,1019.0 Hpa,calm.,,8/8,3/8 SC,AC,,-,-,-,"Overcast, mist"
+PARS ABAD MOGHAN,20/11/2007,18Z,8.0,94%,1020.9 Hpa,calm.,,8/8,2/8 SC,AC,,-,-,-,"Overcast, mist"
+PARS ABAD MOGHAN,20/11/2007,15Z,9.0,94%,1021.3 Hpa,calm.,,7/8,3/8 SC,AC,-,-,11.6,-,Cloudy
+PARS ABAD MOGHAN,20/11/2007,12Z,11.2,85%,1022.0 Hpa,calm.,,8/8,5/8 ST,AC,,-,-,-,Overcast
+PARS ABAD MOGHAN,20/11/2007,09Z,10.6,87%,1024.2 Hpa,calm.,,8/8,5/8 ST,AC,,-,-,-,Overcast
+PARS ABAD MOGHAN,20/11/2007,06Z,9.4,91%,1025.2 Hpa,calm.,,8/8,6/8 ST,AC,,0.3(24h),-,-,Overcast
+PARS ABAD MOGHAN,20/11/2007,03Z,9.0,91%,1024.0 Hpa,calm.,,8/8,8/8 ST,,,-,-,9.0,"Overcast, mist"
+PARS ABAD MOGHAN,20/11/2007,00Z,9.4,91%,1023.7 Hpa,120º (SE),10.8,8/8,8/8 ST,,,-,-,-,"Overcast, mist"
+RAMSAR,20/11/2007,18Z,13.6,86%,1019.2 Hpa,calm.,,0/8,-,3/8 AC,-,-,-,-,Clear
+RAMSAR,20/11/2007,15Z,15.0,82%,1019.2 Hpa,240º (SW),7.2,2/8,2/8 SC,AC,-,-,18.4,-,Few clouds
+RAMSAR,20/11/2007,12Z,17.2,71%,1019.2 Hpa,150º (SE),7.2,7/8,2/8 SC,AC,CI,-,-,-,Cloudy
+RAMSAR,20/11/2007,09Z,18.0,72%,1020.2 Hpa,090º (E ),10.8,5/8,3/8 SC,AC,-,-,-,-,Cloudy
+RAMSAR,20/11/2007,06Z,14.0,82%,1022.3 Hpa,calm.,,7/8,4/8 CB,AC,CI,-,-,-,Cloudy
+RAMSAR,20/11/2007,03Z,12.6,85%,1021.0 Hpa,calm.,,5/8,4/8 CB,AC,-,-,-,12.0,Cloudy
+RAMSAR,20/11/2007,00Z,14.2,91%,1020.5 Hpa,240º (SW),7.2,5/8,4/8 CB,AC,-,-,-,-,Cloudy
+SABZEVAR,20/11/2007,21Z,7.6,60%,1021.9 Hpa,100º (E ),21.6,0/8,-,-,-,-,-,-,Clear
+SABZEVAR,20/11/2007,18Z,10.6,51%,1022.8 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SABZEVAR,20/11/2007,15Z,13.0,53%,1023.5 Hpa,030º (NE),10.8,6/8,-,-,CI,-,21.2,-,Cloudy
+SABZEVAR,20/11/2007,12Z,20.8,40%,1021.7 Hpa,calm.,,7/8,1/8 CU,-,CI,-,-,-,Cloudy
+SABZEVAR,20/11/2007,09Z,19.8,30%,1023.1 Hpa,100º (E ),10.8,6/8,2/8 CU,-,CI,-,-,-,Cloudy
+SABZEVAR,20/11/2007,06Z,13.8,39%,1026.2 Hpa,070º (E ),18.0,3/8,1/8 SC,-,CI,-,-,-,Scattered clouds
+SABZEVAR,20/11/2007,03Z,6.4,66%,1024.7 Hpa,060º (NE),18.0,2/8,1/8 SC,-,CI,-,-,3.6,Few clouds
+SABZEVAR,20/11/2007,00Z,4.8,64%,1022.5 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SAFI-ABAD DEZFUL,20/11/2007,21Z,21.6,64%,1017.7 Hpa,020º (N),7.2,8/8,5/8 CB,AC,,-,-,-,"Overcast, rain"
+SAFI-ABAD DEZFUL,20/11/2007,18Z,22.0,56%,1017.6 Hpa,090º (E ),18.0,7/8,4/8 CB,AC,-,-,-,-,Cloudy
+SAFI-ABAD DEZFUL,20/11/2007,12Z,26.8,50%,1016.2 Hpa,070º (E ),7.2,7/8,4/8 CB,AC,-,-,-,-,"Cloudy, haze"
+SAFI-ABAD DEZFUL,20/11/2007,09Z,24.0,66%,1018.8 Hpa,060º (NE),21.6,8/8,5/8 CB,AC,,-,-,-,"Overcast, haze"
+SAFI-ABAD DEZFUL,20/11/2007,06Z,21.0,88%,1020.0 Hpa,050º (NE),10.8,7/8,4/8 CB,AC,-,-,-,-,"Cloudy, mist"
+SAFI-ABAD DEZFUL,20/11/2007,03Z,17.0,85%,1018.0 Hpa,010º (N),10.8,7/8,2/8 SC,AC,-,-,-,16.0,Cloudy
+SAFI-ABAD DEZFUL,20/11/2007,00Z,16.4,89%,1017.1 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SAGHEZ,20/11/2007,21Z,6.8,88%,1016.0 Hpa,calm.,,2/8,2/8 SC,-,-,-,-,-,Few clouds
+SAGHEZ,20/11/2007,18Z,7.4,89%,1020.7 Hpa,120º (SE),10.8,3/8,3/8 CB,-,-,0.5(6h),-,-,Scattered clouds
+SAGHEZ,20/11/2007,15Z,11.0,66%,1019.9 Hpa,140º (SE),14.4,7/8,6/8 CB,AC,-,-,18.4,-,Cloudy
+SAGHEZ,20/11/2007,12Z,15.6,36%,1017.2 Hpa,180º (S ),46.8,7/8,5/8 CB,AC,CI,-,-,-,Cloudy
+SAGHEZ,20/11/2007,09Z,15.4,32%,1018.0 Hpa,200º (S ),7.2,2/8,1/8 CU,-,CI,-,-,-,Few clouds
+SAGHEZ,20/11/2007,06Z,4.8,46%,1022.1 Hpa,calm.,,7/8,1/8 SC,AC,CI,-,-,-,Cloudy
+SAGHEZ,20/11/2007,03Z,1.0,52%,1021.7 Hpa,calm.,,2/8,-,-,CI,-,-,1.0,Few clouds
+SAGHEZ,20/11/2007,00Z,2.6,58%,1018.8 Hpa,calm.,,2/8,-,-,CI,-,-,-,Few clouds
+SANANDAJ,20/11/2007,21Z,8.6,92%,1017.6 Hpa,calm.,,8/8,4/8 ST,AC,,-,-,-,"Overcast, rain"
+SANANDAJ,20/11/2007,18Z,9.4,88%,1020.2 Hpa,Vble.,,8/8,4/8 ST,AC,,3.0(6h),-,-,"Overcast, rain"
+SANANDAJ,20/11/2007,15Z,8.8,77%,1022.0 Hpa,calm.,,7/8,3/8 SC,AC,CI,-,15.8,-,Cloudy
+SANANDAJ,20/11/2007,12Z,12.2,58%,1020.3 Hpa,190º (S ),18.0,7/8,5/8 CB,AC,CI,-,-,-,Cloudy
+SANANDAJ,20/11/2007,09Z,14.2,44%,1020.4 Hpa,170º (S ),21.6,7/8,3/8 CU/SC,AC,CS,-,-,-,Cloudy
+SANANDAJ,20/11/2007,06Z,7.6,46%,1022.3 Hpa,calm.,,7/8,-,3/8 AC,CS,-,-,-,"Cloudy, haze"
+SANANDAJ,20/11/2007,03Z,2.4,61%,1020.9 Hpa,020º (N),3.6,3/8,-,-,CI,-,-,2.2,Scattered clouds
+SANANDAJ,20/11/2007,00Z,3.9,65%,1018.3 Hpa,calm.,,3/8,-,-,CI,-,-,-,Scattered clouds
+SARAB,20/11/2007,21Z,7.0,63%,1017.2 Hpa,100º (E ),7.2,8/8,6/8 CB,AC,,-,-,-,"Overcast, thunderstorm"
+SARAB,20/11/2007,18Z,8.0,37%,1020.9 Hpa,calm.,,8/8,4/8 SC,AC,,-,-,-,Overcast
+SARAB,20/11/2007,15Z,9.4,26%,1023.0 Hpa,calm.,,7/8,1/8 SC,-,CI,-,14.6,-,Cloudy
+SARAB,20/11/2007,12Z,13.4,20%,1020.2 Hpa,240º (SW),18.0,5/8,1/8 CU,AC,CI,-,-,-,Cloudy
+SARAB,20/11/2007,09Z,11.2,25%,1021.8 Hpa,calm.,,6/8,1/8 SC,AC,CI,-,-,-,Cloudy
+SARAB,20/11/2007,06Z,2.0,58%,1026.4 Hpa,200º (S ),7.2,7/8,-,1/8 AC,CI,-,-,-,Cloudy
+SARAB,20/11/2007,03Z,-5.4,66%,1026.4 Hpa,calm.,,1/8,-,-,CI,-,-,-5.4,Few clouds
+SARAB,20/11/2007,00Z,-3.0,64%,1021.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SARAKHS,20/11/2007,21Z,9.2,66%,1020.0 Hpa,calm.,,6/8,-,-,CI,-,-,-,Cloudy
+SARAKHS,20/11/2007,18Z,10.2,60%,1023.5 Hpa,calm.,,6/8,-,-,CI,-,-,-,"Cloudy, haze"
+SARAKHS,20/11/2007,15Z,12.4,56%,1024.5 Hpa,calm.,,4/8,-,-,CI,-,17.6,-,"Scattered clouds, haze"
+SARAKHS,20/11/2007,12Z,16.6,37%,1024.3 Hpa,calm.,,3/8,-,-,CI,-,-,-,"Scattered clouds, haze"
+SARAKHS,20/11/2007,09Z,16.4,38%,1025.8 Hpa,calm.,,1/8,-,-,CI,-,-,-,"Few clouds, haze"
+SARAKHS,20/11/2007,06Z,10.8,61%,1028.1 Hpa,calm.,,3/8,-,-,CI,0.2(24h),-,-,"Scattered clouds, haze"
+SARAKHS,20/11/2007,03Z,5.2,80%,1026.8 Hpa,calm.,,2/8,-,-,CI,-,-,5.2,"Few clouds, mist"
+SARAKHS,20/11/2007,00Z,8.0,78%,1024.1 Hpa,calm.,,2/8,-,-,CI,0.1(6h),-,-,"Few clouds, haze"
+SARAVAN,20/11/2007,21Z,14.0,45%,1021.4 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SARAVAN,20/11/2007,18Z,18.9,27%,1022.1 Hpa,060º (NE),7.2,0/8,-,-,-,-,-,-,Clear
+SARAVAN,20/11/2007,15Z,21.0,21%,1023.6 Hpa,calm.,,0/8,-,-,-,-,27.4,-,Clear
+SARAVAN,20/11/2007,12Z,26.5,16%,1020.6 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SARAVAN,20/11/2007,09Z,26.0,17%,1020.4 Hpa,270º (W ),7.2,0/8,-,-,-,-,-,-,Clear
+SARAVAN,20/11/2007,06Z,21.3,28%,1023.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SARAVAN,20/11/2007,03Z,9.9,42%,1025.0 Hpa,350º (N ),7.2,0/8,-,-,-,-,-,9.8,Clear
+SARAVAN,20/11/2007,00Z,11.1,41%,1022.0 Hpa,340º (N ),7.2,0/8,-,-,-,-,-,-,Clear
+SEMNAN,20/11/2007,21Z,11.8,64%,1018.9 Hpa,calm.,,2/8,-,-,CI,-,-,-,Few clouds
+SEMNAN,20/11/2007,18Z,15.8,45%,1019.7 Hpa,270º (W ),10.8,7/8,2/8 SC,AC,-,-,-,-,"Cloudy, rain"
+SEMNAN,20/11/2007,15Z,15.0,54%,1019.9 Hpa,calm.,,2/8,-,-,CS,-,20.4,-,Few clouds
+SEMNAN,20/11/2007,12Z,18.8,34%,1018.4 Hpa,180º (S ),10.8,3/8,-,-,CS,-,-,-,Scattered clouds
+SEMNAN,20/11/2007,09Z,19.0,32%,1018.7 Hpa,180º (S ),7.2,6/8,2/8 CU,-,CS,-,-,-,Cloudy
+SEMNAN,20/11/2007,06Z,17.2,36%,1021.0 Hpa,calm.,,7/8,-,-,CS,-,-,-,Cloudy
+SEMNAN,20/11/2007,03Z,9.2,51%,1021.4 Hpa,calm.,,3/8,-,-,CI,-,-,8.2,Scattered clouds
+SEMNAN,20/11/2007,00Z,9.0,51%,1019.0 Hpa,calm.,,2/8,2/8 SC,-,-,-,-,-,Few clouds
+SHAHRE-KORD,20/11/2007,21Z,7.8,54%,1019.7 Hpa,120º (SE),10.8,4/8,4/8 CB,-,-,-,-,-,Scattered clouds
+SHAHRE-KORD,20/11/2007,18Z,9.4,56%,1020.2 Hpa,200º (S ),32.4,4/8,4/8 CB,-,-,-,-,-,Scattered clouds
+SHAHRE-KORD,20/11/2007,15Z,10.0,57%,1021.5 Hpa,210º (SW),7.2,2/8,2/8 SC,-,-,-,15.4,-,Few clouds
+SHAHRE-KORD,20/11/2007,12Z,12.8,33%,1020.0 Hpa,290º (W ),14.4,6/8,6/8 CB,AC,-,-,-,-,Cloudy
+SHAHRE-KORD,20/11/2007,09Z,14.0,43%,1019.0 Hpa,240º (SW),21.6,7/8,7/8 CB,-,-,-,-,-,Cloudy
+SHAHRE-KORD,20/11/2007,06Z,12.2,41%,1020.5 Hpa,220º (SW),14.4,6/8,6/8 CB,-,CI,-,-,-,Cloudy
+SHAHRE-KORD,20/11/2007,03Z,7.6,65%,1019.7 Hpa,calm.,,4/8,4/8 CB,-,-,-,-,5.6,Scattered clouds
+SHAHRE-KORD,20/11/2007,00Z,6.6,61%,1017.8 Hpa,calm.,,2/8,2/8 SC,-,-,-,-,-,Few clouds
+SHAHRUD,20/11/2007,21Z,9.0,77%,1019.4 Hpa,310º (NW),10.8,4/8,2/8 CB,-,CS,-,-,-,Scattered clouds
+SHAHRUD,20/11/2007,18Z,10.4,74%,1020.3 Hpa,calm.,,4/8,2/8 SC,-,CI,-,-,-,Scattered clouds
+SHAHRUD,20/11/2007,15Z,11.0,70%,1021.8 Hpa,calm.,,5/8,-,-,CI,-,16.2,-,Cloudy
+SHAHRUD,20/11/2007,12Z,15.0,64%,1019.8 Hpa,calm.,,8/8,2/8 SC,AC,,-,-,-,Overcast
+SHAHRUD,20/11/2007,09Z,15.2,41%,1020.2 Hpa,calm.,,7/8,2/8 SC,-,CI,-,-,-,Cloudy
+SHAHRUD,20/11/2007,06Z,13.0,54%,1022.7 Hpa,calm.,,3/8,-,-,CI,-,-,-,Scattered clouds
+SHAHRUD,20/11/2007,03Z,6.4,75%,1022.4 Hpa,calm.,,1/8,-,-,CI,-,-,6.4,Few clouds
+SHAHRUD,20/11/2007,00Z,7.8,66%,1019.1 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SHIRAZ,20/11/2007,21Z,13.0,48%,1020.1 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SHIRAZ,20/11/2007,18Z,13.0,44%,1022.0 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SHIRAZ,20/11/2007,15Z,17.8,28%,1021.9 Hpa,270º (W ),10.8,0/8,-,-,-,-,22.6,-,Clear
+SHIRAZ,20/11/2007,12Z,22.6,22%,1017.9 Hpa,090º (E ),7.2,2/8,-,-,CI,-,-,-,Few clouds
+SHIRAZ,20/11/2007,09Z,20.6,24%,1019.2 Hpa,calm.,,1/8,-,-,CI,-,-,-,Few clouds
+SHIRAZ,20/11/2007,06Z,14.6,42%,1024.3 Hpa,calm.,,1/8,-,-,CI,-,-,-,Few clouds
+SHIRAZ,20/11/2007,03Z,4.0,78%,1023.9 Hpa,calm.,,1/8,-,-,CI,-,-,3.6,Few clouds
+SHIRAZ,20/11/2007,00Z,6.4,67%,1020.2 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SIRI ISLAND,20/11/2007,15Z,28.0,63%,1018.3 Hpa,calm.,,0/8,-,-,-,-,30.2,-,"Clear, haze"
+SIRI ISLAND,20/11/2007,12Z,29.8,14%,1018.0 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, haze"
+SIRI ISLAND,20/11/2007,09Z,29.6,64%,1019.3 Hpa,120º (SE),7.2,0/8,-,-,-,-,-,-,"Clear, haze"
+SIRI ISLAND,20/11/2007,06Z,29.2,305%,1020.8 Hpa,100º (E ),7.2,0/8,-,-,-,-,-,-,"Clear, haze"
+SIRI ISLAND,20/11/2007,03Z,25.2,77%,1018.8 Hpa,calm.,,0/8,-,-,-,-,-,19.0,"Clear, haze"
+SIRJAN,20/11/2007,21Z,7.6,43%,1020.6 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SIRJAN,20/11/2007,18Z,12.6,37%,1020.2 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SIRJAN,20/11/2007,15Z,15.0,32%,1022.6 Hpa,calm.,,0/8,-,-,CI,-,30.0,-,Clear
+SIRJAN,20/11/2007,12Z,20.6,23%,1019.9 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SIRJAN,20/11/2007,09Z,18.6,26%,1021.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SIRJAN,20/11/2007,06Z,14.6,32%,1023.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SIRJAN,20/11/2007,03Z,2.6,52%,1024.7 Hpa,calm.,,0/8,-,-,-,-,-,2.6,Clear
+SIRJAN,20/11/2007,00Z,4.6,46%,1020.1 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+TABAS,20/11/2007,21Z,17.0,28%,1017.4 Hpa,060º (NE),10.8,3/8,-,2/8 AC,CI,-,-,-,"Scattered clouds, haze"
+TABAS,20/11/2007,18Z,18.6,27%,1018.0 Hpa,060º (NE),7.2,0/8,-,2/8 AC,-,-,-,-,"Clear, haze"
+TABAS,20/11/2007,15Z,20.6,27%,1017.7 Hpa,calm.,,7/8,-,7/8 AC,-,-,25.8,-,"Cloudy, haze"
+TABAS,20/11/2007,12Z,25.0,22%,1016.6 Hpa,310º (NW),7.2,6/8,-,6/8 AC,-,-,-,-,"Cloudy, haze"
+TABAS,20/11/2007,09Z,24.0,27%,1018.3 Hpa,calm.,,5/8,-,5/8 AC,-,-,-,-,"Cloudy, haze"
+TABAS,20/11/2007,06Z,19.2,35%,1020.8 Hpa,calm.,,2/8,-,2/8 AC,-,Tr(24h),-,-,"Few clouds, dust"
+TABAS,20/11/2007,03Z,15.8,39%,1018.4 Hpa,150º (SE),7.2,3/8,1/8 SC,AC,-,-,-,15.6,"Scattered clouds, dust"
+TABAS,20/11/2007,00Z,16.0,41%,1016.6 Hpa,calm.,,4/8,2/8 SC,AC,-,Tr(6h),-,-,"Scattered clouds, rain"
+TABRIZ,20/11/2007,21Z,7.2,37%,1016.9 Hpa,060º (NE),7.2,5/8,2/8 SC,-,CI,-,-,-,Cloudy
+TABRIZ,20/11/2007,18Z,8.4,37%,1018.5 Hpa,090º (E ),7.2,4/8,2/8 SC,-,CS,-,-,-,"Scattered clouds, haze"
+TABRIZ,20/11/2007,15Z,11.0,24%,1019.3 Hpa,120º (SE),10.8,6/8,2/8 SC,AC,CI,-,15.4,-,"Cloudy, haze"
+TABRIZ,20/11/2007,12Z,15.0,22%,1018.3 Hpa,320º (NW),10.8,6/8,2/8 CU,AC,CI,-,-,-,"Cloudy, haze"
+TABRIZ,20/11/2007,09Z,12.6,24%,1020.0 Hpa,140º (SE),10.8,6/8,2/8 CU,-,CS,-,-,-,"Cloudy, haze"
+TABRIZ,20/11/2007,06Z,9.0,36%,1022.3 Hpa,240º (SW),7.2,8/8,1/8 SC,AC,CS,-,-,-,"Overcast, haze"
+TABRIZ,20/11/2007,03Z,3.8,52%,1022.3 Hpa,070º (E ),7.2,4/8,1/8 SC,-,CI,-,-,3.0,Scattered clouds
+TABRIZ,20/11/2007,00Z,4.6,50%,1019.6 Hpa,110º (E ),7.2,2/8,-,-,CI,-,-,-,Few clouds
+TEHRAN-MEHRABAD,20/11/2007,21Z,10.2,25%,1019.7 Hpa,360º (N ),14.4,8/8,3/8 CB,AC,,-,-,-,"Overcast, rain"
+TEHRAN-MEHRABAD,20/11/2007,18Z,10.0,83%,1021.7 Hpa,030º (NE),21.6,8/8,2/8 SC,AC,,12.0(6h),-,-,"Overcast, rain"
+TEHRAN-MEHRABAD,20/11/2007,15Z,10.4,88%,1024.1 Hpa,090º (E ),7.2,8/8,5/8 CB,AC,,-,-,-,"Overcast, rain showers"
+TEHRAN-MEHRABAD,20/11/2007,12Z,17.2,36%,1019.3 Hpa,350º (N ),14.4,8/8,4/8 CB,AC,,-,-,-,"Overcast, rain showers"
+TEHRAN-MEHRABAD,20/11/2007,09Z,18.2,32%,1018.4 Hpa,170º (S ),10.8,6/8,1/8 CU,AC,CI,-,-,-,"Cloudy, haze"
+TEHRAN-MEHRABAD,20/11/2007,06Z,15.8,38%,1020.3 Hpa,calm.,,6/8,1/8 CU,AC,CI,-,-,27.0,"Cloudy, haze"
+TEHRAN-MEHRABAD,20/11/2007,03Z,12.6,51%,1019.1 Hpa,calm.,,2/8,2/8 SC,-,-,-,-,11.8,Few clouds
+TEHRAN-MEHRABAD,20/11/2007,00Z,12.2,54%,1017.2 Hpa,calm.,,1/8,-,-,CI,-,-,-,Few clouds
+TORBAT-HEYDARIEH,20/11/2007,21Z,7.2,51%,1019.1 Hpa,330º (NW),10.8,4/8,-,-,CI,-,-,-,Scattered clouds
+TORBAT-HEYDARIEH,20/11/2007,18Z,9.2,45%,1021.8 Hpa,340º (N ),10.8,5/8,1/8 SC,-,CI,-,-,-,Cloudy
+TORBAT-HEYDARIEH,20/11/2007,15Z,10.8,42%,1022.4 Hpa,320º (NW),14.4,5/8,2/8 SC,AC,CI,-,18.6,-,Cloudy
+TORBAT-HEYDARIEH,20/11/2007,12Z,18.0,32%,1019.7 Hpa,calm.,,5/8,2/8 SC,-,CI,-,-,-,Cloudy
+TORBAT-HEYDARIEH,20/11/2007,09Z,17.6,35%,1020.3 Hpa,calm.,,5/8,2/8 SC,-,CI,-,-,-,Cloudy
+TORBAT-HEYDARIEH,20/11/2007,06Z,11.0,53%,1024.2 Hpa,calm.,,5/8,2/8 SC,-,CI,Tr(6h),-,-,"Cloudy, rain showers"
+TORBAT-HEYDARIEH,20/11/2007,03Z,4.8,56%,1023.3 Hpa,340º (N ),7.2,2/8,-,2/8 AC,-,-,-,4.8,Few clouds
+TORBAT-HEYDARIEH,20/11/2007,00Z,5.2,54%,1020.1 Hpa,340º (N ),10.8,0/8,-,-,-,-,-,-,Clear
+YASOGE,20/11/2007,21Z,6.6,63%,1024.5 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+YASOGE,20/11/2007,18Z,9.0,50%,1024.8 Hpa,090º (E ),7.2,0/8,-,-,-,-,-,-,Clear
+YASOGE,20/11/2007,15Z,12.2,54%,1024.3 Hpa,calm.,,1/8,1/8 CU,-,-,-,19.2,-,Few clouds
+YASOGE,20/11/2007,12Z,16.4,27%,1022.4 Hpa,240º (SW),18.0,4/8,4/8 CU,-,CI,-,-,-,Scattered clouds
+YASOGE,20/11/2007,09Z,17.4,25%,1022.6 Hpa,180º (S ),7.2,3/8,3/8 CU,AC,-,-,-,-,Scattered clouds
+YASOGE,20/11/2007,06Z,13.2,42%,1025.2 Hpa,calm.,,2/8,2/8 SC,-,-,-,-,-,Few clouds
+YASOGE,20/11/2007,03Z,5.4,66%,1025.4 Hpa,calm.,,1/8,-,-,-,-,-,5.2,Few clouds
+YASOGE,20/11/2007,00Z,7.0,66%,1022.7 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+YAZD,20/11/2007,21Z,13.6,47%,1019.9 Hpa,270º (W ),7.2,2/8,1/8 CU,-,CI,-,-,-,Few clouds
+YAZD,20/11/2007,18Z,18.0,7%,1019.4 Hpa,230º (SW),7.2,5/8,3/8 SC,AC,-,-,-,-,Cloudy
+YAZD,20/11/2007,15Z,19.4,22%,1019.5 Hpa,180º (S ),7.2,5/8,3/8 SC,-,CI,-,25.7,-,Cloudy
+YAZD,20/11/2007,12Z,23.6,17%,1017.3 Hpa,090º (E ),7.2,6/8,3/8 CB,-,CI,-,-,-,Cloudy
+YAZD,20/11/2007,09Z,23.8,17%,1018.6 Hpa,090º (E ),10.8,6/8,1/8 CU,-,CI,-,-,-,Cloudy
+YAZD,20/11/2007,06Z,18.2,22%,1021.7 Hpa,120º (SE),10.8,4/8,-,-,CI,-,-,-,Scattered clouds
+YAZD,20/11/2007,03Z,11.4,40%,1020.9 Hpa,180º (S ),7.2,3/8,-,1/8 AC,CI,-,-,10.8,Scattered clouds
+YAZD,20/11/2007,00Z,13.2,35%,1018.0 Hpa,calm.,,2/8,-,2/8 AC,CI,-,-,-,Few clouds
+ZABOL,20/11/2007,21Z,11.6,44%,1022.0 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+ZABOL,20/11/2007,18Z,13.8,45%,1022.9 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+ZABOL,20/11/2007,15Z,18.4,22%,1023.3 Hpa,calm.,,0/8,-,-,-,-,27.0,-,Clear
+ZABOL,20/11/2007,12Z,26.0,13%,1021.3 Hpa,020º (N),10.8,0/8,-,-,-,-,-,-,Clear
+ZABOL,20/11/2007,09Z,25.5,13%,1022.7 Hpa,310º (NW),7.2,0/8,-,-,-,-,-,-,Clear
+ZABOL,20/11/2007,06Z,18.6,21%,1025.1 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+ZABOL,20/11/2007,03Z,8.4,46%,1024.3 Hpa,060º (NE),10.8,0/8,-,-,-,-,-,6.8,Clear
+ZABOL,20/11/2007,00Z,7.6,56%,1021.7 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+ZAHEDAN,20/11/2007,21Z,9.8,34%,1019.2 Hpa,160º (S ),7.2,0/8,-,-,-,-,-,-,Clear
+ZAHEDAN,20/11/2007,18Z,11.5,31%,1020.6 Hpa,200º (S ),10.8,0/8,-,-,-,-,-,-,Clear
+ZAHEDAN,20/11/2007,15Z,17.0,24%,1021.9 Hpa,calm.,,0/8,-,-,-,-,25.8,-,Clear
+ZAHEDAN,20/11/2007,12Z,23.6,19%,1018.1 Hpa,030º (NE),21.6,1/8,1/8 SC,-,-,-,-,-,Few clouds
+ZAHEDAN,20/11/2007,09Z,24.5,17%,1018.5 Hpa,010º (N),7.2,0/8,1/8 CU,-,-,-,-,-,Clear
+ZAHEDAN,20/11/2007,06Z,19.9,34%,1021.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+ZAHEDAN,20/11/2007,03Z,8.9,57%,1022.2 Hpa,calm.,,0/8,-,-,-,-,-,7.3,Clear
+ZAHEDAN,20/11/2007,00Z,8.6,44%,1019.0 Hpa,210º (SW),7.2,0/8,-,-,-,-,-,-,Clear
+ZANJAN,20/11/2007,21Z,6.8,92%,1018.3 Hpa,calm.,,6/8,5/8 CB,AC,-,-,-,-,"Cloudy, thunderstorm"
+ZANJAN,20/11/2007,18Z,8.4,74%,1020.4 Hpa,180º (S ),7.2,6/8,5/8 CB,AC,-,Tr(6h),-,-,"Cloudy, rain showers"
+ZANJAN,20/11/2007,15Z,10.0,58%,1020.3 Hpa,130º (SE),21.6,6/8,3/8 ST,AC,CI,-,15.8,-,Cloudy
+ZANJAN,20/11/2007,12Z,14.2,30%,1018.2 Hpa,200º (S ),21.6,3/8,1/8 CU,AC,-,-,-,-,Scattered clouds
+ZANJAN,20/11/2007,09Z,13.4,35%,1019.3 Hpa,180º (S ),14.4,7/8,3/8 SC,-,CI,-,-,-,Cloudy
+ZANJAN,20/11/2007,06Z,7.8,36%,1022.8 Hpa,110º (E ),10.8,6/8,3/8 CU,-,CI,-,-,-,Cloudy
+ZANJAN,20/11/2007,03Z,4.2,39%,1022.2 Hpa,090º (E ),7.2,6/8,1/8 CU,-,CI,-,-,2.6,Cloudy
+ZANJAN,20/11/2007,00Z,3.0,42%,1019.2 Hpa,080º (E ),7.2,2/8,2/8 SC,-,-,-,-,-,Few clouds
