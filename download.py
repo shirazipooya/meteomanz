@@ -13,11 +13,11 @@ if SCALE == "day":
     for year in [*map(str, range(2000, 2024, 1))]:
         df_year = pd.DataFrame()
         for month in [*map(lambda x: str(x).zfill(2), range(1, 13, 1))]:
-            countdown(
-                t=5,
-                start_txt="Waiting for the Next Month!",
-                end_txt="Start Downloading Data..."
-            )
+            # countdown(
+            #     t=1,
+            #     start_txt="Waiting for the Next Month!",
+            #     end_txt="Start Downloading Data..."
+            # )
             df_month = pd.DataFrame()
             meteo = Meteomanz(
                 scale=SCALE,
@@ -51,11 +51,11 @@ if SCALE == "day":
         df_year.to_csv(f"output/{SCALE}/{year}.csv", index=False)
 elif SCALE == "hour":
     for dt in date_range(start_date=start_date, end_date=end_date):
-        countdown(
-            t=5,
-            start_txt="Waiting for the Next Day!",
-            end_txt="Start Downloading Data..."
-        )
+        # countdown(
+        #     t=2,
+        #     start_txt="Waiting for the Next Day!",
+        #     end_txt="Start Downloading Data..."
+        # )
         year, month, day = dt.strftime("%Y-%m-%d").split("-")
         df_day = pd.DataFrame()
         meteo = Meteomanz(

@@ -1,0 +1,551 @@
+Station ∆,Date,UTC time,Temp. (ºC),Rel. Hum. (%),Pressure/ Geopot.,Wind dir,Wins speed (Km/h),Clouds,Low clouds,Medium clouds,High clouds,Prec. (mm),Max temp. (ºC),Min temp. (ºC),Conditions
+ABADAN,10/01/2006,21Z,15.6,76%,-,060º (NE),14.4,6/8,-,-,-,-,-,-,Cloudy
+ABADAN,10/01/2006,18Z,16.0,75%,1016.5 Hpa,060º (NE),7.2,7/8,4/8 CB,AC,-,-,-,-,Cloudy
+ABADAN,10/01/2006,15Z,17.2,62%,-,050º (NE),10.8,6/8,-,-,-,-,-,-,Cloudy
+ABADAN,10/01/2006,12Z,18.8,54%,1017.3 Hpa,030º (NE),7.2,1/8,-,1/8 AC,-,-,-,-,Few clouds
+ABADAN,10/01/2006,09Z,18.0,49%,-,100º (E ),7.2,3/8,-,-,-,-,-,-,Scattered clouds
+ABADAN,10/01/2006,06Z,12.2,76%,1020.0 Hpa,calm.,,4/8,-,-,CI,-,-,-,"Scattered clouds, haze"
+ABADAN,10/01/2006,03Z,9.6,83%,-,calm.,,0/8,-,-,-,-,-,-,Clear
+ABADAN,10/01/2006,00Z,10.6,89%,1018.5 Hpa,280º (W ),7.2,0/8,-,-,-,-,-,-,Clear
+ABADEH,10/01/2006,21Z,-0.6,54%,-,calm.,,1/8,-,-,-,-,-,-,Few clouds
+ABADEH,10/01/2006,18Z,1.6,51%,1017.9 Hpa,calm.,,2/8,-,-,CI,-,-,-,Few clouds
+ABADEH,10/01/2006,15Z,5.0,33%,-,calm.,,2/8,-,-,-,-,-,-,Few clouds
+ABADEH,10/01/2006,12Z,9.8,22%,-,270º (W ),18.0,3/8,-,-,-,-,-,-,Scattered clouds
+ABADEH,10/01/2006,09Z,9.2,33%,-,calm.,,4/8,-,-,-,-,-,-,Scattered clouds
+ABADEH,10/01/2006,06Z,5.0,59%,1017.9 Hpa,calm.,,3/8,1/8 SC,-,CI,-,-,-,Scattered clouds
+ABADEH,10/01/2006,03Z,2.4,63%,-,calm.,,4/8,-,-,-,-,-,-,Scattered clouds
+ABADEH,10/01/2006,00Z,3.0,61%,1013.3 Hpa,calm.,,2/8,2/8 SC,-,-,-,-,-,Few clouds
+ABU MUSA,10/01/2006,15Z,20.6,69%,-,100º (E ),7.2,0/8,-,-,-,-,-,-,Clear
+ABU MUSA,10/01/2006,12Z,23.2,60%,-,120º (SE),10.8,0/8,-,-,-,-,-,-,Clear
+ABU MUSA,10/01/2006,09Z,23.8,56%,-,150º (SE),7.2,0/8,-,-,-,-,-,-,Clear
+ABU MUSA,10/01/2006,06Z,22.6,725%,1018.6 Hpa,160º (S ),10.8,0/8,-,-,-,-,-,-,Clear
+ABU MUSA,10/01/2006,03Z,18.2,74%,-,calm.,,3/8,-,-,-,-,-,-,Scattered clouds
+AHAR,10/01/2006,21Z,-7.0,93%,-,330º (NW),7.2,7/8,-,-,-,-,-,-,Cloudy
+AHAR,10/01/2006,18Z,-6.4,94%,1030.4 Hpa,calm.,,0/8,2/8 ST,AC,,1.0(6h),-,-,"Clear, snow"
+AHAR,10/01/2006,15Z,-6.0,94%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+AHAR,10/01/2006,12Z,-5.0,90%,-,090º (E ),7.2,8/8,-,-,-,-,-,-,Overcast
+AHAR,10/01/2006,09Z,-4.6,81%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+AHAR,10/01/2006,06Z,-7.0,83%,1028.1 Hpa,calm.,,7/8,3/8 ST,AC,-,0.3(6h),-,-,Cloudy
+AHAR,10/01/2006,03Z,-7.0,83%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+AHAR,10/01/2006,00Z,-7.2,93%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+AHWAZ,10/01/2006,21Z,14.2,67%,-,calm.,,7/8,-,-,-,-,-,-,Cloudy
+AHWAZ,10/01/2006,18Z,15.4,60%,1017.0 Hpa,calm.,,7/8,5/8 CB,AC,-,Tr(6h),-,-,"Cloudy, haze"
+AHWAZ,10/01/2006,15Z,16.0,59%,-,calm.,,7/8,-,-,-,-,-,-,Cloudy
+AHWAZ,10/01/2006,12Z,19.4,46%,1017.0 Hpa,calm.,,5/8,2/8 CU,-,CI,-,-,-,"Cloudy, haze"
+AHWAZ,10/01/2006,09Z,17.0,,-,calm.,,3/8,-,-,CI,-,-,-,"Scattered clouds, haze"
+AHWAZ,10/01/2006,06Z,10.0,92%,1019.6 Hpa,calm.,,4/8,-,-,CI,0.1(24h),-,-,"Scattered clouds, mist"
+AHWAZ,10/01/2006,03Z,8.4,97%,-,310º (NW),7.2,,-,-,-,-,-,-,-
+AHWAZ,10/01/2006,00Z,9.4,100%,1017.3 Hpa,calm.,,,-,-,-,-,-,-,fog
+ALI-GOODARZ,10/01/2006,21Z,0.8,77%,-,180º (S ),18.0,8/8,-,-,-,-,-,-,Overcast
+ALI-GOODARZ,10/01/2006,18Z,-1.4,69%,1021.2 Hpa,120º (SE),28.8,4/8,-,-,CI,-,-,-,Scattered clouds
+ALI-GOODARZ,10/01/2006,15Z,2.0,58%,-,110º (E ),14.4,5/8,-,-,-,-,-,-,Cloudy
+ALI-GOODARZ,10/01/2006,12Z,2.6,60%,-,calm.,,6/8,-,-,-,-,-,-,Cloudy
+ALI-GOODARZ,10/01/2006,09Z,-0.8,74%,-,280º (W ),14.4,7/8,-,-,-,-,-,-,Cloudy
+ALI-GOODARZ,10/01/2006,06Z,-1.6,69%,1021.4 Hpa,240º (SW),14.4,6/8,-,-,CI,1.0(24h),-,-,Cloudy
+ALI-GOODARZ,10/01/2006,03Z,-4.2,92%,-,120º (SE),10.8,0/8,-,-,-,-,-,-,Clear
+ALI-GOODARZ,10/01/2006,00Z,-3.8,87%,1019.2 Hpa,260º (W ),7.2,0/8,-,-,-,-,-,-,Clear
+ANZALI,10/01/2006,21Z,6.0,90%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+ANZALI,10/01/2006,18Z,6.2,90%,1028.8 Hpa,calm.,,8/8,6/8 ST,AC,,3.0(6h),-,-,"Overcast, rain"
+ANZALI,10/01/2006,15Z,6.8,85%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+ANZALI,10/01/2006,12Z,7.0,79%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+ANZALI,10/01/2006,09Z,17.6,42%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+ANZALI,10/01/2006,06Z,5.2,90%,-,280º (W ),7.2,8/8,-,-,-,-,-,-,Overcast
+ANZALI,10/01/2006,03Z,4.6,125%,-,250º (W ),7.2,8/8,-,-,-,-,-,-,Overcast
+ANZALI,10/01/2006,00Z,4.6,93%,1025.5 Hpa,280º (W ),10.8,8/8,5/8 ST,AC,,7.0(6h),-,-,"Overcast, rain"
+ARAK,10/01/2006,21Z,-0.6,81%,-,calm.,,7/8,-,-,-,-,-,-,Cloudy
+ARAK,10/01/2006,18Z,-0.8,80%,1021.4 Hpa,calm.,,7/8,2/8 SC,-,CI,-,-,-,Cloudy
+ARAK,10/01/2006,15Z,1.4,76%,-,calm.,,6/8,-,-,-,-,-,-,Cloudy
+ARAK,10/01/2006,12Z,7.0,32%,1016.0 Hpa,calm.,,7/8,1/8 CU,-,CI,-,-,-,Cloudy
+ARAK,10/01/2006,09Z,6.4,35%,-,calm.,,7/8,-,-,-,-,-,-,Cloudy
+ARAK,10/01/2006,06Z,1.8,62%,1019.9 Hpa,calm.,,6/8,-,-,CI,0.2(24h),-,-,Cloudy
+ARAK,10/01/2006,03Z,0.2,58%,-,210º (SW),7.2,1/8,-,-,-,-,-,-,Few clouds
+ARAK,10/01/2006,00Z,2.4,46%,1016.2 Hpa,250º (W ),14.4,1/8,1/8 SC,-,-,-,-,-,Few clouds
+ARDEBIL,10/01/2006,21Z,-4.2,96%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+ARDEBIL,10/01/2006,18Z,-4.0,96%,1027.2 Hpa,270º (W ),7.2,8/8,5/8 ST,AC,,0.3(6h),-,-,"Overcast, diamond dust"
+ARDEBIL,10/01/2006,15Z,-3.8,96%,-,090º (E ),18.0,8/8,-,-,-,-,-,-,Overcast
+ARDEBIL,10/01/2006,12Z,-2.4,93%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+ARDEBIL,10/01/2006,09Z,-2.2,93%,-,calm.,,6/8,-,-,-,-,-,-,Cloudy
+ARDEBIL,10/01/2006,06Z,-4.4,96%,1027.0 Hpa,calm.,,7/8,3/8 ST,AC,-,0.5(6h),-,-,"Cloudy, mist"
+ARDEBIL,10/01/2006,03Z,-5.0,94%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+ARDEBIL,10/01/2006,00Z,-5.6,89%,1023.8 Hpa,calm.,,8/8,4/8 ST,AC,,0.2(6h),-,-,"Overcast, snow"
+BABULSAR,10/01/2006,21Z,5.0,90%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+BABULSAR,10/01/2006,18Z,5.4,86%,1029.3 Hpa,090º (E ),18.0,8/8,5/8 CB,AC,,-,-,-,Overcast
+BABULSAR,10/01/2006,15Z,6.0,84%,-,090º (E ),10.8,8/8,-,-,-,-,-,-,Overcast
+BABULSAR,10/01/2006,12Z,7.0,79%,1027.4 Hpa,070º (E ),14.4,8/8,5/8 CB,AC,,-,-,-,Overcast
+BABULSAR,10/01/2006,09Z,7.6,76%,-,080º (E ),7.2,7/8,-,-,-,-,-,-,Cloudy
+BABULSAR,10/01/2006,06Z,5.4,83%,1027.3 Hpa,100º (E ),14.4,8/8,3/8 SC,AC,,0.2(6h),-,-,Overcast
+BABULSAR,10/01/2006,03Z,5.0,90%,-,110º (E ),10.8,8/8,-,-,-,-,-,-,Overcast
+BABULSAR,10/01/2006,00Z,5.2,96%,1024.7 Hpa,110º (E ),7.2,8/8,6/8 CB,AC,,3.0(6h),-,-,"Overcast, rain"
+BAFT,10/01/2006,21Z,-1.6,49%,-,calm.,,0/8,-,-,-,-,-,-,Clear
+BAFT,10/01/2006,18Z,0.6,43%,1021.0 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BAFT,10/01/2006,15Z,4.8,34%,-,360º (N ),14.4,1/8,-,-,-,-,-,-,Few clouds
+BAFT,10/01/2006,12Z,10.0,22%,-,270º (W ),7.2,1/8,-,-,-,-,-,-,Few clouds
+BAFT,10/01/2006,09Z,8.2,23%,-,300º (NW),14.4,5/8,-,-,-,-,-,-,Cloudy
+BAFT,10/01/2006,06Z,3.8,54%,1021.7 Hpa,300º (NW),10.8,6/8,2/8 SC,-,CI,-,-,-,Cloudy
+BAFT,10/01/2006,03Z,-1.6,76%,-,360º (N ),10.8,0/8,-,-,-,-,-,-,Clear
+BAFT,10/01/2006,00Z,0.6,67%,1016.4 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BAM,10/01/2006,21Z,7.4,44%,-,300º (NW),18.0,0/8,-,-,-,-,-,-,Clear
+BAM,10/01/2006,18Z,8.4,54%,1016.2 Hpa,300º (NW),10.8,0/8,-,-,-,-,-,-,Clear
+BAM,10/01/2006,15Z,11.8,45%,-,020º (N),18.0,3/8,-,-,-,-,-,-,Scattered clouds
+BAM,10/01/2006,12Z,16.0,35%,-,010º (N),18.0,3/8,-,-,-,-,-,-,Scattered clouds
+BAM,10/01/2006,09Z,15.6,31%,-,040º (NE),25.2,7/8,-,-,-,-,-,-,Cloudy
+BAM,10/01/2006,06Z,17.0,24%,1013.6 Hpa,330º (NW),18.0,6/8,-,-,CI,-,-,-,Cloudy
+BAM,10/01/2006,03Z,11.2,33%,-,270º (W ),25.2,2/8,-,-,-,-,-,-,Few clouds
+BAM,10/01/2006,00Z,11.6,40%,1008.5 Hpa,300º (NW),18.0,3/8,-,-,CI,-,-,-,Scattered clouds
+BANDAR LENGEH,10/01/2006,15Z,20.8,74%,-,160º (S ),7.2,0/8,-,-,-,-,-,-,Clear
+BANDAR LENGEH,10/01/2006,12Z,23.6,64%,-,150º (SE),10.8,1/8,-,-,-,-,-,-,Few clouds
+BANDAR LENGEH,10/01/2006,09Z,22.4,56%,-,130º (SE),10.8,0/8,-,-,-,-,-,-,Clear
+BANDAR LENGEH,10/01/2006,06Z,20.6,64%,1018.7 Hpa,090º (E ),10.8,0/8,-,-,CI,-,-,-,Clear
+BANDAR LENGEH,10/01/2006,03Z,15.2,76%,-,030º (NE),7.2,0/8,-,-,-,-,-,-,Clear
+BANDARABBASS,10/01/2006,21Z,14.0,82%,-,calm.,,1/8,-,-,-,-,-,-,Few clouds
+BANDARABBASS,10/01/2006,18Z,15.6,78%,1016.8 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BANDARABBASS,10/01/2006,15Z,21.0,69%,-,210º (SW),7.2,0/8,-,-,-,-,-,-,Clear
+BANDARABBASS,10/01/2006,12Z,24.0,51%,1015.3 Hpa,160º (S ),18.0,1/8,1/8 CU,-,-,-,-,-,Few clouds
+BANDARABBASS,10/01/2006,09Z,24.4,42%,-,190º (S ),14.4,1/8,-,-,-,-,-,-,Few clouds
+BANDARABBASS,10/01/2006,06Z,19.6,58%,1019.4 Hpa,010º (N),10.8,1/8,1/8 CU,-,CI,-,-,-,Few clouds
+BANDARABBASS,10/01/2006,03Z,13.0,79%,-,340º (N ),7.2,4/8,-,-,-,-,-,-,Scattered clouds
+BANDARABBASS,10/01/2006,00Z,14.0,79%,1015.8 Hpa,320º (NW),7.2,2/8,-,-,CI,-,-,-,Few clouds
+BIRJAND,10/01/2006,21Z,2.0,87%,-,calm.,,0/8,-,-,-,-,-,-,Clear
+BIRJAND,10/01/2006,18Z,1.6,82%,1022.1 Hpa,calm.,,1/8,-,-,CI,-,-,-,Few clouds
+BIRJAND,10/01/2006,15Z,7.4,66%,-,calm.,,4/8,-,-,-,-,-,-,Scattered clouds
+BIRJAND,10/01/2006,12Z,11.8,41%,1018.5 Hpa,240º (SW),10.8,5/8,4/8 CB,-,CI,-,-,-,Cloudy
+BIRJAND,10/01/2006,09Z,10.8,51%,-,250º (W ),21.6,5/8,-,-,-,-,-,-,Cloudy
+BIRJAND,10/01/2006,06Z,6.6,72%,1021.0 Hpa,calm.,,4/8,3/8 CU,AC,CI,0.2(6h),-,-,Scattered clouds
+BIRJAND,10/01/2006,03Z,2.0,97%,-,calm.,,5/8,-,-,-,-,-,-,Cloudy
+BIRJAND,10/01/2006,00Z,2.4,98%,1016.7 Hpa,calm.,,4/8,2/8 SC,AC,-,0.7(6h),-,-,Scattered clouds
+BOJNOURD,10/01/2006,21Z,-1.4,83%,-,calm.,,7/8,-,-,-,-,-,-,Cloudy
+BOJNOURD,10/01/2006,18Z,-0.4,77%,1026.7 Hpa,calm.,,6/8,6/8 SC,-,-,-,-,-,Cloudy
+BOJNOURD,10/01/2006,15Z,2.2,64%,1026.3 Hpa,calm.,,5/8,5/8 SC,-,-,-,-,-,Cloudy
+BOJNOURD,10/01/2006,12Z,,0%,-,270º (W ),21.6,5/8,-,-,-,-,-,-,Cloudy
+BOJNOURD,10/01/2006,09Z,1.2,75%,-,calm.,,7/8,-,-,-,-,-,-,Cloudy
+BOJNOURD,10/01/2006,06Z,0.0,90%,1024.4 Hpa,calm.,,7/8,5/8 ST,AC,-,1.3(24h),-,-,"Cloudy, mist"
+BOJNOURD,10/01/2006,03Z,-1.4,94%,-,calm.,,7/8,-,-,-,-,-,-,Cloudy
+BOJNOURD,10/01/2006,00Z,-1.2,90%,1020.0 Hpa,310º (NW),14.4,7/8,5/8 ST,AC,-,-,-,-,"Cloudy, mist"
+BUSHEHR,10/01/2006,21Z,17.4,83%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+BUSHEHR,10/01/2006,18Z,19.0,27%,1016.3 Hpa,calm.,,8/8,-,8/8 AC,,-,-,-,Overcast
+BUSHEHR,10/01/2006,15Z,19.2,80%,-,060º (NE),7.2,6/8,-,-,-,-,-,-,Cloudy
+BUSHEHR,10/01/2006,12Z,20.0,77%,-,330º (NW),7.2,2/8,-,-,-,-,-,-,Few clouds
+BUSHEHR,10/01/2006,09Z,20.2,83%,-,calm.,,3/8,-,-,-,-,-,-,Scattered clouds
+BUSHEHR,10/01/2006,06Z,18.0,,1030.1 Hpa,calm.,,5/8,-,-,CI,-,-,-,Cloudy
+BUSHEHR,10/01/2006,03Z,14.6,86%,-,090º (E ),10.8,0/8,-,-,-,-,-,-,Clear
+BUSHEHR,10/01/2006,00Z,15.4,243%,1016.0 Hpa,060º (NE),25.2,0/8,-,-,-,-,-,-,Clear
+CHAHBAHAR,10/01/2006,21Z,18.6,79%,-,calm.,,0/8,-,-,-,-,-,-,Clear
+CHAHBAHAR,10/01/2006,15Z,21.2,71%,-,240º (SW),10.8,0/8,-,-,-,-,-,-,Clear
+CHAHBAHAR,10/01/2006,09Z,23.4,58%,-,200º (S ),10.8,5/8,-,-,-,-,-,-,Cloudy
+CHAHBAHAR,10/01/2006,03Z,15.6,82%,-,340º (N ),7.2,4/8,-,-,-,-,-,-,Scattered clouds
+ESFAHAN,10/01/2006,21Z,0.6,76%,-,calm.,,0/8,-,-,-,-,-,-,Clear
+ESFAHAN,10/01/2006,18Z,2.4,65%,1019.9 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+ESFAHAN,10/01/2006,15Z,6.0,56%,-,calm.,,0/8,-,-,-,-,-,-,Clear
+ESFAHAN,10/01/2006,12Z,9.8,32%,1016.6 Hpa,080º (E ),14.4,2/8,-,-,CI,-,-,-,Few clouds
+ESFAHAN,10/01/2006,09Z,7.4,35%,-,calm.,,4/8,-,-,-,-,-,-,Scattered clouds
+ESFAHAN,10/01/2006,06Z,1.6,68%,1020.5 Hpa,calm.,,5/8,-,-,CI,-,-,-,Cloudy
+ESFAHAN,10/01/2006,03Z,-2.6,81%,-,calm.,,0/8,-,-,-,-,-,-,Clear
+ESFAHAN,10/01/2006,00Z,-0.2,78%,1015.0 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+FASA,10/01/2006,21Z,4.0,78%,-,calm.,,3/8,-,-,-,-,-,-,Scattered clouds
+FASA,10/01/2006,18Z,6.6,67%,1017.8 Hpa,040º (NE),7.2,0/8,-,-,-,-,-,-,Clear
+FASA,10/01/2006,15Z,10.2,53%,-,150º (SE),7.2,0/8,-,-,-,-,-,-,Clear
+FASA,10/01/2006,12Z,15.4,40%,-,180º (S ),18.0,2/8,-,-,-,-,-,-,Few clouds
+FASA,10/01/2006,09Z,13.2,56%,-,090º (E ),10.8,3/8,-,-,-,-,-,-,Scattered clouds
+FASA,10/01/2006,06Z,7.8,81%,1018.4 Hpa,calm.,,5/8,-,-,CI,-,-,-,Cloudy
+FASA,10/01/2006,03Z,1.0,89%,-,calm.,,1/8,-,-,-,-,-,-,Few clouds
+FASA,10/01/2006,00Z,5.6,77%,1014.8 Hpa,110º (E ),7.2,0/8,-,-,-,-,-,-,Clear
+FERDOUS,10/01/2006,21Z,0.0,92%,-,calm.,,2/8,-,-,-,-,-,-,Few clouds
+FERDOUS,10/01/2006,18Z,1.4,93%,1023.0 Hpa,calm.,,3/8,-,-,CI,-,-,-,"Scattered clouds, mist"
+FERDOUS,10/01/2006,15Z,3.6,73%,-,calm.,,3/8,-,-,-,-,-,-,Scattered clouds
+FERDOUS,10/01/2006,12Z,7.0,60%,-,250º (W ),10.8,4/8,-,-,-,-,-,-,Scattered clouds
+FERDOUS,10/01/2006,09Z,6.0,81%,-,calm.,,4/8,-,-,-,-,-,-,Scattered clouds
+FERDOUS,10/01/2006,06Z,2.4,79%,998 m(925 Hpa),calm.,,4/8,4/8 SC,-,-,3.0(6h),-,-,Scattered clouds
+FERDOUS,10/01/2006,03Z,0.2,92%,-,calm.,,7/8,-,-,-,-,-,-,Cloudy
+FERDOUS,10/01/2006,00Z,-0.2,92%,1018.4 Hpa,calm.,,8/8,4/8 SC,AC,,0.8(6h),-,-,"Overcast, snow"
+GACH SARAN DU GUNBADAN,10/01/2006,21Z,11.6,74%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+GACH SARAN DU GUNBADAN,10/01/2006,18Z,12.2,75%,1015.2 Hpa,calm.,,7/8,2/8 SC,AC,-,-,-,-,Cloudy
+GACH SARAN DU GUNBADAN,10/01/2006,15Z,14.0,60%,-,calm.,,4/8,-,-,-,-,-,-,Scattered clouds
+GACH SARAN DU GUNBADAN,10/01/2006,12Z,17.2,38%,-,calm.,,2/8,-,-,-,-,-,-,Few clouds
+GACH SARAN DU GUNBADAN,10/01/2006,09Z,15.6,63%,-,150º (SE),7.2,4/8,-,-,-,-,-,-,Scattered clouds
+GACH SARAN DU GUNBADAN,10/01/2006,06Z,9.8,79%,1016.8 Hpa,calm.,,4/8,-,-,CI,4.0(24h),-,-,"Scattered clouds, mist"
+GACH SARAN DU GUNBADAN,10/01/2006,03Z,7.2,91%,-,calm.,,3/8,-,-,-,-,-,-,Scattered clouds
+GACH SARAN DU GUNBADAN,10/01/2006,00Z,7.8,91%,1015.5 Hpa,calm.,,3/8,3/8 SC,-,-,-,-,-,"Scattered clouds, mist"
+GHARAKHIL,10/01/2006,21Z,4.0,93%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+GHARAKHIL,10/01/2006,18Z,4.8,93%,1028.5 Hpa,060º (NE),10.8,8/8,3/8 ST,AC,,-,-,-,Overcast
+GHARAKHIL,10/01/2006,15Z,5.6,87%,-,060º (NE),10.8,8/8,-,-,-,-,-,-,Overcast
+GHARAKHIL,10/01/2006,12Z,6.8,79%,-,060º (NE),14.4,7/8,-,-,-,-,-,-,Cloudy
+GHARAKHIL,10/01/2006,09Z,7.0,76%,-,090º (E ),10.8,7/8,-,-,-,-,-,-,Cloudy
+GHARAKHIL,10/01/2006,06Z,5.2,93%,1026.4 Hpa,060º (NE),14.4,7/8,3/8 ST,AC,-,0.3(6h),-,-,"Cloudy, mist"
+GHARAKHIL,10/01/2006,03Z,4.6,93%,-,calm.,,7/8,-,-,-,-,-,-,Cloudy
+GHARAKHIL,10/01/2006,00Z,5.0,96%,1023.9 Hpa,calm.,,8/8,4/8 ST,AC,,1.0(6h),-,-,"Overcast, drizzle"
+GHAZVIN,10/01/2006,21Z,0.4,90%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+GHAZVIN,10/01/2006,18Z,0.6,83%,1025.9 Hpa,calm.,,8/8,3/8 SC,AC,,-,-,-,Overcast
+GHAZVIN,10/01/2006,15Z,0.6,82%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+GHAZVIN,10/01/2006,12Z,2.0,78%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+GHAZVIN,10/01/2006,09Z,1.2,75%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+GHAZVIN,10/01/2006,06Z,-2.0,92%,1025.0 Hpa,calm.,,8/8,5/8 ST,AC,,0.8(6h),-,-,"Overcast, snow"
+GHAZVIN,10/01/2006,03Z,-1.8,92%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+GHAZVIN,10/01/2006,00Z,-1.6,94%,1020.5 Hpa,calm.,,8/8,5/8 ST,AC,,1.0(6h),-,-,"Overcast, mist"
+GHUCHAN,10/01/2006,21Z,-5.6,94%,-,calm.,,7/8,-,-,-,-,-,-,Cloudy
+GHUCHAN,10/01/2006,18Z,-4.4,91%,1026.6 Hpa,calm.,,1/8,1/8 SC,-,-,-,-,-,Few clouds
+GHUCHAN,10/01/2006,15Z,-0.8,83%,-,calm.,,5/8,-,-,-,-,-,-,Cloudy
+GHUCHAN,10/01/2006,12Z,0.4,82%,-,calm.,,7/8,-,-,-,-,-,-,Cloudy
+GHUCHAN,10/01/2006,09Z,0.4,78%,-,calm.,,5/8,-,-,-,-,-,-,Cloudy
+GHUCHAN,10/01/2006,06Z,-1.4,90%,1023.4 Hpa,calm.,,8/8,5/8 ST,AC,,4.7(24h),-,-,Overcast
+GHUCHAN,10/01/2006,03Z,-1.8,94%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+GHUCHAN,10/01/2006,00Z,-0.6,91%,1017.1 Hpa,calm.,,8/8,4/8 ST,AC,,0.1(6h),-,-,Overcast
+GORGAN,10/01/2006,21Z,4.2,89%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+GORGAN,10/01/2006,18Z,4.6,88%,1029.8 Hpa,030º (NE),7.2,8/8,3/8 SC,AC,,-,-,-,Overcast
+GORGAN,10/01/2006,15Z,5.2,86%,-,040º (NE),7.2,8/8,-,-,-,-,-,-,Overcast
+GORGAN,10/01/2006,12Z,5.4,83%,-,020º (N),10.8,8/8,-,-,-,-,-,-,Overcast
+GORGAN,10/01/2006,09Z,5.2,83%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+GORGAN,10/01/2006,06Z,3.6,86%,1028.0 Hpa,calm.,,7/8,5/8 ST,AC,-,0.2(6h),-,-,"Cloudy, mist"
+GORGAN,10/01/2006,03Z,2.8,93%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+GORGAN,10/01/2006,00Z,2.8,96%,1024.7 Hpa,calm.,,8/8,6/8 ST,AC,,-,-,-,"Overcast, mist"
+HAMEDAN,10/01/2006,21Z,-1.8,94%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+HAMEDAN,10/01/2006,18Z,-1.6,90%,1022.9 Hpa,250º (W ),7.2,5/8,1/8 SC,-,CS,-,-,-,Cloudy
+HAMEDAN,10/01/2006,15Z,0.0,85%,-,calm.,,7/8,-,-,-,-,-,-,Cloudy
+HAMEDAN,10/01/2006,12Z,2.0,74%,1017.4 Hpa,340º (N ),10.8,8/8,1/8 CU,AC,,-,-,-,Overcast
+HAMEDAN,10/01/2006,09Z,0.0,87%,-,calm.,,7/8,-,-,-,-,-,-,Cloudy
+HAMEDAN,10/01/2006,06Z,-1.8,79%,1023.0 Hpa,040º (NE),10.8,7/8,2/8 SC,-,CS,3.0(24h),-,-,Cloudy
+HAMEDAN,10/01/2006,03Z,-3.2,76%,-,040º (NE),14.4,3/8,-,-,-,-,-,-,Scattered clouds
+HAMEDAN,10/01/2006,00Z,-6.0,89%,1020.6 Hpa,040º (NE),10.8,4/8,2/8 SC,-,-,-,-,-,Scattered clouds
+ILAM,10/01/2006,21Z,4.0,61%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+ILAM,10/01/2006,18Z,2.6,74%,1019.9 Hpa,120º (SE),7.2,7/8,2/8 SC,AC,-,-,-,-,Cloudy
+ILAM,10/01/2006,15Z,4.6,59%,-,100º (E ),7.2,7/8,-,-,-,-,-,-,Cloudy
+ILAM,10/01/2006,12Z,7.2,60%,-,180º (S ),14.4,7/8,-,-,-,-,-,-,Cloudy
+ILAM,10/01/2006,09Z,6.8,49%,-,100º (E ),14.4,7/8,-,-,-,-,-,-,Cloudy
+ILAM,10/01/2006,06Z,2.6,74%,1022.3 Hpa,calm.,,5/8,-,-,CI,4.0(24h),-,-,Cloudy
+ILAM,10/01/2006,03Z,0.0,88%,-,110º (E ),7.2,0/8,-,-,-,-,-,-,Clear
+ILAM,10/01/2006,00Z,0.0,88%,1019.2 Hpa,calm.,,3/8,-,-,CI,-,-,-,Scattered clouds
+IRANSHAHR,10/01/2006,21Z,10.8,41%,-,010º (N),7.2,0/8,-,-,-,-,-,-,Clear
+IRANSHAHR,10/01/2006,18Z,13.2,40%,1017.8 Hpa,060º (NE),7.2,0/8,-,-,-,-,-,-,Clear
+IRANSHAHR,10/01/2006,15Z,18.0,33%,-,290º (W ),7.2,0/8,-,-,-,-,-,-,Clear
+IRANSHAHR,10/01/2006,12Z,21.4,27%,-,210º (SW),7.2,2/8,-,-,-,-,-,-,Few clouds
+IRANSHAHR,10/01/2006,09Z,20.2,32%,-,240º (SW),7.2,2/8,-,-,-,-,-,-,Few clouds
+IRANSHAHR,10/01/2006,03Z,6.8,39%,-,060º (NE),7.2,1/8,-,-,-,-,-,-,Few clouds
+IRANSHAHR,10/01/2006,00Z,9.0,26%,1016.7 Hpa,030º (NE),14.4,0/8,-,-,-,-,-,-,Clear
+JASK,10/01/2006,21Z,20.2,81%,-,330º (NW),7.2,0/8,-,-,-,-,-,-,Clear
+JASK,10/01/2006,18Z,21.8,23%,1016.4 Hpa,250º (W ),10.8,0/8,-,-,-,-,-,-,Clear
+JASK,10/01/2006,15Z,22.2,67%,-,250º (W ),18.0,0/8,-,-,-,-,-,-,Clear
+JASK,10/01/2006,12Z,24.0,58%,-,240º (SW),21.6,1/8,-,-,-,-,-,-,Few clouds
+JASK,10/01/2006,09Z,23.6,65%,-,160º (S ),7.2,1/8,-,-,-,-,-,-,Few clouds
+JASK,10/01/2006,06Z,21.4,24%,1019.6 Hpa,calm.,,1/8,-,-,CC,-,-,-,Few clouds
+JASK,10/01/2006,03Z,16.4,79%,-,020º (N),7.2,1/8,-,-,-,-,-,-,Few clouds
+JASK,10/01/2006,00Z,17.8,603%,1016.1 Hpa,350º (N ),7.2,0/8,-,-,-,-,-,-,Clear
+KASHAN,10/01/2006,18Z,5.4,73%,1026.6 Hpa,calm.,,6/8,2/8 SC,-,CI,-,-,-,Cloudy
+KASHAN,10/01/2006,15Z,5.4,76%,-,calm.,,7/8,-,-,-,-,-,-,Cloudy
+KASHAN,10/01/2006,12Z,6.0,73%,1025.2 Hpa,calm.,,8/8,3/8 SC,AC,,-,-,-,Overcast
+KASHAN,10/01/2006,09Z,4.6,84%,-,calm.,,7/8,-,-,-,-,-,-,Cloudy
+KASHAN,10/01/2006,06Z,3.8,87%,1025.7 Hpa,calm.,,7/8,3/8 SC,AC,-,1.9(24h),-,-,"Cloudy, mist"
+KASHAN,10/01/2006,03Z,2.4,93%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+KASHAN,10/01/2006,00Z,1.4,93%,1021.5 Hpa,calm.,,6/8,2/8 SC,-,CI,-,-,-,"Cloudy, mist"
+KASHMAR,10/01/2006,21Z,1.6,85%,-,calm.,,2/8,-,-,-,-,-,-,Few clouds
+KASHMAR,10/01/2006,18Z,3.0,93%,1026.3 Hpa,120º (SE),7.2,4/8,4/8 ST,-,-,-,-,-,Scattered clouds
+KASHMAR,10/01/2006,15Z,3.4,93%,-,calm.,,4/8,-,-,-,-,-,-,Scattered clouds
+KASHMAR,10/01/2006,11Z,6.0,104%,-,250º (W ),7.2,6/8,-,-,-,-,-,-,Cloudy
+KASHMAR,10/01/2006,09Z,3.6,90%,-,calm.,,4/8,-,-,-,-,-,-,Scattered clouds
+KASHMAR,10/01/2006,06Z,1.4,100%,1024.0 Hpa,calm.,,8/8,3/8 ST,AC,,4.4(24h),-,-,"Overcast, mist"
+KASHMAR,10/01/2006,03Z,0.6,96%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+KASHMAR,10/01/2006,00Z,0.4,92%,-,calm.,,2/8,-,-,-,-,-,-,Few clouds
+KERMAN,10/01/2006,21Z,1.0,47%,-,calm.,,0/8,-,-,-,-,-,-,Clear
+KERMAN,10/01/2006,18Z,5.4,37%,1017.8 Hpa,calm.,,4/8,-,-,CI,-,-,-,Scattered clouds
+KERMAN,10/01/2006,15Z,8.2,31%,-,calm.,,5/8,-,-,-,-,-,-,Cloudy
+KERMAN,10/01/2006,12Z,13.8,23%,1014.4 Hpa,calm.,,6/8,-,-,CI,-,-,-,Cloudy
+KERMAN,10/01/2006,09Z,11.6,30%,-,calm.,,5/8,-,-,-,-,-,-,Cloudy
+KERMAN,10/01/2006,06Z,7.2,44%,1019.3 Hpa,240º (SW),14.4,6/8,-,-,CI,-,-,-,Cloudy
+KERMAN,10/01/2006,03Z,4.2,69%,-,calm.,,2/8,-,-,-,-,-,-,Few clouds
+KERMAN,10/01/2006,00Z,3.6,54%,1015.9 Hpa,210º (SW),7.2,1/8,1/8 SC,-,-,-,-,-,Few clouds
+KERMANSHAH,10/01/2006,21Z,2.8,74%,-,210º (SW),10.8,8/8,-,-,-,-,-,-,Overcast
+KERMANSHAH,10/01/2006,18Z,4.0,58%,1020.0 Hpa,150º (SE),14.4,7/8,3/8 SC,-,CI,-,-,-,Cloudy
+KERMANSHAH,10/01/2006,15Z,4.9,63%,-,120º (SE),10.8,7/8,-,-,-,-,-,-,Cloudy
+KERMANSHAH,10/01/2006,12Z,8.6,43%,1018.1 Hpa,170º (S ),7.2,7/8,3/8 SC,-,CI,-,-,-,Cloudy
+KERMANSHAH,10/01/2006,09Z,6.6,54%,-,090º (E ),21.6,6/8,-,-,-,-,-,-,Cloudy
+KERMANSHAH,10/01/2006,06Z,1.6,86%,1021.4 Hpa,170º (S ),7.2,6/8,3/8 SC,AC,-,4.4(24h),-,-,Cloudy
+KERMANSHAH,10/01/2006,03Z,-0.0,92%,-,calm.,,4/8,-,-,-,-,-,-,Scattered clouds
+KERMANSHAH,10/01/2006,00Z,1.8,89%,1019.4 Hpa,calm.,,4/8,4/8 SC,-,-,-,-,-,Scattered clouds
+KHOR,10/01/2006,21Z,4.4,75%,-,calm.,,3/8,-,-,-,-,-,-,Scattered clouds
+KHOR,10/01/2006,18Z,5.6,73%,1023.8 Hpa,calm.,,4/8,3/8 SC,-,CI,-,-,-,Scattered clouds
+KHOR,10/01/2006,15Z,8.4,61%,-,calm.,,7/8,-,-,-,-,-,-,Cloudy
+KHOR,10/01/2006,12Z,10.4,55%,-,050º (NE),10.8,6/8,-,-,-,-,-,-,Cloudy
+KHOR,10/01/2006,09Z,10.2,61%,-,calm.,,4/8,-,-,-,-,-,-,Scattered clouds
+KHOR,10/01/2006,06Z,5.6,82%,1023.0 Hpa,calm.,,2/8,1/8 SC,-,CI,0.7(24h),-,-,Few clouds
+KHOR,10/01/2006,03Z,2.4,93%,-,calm.,,4/8,-,-,-,-,-,-,Scattered clouds
+KHOR,10/01/2006,00Z,3.8,87%,1018.4 Hpa,calm.,,7/8,3/8 SC,AC,-,0.7(6h),-,-,Cloudy
+KHORRAM ABAD,10/01/2006,21Z,3.6,81%,-,080º (E ),7.2,7/8,-,-,-,-,-,-,Cloudy
+KHORRAM ABAD,10/01/2006,18Z,3.8,75%,1020.1 Hpa,270º (W ),7.2,6/8,-,-,CI,-,-,-,Cloudy
+KHORRAM ABAD,10/01/2006,15Z,6.6,56%,-,110º (E ),10.8,6/8,-,-,-,-,-,-,Cloudy
+KHORRAM ABAD,10/01/2006,12Z,11.2,36%,-,150º (SE),18.0,6/8,-,-,-,-,-,-,Cloudy
+KHORRAM ABAD,10/01/2006,09Z,9.4,49%,-,calm.,,5/8,-,-,-,-,-,-,Cloudy
+KHORRAM ABAD,10/01/2006,06Z,0.4,85%,1023.4 Hpa,280º (W ),7.2,4/8,-,-,CI,2.2(24h),-,-,Scattered clouds
+KHORRAM ABAD,10/01/2006,03Z,-1.2,94%,-,calm.,,0/8,-,-,-,-,-,-,Clear
+KHORRAM ABAD,10/01/2006,00Z,0.0,96%,1019.8 Hpa,calm.,,2/8,2/8 SC,-,-,-,-,-,Few clouds
+KHOY,10/01/2006,21Z,-2.4,99%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+KHOY,10/01/2006,18Z,-2.2,97%,1026.4 Hpa,calm.,,8/8,5/8 ST,AC,,-,-,-,"Overcast, mist"
+KHOY,10/01/2006,15Z,-1.8,97%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+KHOY,10/01/2006,12Z,-0.8,94%,1024.5 Hpa,calm.,,8/8,5/8 ST,AC,,Tr(6h),-,-,"Overcast, mist"
+KHOY,10/01/2006,09Z,-1.2,90%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+KHOY,10/01/2006,06Z,-2.8,97%,3010 m(700 Hpa),calm.,,8/8,5/8 ST,AC,,0.4(6h),-,-,"Overcast, snow"
+KHOY,10/01/2006,03Z,-3.2,97%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+KHOY,10/01/2006,00Z,-2.8,99%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+KISH ISLAND,10/01/2006,21Z,19.4,75%,-,calm.,,5/8,-,-,-,-,-,-,Cloudy
+KISH ISLAND,10/01/2006,18Z,20.0,72%,1016.9 Hpa,340º (N ),7.2,3/8,2/8 SC,AC,-,-,-,-,Scattered clouds
+KISH ISLAND,10/01/2006,15Z,20.6,,-,calm.,,3/8,-,-,-,-,24.8,-,Scattered clouds
+KISH ISLAND,10/01/2006,12Z,23.0,60%,-,150º (SE),21.6,0/8,-,-,-,-,-,-,Clear
+KISH ISLAND,10/01/2006,09Z,23.6,55%,-,090º (E ),10.8,0/8,-,-,-,-,-,-,Clear
+KISH ISLAND,10/01/2006,06Z,21.6,64%,1018.7 Hpa,040º (NE),10.8,3/8,-,-,CI,-,-,-,Scattered clouds
+KISH ISLAND,10/01/2006,03Z,18.0,76%,-,060º (NE),7.2,2/8,-,-,-,-,-,-,Few clouds
+KISH ISLAND,10/01/2006,00Z,18.6,84%,1015.0 Hpa,060º (NE),7.2,0/8,-,-,-,-,-,-,Clear
+KONARAK,10/01/2006,18Z,17.0,71%,-,calm.,,0/8,-,-,-,-,-,-,Clear
+KONARAK,10/01/2006,15Z,20.2,69%,-,250º (W ),7.2,0/8,-,-,-,-,-,-,Clear
+KONARAK,10/01/2006,12Z,24.0,52%,-,240º (SW),18.0,2/8,-,-,-,-,-,-,Few clouds
+KONARAK,10/01/2006,09Z,23.4,49%,-,230º (SW),10.8,4/8,-,-,-,-,-,-,Scattered clouds
+KONARAK,10/01/2006,06Z,19.6,61%,-,calm.,,2/8,-,-,-,-,-,-,Few clouds
+KONARAK,10/01/2006,03Z,13.0,74%,-,calm.,,4/8,-,-,-,-,-,-,Scattered clouds
+MAKKO,10/01/2006,21Z,-5.0,95%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+MAKKO,10/01/2006,18Z,-4.2,96%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+MAKKO,10/01/2006,15Z,-4.2,91%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+MAKKO,10/01/2006,12Z,-1.2,72%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+MAKKO,10/01/2006,09Z,-2.0,78%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+MAKKO,10/01/2006,06Z,-5.0,95%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+MAKKO,10/01/2006,03Z,-4.4,85%,1023.3 Hpa,calm.,,8/8,7/8 ST,AC,,-,-,-,"Overcast, snow"
+MAKKO,10/01/2006,00Z,-4.6,95%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+MARAGHEH,10/01/2006,21Z,-2.4,81%,-,100º (E ),14.4,8/8,-,-,-,-,-,-,Overcast
+MARAGHEH,10/01/2006,18Z,-2.0,84%,-,100º (E ),25.2,8/8,-,-,-,-,-,-,Overcast
+MARAGHEH,10/01/2006,15Z,-2.0,86%,-,110º (E ),14.4,8/8,-,-,-,-,-,-,Overcast
+MARAGHEH,10/01/2006,12Z,-0.6,77%,-,100º (E ),18.0,8/8,-,-,-,-,-,-,Overcast
+MARAGHEH,10/01/2006,09Z,-2.0,94%,-,120º (SE),14.4,8/8,-,-,-,-,-,-,Overcast
+MARAGHEH,10/01/2006,06Z,-2.0,79%,-,090º (E ),21.6,8/8,-,-,-,-,-,-,Overcast
+MARAGHEH,10/01/2006,03Z,-3.6,89%,-,140º (SE),7.2,8/8,-,-,-,-,-,-,Overcast
+MARAGHEH,10/01/2006,00Z,-2.6,85%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+MASHHAD,10/01/2006,21Z,-1.2,88%,-,120º (SE),10.8,8/8,-,-,-,-,-,-,Overcast
+MASHHAD,10/01/2006,18Z,-0.4,82%,1029.8 Hpa,calm.,,7/8,4/8 ST,AC,-,-,-,-,"Cloudy, mist"
+MASHHAD,10/01/2006,15Z,0.2,85%,-,140º (SE),7.2,7/8,-,-,-,-,-,-,Cloudy
+MASHHAD,10/01/2006,12Z,1.0,82%,1027.4 Hpa,120º (SE),7.2,8/8,5/8 ST,AC,,Tr(6h),-,-,"Overcast, mist"
+MASHHAD,10/01/2006,09Z,-0.2,88%,-,130º (SE),7.2,8/8,-,-,-,-,-,-,Overcast
+MASHHAD,10/01/2006,06Z,-1.4,88%,,120º (SE),10.8,8/8,4/8 ST,AC,,0.3(6h),-,-,"Overcast, snow"
+MASHHAD,10/01/2006,03Z,-0.4,83%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+MASHHAD,10/01/2006,00Z,-1.6,86%,1021.1 Hpa,calm.,,6/8,3/8 SC,AC,-,-,-,-,"Cloudy, mist"
+MASJED-SOLEYMAN,10/01/2006,21Z,13.0,77%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+MASJED-SOLEYMAN,10/01/2006,18Z,13.0,81%,1016.6 Hpa,calm.,,5/8,-,5/8 AC,-,-,-,-,Cloudy
+MASJED-SOLEYMAN,10/01/2006,15Z,14.4,71%,-,calm.,,5/8,-,-,-,-,-,-,Cloudy
+MASJED-SOLEYMAN,10/01/2006,12Z,17.0,59%,-,210º (SW),14.4,6/8,-,-,-,-,-,-,Cloudy
+MASJED-SOLEYMAN,10/01/2006,09Z,14.2,71%,-,calm.,,7/8,-,-,-,-,-,-,Cloudy
+MASJED-SOLEYMAN,10/01/2006,06Z,8.2,91%,1018.4 Hpa,calm.,,7/8,-,-,CI,Tr(24h),-,-,Cloudy
+MASJED-SOLEYMAN,10/01/2006,03Z,7.0,100%,-,calm.,,0/8,-,-,-,-,-,-,Clear
+MASJED-SOLEYMAN,10/01/2006,00Z,8.0,97%,1014.8 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, mist"
+MOHABAD,10/01/2006,21Z,-1.0,94%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+MOHABAD,10/01/2006,18Z,-1.0,94%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+MOHABAD,10/01/2006,15Z,-1.0,92%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+MOHABAD,10/01/2006,12Z,-0.4,88%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+MOHABAD,10/01/2006,09Z,-0.4,92%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+MOHABAD,10/01/2006,06Z,-1.2,87%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+MOHABAD,10/01/2006,03Z,-1.6,90%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+MOHABAD,10/01/2006,00Z,-1.0,93%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+NEHBANDAN,10/01/2006,15Z,11.2,34%,-,calm.,,1/8,-,-,-,-,-,-,Few clouds
+NEHBANDAN,10/01/2006,12Z,16.4,35%,-,210º (SW),10.8,3/8,-,-,-,-,-,-,Scattered clouds
+NEHBANDAN,10/01/2006,09Z,16.0,35%,-,210º (SW),21.6,3/8,-,-,-,-,-,-,Scattered clouds
+NEHBANDAN,10/01/2006,06Z,11.8,39%,1022.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+NEHBANDAN,10/01/2006,03Z,0.0,43%,-,calm.,,0/8,-,-,-,-,-,-,Clear
+NOSHAHR,10/01/2006,21Z,7.0,82%,-,140º (SE),7.2,7/8,-,-,-,-,-,-,Cloudy
+NOSHAHR,10/01/2006,18Z,6.8,82%,1027.6 Hpa,170º (S ),10.8,7/8,3/8 CB,AC,-,-,-,-,Cloudy
+NOSHAHR,10/01/2006,15Z,7.6,78%,-,120º (SE),7.2,7/8,-,-,-,-,-,-,Cloudy
+NOSHAHR,10/01/2006,12Z,7.4,85%,-,calm.,,7/8,-,-,-,-,-,-,Cloudy
+NOSHAHR,10/01/2006,09Z,7.2,88%,-,320º (NW),7.2,8/8,-,-,-,-,-,-,Overcast
+NOSHAHR,10/01/2006,06Z,6.0,90%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+NOSHAHR,10/01/2006,03Z,4.8,96%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+NOSHAHR,10/01/2006,00Z,5.0,96%,1024.2 Hpa,290º (W ),7.2,8/8,5/8 CB,AC,,5.0(6h),-,-,"Overcast, rain"
+OMIDYEH-AGHAJARI,10/01/2006,21Z,15.2,85%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+OMIDYEH-AGHAJARI,10/01/2006,18Z,16.0,77%,1017.4 Hpa,360º (N ),10.8,6/8,6/8 CB,-,-,-,-,-,Cloudy
+OMIDYEH-AGHAJARI,10/01/2006,12Z,20.0,60%,-,calm.,,3/8,-,-,-,-,-,-,Scattered clouds
+OMIDYEH-AGHAJARI,10/01/2006,09Z,18.0,70%,-,200º (S ),7.2,3/8,-,-,-,-,-,-,Scattered clouds
+OMIDYEH-AGHAJARI,10/01/2006,06Z,12.6,88%,1020.0 Hpa,calm.,,2/8,-,-,CI,-,-,-,"Few clouds, mist"
+OMIDYEH-AGHAJARI,10/01/2006,03Z,9.2,97%,-,calm.,,0/8,-,-,-,-,-,-,Clear
+OMIDYEH-AGHAJARI,10/01/2006,00Z,10.8,94%,1017.6 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, mist"
+ORUMIEH,10/01/2006,21Z,-2.0,94%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+ORUMIEH,10/01/2006,18Z,-1.6,94%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+ORUMIEH,10/01/2006,15Z,-1.6,90%,-,360º (N ),7.2,8/8,-,-,-,-,-,-,Overcast
+ORUMIEH,10/01/2006,12Z,-0.4,77%,-,030º (NE),7.2,8/8,-,-,-,-,-,-,Overcast
+ORUMIEH,10/01/2006,09Z,-0.4,77%,1023.6 Hpa,090º (E ),7.2,8/8,-,-,-,-,-,-,"Overcast, haze"
+ORUMIEH,10/01/2006,06Z,-2.2,93%,3009 m(700 Hpa),calm.,,8/8,6/8 ST,AC,,0.8(6h),-,-,"Overcast, snow"
+ORUMIEH,10/01/2006,05Z,-2.2,93%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+ORUMIEH,10/01/2006,03Z,-2.8,92%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+ORUMIEH,10/01/2006,00Z,-2.2,93%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+PARS ABAD MOGHAN,10/01/2006,21Z,3.0,96%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+PARS ABAD MOGHAN,10/01/2006,18Z,3.0,96%,1025.0 Hpa,calm.,,8/8,4/8 SC,AC,,2.0(6h),-,-,"Overcast, rain"
+PARS ABAD MOGHAN,10/01/2006,15Z,3.4,93%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+PARS ABAD MOGHAN,10/01/2006,12Z,4.0,86%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+PARS ABAD MOGHAN,10/01/2006,09Z,3.2,89%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+PARS ABAD MOGHAN,10/01/2006,06Z,2.0,97%,1023.4 Hpa,calm.,,8/8,8/8 ST,,,0.2(6h),-,-,"Overcast, drizzle"
+PARS ABAD MOGHAN,10/01/2006,03Z,2.0,284%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+PARS ABAD MOGHAN,10/01/2006,00Z,2.0,279%,1021.3 Hpa,calm.,,8/8,8/8 ST,,,-,-,-,Overcast
+RAMSAR,10/01/2006,21Z,6.4,95%,-,calm.,,0/8,-,-,-,-,-,-,Clear
+RAMSAR,10/01/2006,18Z,6.8,90%,1027.4 Hpa,180º (S ),3.6,7/8,4/8 CB,AC,-,0.9(6h),-,-,"Cloudy, mist"
+RAMSAR,10/01/2006,15Z,6.8,90%,-,calm.,,7/8,-,-,-,-,-,-,Cloudy
+RAMSAR,10/01/2006,12Z,6.8,85%,1025.9 Hpa,300º (NW),7.2,6/8,5/8 CB,AC,-,2.0(6h),-,-,Cloudy
+RAMSAR,10/01/2006,09Z,6.0,93%,-,330º (NW),7.2,8/8,-,-,-,-,-,-,Overcast
+RAMSAR,10/01/2006,06Z,5.4,93%,1026.5 Hpa,calm.,,8/8,5/8 CB,AC,,3.0(6h),-,-,"Overcast, rain"
+RAMSAR,10/01/2006,03Z,4.6,93%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+RAMSAR,10/01/2006,00Z,4.6,96%,1023.9 Hpa,calm.,,8/8,4/8 CB,AC,,7.0(6h),-,-,"Overcast, rain"
+SABZEVAR,10/01/2006,21Z,0.2,88%,-,calm.,,0/8,-,-,-,-,-,-,Clear
+SABZEVAR,10/01/2006,18Z,0.2,88%,1029.0 Hpa,090º (E ),14.4,5/8,2/8 SC,-,CI,Tr(6h),-,-,"Cloudy, mist"
+SABZEVAR,10/01/2006,15Z,2.8,83%,-,090º (E ),10.8,2/8,-,-,-,-,-,-,Few clouds
+SABZEVAR,10/01/2006,12Z,4.8,78%,1027.3 Hpa,090º (E ),10.8,7/8,7/8 CB,-,-,0.1(6h),-,-,Cloudy
+SABZEVAR,10/01/2006,09Z,4.0,81%,-,120º (SE),7.2,8/8,-,-,-,-,-,-,Overcast
+SABZEVAR,10/01/2006,06Z,2.4,89%,1027.4 Hpa,calm.,,8/8,5/8 ST,AC,,0.7(6h),-,-,"Overcast, drizzle"
+SABZEVAR,10/01/2006,03Z,1.6,96%,-,060º (NE),10.8,8/8,-,-,-,-,-,-,Overcast
+SABZEVAR,10/01/2006,00Z,1.2,96%,1022.5 Hpa,030º (NE),7.2,8/8,3/8 SC,AC,,0.7(6h),-,-,"Overcast, mist"
+SAFI-ABAD DEZFUL,10/01/2006,21Z,12.6,83%,-,020º (N),10.8,8/8,-,-,-,-,-,-,Overcast
+SAFI-ABAD DEZFUL,10/01/2006,18Z,12.2,85%,1017.6 Hpa,calm.,,7/8,5/8 CB,AC,-,-,-,-,Cloudy
+SAFI-ABAD DEZFUL,10/01/2006,15Z,14.0,82%,-,calm.,,4/8,-,-,-,-,-,-,Scattered clouds
+SAFI-ABAD DEZFUL,10/01/2006,12Z,18.6,57%,-,calm.,,1/8,-,-,-,-,-,-,Few clouds
+SAFI-ABAD DEZFUL,10/01/2006,09Z,16.6,67%,-,calm.,,3/8,-,-,-,-,-,-,Scattered clouds
+SAFI-ABAD DEZFUL,10/01/2006,06Z,9.8,86%,1019.8 Hpa,calm.,,4/8,-,-,CI,-,-,-,Scattered clouds
+SAFI-ABAD DEZFUL,10/01/2006,03Z,7.6,94%,-,calm.,,0/8,-,-,-,-,-,-,Clear
+SAFI-ABAD DEZFUL,10/01/2006,00Z,8.0,94%,1018.0 Hpa,calm.,,0/8,-,-,-,-,-,-,"Clear, mist"
+SAGHEZ,10/01/2006,21Z,-2.0,90%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+SAGHEZ,10/01/2006,18Z,-3.0,92%,-,360º (N ),10.8,8/8,-,-,-,-,-,-,Overcast
+SAGHEZ,10/01/2006,15Z,-2.6,89%,-,360º (N ),7.2,8/8,-,-,-,-,-,-,Overcast
+SAGHEZ,10/01/2006,12Z,-0.4,88%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+SAGHEZ,10/01/2006,09Z,0.4,75%,-,calm.,,4/8,-,-,-,-,-,-,Scattered clouds
+SAGHEZ,10/01/2006,06Z,-3.2,92%,1023.4 Hpa,calm.,,8/8,5/8 ST,AC,,0.1(6h),-,-,"Overcast, snow"
+SAGHEZ,10/01/2006,03Z,-3.0,92%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+SAGHEZ,10/01/2006,00Z,-1.8,94%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+SANANDAJ,10/01/2006,21Z,3.4,57%,-,320º (NW),14.4,8/8,-,-,-,-,-,-,Overcast
+SANANDAJ,10/01/2006,18Z,3.4,62%,1019.4 Hpa,calm.,,5/8,4/8 SC,-,CI,-,-,-,Cloudy
+SANANDAJ,10/01/2006,15Z,4.4,56%,-,calm.,,6/8,-,-,-,-,-,-,Cloudy
+SANANDAJ,10/01/2006,12Z,6.6,39%,-,180º (S ),14.4,6/8,-,-,-,-,-,-,Cloudy
+SANANDAJ,10/01/2006,09Z,5.8,45%,-,190º (S ),25.2,7/8,-,-,-,-,-,-,Cloudy
+SANANDAJ,10/01/2006,06Z,0.2,92%,1020.7 Hpa,360º (N ),3.6,6/8,5/8 SC,-,CI,1.7(24h),-,-,"Cloudy, mist"
+SANANDAJ,10/01/2006,03Z,0.0,92%,-,calm.,,3/8,-,-,-,-,-,-,Scattered clouds
+SANANDAJ,10/01/2006,00Z,1.4,89%,1016.9 Hpa,calm.,,7/8,6/8 CU,AC,-,0.1(6h),-,-,"Cloudy, mist"
+SARAB,10/01/2006,21Z,-5.4,94%,-,300º (NW),10.8,8/8,-,-,-,-,-,-,Overcast
+SARAB,10/01/2006,18Z,-5.4,94%,1025.9 Hpa,280º (W ),10.8,8/8,4/8 SC,-,CS,0.1(6h),-,-,Overcast
+SARAB,10/01/2006,15Z,-4.8,91%,-,110º (E ),7.2,8/8,-,-,-,-,-,-,Overcast
+SARAB,10/01/2006,12Z,-3.0,80%,-,260º (W ),7.2,8/8,-,-,-,-,-,-,Overcast
+SARAB,10/01/2006,09Z,-3.6,80%,-,calm.,,7/8,-,-,-,-,-,-,Cloudy
+SARAB,10/01/2006,06Z,-7.4,88%,1025.4 Hpa,calm.,,7/8,2/8 SC,AC,-,0.4(24h),-,-,Cloudy
+SARAB,10/01/2006,03Z,-8.4,92%,-,100º (E ),7.2,5/8,-,-,-,-,-,-,Cloudy
+SARAB,10/01/2006,00Z,-7.8,87%,1022.0 Hpa,070º (E ),10.8,2/8,2/8 SC,-,-,0.4(6h),-,-,Few clouds
+SARAKHS,10/01/2006,21Z,-0.2,89%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+SARAKHS,10/01/2006,18Z,0.0,88%,1033.2 Hpa,calm.,,8/8,5/8 ST,AC,,-,-,-,"Overcast, mist"
+SARAKHS,10/01/2006,15Z,0.2,84%,-,calm.,,7/8,-,-,-,-,-,-,Cloudy
+SARAKHS,10/01/2006,12Z,0.2,95%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+SARAKHS,10/01/2006,09Z,0.2,88%,-,290º (W ),10.8,8/8,-,-,-,-,-,-,Overcast
+SARAKHS,10/01/2006,06Z,-0.8,94%,1030.1 Hpa,calm.,,8/8,5/8 ST,AC,,1.0(6h),-,-,"Overcast, snow"
+SARAKHS,10/01/2006,03Z,-1.4,96%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+SARAKHS,10/01/2006,00Z,-1.4,96%,1025.2 Hpa,calm.,,8/8,4/8 ST,AC,,0.4(6h),-,-,"Overcast, mist"
+SARAVAN,10/01/2006,21Z,5.6,41%,-,calm.,,0/8,-,-,-,-,-,-,Clear
+SARAVAN,10/01/2006,18Z,10.4,34%,1020.3 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SARAVAN,10/01/2006,15Z,14.6,21%,-,060º (NE),14.4,0/8,-,-,-,-,-,-,Clear
+SARAVAN,10/01/2006,12Z,19.4,23%,-,240º (SW),7.2,1/8,-,-,-,-,-,-,Few clouds
+SARAVAN,10/01/2006,09Z,18.8,23%,-,090º (E ),7.2,0/8,-,-,-,-,-,-,Clear
+SARAVAN,10/01/2006,03Z,-0.2,28%,-,330º (NW),7.2,1/8,-,-,-,-,-,-,Few clouds
+SARAVAN,10/01/2006,00Z,1.6,26%,1019.0 Hpa,330º (NW),7.2,0/8,-,-,-,-,-,-,Clear
+SEMNAN,10/01/2006,21Z,2.6,86%,-,130º (SE),10.8,3/8,-,-,-,-,-,-,Scattered clouds
+SEMNAN,10/01/2006,18Z,3.2,90%,1025.3 Hpa,calm.,,7/8,4/8 ST,AC,-,Tr(6h),-,-,Cloudy
+SEMNAN,10/01/2006,15Z,3.6,93%,-,calm.,,6/8,-,-,-,-,-,-,Cloudy
+SEMNAN,10/01/2006,12Z,5.8,68%,-,calm.,,7/8,-,-,-,-,-,-,Cloudy
+SEMNAN,10/01/2006,09Z,3.4,84%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+SEMNAN,10/01/2006,06Z,2.2,86%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+SEMNAN,10/01/2006,03Z,1.4,96%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+SHAHRE-KORD,10/01/2006,21Z,1.2,64%,-,210º (SW),18.0,1/8,-,-,-,-,-,-,Few clouds
+SHAHRE-KORD,10/01/2006,18Z,-1.0,63%,1021.1 Hpa,calm.,,1/8,1/8 SC,-,-,-,-,-,Few clouds
+SHAHRE-KORD,10/01/2006,15Z,3.6,51%,-,calm.,,2/8,-,-,-,-,-,-,Few clouds
+SHAHRE-KORD,10/01/2006,12Z,6.0,36%,-,210º (SW),36.0,2/8,-,-,-,-,-,-,Few clouds
+SHAHRE-KORD,10/01/2006,09Z,5.8,40%,-,calm.,,6/8,-,-,-,-,-,-,Cloudy
+SHAHRE-KORD,10/01/2006,06Z,-1.4,66%,1021.7 Hpa,calm.,,5/8,1/8 SC,-,CI,2.2(24h),-,-,Cloudy
+SHAHRE-KORD,10/01/2006,03Z,-4.4,78%,-,calm.,,1/8,-,-,-,-,-,-,Few clouds
+SHAHRE-KORD,10/01/2006,00Z,-5.4,81%,1018.5 Hpa,calm.,,1/8,1/8 SC,-,-,-,-,-,Few clouds
+SHAHRUD,10/01/2006,21Z,0.2,71%,-,calm.,,7/8,-,-,-,-,-,-,Cloudy
+SHAHRUD,10/01/2006,18Z,0.6,72%,1026.5 Hpa,360º (N ),7.2,7/8,4/8 SC,AC,-,-,-,-,Cloudy
+SHAHRUD,10/01/2006,15Z,1.0,79%,-,calm.,,7/8,-,-,-,-,-,-,Cloudy
+SHAHRUD,10/01/2006,12Z,1.8,76%,-,070º (E ),10.8,8/8,-,-,-,-,-,-,Overcast
+SHAHRUD,10/01/2006,09Z,1.6,82%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+SHAHRUD,10/01/2006,06Z,0.2,92%,-,060º (NE),7.2,8/8,-,-,-,-,-,-,Overcast
+SHAHRUD,10/01/2006,03Z,-1.0,94%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+SHAHRUD,10/01/2006,00Z,0.0,82%,1019.2 Hpa,calm.,,8/8,4/8 ST,AC,,0.1(6h),-,-,"Overcast, snow"
+SHIRAZ,10/01/2006,21Z,4.6,73%,-,calm.,,4/8,-,-,-,-,-,-,Scattered clouds
+SHIRAZ,10/01/2006,18Z,7.0,60%,1018.5 Hpa,300º (NW),10.8,3/8,-,1/8 AC,CI,-,-,-,Scattered clouds
+SHIRAZ,10/01/2006,15Z,9.2,45%,-,350º (N ),7.2,0/8,-,-,-,-,-,-,Clear
+SHIRAZ,10/01/2006,12Z,13.6,29%,1016.7 Hpa,250º (W ),14.4,2/8,1/8 CU,-,CI,-,-,-,Few clouds
+SHIRAZ,10/01/2006,09Z,11.4,42%,-,calm.,,4/8,-,-,-,-,-,-,Scattered clouds
+SHIRAZ,10/01/2006,06Z,8.0,59%,1020.6 Hpa,calm.,,3/8,-,-,CI,307.0(24h),-,-,Scattered clouds
+SHIRAZ,10/01/2006,03Z,0.8,93%,-,300º (NW),7.2,1/8,-,-,-,-,-,-,Few clouds
+SHIRAZ,10/01/2006,00Z,3.4,84%,1016.2 Hpa,calm.,,2/8,2/8 SC,-,-,-,-,-,Few clouds
+SIRI ISLAND,10/01/2006,15Z,22.4,64%,-,120º (SE),14.4,0/8,-,-,-,-,-,-,Clear
+SIRI ISLAND,10/01/2006,12Z,24.0,58%,-,110º (E ),10.8,1/8,-,-,-,-,-,-,Few clouds
+SIRI ISLAND,10/01/2006,09Z,24.0,54%,-,120º (SE),10.8,0/8,-,-,-,-,-,-,Clear
+SIRI ISLAND,10/01/2006,06Z,23.6,21%,1020.2 Hpa,100º (E ),14.4,0/8,-,-,-,-,-,-,Clear
+SIRI ISLAND,10/01/2006,03Z,22.2,56%,-,120º (SE),10.8,4/8,-,-,-,-,-,-,Scattered clouds
+SIRJAN,10/01/2006,21Z,2.2,77%,-,calm.,,0/8,-,-,-,-,-,-,Clear
+SIRJAN,10/01/2006,18Z,6.2,47%,1018.5 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SIRJAN,10/01/2006,15Z,10.0,33%,-,calm.,,0/8,-,-,-,-,-,-,Clear
+SIRJAN,10/01/2006,12Z,13.8,26%,-,210º (SW),7.2,2/8,-,-,-,-,-,-,Few clouds
+SIRJAN,10/01/2006,09Z,11.6,35%,-,210º (SW),14.4,4/8,-,-,-,-,-,-,Scattered clouds
+SIRJAN,10/01/2006,06Z,7.8,50%,1019.4 Hpa,130º (SE),18.0,7/8,1/8 CU,-,CI,-,-,-,Cloudy
+SIRJAN,10/01/2006,03Z,2.8,55%,-,calm.,,1/8,-,-,-,-,-,-,Few clouds
+SIRJAN,10/01/2006,00Z,3.4,54%,1016.0 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+TABAS,10/01/2006,18Z,6.2,82%,1022.4 Hpa,calm.,,1/8,-,1/8 AC,-,-,-,-,Few clouds
+TABAS,10/01/2006,15Z,9.6,72%,-,calm.,,3/8,-,-,-,-,-,-,Scattered clouds
+TABAS,10/01/2006,12Z,12.2,61%,-,320º (NW),10.8,4/8,-,-,-,-,-,-,Scattered clouds
+TABAS,10/01/2006,09Z,11.2,67%,-,calm.,,4/8,-,-,-,-,-,-,Scattered clouds
+TABAS,10/01/2006,06Z,6.4,88%,1022.7 Hpa,calm.,,3/8,2/8 SC,AC,-,7.3(24h),-,-,Scattered clouds
+TABAS,10/01/2006,03Z,5.0,96%,-,120º (SE),7.2,6/8,-,-,-,-,-,-,Cloudy
+TABAS,10/01/2006,00Z,5.6,47%,1017.9 Hpa,250º (W ),7.2,7/8,2/8 CB,AC,-,6.0(6h),-,-,Cloudy
+TABRIZ,10/01/2006,21Z,-1.6,81%,-,120º (SE),14.4,7/8,-,-,-,-,-,-,Cloudy
+TABRIZ,10/01/2006,18Z,-2.0,88%,-,070º (E ),10.8,8/8,-,-,-,-,-,-,Overcast
+TABRIZ,10/01/2006,15Z,-2.2,79%,-,110º (E ),14.4,8/8,-,-,-,-,-,-,Overcast
+TABRIZ,10/01/2006,12Z,-1.4,78%,-,090º (E ),10.8,8/8,-,-,-,-,-,-,Overcast
+TABRIZ,10/01/2006,09Z,-2.0,72%,-,100º (E ),7.2,7/8,-,-,-,-,-,-,Cloudy
+TABRIZ,10/01/2006,06Z,-2.6,73%,1025.4 Hpa,080º (E ),10.8,7/8,4/8 ST,AC,-,Tr(6h),-,-,Cloudy
+TABRIZ,10/01/2006,03Z,-3.4,87%,-,020º (N),7.2,7/8,-,-,-,-,-,-,Cloudy
+TABRIZ,10/01/2006,00Z,-2.8,79%,-,090º (E ),14.4,5/8,-,-,-,-,-,-,Cloudy
+TEHRAN-MEHRABAD,10/01/2006,21Z,4.0,78%,-,110º (E ),10.8,8/8,-,-,-,-,-,-,Overcast
+TEHRAN-MEHRABAD,10/01/2006,18Z,3.6,77%,1024.1 Hpa,calm.,,6/8,2/8 SC,AC,CI,-,-,-,"Cloudy, haze"
+TEHRAN-MEHRABAD,10/01/2006,15Z,3.6,75%,-,240º (SW),10.8,7/8,-,-,-,-,-,-,Cloudy
+TEHRAN-MEHRABAD,10/01/2006,12Z,5.0,70%,1021.3 Hpa,calm.,,7/8,2/8 SC,AC,CI,-,-,-,"Cloudy, haze"
+TEHRAN-MEHRABAD,10/01/2006,09Z,4.0,78%,-,calm.,,7/8,-,-,-,-,-,-,Cloudy
+TEHRAN-MEHRABAD,10/01/2006,06Z,1.6,85%,1023.0 Hpa,calm.,,7/8,3/8 CB,AC,CI,0.2(6h),-,-,"Cloudy, mist"
+TEHRAN-MEHRABAD,10/01/2006,03Z,0.4,89%,-,calm.,,6/8,-,-,-,-,-,-,Cloudy
+TEHRAN-MEHRABAD,10/01/2006,00Z,1.4,85%,1018.9 Hpa,calm.,,8/8,4/8 CB,AC,,3.0(6h),-,-,"Overcast, snow"
+TORBAT-HEYDARIEH,10/01/2006,21Z,-0.8,92%,-,calm.,,7/8,-,-,-,-,-,-,Cloudy
+TORBAT-HEYDARIEH,10/01/2006,18Z,-0.2,88%,1025.3 Hpa,calm.,,5/8,5/8 ST,-,-,-,-,-,Cloudy
+TORBAT-HEYDARIEH,10/01/2006,15Z,1.4,86%,-,calm.,,3/8,-,-,-,-,-,-,Scattered clouds
+TORBAT-HEYDARIEH,10/01/2006,12Z,4.0,72%,1022.1 Hpa,calm.,,4/8,4/8 ST,-,-,-,-,-,Scattered clouds
+TORBAT-HEYDARIEH,10/01/2006,09Z,1.8,89%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+TORBAT-HEYDARIEH,10/01/2006,06Z,1.0,89%,1022.4 Hpa,calm.,,8/8,3/8 ST,AC,,3.0(6h),-,-,"Overcast, mist"
+TORBAT-HEYDARIEH,10/01/2006,03Z,0.2,90%,-,calm.,,8/8,-,-,-,-,-,-,Overcast
+TORBAT-HEYDARIEH,10/01/2006,00Z,0.0,85%,1016.8 Hpa,calm.,,8/8,3/8 ST,AC,,-,-,-,Overcast
+YASOGE,10/01/2006,21Z,3.2,75%,-,130º (SE),7.2,8/8,-,-,-,-,-,-,Overcast
+YASOGE,10/01/2006,18Z,2.8,72%,1023.0 Hpa,150º (SE),7.2,7/8,-,2/8 AC,CS,-,-,-,Cloudy
+YASOGE,10/01/2006,15Z,3.2,66%,-,100º (E ),10.8,2/8,-,-,-,-,-,-,Few clouds
+YASOGE,10/01/2006,12Z,7.8,46%,-,210º (SW),10.8,2/8,-,-,-,-,-,-,Few clouds
+YASOGE,10/01/2006,09Z,7.6,50%,-,240º (SW),10.8,3/8,-,-,-,-,-,-,Scattered clouds
+YASOGE,10/01/2006,06Z,3.6,90%,1023.5 Hpa,150º (SE),10.8,3/8,1/8 CU,-,CI,3.0(6h),-,-,Scattered clouds
+YASOGE,10/01/2006,03Z,1.8,96%,-,090º (E ),10.8,4/8,-,-,-,-,-,-,Scattered clouds
+YASOGE,10/01/2006,00Z,0.4,92%,1020.9 Hpa,calm.,,6/8,5/8 CB,AC,-,6.0(6h),-,-,"Cloudy, mist"
+YAZD,10/01/2006,21Z,3.6,75%,-,280º (W ),14.4,0/8,-,-,-,-,-,-,Clear
+YAZD,10/01/2006,18Z,6.0,63%,1021.4 Hpa,270º (W ),14.4,4/8,-,-,-,-,-,-,"Scattered clouds, haze"
+YAZD,10/01/2006,15Z,8.6,48%,-,300º (NW),7.2,6/8,-,-,-,-,-,-,Cloudy
+YAZD,10/01/2006,09Z,10.4,45%,-,calm.,,5/8,-,-,-,-,-,-,Cloudy
+YAZD,10/01/2006,06Z,5.4,60%,1022.2 Hpa,120º (SE),7.2,6/8,-,-,CI,1.2(24h),-,-,"Cloudy, haze"
+YAZD,10/01/2006,03Z,1.2,79%,-,calm.,,3/8,-,-,-,-,-,-,Scattered clouds
+YAZD,10/01/2006,00Z,3.4,62%,1017.4 Hpa,270º (W ),7.2,2/8,1/8 SC,AC,-,-,-,-,Few clouds
+ZABOL,10/01/2006,21Z,7.0,55%,-,340º (N ),28.8,1/8,-,-,-,-,-,-,Few clouds
+ZABOL,10/01/2006,18Z,7.8,38%,1021.1 Hpa,330º (NW),25.2,2/8,-,-,CI,-,-,-,Few clouds
+ZABOL,10/01/2006,15Z,12.8,11%,-,310º (NW),10.8,0/8,-,-,-,-,-,-,Clear
+ZABOL,10/01/2006,12Z,17.8,13%,-,360º (N ),14.4,3/8,-,-,-,-,-,-,Scattered clouds
+ZABOL,10/01/2006,09Z,15.2,19%,-,330º (NW),10.8,3/8,-,-,-,-,-,-,Scattered clouds
+ZABOL,10/01/2006,03Z,1.8,49%,-,calm.,,0/8,-,-,-,-,-,-,Clear
+ZABOL,10/01/2006,00Z,1.0,82%,1018.0 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+ZAHEDAN,10/01/2006,21Z,1.3,51%,-,calm.,,0/8,-,-,-,-,-,-,Clear
+ZAHEDAN,10/01/2006,18Z,4.1,36%,1019.4 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+ZAHEDAN,10/01/2006,15Z,10.7,27%,-,360º (N ),7.2,0/8,-,-,-,-,-,-,Clear
+ZAHEDAN,10/01/2006,12Z,17.2,18%,1014.5 Hpa,010º (N),14.4,5/8,-,-,CI,-,-,-,Cloudy
+ZAHEDAN,10/01/2006,09Z,17.7,22%,-,240º (SW),10.8,5/8,-,-,-,-,-,-,Cloudy
+ZAHEDAN,10/01/2006,03Z,4.0,65%,-,180º (S ),14.4,3/8,-,-,-,-,-,-,Scattered clouds
+ZAHEDAN,10/01/2006,00Z,6.2,59%,1012.5 Hpa,200º (S ),10.8,0/8,-,-,-,-,-,-,Clear
+ZANJAN,10/01/2006,21Z,-3.0,88%,-,120º (SE),10.8,7/8,-,-,-,-,-,-,Cloudy
+ZANJAN,10/01/2006,18Z,-3.4,84%,1025.4 Hpa,060º (NE),10.8,5/8,2/8 SC,AC,CS,-,-,-,Cloudy
+ZANJAN,10/01/2006,15Z,-3.0,80%,-,060º (NE),10.8,6/8,-,-,-,-,-,-,Cloudy
+ZANJAN,10/01/2006,12Z,-1.0,80%,1022.5 Hpa,120º (SE),10.8,7/8,4/8 ST,AC,-,Tr(6h),-,-,Cloudy
+ZANJAN,10/01/2006,09Z,-0.4,,-,110º (E ),14.4,6/8,4/8 ST,AC,CI,-,-,-,Cloudy
+ZANJAN,10/01/2006,06Z,-4.0,87%,1025.2 Hpa,050º (NE),7.2,8/8,6/8 ST,AC,,Tr(6h),-,-,"Overcast, snow"
+ZANJAN,10/01/2006,03Z,-5.4,94%,-,090º (E ),7.2,7/8,-,-,-,-,-,-,Cloudy
+ZANJAN,10/01/2006,00Z,-4.4,87%,1021.1 Hpa,calm.,,5/8,3/8 ST,AC,-,-,-,-,Cloudy

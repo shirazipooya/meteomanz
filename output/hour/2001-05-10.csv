@@ -1,0 +1,87 @@
+Station ∆,Date,UTC time,Temp. (ºC),Rel. Hum. (%),Pressure/ Geopot.,Wind dir,Wins speed (Km/h),Clouds,Low clouds,Medium clouds,High clouds,Prec. (mm),Max temp. (ºC),Min temp. (ºC),Conditions
+ABADAN,10/05/2001,18Z,,,-,calm.,,6/8,-,-,-,28.0(9h),-,-,Cloudy
+ABADAN,10/05/2001,12Z,37.2,11%,1003.7 Hpa,150º (SE),18.0,5/8,-,-,CI,-,-,-,Cloudy
+ABADAN,10/05/2001,06Z,30.6,22%,1006.6 Hpa,040º (NE),10.8,6/8,-,-,CI,-,-,-,Cloudy
+ABADAN,10/05/2001,00Z,23.0,44%,1003.8 Hpa,190º (S ),7.2,0/8,-,-,-,-,-,-,Clear
+AHWAZ,10/05/2001,18Z,32.8,17%,1004.0 Hpa,180º (S ),7.2,4/8,1/8 SC,-,CI,-,-,-,Scattered clouds
+AHWAZ,10/05/2001,12Z,38.2,12%,1004.3 Hpa,360º (N ),10.8,6/8,-,-,CI,-,-,-,Cloudy
+AHWAZ,10/05/2001,06Z,27.6,30%,1006.4 Hpa,030º (NE),7.2,5/8,-,-,CC,-,-,-,Cloudy
+ANZALI,10/05/2001,12Z,22.2,80%,1009.6 Hpa,350º (N ),18.0,7/8,2/8 CU,AC,-,-,-,-,Cloudy
+ANZALI,10/05/2001,06Z,21.8,86%,1009.4 Hpa,320º (NW),10.8,1/8,1/8 CU,-,-,-,-,-,Few clouds
+ARAK,10/05/2001,18Z,15.6,30%,1008.7 Hpa,calm.,,4/8,2/8 SC,-,CI,-,-,-,Scattered clouds
+ARAK,10/05/2001,12Z,20.2,9%,1008.4 Hpa,240º (SW),18.0,6/8,4/8 SC,AC,CI,-,-,-,Cloudy
+ARAK,10/05/2001,06Z,15.8,27%,1010.0 Hpa,calm.,,3/8,-,-,CI,-,-,-,Scattered clouds
+ARAK,10/05/2001,00Z,12.6,45%,1009.5 Hpa,calm.,,4/8,-,-,CI,-,-,-,Scattered clouds
+BABULSAR,10/05/2001,18Z,20.8,91%,1010.1 Hpa,110º (E ),7.2,0/8,-,-,-,-,-,-,Clear
+BABULSAR,10/05/2001,12Z,,0%,1009.0 Hpa,360º (N ),10.8,2/8,-,-,-,-,-,-,Few clouds
+BABULSAR,10/05/2001,06Z,22.8,70%,1009.2 Hpa,150º (SE),7.2,0/8,-,-,-,-,-,-,Clear
+BABULSAR,10/05/2001,00Z,20.0,96%,1009.3 Hpa,090º (E ),7.2,0/8,-,-,-,-,-,-,Clear
+BANDARABBASS,10/05/2001,18Z,33.0,31%,1004.6 Hpa,180º (S ),10.8,0/8,-,-,-,-,-,-,"Clear, haze"
+BANDARABBASS,10/05/2001,12Z,36.2,,1003.1 Hpa,200º (S ),21.6,0/8,-,-,-,-,-,-,"Clear, haze"
+BANDARABBASS,10/05/2001,06Z,35.6,,-,350º (N ),7.2,0/8,-,-,-,-,-,-,"Clear, haze"
+BANDARABBASS,10/05/2001,00Z,26.6,58%,1004.0 Hpa,360º (N ),7.2,0/8,-,-,-,-,-,-,"Clear, haze"
+BIRJAND,10/05/2001,18Z,23.0,11%,1004.4 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+BIRJAND,10/05/2001,12Z,32.6,12%,1003.8 Hpa,260º (W ),18.0,0/8,-,-,-,-,-,-,Clear
+BIRJAND,10/05/2001,06Z,30.0,15%,1004.0 Hpa,250º (W ),14.4,0/8,-,-,-,-,-,-,Clear
+BIRJAND,10/05/2001,00Z,21.6,11%,1002.9 Hpa,040º (NE),14.4,4/8,-,4/8 AC,-,-,-,-,Scattered clouds
+ESFAHAN,10/05/2001,18Z,21.4,19%,1005.1 Hpa,300º (NW),21.6,4/8,3/8 CB,AC,-,-,-,-,Scattered clouds
+ESFAHAN,10/05/2001,12Z,26.4,11%,1003.5 Hpa,410º (N ),10.8,8/8,3/8 SC,AC,,-,-,-,Overcast
+ESFAHAN,10/05/2001,06Z,22.4,14%,1006.4 Hpa,020º (N),7.2,5/8,-,2/8 AC,CC,-,-,-,Cloudy
+HAMEDAN,10/05/2001,18Z,14.0,51%,1011.9 Hpa,calm.,,3/8,-,-,CI,-,-,-,Scattered clouds
+HAMEDAN,10/05/2001,12Z,20.2,29%,1008.1 Hpa,210º (SW),21.6,5/8,2/8 SC,-,CI,-,-,-,Cloudy
+HAMEDAN,10/05/2001,06Z,15.6,45%,1010.6 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+KASHAN,10/05/2001,18Z,21.0,51%,1007.4 Hpa,calm.,,5/8,2/8 SC,-,CI,-,-,-,Cloudy
+KASHAN,10/05/2001,12Z,27.2,34%,1006.3 Hpa,calm.,,8/8,2/8 SC,AC,CI,-,-,-,Overcast
+KASHAN,10/05/2001,06Z,23.0,40%,1007.8 Hpa,060º (NE),14.4,2/8,-,-,CI,-,-,-,Few clouds
+KASHAN,10/05/2001,00Z,19.0,48%,1006.4 Hpa,calm.,,5/8,-,-,-,-,-,-,Cloudy
+KERMAN,10/05/2001,18Z,23.0,15%,1003.4 Hpa,360º (N ),7.2,4/8,2/8 SC,-,CI,-,-,-,Scattered clouds
+KERMAN,10/05/2001,12Z,31.0,13%,1002.8 Hpa,280º (W ),25.2,5/8,4/8 CU,-,CI,-,-,-,Cloudy
+KERMAN,10/05/2001,06Z,29.2,16%,1003.3 Hpa,240º (SW),21.6,2/8,-,-,CI,-,-,-,Few clouds
+KERMANSHAH,10/05/2001,18Z,18.0,28%,1008.0 Hpa,260º (W ),18.0,7/8,4/8 CB,AC,-,-,-,-,Cloudy
+KERMANSHAH,10/05/2001,12Z,24.2,19%,1008.0 Hpa,040º (NE),7.2,3/8,3/8 CU,-,CI,-,-,-,Scattered clouds
+KERMANSHAH,10/05/2001,06Z,17.2,45%,1010.9 Hpa,160º (S ),10.8,1/8,-,-,CI,-,-,-,Few clouds
+KHOY,10/05/2001,18Z,13.0,66%,1010.4 Hpa,calm.,,6/8,5/8 CB,AC,-,0.7(6h),-,-,Cloudy
+KHOY,10/05/2001,12Z,16.6,44%,1009.5 Hpa,210º (SW),25.2,7/8,5/8 CB,AC,-,Tr(6h),-,-,"Cloudy, thunderstorms"
+KHOY,10/05/2001,06Z,15.4,46%,1008.6 Hpa,calm.,,6/8,5/8 CB,AC,-,Tr(24h),-,-,Cloudy
+MASHHAD,10/05/2001,18Z,23.4,20%,1008.5 Hpa,220º (SW),10.8,4/8,2/8 SC,-,CI,-,-,-,Scattered clouds
+MASHHAD,10/05/2001,12Z,35.2,7%,1002.6 Hpa,290º (W ),21.6,5/8,1/8 CU,-,CI,-,-,-,Cloudy
+MASHHAD,10/05/2001,06Z,28.0,21%,1002.6 Hpa,340º (N ),18.0,0/8,-,-,-,-,-,-,"Clear, haze"
+MASHHAD,10/05/2001,00Z,19.0,25%,1009.8 Hpa,calm.,,1/8,1/8 SC,-,CI,-,-,-,Few clouds
+ORUMIEH,10/05/2001,18Z,12.2,57%,-,270º (W ),7.2,4/8,-,-,-,-,-,-,Scattered clouds
+ORUMIEH,10/05/2001,12Z,21.0,24%,1007.2 Hpa,220º (SW),18.0,6/8,4/8 CB,AC,-,-,-,-,"Cloudy, haze"
+RAMSAR,10/05/2001,18Z,,,1010.0 Hpa,210º (SW),7.2,0/8,-,-,-,17.0(9h),-,-,Clear
+RAMSAR,10/05/2001,12Z,24.0,62%,1008.8 Hpa,090º (E ),25.2,1/8,1/8 CU,-,-,-,-,-,Few clouds
+RAMSAR,10/05/2001,06Z,28.1,46%,1008.6 Hpa,320º (NW),7.2,0/8,-,-,-,-,-,-,Clear
+RAMSAR,10/05/2001,00Z,17.0,75%,1008.9 Hpa,270º (W ),10.8,6/8,2/8 SC,AC,-,-,-,-,Cloudy
+SABZEVAR,10/05/2001,18Z,24.2,14%,1008.7 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+SABZEVAR,10/05/2001,12Z,31.4,7%,1005.8 Hpa,270º (W ),18.0,3/8,-,-,CI,-,-,-,Scattered clouds
+SABZEVAR,10/05/2001,06Z,27.4,14%,1005.4 Hpa,270º (W ),10.8,2/8,-,-,CI,-,-,-,Few clouds
+SABZEVAR,10/05/2001,00Z,20.0,20%,1010.7 Hpa,calm.,,5/8,-,-,CI,-,-,-,Cloudy
+SHAHRUD,10/05/2001,18Z,19.8,36%,1006.8 Hpa,calm.,,4/8,4/8 SC,-,-,-,-,-,Scattered clouds
+SHAHRUD,10/05/2001,12Z,,,1074.2 Hpa,070º (E ),208.8,4/8,-,-,-,-,-,-,Scattered clouds
+SHAHRUD,10/05/2001,06Z,22.6,13%,1003.5 Hpa,calm.,,2/8,-,-,CI,-,-,-,Few clouds
+SHAHRUD,10/05/2001,00Z,19.6,31%,1005.9 Hpa,calm.,,3/8,-,-,CI,-,-,-,Scattered clouds
+SHIRAZ,10/05/2001,18Z,24.2,19%,-,250º (W ),10.8,2/8,-,-,-,-,-,-,Few clouds
+SHIRAZ,10/05/2001,12Z,31.8,10%,1003.5 Hpa,250º (W ),36.0,3/8,3/8 CU,-,-,-,-,-,Scattered clouds
+SHIRAZ,10/05/2001,06Z,26.0,19%,1005.9 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+TABRIZ,10/05/2001,18Z,15.2,,1061.0 Hpa,calm.,,6/8,3/8 CB,,CI,-,-,-,Cloudy
+TABRIZ,10/05/2001,12Z,19.8,26%,1009.0 Hpa,270º (W ),18.0,6/8,2/8 CU,-,CI,-,-,-,"Cloudy, dust"
+TABRIZ,10/05/2001,06Z,13.8,51%,1010.4 Hpa,270º (W ),18.0,7/8,5/8 CB,AC,-,-,-,-,Cloudy
+TABRIZ,10/05/2001,00Z,10.0,67%,1010.4 Hpa,030º (NE),10.8,4/8,1/8 SC,-,CI,-,-,-,Scattered clouds
+TEHRAN-MEHRABAD,10/05/2001,18Z,21.4,22%,1006.1 Hpa,330º (NW),10.8,5/8,2/8 SC,-,CI,-,-,-,Cloudy
+TEHRAN-MEHRABAD,10/05/2001,12Z,25.8,17%,1006.0 Hpa,270º (W ),14.4,6/8,1/8 SC,AC,CI,-,-,-,Cloudy
+TEHRAN-MEHRABAD,10/05/2001,06Z,20.4,28%,1007.7 Hpa,270º (W ),25.2,3/8,2/8 SC,-,CI,-,-,-,Scattered clouds
+TORBAT-HEYDARIEH,10/05/2001,18Z,17.6,20%,1007.4 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+TORBAT-HEYDARIEH,10/05/2001,12Z,28.8,16%,1005.1 Hpa,270º (W ),28.8,2/8,-,-,CI,-,-,-,Few clouds
+TORBAT-HEYDARIEH,10/05/2001,06Z,27.0,23%,1003.2 Hpa,210º (SW),7.2,0/8,-,-,-,-,-,-,Clear
+TORBAT-HEYDARIEH,10/05/2001,00Z,15.2,22%,1007.4 Hpa,calm.,,2/8,-,-,CI,-,-,-,Few clouds
+YAZD,10/05/2001,18Z,27.2,16%,-,290º (W ),28.8,5/8,-,-,-,-,-,-,Cloudy
+YAZD,10/05/2001,12Z,32.4,5%,1001.3 Hpa,050º (NE),10.8,2/8,2/8 CU,-,-,-,-,-,Few clouds
+YAZD,10/05/2001,00Z,,,1006.7 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+ZAHEDAN,10/05/2001,18Z,27.6,10%,1001.0 Hpa,calm.,,0/8,-,-,-,-,-,-,Clear
+ZAHEDAN,10/05/2001,09Z,,,-,040º (NE),10.8,1/8,6/8 CU,-,-,37.0,-,-,Few clouds
+ZAHEDAN,10/05/2001,06Z,33.6,9%,1001.6 Hpa,330º (NW),14.4,0/8,-,-,-,-,-,-,Clear
+ZANJAN,10/05/2001,18Z,11.0,54%,1010.8 Hpa,calm.,,5/8,3/8 SC,AC,CI,-,-,-,"Cloudy, haze"
+ZANJAN,10/05/2001,12Z,,,-,330º (NW),28.8,8/8,-,-,-,14.0(9h),-,-,Overcast
+ZANJAN,10/05/2001,06Z,14.0,36%,1011.9 Hpa,240º (SW),21.6,1/8,1/8 CU,-,-,-,-,-,"Few clouds, haze"
+ZANJAN,10/05/2001,00Z,9.0,61%,1010.8 Hpa,240º (SW),21.6,3/8,2/8 SC,-,CI,-,-,-,Scattered clouds

@@ -1,4 +1,5 @@
 import os
+import io
 import math
 import re
 import datetime
@@ -11,8 +12,9 @@ from dotenv import load_dotenv
 from pushbullet import Pushbullet
 
 
+load_dotenv()
+
 # # Pushbullet
-# load_dotenv()
 # API_KEY = os.environ["PUSHBULLET_ACCESS_TOKEN"]
 # pb = Pushbullet(API_KEY)
 # push = pb.push_note("Meteomanz", "The Meteomanz Script is Running ...!")
@@ -20,13 +22,16 @@ from pushbullet import Pushbullet
 
 # Proxies
 SET_PROXY = False
+SERVER = os.environ["SERVER"]
+PORT = os.environ["PORT"]
 
 proxies = {
-    'http': 'socks5://98.181.137.80:4145',
-    'https': 'socks5://98.181.137.80:4145'
+    'http': f"http://{SERVER}:{PORT}",
+    'https': f"https://{SERVER}:{PORT}"
 }
 
 
+# Log
 logging.basicConfig(
     level=logging.ERROR,
     filename='app.log',
@@ -34,34 +39,56 @@ logging.basicConfig(
     format='%(message)s'
 )
 
+# WINDSCRIBE VPN
+WINDSCRIBE = os.environ["WINDSCRIBE"]
+def windscribe(
+    windscribe_cli_path=r"C:\\Program Files\\Windscribe\\windscribe-cli.exe",
+    action="connect",
+):
+    command = f'"{windscribe_cli_path}" {action}'
+    os.system(command) 
+    
 
 def find_start_date(scale):
+    """
+    Find the start date based on the given scale.
+
+    Parameters:
+    - scale (str): The scale of the data (e.g., "hour", "day", "month").
+
+    Returns:
+    - datetime.date: The start date of the data.
+
+    Example:
+    >>> find_start_date("hour")
+    datetime.date(2022, 1, 1)
+    """
     if scale == "hour":
         lf = os.listdir(f"output/{scale}/")
-        date_max = max(list(filter(lambda f: f.endswith('.csv'), lf)))[:-4].split("-")
+        date_max = max(
+            list(filter(lambda f: f.endswith('.csv'), lf))
+        )[:-4].split("-")
         return datetime.date(int(date_max[0]), int(date_max[1]), int(date_max[2]))
 
 
 def countdown(
-    t=60,
+    t=5,
     start_txt="Error: Connection Timed Out!",
     end_txt="Try Again ...!"
 ):
     """Generate Countdown Timer
 
     Args:
-        t (int, optional): The duration of the countdown in seconds. Defaults to 60.
+        t (int, optional): The duration of the countdown in seconds. Defaults to 20.
         start_txt (str, optional): The text to display at the start of the countdown. Defaults to "Error: Connection Timed Out!".
         end_txt (str, optional): The text to display at the end of the countdown. Defaults to "Try Again ...!".
     """
-    print("-" * 100)
     while t >= 0:
         sys.stdout.write(f"\r{start_txt} ({t} Seconds Remaining ...!)")
         t -= 1
         sys.stdout.flush()
         time.sleep(1)
     sys.stdout.write(f"\r\n{end_txt}            \n")
-    print("-" * 100)
 
 
 def date_range(start_date, end_date):
@@ -177,6 +204,40 @@ class Meteomanz():
             "Accept": self.accept
         }
 
+    def http_status(self):
+        """
+        Check Internet Connection.
+        """
+        while True:
+            try:
+                r = requests.get(
+                    url=self.url(),
+                    headers=self.header(),
+                    timeout=20,
+                    proxies=proxies if SET_PROXY else None
+                )
+                if r.status_code == 200:
+                    print(f"Status Code: {r.status_code}")
+                    return r
+                if r.status_code == 403:
+                    print(f"Status Code: {r.status_code}")
+                    if WINDSCRIBE:
+                        windscribe(action="disconnect")
+                        windscribe(action="connect")
+                        countdown(
+                            t=60,
+                            start_txt="Windscribe is Connecting ...!",
+                            end_txt="Windscribe is Connected ...!"
+                        )
+                        continue
+            except Exception as e:
+                countdown(
+                    t=5,
+                    start_txt=type(e).__name__,
+                    end_txt="Try Again ...!"
+                )
+                continue
+
     def pages(self):
         """
         Retrieves the number of pages for the weather data.
@@ -185,108 +246,37 @@ class Meteomanz():
             int: The number of pages.
         """
         while True:
-            if SET_PROXY:
-                r = requests.get(
-                    url=self.url(),
-                    headers=self.header(),
-                    timeout=20,
-                    proxies=proxies
-                )
-            else:
-                r = requests.get(
-                    url=self.url(),
-                    headers=self.header(),
-                    timeout=20
-                )
-            if r.status_code == 200:
-                try:
-                    if SET_PROXY:
-                        html_content = requests.get(
-                            self.url(),
-                            headers=self.header(),
-                            timeout=20,
-                            proxies=proxies
-                        ).content
-                    else:
-                        html_content = requests.get(
-                            self.url(),
-                            headers=self.header(),
-                            timeout=20,
-                        ).content
-                    txt = [value for value in html_content.split(b"\n") if (value.lower().__contains__(
-                        b'showing') and value.lower().__contains__(b'results'))][0].decode('utf-8')
-                    num = [int(num)
-                           for num in re.findall(r'\d+(?:\.\d+)?', txt)]
-                    return math.ceil(num[-1] / num[-2])
-                except:
-                    return 1
-            else:
-                countdown(t=60)
-                if self.scale == "hour":
-                    logging.error(f"Error Pages: {
-                                  self.year}-{self.month}-{self.day_start}, Page {self.page}")
-                elif self.scale == "day":
-                    logging.error(f"Error Pages: {
-                                  self.year}-{self.month}, Page {self.page}")
+            r = self.http_status()
+            try:
+                html_content = r.content
+                txt = [value for value in html_content.split(b"\n") if (value.lower().__contains__(
+                    b'showing') and value.lower().__contains__(b'results'))][0].decode('utf-8')
+                num = [int(num)
+                        for num in re.findall(r'\d+(?:\.\d+)?', txt)]
+                return math.ceil(num[-1] / num[-2])
+            except:
+                return 1
 
     def download(self):
         """
         Downloads the weather data.
-
         Returns:
             pandas.DataFrame: The downloaded weather data.
         """
-        while True:
-            if SET_PROXY:
-                r = requests.get(
-                    url=self.url(),
-                    headers=self.header(),
-                    timeout=20,
-                    proxies=proxies
-                )
-            else:
-                r = requests.get(
-                    url=self.url(),
-                    headers=self.header(),
-                    timeout=20
-                )
-            if r.status_code == 200:
-                while True:
-                    try:
-                        if SET_PROXY:
-                            session = requests.Session()
-                            session.proxies = proxies
-                            resp = session.get(
-                                self.url(),
-                                headers=self.header(),
-                                verify=False
-                            )
-                            df = pd.read_html(
-                                resp.text
-                            )
-                        else:
-                            df = pd.read_html(
-                                self.url(),
-                                storage_options=self.header()
-                            )[0]
-                        break
-                    except:
-                        countdown(t=60)
-                if self.scale == "hour":
-                    print(f"Downloaded {
-                          self.year}-{self.month}-{self.day_start}, Page {self.page}")
-                elif self.scale == "day":
-                    print(f"Downloaded {
-                          self.year}-{self.month}, Page {self.page}")
-                return df
-            else:
-                countdown(t=60)
-                if self.scale == "hour":
-                    logging.error(f"Error Download: {
-                                  self.year}-{self.month}-{self.day_start}, Page {self.page}")
-                elif self.scale == "day":
-                    logging.error(f"Error Download: {
-                                  self.year}-{self.month}, Page {self.page}")
+        r = self.http_status()
+        html_content = r.content.decode(
+            'utf-8',
+            errors='ignore'
+        )
+        html_io = io.StringIO(html_content)
+        df = pd.read_html(html_io)[0]
+
+        if self.scale == "hour":
+            print(f"Downloaded {self.year}-{self.month}-{self.day_start}, Page {self.page}")
+        elif self.scale == "day":
+            print(f"Downloaded {self.year}-{self.month}, Page {self.page}")
+            
+        return df
 
 
 class Gregorian:
