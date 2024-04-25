@@ -3,16 +3,16 @@ import pandas as pd
 from utils import Meteomanz, countdown, date_range, find_start_date
 
 
-SCALE = "hour"
+SCALE = "day"
 
 start_date = find_start_date(scale=SCALE)
-end_date = date(2023, 12, 31)
+end_date = date(2024, 3, 31)
 
-
+ 
 if SCALE == "day":
-    for year in [*map(str, range(2000, 2024, 1))]:
+    for year in [*map(str, range(2024, 2025, 1))]:
         df_year = pd.DataFrame()
-        for month in [*map(lambda x: str(x).zfill(2), range(1, 13, 1))]:
+        for month in [*map(lambda x: str(x).zfill(2), range(1, 4, 1))]:
             # countdown(
             #     t=1,
             #     start_txt="Waiting for the Next Month!",
