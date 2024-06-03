@@ -1,15 +1,39 @@
-from datetime import date
+import sys
+from datetime import date, datetime
 import pandas as pd
-from utils import Meteomanz, countdown, date_range, find_start_date
+from utils import Meteomanz, countdown, date_range, find_start_date, find_end_date, extract_station_code
 
 
-SCALE = "hour"
+SCALE = sys.argv[1]
 
-start_date = find_start_date(scale=SCALE)
-end_date = date(2024, 5, 1)
+stations = extract_station_code(path_station_txt="stations.txt", code_col_name="CODE")
+# start_date = find_start_date(scale=SCALE)
+end_date = find_end_date(scale=SCALE)
 
- 
-if SCALE == "day":
+
+
+if SCALE == "month":
+    for st_code in stations:
+        df_station = pd.DataFrame()
+        start_date = find_start_date(scale=SCALE, station=st_code)
+        meteo = Meteomanz(
+            scale="month",
+            country_code="2060",
+            station_code=str(st_code),
+            month_start=str(start_date.month).zfill(2),
+            month_end=str(end_date.month).zfill(2),
+            year_start=str(start_date.year).zfill(4),
+            year_end=str(end_date.year).zfill(4),
+        )
+        number_of_pages = meteo.pages()
+        if number_of_pages > 1:
+            pass
+        else:
+            df_station = meteo.download()
+            print(meteo.url())
+        df_station.to_csv(f"output/{SCALE}/{st_code}-{str(end_date.year).zfill(4)}-{str(end_date.month).zfill(2)}.csv", index=False)
+        
+elif SCALE == "day":
     for year in [*map(str, range(2024, 2025, 1))]:
         df_year = pd.DataFrame()
         for month in [*map(lambda x: str(x).zfill(2), range(1, 5, 1))]:

@@ -3,6 +3,7 @@ import io
 import math
 import re
 import datetime
+import calendar
 import logging
 import time
 import sys
@@ -41,6 +42,8 @@ logging.basicConfig(
 
 # WINDSCRIBE VPN
 WINDSCRIBE = os.environ["WINDSCRIBE"]
+
+
 def windscribe(
     windscribe_cli_path=r"C:\\Program Files\\Windscribe\\windscribe-cli.exe",
     action="connect",
@@ -49,7 +52,7 @@ def windscribe(
     os.system(command)
 
 
-def find_start_date(scale):
+def find_start_date(scale, station=None):
     """
     Find the start date based on the given scale.
 
@@ -63,12 +66,30 @@ def find_start_date(scale):
     >>> find_start_date("hour")
     datetime.date(2022, 1, 1)
     """
+    if scale == "month":
+        lf = os.listdir(f"output/{scale}/")
+        if len(lf) == 0 or len(list(filter(lambda f: f.startswith(f"{station}-"), lf))) == 0:
+            return datetime.date(2000, 1, 1)
+        lf = list(filter(lambda f: f.startswith(f"{station}-"), lf))[0]
+        _, year, month = lf[:-4].split("-")
+        return datetime.date(int(year), int(month), 1)
     if scale == "hour":
         lf = os.listdir(f"output/{scale}/")
         date_max = max(
             list(filter(lambda f: f.endswith('.csv'), lf))
         )[:-4].split("-")
         return datetime.date(int(date_max[0]), int(date_max[1]), int(date_max[2]))
+
+
+def find_end_date(scale):
+    now_date = datetime.datetime.now()
+    if scale == "year":
+        return datetime.date(now_date.year - 1, 12, 31)
+    else:
+        if now_date.month == 1:
+            return datetime.date(now_date.year - 1, 12, 31)
+        return datetime.date(now_date.year, now_date.month - 3, calendar.monthrange(now_date.year, now_date.month - 3)[1])
+
 
 
 def countdown(
@@ -145,12 +166,18 @@ class Meteomanz():
         scale="day",
         country_code="2060",
         station_code="00000",
+        hour="00Z",
         hour_start="00Z",
         hour_end="23Z",
+        day="01",
         day_start="01",
         day_end="31",
         month="01",
+        month_start="01",
+        month_end="01",
         year="2024",
+        year_start="2024",
+        year_end="2024",
         page="1",
         user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
         referer="http://www.meteomanz.com/",
@@ -162,12 +189,18 @@ class Meteomanz():
         self.scale = scale
         self.country_code = country_code
         self.station_code = station_code
+        self.hour = hour
         self.hour_start = hour_start
         self.hour_end = hour_end
+        self.day = day
         self.day_start = day_start
         self.day_end = day_end
         self.month = month
+        self.month_start = month_start
+        self.month_end = month_end
         self.year = year
+        self.year_start = year_start
+        self.year_end = year_end
         self.page = page
         self.user_agent = user_agent
         self.referer = referer
@@ -187,6 +220,8 @@ class Meteomanz():
             return f"http://www.meteomanz.com/sy1?ty=hp&l=1&cou={self.country_code}&ind={self.station_code}&d1={self.day_start}&m1={self.month}&y1={self.year}&h1={self.hour_start}&d2={self.day_end}&m2={self.month}&y2={self.year}&h2={self.hour_end}&so=001&np={self.page}"
         elif self.scale == "day":
             return f"http://www.meteomanz.com/sy2?ty=hp&l=1&cou={self.country_code}&ind={self.station_code}&d1={self.day_start}&m1={self.month}&y1={self.year}&d2={self.day_end}&m2={self.month}&y2={self.year}&so=001&np={self.page}"
+        elif self.scale == "month":
+            return f"http://www.meteomanz.com/sy3?ty=hp&l=1&cou={self.country_code}&ind={self.station_code}&m1={self.month_start}&y1={self.year_start}&m2={self.month_end}&y2={self.year_end}"
 
     def header(self):
         """
@@ -252,7 +287,7 @@ class Meteomanz():
                 txt = [value for value in html_content.split(b"\n") if (value.lower().__contains__(
                     b'showing') and value.lower().__contains__(b'results'))][0].decode('utf-8')
                 num = [int(num)
-                        for num in re.findall(r'\d+(?:\.\d+)?', txt)]
+                       for num in re.findall(r'\d+(?:\.\d+)?', txt)]
                 return math.ceil(num[-1] / num[-2])
             except:
                 return 1
@@ -272,10 +307,11 @@ class Meteomanz():
         df = pd.read_html(html_io)[0]
 
         if self.scale == "hour":
-            print(f"Downloaded {self.year}-{self.month}-{self.day_start}, Page {self.page}")
+            print(f"Downloaded {
+                  self.year}-{self.month}-{self.day_start}, Page {self.page}")
         elif self.scale == "day":
             print(f"Downloaded {self.year}-{self.month}, Page {self.page}")
-            
+
         return df
 
 
@@ -425,3 +461,8 @@ class Persian:
 
     def gregorian_datetime(self):
         return datetime.date(self.gregorian_year, self.gregorian_month, self.gregorian_day)
+
+
+def extract_station_code(path_station_txt, code_col_name="CODE"):
+    df = pd.read_csv(path_station_txt, sep=",")
+    return df[code_col_name].tolist()
