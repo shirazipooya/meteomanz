@@ -93,6 +93,18 @@ def find_start_date(scale, station=None):
             return datetime.date(df["year"].iloc[0] + 1, 1, 1)
         return datetime.date(df["year"].iloc[0], df["month"].iloc[0] + 1, 1)
     
+    if scale == "day":
+        lf = os.listdir(f"output/{scale}/")
+        if len(lf) == 0:
+            return datetime.date(2000, 1, 1)
+        year_max = max(
+            list(filter(lambda f: f.endswith('.csv'), lf))
+        )[:-4]
+        df = pd.read_csv(f"output/{scale}/{year_max}.csv", usecols=["Date"], parse_dates=["Date"])
+        date_max = max(df["Date"])
+        date_max = date_max + datetime.timedelta(days=1)
+        return datetime.date(date_max.year, date_max.month, date_max.day)
+    
     if scale == "hour":
         lf = os.listdir(f"output/{scale}/")
         date_max = max(

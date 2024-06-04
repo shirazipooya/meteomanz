@@ -71,9 +71,22 @@ if SCALE == "month":
         df_station.to_csv(f"output/{SCALE}/{st_code}.csv", index=False)
         
 elif SCALE == "day":
+    start_date = find_start_date(scale=SCALE)
+    
+    # dym = pd.date_range(
+    #     start_date.strftime("%Y-%m-%d"),
+    #     end_date.strftime("%Y-%m-%d"),
+    #     freq='MS'
+    # ).strftime("%Y-%m").tolist()
+    
+    # print(dym)
+    
+    
+    
+    
     for year in [*map(str, range(2024, 2025, 1))]:
         df_year = pd.DataFrame()
-        for month in [*map(lambda x: str(x).zfill(2), range(1, 5, 1))]:
+        for month in [*map(lambda x: str(x).zfill(2), range(1, 13, 1))]:
             df_month = pd.DataFrame()
             meteo = Meteomanz(
                 scale=SCALE,
