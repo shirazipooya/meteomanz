@@ -6,7 +6,7 @@ from utils import Meteomanz, date_range, find_start_date, find_end_date, extract
 
 SCALE = sys.argv[1]
 
-stations = extract_station_code(path_station_txt="stations.txt", code_col_name="CODE")
+stations = extract_station_code(path_station_txt="stations.csv", code_col_name="CODE")
 end_date = find_end_date(scale=SCALE)
 
 
