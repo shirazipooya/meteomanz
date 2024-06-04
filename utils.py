@@ -31,6 +31,21 @@ proxies = {
     'https': f"https://{SERVER}:{PORT}"
 }
 
+month_dict = {
+    "January": 1,
+    "February": 2,
+    "March": 3,
+    "April": 4,
+    "May": 5,
+    "June": 6,
+    "July": 7,
+    "August": 8,
+    "September": 9,
+    "October": 10,
+    "November": 11,
+    "December": 12,
+}
+
 
 # Log
 logging.basicConfig(
@@ -53,26 +68,31 @@ def windscribe(
 
 
 def find_start_date(scale, station=None):
-    """
-    Find the start date based on the given scale.
-
-    Parameters:
-    - scale (str): The scale of the data (e.g., "hour", "day", "month").
-
-    Returns:
-    - datetime.date: The start date of the data.
-
-    Example:
-    >>> find_start_date("hour")
-    datetime.date(2022, 1, 1)
-    """
+    
+    if scale == "year":
+        lf = os.listdir(f"output/{scale}/")
+        if len(lf) == 0 or len(list(filter(lambda f: f.startswith(f"{station}"), lf))) == 0:
+            return datetime.date(2000, 1, 1)
+        # Sample of `Year ∆` Column: `2022`
+        df = pd.read_csv(f"output/{scale}/{station}.csv", usecols=["Year ∆"])
+        df["Year ∆"] = df["Year ∆"].map(lambda x: int(x))
+        df = df.sort_values(by=["Year ∆"], ascending=[False])
+        return datetime.date(df["Year ∆"].iloc[0] + 1, 1, 1)
+    
     if scale == "month":
         lf = os.listdir(f"output/{scale}/")
-        if len(lf) == 0 or len(list(filter(lambda f: f.startswith(f"{station}-"), lf))) == 0:
+        if len(lf) == 0 or len(list(filter(lambda f: f.startswith(f"{station}"), lf))) == 0:
             return datetime.date(2000, 1, 1)
-        lf = list(filter(lambda f: f.startswith(f"{station}-"), lf))[0]
-        _, year, month = lf[:-4].split("-")
-        return datetime.date(int(year), int(month), 1)
+        # Sample of `Month ∆` Column: `DECEMBER 2022`
+        df = pd.read_csv(f"output/{scale}/{station}.csv", usecols=["Month ∆"])
+        df[['month', 'year']] = df['Month ∆'].str.split(' ', expand=True)
+        df["year"] = df["year"].map(lambda x: int(x))
+        df["month"] = df["month"].map(lambda x: month_dict[x.capitalize()])
+        df = df.sort_values(by=["year", "month"], ascending=[False, False])
+        if df["month"].iloc[0] == 12:
+            return datetime.date(df["year"].iloc[0] + 1, 1, 1)
+        return datetime.date(df["year"].iloc[0], df["month"].iloc[0] + 1, 1)
+    
     if scale == "hour":
         lf = os.listdir(f"output/{scale}/")
         date_max = max(
@@ -88,7 +108,7 @@ def find_end_date(scale):
     else:
         if now_date.month == 1:
             return datetime.date(now_date.year - 1, 12, 31)
-        return datetime.date(now_date.year, now_date.month - 3, calendar.monthrange(now_date.year, now_date.month - 3)[1])
+        return datetime.date(now_date.year, now_date.month - 1, calendar.monthrange(now_date.year, now_date.month - 1)[1])
 
 
 
@@ -222,6 +242,8 @@ class Meteomanz():
             return f"http://www.meteomanz.com/sy2?ty=hp&l=1&cou={self.country_code}&ind={self.station_code}&d1={self.day_start}&m1={self.month}&y1={self.year}&d2={self.day_end}&m2={self.month}&y2={self.year}&so=001&np={self.page}"
         elif self.scale == "month":
             return f"http://www.meteomanz.com/sy3?ty=hp&l=1&cou={self.country_code}&ind={self.station_code}&m1={self.month_start}&y1={self.year_start}&m2={self.month_end}&y2={self.year_end}"
+        elif self.scale == "year":
+            return f"http://www.meteomanz.com/sy4?ty=hp&l=1&cou={self.country_code}&ind={self.station_code}&y1={self.year_start}&y2={self.year_end}"
 
     def header(self):
         """
@@ -304,15 +326,22 @@ class Meteomanz():
             errors='ignore'
         )
         html_io = io.StringIO(html_content)
-        df = pd.read_html(html_io)[0]
+        try:
+            df = pd.read_html(html_io)[0]
 
-        if self.scale == "hour":
-            print(f"Downloaded {
-                  self.year}-{self.month}-{self.day_start}, Page {self.page}")
-        elif self.scale == "day":
-            print(f"Downloaded {self.year}-{self.month}, Page {self.page}")
+            if self.scale == "hour":
+                print(f"Downloaded {
+                    self.year}-{self.month}-{self.day_start}, Page {self.page}")
+            elif self.scale == "day":
+                print(f"Downloaded {self.year}-{self.month}, Page {self.page}")
+            elif self.scale == "month":
+                print(f"Downloaded: {self.station_code} - {self.year_end}:{self.month_end}")
+            elif self.scale == "year":
+                print(f"Downloaded: {self.station_code} - {self.year_end}")
 
-        return df
+            return df
+        except:
+            return pd.DataFrame()
 
 
 class Gregorian:
