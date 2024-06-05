@@ -107,10 +107,12 @@ def find_start_date(scale, station=None):
     
     if scale == "hour":
         lf = os.listdir(f"output/{scale}/")
-        date_max = max(
-            list(filter(lambda f: f.endswith('.csv'), lf))
-        )[:-4].split("-")
-        return datetime.date(int(date_max[0]), int(date_max[1]), int(date_max[2]))
+        if len(lf) == 0:
+            return datetime.date(2000, 1, 1)
+        date_max = max(list(filter(lambda f: f.endswith('.csv'), lf)))[:-4]
+        date_max = datetime.datetime.strptime(date_max, "%Y-%m-%d")
+        date_max = date_max + datetime.timedelta(days=1)
+        return datetime.date(date_max.year, date_max.month, date_max.day)
 
 
 def find_end_date(scale):
