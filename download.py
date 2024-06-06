@@ -72,52 +72,57 @@ if SCALE == "month":
         
 elif SCALE == "day":
     start_date = find_start_date(scale=SCALE)
+    if start_date >= end_date:
+        print("No data to download")
+        dym = pd.date_range(
+            start_date.strftime("%Y-%m-%d"),
+            end_date.strftime("%Y-%m-%d"),
+            freq='MS'
+        ).strftime("%Y-%m").tolist()
+        
+        print(dym)
+    else:
+        pass
+        
     
-    # dym = pd.date_range(
-    #     start_date.strftime("%Y-%m-%d"),
-    #     end_date.strftime("%Y-%m-%d"),
-    #     freq='MS'
-    # ).strftime("%Y-%m").tolist()
-    
-    # print(dym)
     
     
     
     
-    for year in [*map(str, range(2024, 2025, 1))]:
-        df_year = pd.DataFrame()
-        for month in [*map(lambda x: str(x).zfill(2), range(1, 13, 1))]:
-            df_month = pd.DataFrame()
-            meteo = Meteomanz(
-                scale=SCALE,
-                day_start="01",
-                day_end="31",
-                month=month,
-                year=year,
-            )
-            number_of_pages = meteo.pages()
-            if number_of_pages > 1:
-                for page in list(range(1, number_of_pages + 1)):
-                    meteo = Meteomanz(
-                        scale=SCALE,
-                        day_start="01",
-                        day_end="31",
-                        month=month,
-                        year=year,
-                        page=page
-                    )
-                    df_page = meteo.download()
-                    print(meteo.url())
-                    if len(df_page) != 0:
-                        df_month = pd.concat([df_month, df_page])
-                        df_month.reset_index(drop=True, inplace=True)
-            else:
-                df_month = meteo.download()
-                print(meteo.url())
-            if len(df_month) != 0:
-                df_year = pd.concat([df_year, df_month])
-                df_year.reset_index(drop=True, inplace=True)
-        df_year.to_csv(f"output/{SCALE}/{year}.csv", index=False)
+    # for year in [*map(str, range(2024, 2025, 1))]:
+    #     df_year = pd.DataFrame()
+    #     for month in [*map(lambda x: str(x).zfill(2), range(1, 13, 1))]:
+    #         df_month = pd.DataFrame()
+    #         meteo = Meteomanz(
+    #             scale=SCALE,
+    #             day_start="01",
+    #             day_end="31",
+    #             month=month,
+    #             year=year,
+    #         )
+    #         number_of_pages = meteo.pages()
+    #         if number_of_pages > 1:
+    #             for page in list(range(1, number_of_pages + 1)):
+    #                 meteo = Meteomanz(
+    #                     scale=SCALE,
+    #                     day_start="01",
+    #                     day_end="31",
+    #                     month=month,
+    #                     year=year,
+    #                     page=page
+    #                 )
+    #                 df_page = meteo.download()
+    #                 print(meteo.url())
+    #                 if len(df_page) != 0:
+    #                     df_month = pd.concat([df_month, df_page])
+    #                     df_month.reset_index(drop=True, inplace=True)
+    #         else:
+    #             df_month = meteo.download()
+    #             print(meteo.url())
+    #         if len(df_month) != 0:
+    #             df_year = pd.concat([df_year, df_month])
+    #             df_year.reset_index(drop=True, inplace=True)
+    #     df_year.to_csv(f"output/{SCALE}/{year}.csv", index=False)
         
 elif SCALE == "hour":
     start_date = find_start_date(scale=SCALE)
